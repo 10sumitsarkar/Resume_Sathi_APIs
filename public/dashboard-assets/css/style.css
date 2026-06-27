@@ -1,0 +1,124 @@
+:root {
+    --white-clr: #ffff;
+    --common-black-clr: #000000;
+    --black-clr-1: #272222;
+    --black-clr-2: #303030;
+    --black-clr-3: #363636;
+    --black-clr-4: #171717;
+    --black-clr-5: #2F343D;
+    --black-clr-6: #3F3F3F;
+    --black-clr-7: #7E7E7E;
+    --black-clr-8: rgb(242, 242, 242);
+    --black-clr-9: #CFCFCF;
+    --black-clr-10: #D5D3D3;
+    --black-clr-11: #67687A;
+    --black-clr-12: #dfdede;
+    --black-clr-13: #727070;
+    --black-clr-14: #F4F5FE;
+    --green-blue-clr-1: linear-gradient(180deg, #00FF0A 0%, #0500FF 100%);
+    --green-blue-clr-2: linear-gradient(180deg, #0500FF 0%, #00FF0A 100%);
+    --blue-green-clr-3: linear-gradient(90deg, #00CD52 0%, #2203E7 93.48%);
+    --blue-green-clr-4: linear-gradient(90deg, #2203E7 0%, #00CD52 93.48%);
+    --blue-green-clr-5: linear-gradient(90deg, #00FF0A 0%, #0500FF 100%);
+    --blue-green-clr-6: linear-gradient(90deg, #0500FF 0%, #00FF0A 100%);
+    --light-green-clr-1: #2ED573;
+    --light-green-clr-2: rgba(0, 255, 71, 0.65);
+    --light-green-clr-3: #00FF6A;
+    --light-green-clr-4: #2ECC71;
+    --light-green-clr-5: #75D147;
+    --light-green-clr-6: #1CCF66;
+    --light-green-clr-7: rgba(204, 255, 234, 0.65);
+    --light-green-clr-8: rgba(0, 255, 71, 0.65);
+    --light-green-clr-9: rgba(0, 255, 224, 0.5);
+    --dark-green-clr-1: #00DB00;
+    --dark-green-clr-2: #005000;
+    --dark-green-clr-3: #00CE00;
+    --dark-green-clr-4: #27ae60;
+    --light-voilet-clr-1: rgba(170, 0, 213, 0.5);
+    --light-voilet-clr-2: rgba(214, 204, 255, 0.65);
+    --dark-blue-clr-1: #270C73;
+    --dark-blue-clr-2: #2300FF;
+    --dark-blue-clr-3: #2203E7;
+    --dark-blue-clr-4: #0057FF;
+    --voilet-clr-2: #8B17B4;
+    --light-sky-blue-clr-1: #1C8FCF;
+    --light-skyblue-clr-2: #00E0FF;
+    --light-skyblue-clr-3: rgba(0, 255, 209, 0.37);
+    --light-skyblue-clr-4: #00B2FF;
+    --light-blue-clr: linear-gradient(90deg, rgba(0, 245, 160, 0.35) 0%, rgba(0, 217, 245, 0.35) 100%);
+    --light-border-clr-1: rgba(0, 0, 0, .125);
+    /* sticky social bg colors */
+    --fb-clr: #2759B4;
+    --insta-clr: #EB3B5A;
+    --ps-clr: #1EA1F2;
+    --pin-clr: #EA2027;
+    --bell-clr: #079992;
+}
+
+/* Analytics css start */
+.btn, .fc button, .ajax-upload-dragdrop .ajax-file-upload, .swal2-modal .swal2-buttonswrapper .swal2-styled, .swal2-modal .swal2-buttonswrapper .swal2-styled.swal2-confirm, .swal2-modal .swal2-buttonswrapper .swal2-styled.swal2-cancel, .wizard > .actions a{
+    border-radius: 50px;
+    padding: 0.8rem 2.5rem!important;
+}
+.selectPrevDay select{
+ border: 1px solid #ddd;
+ width: 250px;
+ border-radius: 50px;
+ height: 45px;
+ cursor: pointer;
+ color: #555;
+ padding: 0 1rem;
+}
+.selectPrevDay select:focus{
+ border: 1px solid var(--dark-green-clr-3);
+}
+.dateRangeSelector{
+    border: 1px solid #ddd;
+    width: 250px;
+    border-radius: 50px;
+    height: 45px;
+ border-radius: 50px;
+ cursor: pointer;
+ color: #555;
+ padding: 0 1rem;
+}
+.dateRangeSelector:focus{
+    border: 1px solid var(--dark-green-clr-3);
+}
+.FilterButton{
+    background: var(--blue-green-clr-3)!important;
+    border-radius: 50px!important;
+    font-size: 18px!important;
+    font-weight: 600!important;
+    color: var(--white-clr)!important;
+    padding: 0.8rem 5rem!important;
+}
+.FilterButton:hover{
+    background: var(--blue-green-clr-4)!important;
+}
+@media (max-width:768px) {
+    .selectPrevDay select{
+        width: 100%;
+    }
+    .dateRangeSelector{
+        width: 100%;
+    }
+    .FilterButton{
+        width: 100%;
+    }
+}
+.AddArticleBtn a{
+    background: var(--dark-blue-clr-2);
+    border-radius: 50px;
+    padding: 0.8rem 2rem!important;
+    font-size: 18px!important;
+    font-weight: 600!important;
+    color: var(--white-clr)!important;
+}
+.AddArticleBtn a:hover{
+border: 1px solid var(--dark-blue-clr-2);
+background: transparent;
+color: var(--dark-blue-clr-2)!important;
+
+}
+/* Analytics css end */

@@ -1,0 +1,6 @@
+{
+    "name": "Api",
+    "providers": [
+        "Modules\\Api\\Providers\\ApiServiceProvider"
+    ]
+} 

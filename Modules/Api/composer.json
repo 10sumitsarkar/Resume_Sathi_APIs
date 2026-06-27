@@ -1,0 +1,22 @@
+{
+    "name": "modules/api",
+    "description": "API module for W3CodingSchool",
+    "authors": [
+        {
+            "name": "W3CodingSchool",
+            "email": "admin@w3codingschool.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Api\\Providers\\ApiServiceProvider"
+            ]
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Api\\": ""
+        }
+    }
+} 
