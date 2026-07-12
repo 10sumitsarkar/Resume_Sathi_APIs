@@ -1,8 +1,8 @@
         <!-- Footer Start -->
         <footer class="common-container pt-5">
             <div class="footer-desc-logo">
-                <a href="{{ url('/') }}" aria-label="w3coderschool"><img loading="lazy" src="{{ asset('front-assets/images/logos/logo.svg') }}" width="128" height="52"
-                        alt="W3CoderSchool"></a>
+                <a href="{{ url('/') }}" aria-label="ResumeSathi"><img loading="lazy" src="{{ asset('front-assets/images/logos/logo.svg') }}" width="128" height="52"
+                        alt="ResumeSathi"></a>
                 <p>Master coding and tech with expert tutorials, hands-on projects, and pro tips for all skill levels.
                 </p>
             </div>
@@ -37,7 +37,7 @@
                             <p class="heading-para">Important Links</p>
                             <ul>
                                 <li><a href="{{url('free-resume-builder')}}" aria-label="Resume Builder">Resume Builder</a></li>
-                                {{-- <li><a href="https://www.w3coderschool.com/movies" aria-label="Entertainment">Entertainment</a></li> --}}
+                                {{-- <li><a href="https://www.ResumeSathi.com/movies" aria-label="Entertainment">Entertainment</a></li> --}}
                                 {{-- <li><a href="{{url('health')}}" aria-label="Health">Health</a></li> --}}
                                 {{-- <li><a href="{{url('technology')}}" aria-label="Technology">Technology</a></li> --}}
                                 {{-- <li><a href="{{url('travel')}}" aria-label="Travel">Travel</a></li> --}}
@@ -48,17 +48,17 @@
                         <div class="footer-each-links-div contact-links text-center text-md-start">
                             <p class="heading-para">Get in Touch</p>
                             <ul>
-                                <li><a href="mailto:edu@w3coderschool.com" target="_blank" aria-label="Email">edu@w3coderschool.com</a></li>
-                                <li><a href="https://www.w3coderschool.com" target="_blank" aria-label="Website">www.w3coderschool.com</a></li>
+                                <li><a href="mailto:edu@ResumeSathi.com" target="_blank" aria-label="Email">edu@ResumeSathi.com</a></li>
+                                <li><a href="https://www.ResumeSathi.com" target="_blank" aria-label="Website">www.ResumeSathi.com</a></li>
                             </ul>
                             <div class="footer-social-icons justify-content-center justify-content-md-start">
-                                <a href="https://www.facebook.com/w3coderschool/" target="_blank" aria-label="Facebook"><img loading="lazy" src="{{ asset('front-assets/images/icons/facebook.svg')}}" width="17"
+                                <a href="https://www.facebook.com/ResumeSathi/" target="_blank" aria-label="Facebook"><img loading="lazy" src="{{ asset('front-assets/images/icons/facebook.svg')}}" width="17"
                                         height="26" alt="Facebook"></a>
-                                <a href="https://in.pinterest.com/w3coderschool/" target="_blank" aria-label="Pinterest"><img loading="lazy" src="{{ asset('front-assets/images/icons/pinterest.svg')}}" width="20"
+                                <a href="https://in.pinterest.com/ResumeSathi/" target="_blank" aria-label="Pinterest"><img loading="lazy" src="{{ asset('front-assets/images/icons/pinterest.svg')}}" width="20"
                                         height="26" alt="Pinterest"></a>
                                 {{-- <a href="javascript:void(0)" target="_blank" aria-label="Play Store"><img loading="lazy" src="{{ asset('front-assets/images/icons/play-store.svg')}}" width="25"
                                         height="26" alt="Play Store"></a> --}}
-                                <a href="https://www.instagram.com/w3coderschool/" target="_blank" aria-label="Instagram"><img loading="lazy" src="{{ asset('front-assets/images/icons/instagram.svg')}}" width="26"
+                                <a href="https://www.instagram.com/ResumeSathi/" target="_blank" aria-label="Instagram"><img loading="lazy" src="{{ asset('front-assets/images/icons/instagram.svg')}}" width="26"
                                         height="26" alt="Instagram"></a>
                             </div>
                         </div>
@@ -66,7 +66,7 @@
                 </div>
             </div>
             <div class="footer-bottom">
-                W3CoderSchool © <span><?php echo date('Y'); ?></span>. All Rights Reserved
+                ResumeSathi © <span><?php echo date('Y'); ?></span>. All Rights Reserved
             </div>
         </footer>
         <!-- Footer End -->

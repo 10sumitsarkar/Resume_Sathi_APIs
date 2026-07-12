@@ -7,13 +7,13 @@
     tutoriaL,Web,W3CSS,W3C,tutorials,programming,development,web programming,quiz,source code,tips,Laravel tutoriaL,JQUERY
     tutoriaL,ANGULAR tutoriaL,SEO,search engine optimization,html notes , css notes, bootstrap notes, javascript notes,php
     notes,laravel notes,WHAT IS HTML,WHAT IS MYSQL,WHAT IS PHP, WHAT IS JAVASCRIPT,WHAT IS CSS ,technology,blogging,blogging
-    tips,blog,w3coderschool')
-@section('canonical', 'https://www.w3coderschool.com/contact-us')
+    tips,blog,ResumeSathi')
+@section('canonical', 'https://www.ResumeSathi.com/contact-us')
 @section('og-title', 'Contact Us')
 @section('og-description',
-    'w3coderschool.com is the online platform where you can learn web development,programming,tech
+    'ResumeSathi.com is the online platform where you can learn web development,programming,tech
     related article for free.')
-@section('og-url', 'https://www.w3coderschool.com/contact-us')
+@section('og-url', 'https://www.ResumeSathi.com/contact-us')
 
 @section('content')
 
@@ -29,7 +29,7 @@
             <div class="contact_main_div">
                 <marquee class="modal-para"
                     style="font-size:14px;font-weight:500; background:#f1f1f1;border:1px solid #c5c5c5; padding:10px; border-radius:5px">
-                    <b>Note -</b> Please fill details inside form carefully with corect information and join our telegram for any help. <a href=" https://t.me/w3coderschool_game" target="_blank">Join Telegram</a></marquee>
+                    <b>Note -</b> Please fill details inside form carefully with corect information and join our telegram for any help. <a href=" https://t.me/ResumeSathi_game" target="_blank">Join Telegram</a></marquee>
 
                 <p style="text-align: center; font-size:24px; font-weight:800" class="mb-5 mt-4">Our Contests</p>
                 <div class="row mb-4">
@@ -61,7 +61,7 @@
                     <div class="col-12 col-lg-4 col-md-5">
                         <div class="contact_lft_main_div desktop-sticky-area">
                             <div class="contact_lft_para">
-                                <img src="https://www.w3coderschool.com/attachments/file_1693666230.png"
+                                <img src="https://www.ResumeSathi.com/attachments/file_1693666230.png"
                                     alt="Google Py QR COde" class="img-fluid mx-auto d-block" width="200">
                                 <h3 class="text-center mt-2">Pay Using UPI</h3>
                                 <p class="text-center text-danger">After Paying, don't forget to fill the form with correct
@@ -160,7 +160,7 @@
                             <div class="contact_social_icons_div">
                                 <p class="text-center">Join our telegram for any help and view result</p>
                                 <div class="contact_social_icons d-flex justify-content-center">
-                                    <a href="https://t.me/w3coderschool_game" target="_blank">
+                                    <a href="https://t.me/ResumeSathi_game" target="_blank">
                                         <div>
                                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
                                                 viewBox="0 0 24 24" fill="none">

@@ -9,20 +9,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
-    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="W3CoderSchool Logo">
-    <title>CSS Minifier & Compressor | w3coderschool</title>
+    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="ResumeSathi Logo">
+    <title>CSS Minifier & Compressor | ResumeSathi</title>
     <meta name="description"
         content="Use our CSS Minifier & Compressor tool to reduce CSS code size and make your website load faster. Get started for free now.">
     <meta name="keywords" content="CSS Minifier">
-    <link rel="canonical" href="https://www.w3coderschool.com/css-minifier" />
+    <link rel="canonical" href="https://www.ResumeSathi.com/css-minifier" />
 
     <!--- OG meta tags start -->
-    <meta property="og:title" content="CSS Minifier & Compressor | w3coderschool" />
+    <meta property="og:title" content="CSS Minifier & Compressor | ResumeSathi" />
     <meta property="og:description"
         content="Use our CSS Minifier & Compressor tool to reduce CSS code size and make your website load faster. Get started for free now." />
     <meta property="og:type" content="article" />
     <meta property="og:image" content="{{ asset('front-assets/images/logos/og-images.png') }}" />
-    <meta property="og:url" content="https://www.w3coderschool.com/css-minifier" />
+    <meta property="og:url" content="https://www.ResumeSathi.com/css-minifier" />
     <!--- OG meta tags end -->
 
     <!-- bootstrap 5 CDN and css -->
@@ -38,7 +38,7 @@
          window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
            gtag('js', new Date());
-    
+
          gtag('config', 'G-L3QP8NJR3K');
         </script>
         {{-- Google analytics code end --}}
@@ -80,7 +80,7 @@
                         @include('frontend.layout.inc.sidebar-components.search-adsense')
                     </div>
                     <!-- Google search End -->
-                
+
                     {{-- Others Tools  Start --}}
                     @include('frontend.layout.inc.sidebar-components.tools-categories')
                     {{-- Other Tools End --}}

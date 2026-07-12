@@ -1,11 +1,11 @@
 @extends('frontend.layout.master')
 @section('title', 'Disclaimer')
 @section('description', 'Master programming, coding, and tech skills through expert tutorials and hands-on projects. Explore our diverse courses designed for beginners to professionals. Start learning today!')
-@section('keywords', 'programming tutorials, coding lessons, HTML, CSS, JavaScript, Python, web development, coding courses, tech skills, learn to code, web design, W3CoderSchool')
-@section('canonical', 'https://www.w3coderschool.com/disclaimer')
+@section('keywords', 'programming tutorials, coding lessons, HTML, CSS, JavaScript, Python, web development, coding courses, tech skills, learn to code, web design, ResumeSathi')
+@section('canonical', 'https://www.ResumeSathi.com/disclaimer')
 @section('og-title', 'Disclaimer')
 @section('og-description', 'Master programming, coding, and tech skills through expert tutorials and hands-on projects. Explore our diverse courses designed for beginners to professionals. Start learning today!')
-@section('og-url', 'https://www.w3coderschool.com/disclaimer')
+@section('og-url', 'https://www.ResumeSathi.com/disclaimer')
 @section('content')
 
     <section class="policy-main-section pb-5">
@@ -15,15 +15,15 @@
                     <!-- Header Start -->
                     <h1 class="topics-heading pb-4">Disclaimers</h1>
                     <!-- Header End -->
-                    <p>All the information on this website - <a href="https://www.w3coderschool.com"
-                            class="link">https://www.w3coderschool.com</a> - is published in good faith and
+                    <p>All the information on this website - <a href="https://www.ResumeSathi.com"
+                            class="link">https://www.ResumeSathi.com</a> - is published in good faith and
                         for general
-                        information purpose only. w3coderschool does not make any warranties about the completeness,
+                        information purpose only. ResumeSathi does not make any warranties about the completeness,
                         reliability
                         and
                         accuracy of this information. Any action you take upon the information you find on this website
-                        (w3coderschool),
-                        is strictly at your own risk. w3coderschool will not be liable for any losses and/or damages in
+                        (ResumeSathi),
+                        is strictly at your own risk. ResumeSathi will not be liable for any losses and/or damages in
                         connection with
                         the use of our website.</p>
                     <p>From our website, you can visit other websites by following hyperlinks to such external sites. While

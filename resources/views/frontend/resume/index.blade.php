@@ -9,13 +9,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}"
-        alt="W3CoderSchool Logo">
+        alt="ResumeSathi Logo">
     <title>Free Online Resume Builder - Create Professional Resumes in Minutes</title>
     <meta name="description"
         content="Build your professional resume for free with our easy-to-use online resume builder. Choose from customizable templates and create your perfect resume in minutes. No registration required!">
     <meta name="keywords"
         content="free resume builder, online resume creator, professional resume templates, resume generator, create a resume for free, customizable resume templates, easy resume builder, build your resume online, free CV maker, resume design tool, downloadable resume templates, quick resume builder, best resume builder online, resume writing tool, resume formatting software">
-    <link rel="canonical" href="https://www.w3coderschool.com/resume" />
+    <link rel="canonical" href="https://www.ResumeSathi.com/resume" />
 
     <!--- OG meta tags start -->
     <meta property="og:title" content="Free Online Resume Builder - Create Professional Resumes in Minutes" />
@@ -23,7 +23,7 @@
         content="Build your professional resume for free with our easy-to-use online resume builder. Choose from customizable templates and create your perfect resume in minutes. No registration required!" />
     <meta property="og:type" content="article" />
     <meta property="og:image" content="{{ asset('front-assets/images/logos/og-images.png') }}" />
-    <meta property="og:url" content="https://www.w3coderschool.com/resume" />
+    <meta property="og:url" content="https://www.ResumeSathi.com/resume" />
     <!--- OG meta tags end -->
 
     <!-- bootstrap 5 CDN and css -->
@@ -39,16 +39,16 @@
           "@type": "WebPage",
           "mainEntityOfPage": {
             "@type": "WebPage",
-            "@id": "https://www.w3coderschool.com/resume"
+            "@id": "https://www.ResumeSathi.com/resume"
           },
           "headline": "Free Online Resume Builder - Create Professional Resumes in Minutes",
           "description": "Build your professional resume for free with our easy-to-use online resume builder. Choose from customizable templates and create your perfect resume in minutes. No registration required!",
-          "image": "{{ asset('front-assets/images/logos/og-images.png') }}", 
+          "image": "{{ asset('front-assets/images/logos/og-images.png') }}",
           "author": {
             "@type": "Person",
-            "name": "W3CoderSchool"
-          }, 
-         
+            "name": "ResumeSathi"
+          },
+
           "datePublished": "2024-10-23T23:15:38+05:30"
         }
     </script>
@@ -752,7 +752,7 @@
       </div>
     </div>
   </div>
-  
+
 
     <script src="{{ asset('front-assets/js/jquery.min.js') }}"></script>
     <script src="{{ asset('front-assets/js/bootstrap.bundle.min.js') }}"></script>

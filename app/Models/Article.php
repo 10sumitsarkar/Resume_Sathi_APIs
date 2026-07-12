@@ -37,7 +37,7 @@ class Article extends Model
      */
     public function category()
     {
-        return $this->belongsTo(ArticleCategory::class, 'category_id');
+        return $this->belongsTo(ArticleCategory::class, 'article_type');
     }
 
     /**

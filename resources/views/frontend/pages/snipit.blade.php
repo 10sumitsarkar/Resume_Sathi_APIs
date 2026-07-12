@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
-    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="W3CoderSchool Logo">
+    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="ResumeSathi Logo">
     <title>{{ $snipit->meta_title }}</title>
     <meta name="description" content="{{ $snipit->meta_description }}">
     <meta name="keywords" content="{{ $snipit->meta_keyword }}">
@@ -58,12 +58,12 @@
           },
           "headline": "{{ $snipit->meta_title }}",
           "description": "{{ $snipit->meta_description }}",
-          "image": "{{asset($snipit->hero_image)}}", 
+          "image": "{{asset($snipit->hero_image)}}",
           "author": {
             "@type": "Person",
-            "name": "W3CoderSchool"
-          }, 
-         
+            "name": "ResumeSathi"
+          },
+
           "datePublished": "{{ $snipit->created_at->format('Y-m-d\TH:i:sP') }}"
         }
     </script>
@@ -75,7 +75,7 @@
          window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
            gtag('js', new Date());
-    
+
          gtag('config', 'G-L3QP8NJR3K');
         </script>
         {{-- Google analytics code end --}}

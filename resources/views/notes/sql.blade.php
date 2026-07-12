@@ -27,11 +27,11 @@
     function in sql, Logical operation in sql, Concat function in sql, Reverse function in sql, Character length function in
     sql, Uppercase function in sql, Lowercase function in sql, Date time data type in sql, Foreign key in sql, Inner join in
     sql, Left join in sql, Right join in sql,Outer join')
-@section('canonical', 'https://www.w3coderschool.com/notes/sql-notes-pdf')
+@section('canonical', 'https://www.ResumeSathi.com/notes/sql-notes-pdf')
 @section('og-title', 'sql notes')
 @section('og:description', 'In this pdf sql notes w3schools we cover all the important topic of sql which help you to
     learn basic to advance tutorial of sql (pdf) and after this course you are ready for work at any company.')
-@section('og-url', 'https://www.w3coderschool.com/notes/sql-notes-pdf')
+@section('og-url', 'https://www.ResumeSathi.com/notes/sql-notes-pdf')
 <meta name="robots" content="noindex" />
 @push('custom_css')
     <style>
@@ -196,14 +196,14 @@
 
         <div style="text-align:center;font-weight:800;"><img src="{{ asset('front-assets/images/icons/new-image.gif') }}"
                 alt="new_gif" width="24"> Learn
-            HTML with notes<a class="text-success" href="https://www.w3coderschool.com/notes/html-notes-pdf">
+            HTML with notes<a class="text-success" href="https://www.ResumeSathi.com/notes/html-notes-pdf">
                 click here </a><img src="{{ asset('front-assets/images/icons/new-image.gif') }}" alt="new_gif"
                 width="24"></div>
 
         <br>
         <div style="text-align:center;font-weight:800;"><img src="{{ asset('front-assets/images/icons/new-image.gif') }}"
                 alt="new_gif" width="24"> Learn CSS
-            with notes<a class="text-success" href="https://www.w3coderschool.com/notes/css-notes-pdf"> click
+            with notes<a class="text-success" href="https://www.ResumeSathi.com/notes/css-notes-pdf"> click
                 here </a><img src="{{ asset('front-assets/images/icons/new-image.gif') }}" alt="new_gif" width="24">
         </div>
         <br>

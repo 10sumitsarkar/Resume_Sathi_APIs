@@ -10,14 +10,28 @@ class HtmlSymbolCategoryController extends Controller
 {
     public function index()
     {
-        $categories = HtmlSymbolCategory::with('symbols')->get();
-        return response()->json($categories);
+        try {
+            $categories = HtmlSymbolCategory::query()->get();
+            return response()->json($categories);
+        } catch (\Throwable $e) {
+            return response()->json([
+                'message' => 'HTML categories not available',
+                'data' => []
+            ], 200);
+        }
     }
 
     public function show($id)
     {
-        $category = HtmlSymbolCategory::with('symbols')->findOrFail($id);
-        return response()->json($category);
+        try {
+            $category = HtmlSymbolCategory::query()->findOrFail($id);
+            return response()->json($category);
+        } catch (\Throwable $e) {
+            return response()->json([
+                'message' => 'HTML category not found',
+                'data' => null
+            ], 404);
+        }
     }
 
     public function store(Request $request)
@@ -36,7 +50,7 @@ class HtmlSymbolCategoryController extends Controller
     public function update(Request $request, $id)
     {
         $category = HtmlSymbolCategory::findOrFail($id);
-        
+
         $validated = $request->validate([
             'name' => 'sometimes|string|max:255',
             'slug' => 'sometimes|string|unique:html_symbol_categories,slug,' . $id,
@@ -54,4 +68,4 @@ class HtmlSymbolCategoryController extends Controller
         $category->delete();
         return response()->json(null, 204);
     }
-} 
+}

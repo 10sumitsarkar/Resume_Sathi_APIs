@@ -2,10 +2,10 @@
 @section('title', 'Best of Technology')
 @section('description', 'Here, we share all the new and latest information, tips and tricks related to the Technology')
 @section('keywords', 'Gadgets, Tech reviews, Mobile technology, Artificial intelligence, Cybersecurity, Software updates, Internet of Things (IoT), Emerging technologies, Tech trends, Tech innovations, Wearable technology, Gaming, Cloud computing, Programming, Tech tutorials')
-@section('canonical', 'https://www.w3coderschool.com/technology')
-@section('og-title', 'Best of Technology - w3coderschool')
+@section('canonical', 'https://www.ResumeSathi.com/technology')
+@section('og-title', 'Best of Technology - ResumeSathi')
 @section('og-description', 'Here, we share all the new and latest information, tips and tricks related to the Technology')
-@section('og-url', 'https://www.w3coderschool.com/technology')
+@section('og-url', 'https://www.ResumeSathi.com/technology')
 @section('content')
 
     @php
@@ -47,14 +47,14 @@
                                 </button>
                             </a>
                         </div>
-                        @endforeach                       
+                        @endforeach
                     </div>
                     <div class="row">
                         <div class="col-12">
                             <div id="pagination" class="post-pagination-container"></div>
                         </div>
                     </div>
-                    
+
                 </div>
             </div>
             <!-- Left Part End -->

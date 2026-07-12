@@ -1,5 +1,5 @@
 @extends('backend.layout.master')
-@section('title', 'Create Course')
+@section('title', 'Create Job')
 @section('page-css')
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <link rel="stylesheet" href="{{ asset('dashboard-assets/vendors/select2/select2.min.css') }}">
@@ -48,7 +48,7 @@
                     <div class="card-body">
                         <div class="row">
                             <div class="col-md-9 col">
-                                <h4 class="card-title">Web Development Courses</h4>
+                                <h4 class="card-title">Job Module</h4>
                             </div>
                             <div class="col-md-3 col">
                                 <div class=" float-right">
@@ -64,7 +64,7 @@
                             </div>
                         </div>
                         <p class="card-description">
-                            Create Course Form
+                            Create Job Form
                         </p>
                         <textarea name="editordata" id='tinyMceExample'>
                             @if ($course->content)
@@ -74,48 +74,53 @@ Edit your content here...
 @endif
                         </textarea>
                         <br>
-                        <h4 class="card-title">Course Detail</h4>
+                        <h4 class="card-title">Job Detail</h4>
                         <div class="form-group row">
                             <label for="CourseName" class="col-sm-3 col-form-label">Topic Name<span
                                     class="text-danger">*</span></label>
                             <div class="col-sm-9">
                                 <input type="text" class="form-control" id="CourseName" name="topic_name"
-                                    value="{{ $course->topic_name }}" required placeholder="course title here...">
+                                    value="{{ $course->topic_name ?? $course->title ?? '' }}" required placeholder="Enter topic name...">
                             </div>
                         </div>
                         <div class="form-group row">
-                            <label for="URLTitle" class="col-sm-3 col-form-label">Course URL<span
+                            <label for="URLTitle" class="col-sm-3 col-form-label">Job URL<span
                                     class="text-danger">*</span></label>
                             <div class="col-sm-9">
                                 <input type="text" class="form-control" id="URLTitle" name="url_name"
-                                    value="{{ $course->url_name }}" required placeholder="URL title here...">
+                                    value="{{ $course->url_name ?? $course->slug ?? '' }}" required placeholder="Enter URL title...">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label for="Description" class="col-sm-3 col-form-label">Description</label>
+                            <div class="col-sm-9">
+                                <textarea class="form-control" id="Description" name="description" rows="3" placeholder="Enter short description...">{{ $course->description ?? '' }}</textarea>
                             </div>
                         </div>
                         <div class="form-group row">
                             <label for="MetaTitle" class="col-sm-3 col-form-label">Meta Title</label>
                             <div class="col-sm-9">
                                 <input type="text" class="form-control" id="MetaTitle" name="meta_title"
-                                    value="{{ $course->meta_title }}" placeholder="Meta title here...">
+                                    value="{{ $course->meta_title ?? '' }}" placeholder="Meta title here...">
                             </div>
                         </div>
                         <div class="form-group row">
                             <label for="MetaDescription" class="col-sm-3 col-form-label">Meta Description</label>
                             <div class="col-sm-9">
-                                <input type="text" class="form-control" id="MetaDescription" name="meta_description"
-                                    value="{{ $course->meta_description }}" placeholder="Meta description here...">
+                                <textarea class="form-control" id="MetaDescription" name="meta_description" rows="3" placeholder="Meta description here...">{{ $course->meta_description ?? '' }}</textarea>
                             </div>
                         </div>
                         <div class="form-group row">
                             <label for="MetaKeyword" class="col-sm-3 col-form-label">Meta Keyword</label>
                             <div class="col-sm-9">
-                                <input type="text" class="form-control" id="MetaKeyword" name="meta_keyword"
-                                    value="{{ $course->meta_keyword }}" placeholder="Meta keyword here...">
+                                <textarea class="form-control" id="MetaKeyword" name="meta_keyword" rows="2" placeholder="Meta keywords (comma separated)...">{{ $course->meta_keyword ?? '' }}</textarea>
                             </div>
                         </div>
                         <div class="form-group row">
-                            <label class="col-sm-3 col-form-label">Select Course Category</label>
+                            <label class="col-sm-3 col-form-label">Select Job Category</label>
                             <div class="col-sm-9">
                                 <select class="js-example-basic-single w-100" name="course_type">
+                                    <option value="">-- Select Category --</option>
                                     @foreach ($course_category as $item)
                                         @if (intval($course->course_type) === intval($item->id))
                                             <option selected value="{{ $item->id }}">{{ $item->course_name }}
@@ -213,8 +218,8 @@ Edit your content here...
                                                 href="{{ asset($attachment->file) }}">{{ asset($attachment->file) }}</a>
                                             <a class="px-2 text-danger bg-light" data-id="{{ $attachment->id }}"
                                                 onclick="removeAttachment({{ $attachment->id }})">Remove</a>
-                                            <a class="px-2 text-primary bg-light" data-toggle="modal"
-                                                data-src="{{ asset($attachment->file) }}" data-target="#attachmentModal"
+                                            <a class="px-2 text-primary bg-light" href="javascript:void(0)" data-toggle="modal"
+                                                data-target="#attachmentModal"
                                                 onclick="viewAttachment('{{ asset($attachment->file) }}')">View</a>
                                         </div>
                                     @endforeach
@@ -228,6 +233,24 @@ Edit your content here...
                     </div>
                 </div>
             </form>
+        </div>
+    </div>
+    <div class="modal fade" id="attachmentModal" tabindex="-1" role="dialog" aria-labelledby="attachmentModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="attachmentModalLabel">Attachment Preview</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <img src="" id="attachmentModalSrc" style="width: 100%" alt="Attachment Preview">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
         </div>
     </div>
 @endsection
@@ -292,9 +315,7 @@ Edit your content here...
                     html += '<a class="pr-2" href="' + src + '">' + src + '</a>';
                     html += '<a class="px-2 text-danger bg-light" data-id="' + response.data.file_id +
                         '" onclick="removeAttachment(' + response.data.file_id + ')">Remove</a>';
-                    html += '<a class="px-2 text-primary bg-light"  data-toggle="modal" data-src="' +
-                        src + '" data-target="#attachmentModal" onclick=viewAttachment("' + src +
-                        '")>View</a>';
+                    html += '<a class="px-2 text-primary bg-light" href="javascript:void(0)" data-toggle="modal" data-target="#attachmentModal" onclick="viewAttachment(\'' + src + '\')">View</a>';
                     html += '</div>';
                     $('#attachmentList').append(html);
                     $('#loadingBtn').hide();
@@ -325,6 +346,7 @@ Edit your content here...
 
         function viewAttachment(src) {
             $('#attachmentModalSrc').attr('src', src);
+            $('#attachmentModal').modal('show');
         }
     </script>
 @endsection

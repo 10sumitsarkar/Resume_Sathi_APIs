@@ -1,11 +1,11 @@
 @extends('frontend.layout.master')
 @section('title', $language->title . ' Tutorial')
-@section('description', 'w3coderschool is an online platform offering web building tutorials with examples on HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, XML, and more. Explore free technology-related articles and resources for coding and web development.')
-@section('keywords','w3coderschool, Web Building Tutorials, HTML CSS JavaScript, SQL, Python, PHP, Bootstrap, Java, XML, Free Tech Articles, Coding Examples, Web Development, Learn Programming, Technology Resources, Online Coding Platform, Free Tutorials, Programming Lessons')
+@section('description', 'ResumeSathi is an online platform offering web building tutorials with examples on HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, XML, and more. Explore free technology-related articles and resources for coding and web development.')
+@section('keywords','ResumeSathi, Web Building Tutorials, HTML CSS JavaScript, SQL, Python, PHP, Bootstrap, Java, XML, Free Tech Articles, Coding Examples, Web Development, Learn Programming, Technology Resources, Online Coding Platform, Free Tutorials, Programming Lessons')
 @section('canonical', asset('our-tutorials/' . $language->title))
 
 @section('og-title', $language->title . ' Tutorial')
-@section('og-description', 'w3coderschool is an online platform offering web building tutorials with examples on HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, XML, and more. Explore free technology-related articles and resources for coding and web development.')
+@section('og-description', 'ResumeSathi is an online platform offering web building tutorials with examples on HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, XML, and more. Explore free technology-related articles and resources for coding and web development.')
 @section('og-url', asset('our-tutorials/' . $language->title))
 @section('content')
 
@@ -51,14 +51,14 @@
                             </a>
                         </div>
                         @endforeach
-                       
+
                     </div>
                     <div class="row">
                         <div class="col-12">
                             <div id="pagination" class="post-pagination-container"></div>
                         </div>
                     </div>
-                    
+
                 </div>
             </div>
             <!-- Left Part End -->

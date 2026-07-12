@@ -16,6 +16,7 @@ class ArticleComment extends Model
         "text",
         "article_id",
         "user_ip",
+        "is_public",
         "country",
         "state",
         "city",

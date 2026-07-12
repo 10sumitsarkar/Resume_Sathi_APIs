@@ -11,7 +11,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="robots" content="index, follow">
-    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="W3CoderSchool Logo">
+    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="ResumeSathi Logo">
     <meta name="Description" content="Free Online Whiteboard and Collaboration - The most user friendly Web Whiteboard and Text Editor loaded with functionalities for instant collaboration, brainstorming and managing projects. Ideal for online presentation and teaching." />
     <meta name="Keywords" content="Free, Online, Whiteboard, Teaching, Students, Presentation., Background, Fonts, text, Eraser, Pencil, Shapes" />
 
@@ -27,11 +27,11 @@
          window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
            gtag('js', new Date());
-    
+
          gtag('config', 'G-L3QP8NJR3K');
         </script>
         {{-- Google analytics code end --}}
-        
+
     <style>
         .layout-panel-east {
             border-top: 1px solid #dfdfdf !important;
@@ -320,7 +320,7 @@
         <div data-options="region:'north'"
             style="height:45px; width:100%;overflow:hidden; background-color: #fbe3e8; border: none;" id="north">
             <!--HEADER STARTS -->
-            <a href='https://www.w3coderschool.com/'><img src="{{asset('front-assets/images/logos/logo.svg')}}"
+            <a href='https://www.ResumeSathi.com/'><img src="{{asset('front-assets/images/logos/logo.svg')}}"
                     class="logo-desktop" alt="Free Online Whiteboard" /></a>
             <h1 class="whiteboard" id="whiteboard">Whiteboard<span>Tool Online</span></h1>
             <div id="easyui-pages"></div>

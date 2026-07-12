@@ -45,7 +45,7 @@ class Handler extends ExceptionHandler
                     'line'=>$e->getLine(),
                     'file'=>$e->getFile(),
                     'url'=> URL::full(),
-                    'project'=> 'w3coderschool',
+                    'project'=> 'ResumeSathi',
                 ];
                 ErrorReport::create($data);
             }

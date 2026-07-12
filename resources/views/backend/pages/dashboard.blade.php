@@ -107,7 +107,7 @@
                                     {{ number_format(getTodayViews()->article) }}</h3>
                             </div>
                             <div class="mr-5 mt-3">
-                                <p class="text-muted">Courses</p>
+                                <p class="text-muted">Jobs</p>
                                 <h3 class="text-primary fs-30 font-weight-medium">
                                     {{ number_format(getTodayViews()->course) }}</h3>
                             </div>
@@ -137,7 +137,7 @@
                                     {{ number_format(getTotalViews()->article / 1000, 1) }}k</h3>
                             </div>
                             <div class="mr-5 mt-3">
-                                <p class="text-muted">Courses</p>
+                                <p class="text-muted">Jobs</p>
                                 <h3 class="text-primary fs-30 font-weight-medium">
                                     {{ number_format(getTotalViews()->course / 1000, 1) }}k</h3>
                             </div>

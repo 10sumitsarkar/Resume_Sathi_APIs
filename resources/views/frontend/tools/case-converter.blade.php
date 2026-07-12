@@ -9,18 +9,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
-    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="W3CoderSchool Logo">
-    <title>Convert Case | w3coderschool</title>
+    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="ResumeSathi Logo">
+    <title>Convert Case | ResumeSathi</title>
     <meta name="description" content="Easily convert text between different letter cases: lower case, UPPER CASE, Sentence case, Capitalized Case, aLtErNaTiNg cAsE and more online.">
     <meta name="keywords" content="convert case, case converter, text case changer, change case online, uppercase to lowercase, lowercase to uppercase, title case converter, sentence case converter, online case converter, convert text case, change text case, free case converter, upper case to lower case, capitalize text, case conversion tool">
-    <link rel="canonical" href="https://www.w3coderschool.com/case-converter" />
+    <link rel="canonical" href="https://www.ResumeSathi.com/case-converter" />
 
     <!--- OG meta tags start -->
-    <meta property="og:title" content="Convert Case | w3coderschool" />
+    <meta property="og:title" content="Convert Case | ResumeSathi" />
     <meta property="og:description" content="Easily convert text between different letter cases: lower case, UPPER CASE, Sentence case, Capitalized Case, aLtErNaTiNg cAsE and more online." />
     <meta property="og:type" content="article" />
     <meta property="og:image" content="{{ asset('front-assets/images/logos/og-images.png') }}" />
-    <meta property="og:url" content="https://www.w3coderschool.com/case-converter" />
+    <meta property="og:url" content="https://www.ResumeSathi.com/case-converter" />
     <!--- OG meta tags end -->
 
     <!-- bootstrap 5 CDN and css -->
@@ -36,7 +36,7 @@
          window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
            gtag('js', new Date());
-    
+
          gtag('config', 'G-L3QP8NJR3K');
         </script>
         {{-- Google analytics code end --}}
@@ -83,7 +83,7 @@
                         @include('frontend.layout.inc.sidebar-components.search-adsense')
                     </div>
                     <!-- Google search End -->
-                
+
                     {{-- Others Tools  Start --}}
                     @include('frontend.layout.inc.sidebar-components.tools-categories')
                     {{-- Other Tools End --}}

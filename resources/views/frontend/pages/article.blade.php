@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
     <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}"
-        alt="W3CoderSchool Logo">
+        alt="ResumeSathi Logo">
     <title>{{ $article->meta_title }}</title>
     <meta name="description" content="{{ $article->meta_description }}">
     <meta name="keywords" content="{{ $article->meta_keyword }}">
@@ -49,12 +49,12 @@
               },
               "headline": "{{ $article->meta_title }}",
               "description": "{{ $article->meta_description }}",
-              "image": "{{asset($article->hero_image)}}", 
+              "image": "{{asset($article->hero_image)}}",
               "author": {
                 "@type": "Person",
-                "name": "W3CoderSchool"
-              }, 
-             
+                "name": "ResumeSathi"
+              },
+
               "datePublished": "{{ $article->created_at->format('Y-m-d\TH:i:sP') }}"
             }
         </script>

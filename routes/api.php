@@ -19,3 +19,4 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
 Route::post('upload-board-file', [WhiteBoardController::class, 'upload_board_file'])->name('upload-board-file');
+

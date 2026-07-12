@@ -1,6 +1,6 @@
 <footer>
     <div class="container">
-        <a href="{{ url('/') }}"><img src="{{ asset('front-assets/images/logo/logo.svg') }}" alt="w3coderschool"
+        <a href="{{ url('/') }}"><img src="{{ asset('front-assets/images/logo/logo.svg') }}" alt="ResumeSathi"
                 class="img-fluid d-block mx-auto" width="194" height="50" loading="lazy"></a>
         <label class="subscribe-label">Subscribe for newsletter</label>
         <form action="">
@@ -43,11 +43,11 @@
                 <div class="footer-each-links">
                     <p>Get in Touch</p>
                     <ul>
-                        <li><a href="mailto:edu@w3coderschool.com">edu@w3coderschool.com</a></li>
-                        <li><a href="www.w3coderschool.com">www.w3coderschool.com</a></li>
+                        <li><a href="mailto:edu@ResumeSathi.com">edu@ResumeSathi.com</a></li>
+                        <li><a href="www.ResumeSathi.com">www.ResumeSathi.com</a></li>
                         <li>
                             <div class="footer-socia-icons">
-                                <a href="https://in.pinterest.com/w3coderschool/_created/" target="_blank" aria-label="Pinterest">
+                                <a href="https://in.pinterest.com/ResumeSathi/_created/" target="_blank" aria-label="Pinterest">
                                     <svg width="16" height="20" viewBox="0 0 16 20" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">
                                         <path
@@ -55,7 +55,7 @@
                                             fill="#027A48" />
                                     </svg>
                                 </a>
-                                <a href="https://www.facebook.com/w3coderschool.edu/" target="_blank" aria-label="Facebook">
+                                <a href="https://www.facebook.com/ResumeSathi.edu/" target="_blank" aria-label="Facebook">
                                     <svg width="13" height="20" viewBox="0 0 13 20" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">
                                         <path
@@ -63,7 +63,7 @@
                                             fill="#027A48" />
                                     </svg>
                                 </a>
-                                <a href="https://twitter.com/edu_w3coderschool" target="_blank" aria-label="Twitter">
+                                <a href="https://twitter.com/edu_ResumeSathi" target="_blank" aria-label="Twitter">
                                     <svg width="20" height="17" viewBox="0 0 20 17" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">
                                         <path
@@ -71,7 +71,7 @@
                                             fill="#027A48" />
                                     </svg>
                                 </a>
-                                <a href="https://www.apkfiles.com/apk-608925/w3coderschool" target="_blank" aria-label="apkfiles">
+                                <a href="https://www.apkfiles.com/apk-608925/ResumeSathi" target="_blank" aria-label="apkfiles">
                                     <svg width="19" height="20" viewBox="0 0 19 20" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">
                                         <path
@@ -86,7 +86,7 @@
             </div>
         </div>
     </div>
-    <p class="bottom-para">Copyright <?php echo date('Y'); ?> w3coderschool@All Right Reserved</p>
+    <p class="bottom-para">Copyright <?php echo date('Y'); ?> ResumeSathi@All Right Reserved</p>
 </footer>
 
 <div class="offcanvas offcanvas-end nav-offcanvas" tabindex="-1" id="offcanvasRight"

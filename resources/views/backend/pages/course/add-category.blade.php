@@ -1,5 +1,5 @@
 @extends('backend.layout.master')
-@section('title', 'Create Course')
+@section('title', 'Create Job')
 @section('page-css')
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <link rel="stylesheet" href="{{ asset('dashboard-assets/vendors/select2/select2.min.css') }}">
@@ -47,30 +47,30 @@
                     <div class="card-body">
                         <div class="row">
                             <div class="col-md-9 col">
-                                <h4 class="card-title">Add Course Category</h4>
+                                <h4 class="card-title">Add Job Category</h4>
                                 <p><a href="{{ route('courses-category') }}">View all category</a></p>
                             </div>
                         </div>
 
                         <div class="form-group row">
-                            <label for="CourseName" class="col-sm-3 col-form-label">Course Name<span class="text-danger">*</span></label>
+                            <label for="CourseName" class="col-sm-3 col-form-label">Job Name<span class="text-danger">*</span></label>
                             <div class="col-sm-9">
                                 <input type="text" class="form-control" id="CourseName" name="course_name"
-                                   required placeholder="Course name here...">
+                                   required placeholder="Job name here...">
                             </div>
                         </div>
                         <div class="form-group row">
-                            <label for="CourseURL" class="col-sm-3 col-form-label">Course URL<span class="text-danger">*</span></label>
+                            <label for="CourseURL" class="col-sm-3 col-form-label">Job URL<span class="text-danger">*</span></label>
                             <div class="col-sm-9">
                                 <input type="text" class="form-control" id="CourseURL" name="course_url"
                                    required placeholder="Category title here...">
                             </div>
                         </div>
                         <div class="form-group row">
-                            <label for="CourseDescription" class="col-sm-3 col-form-label">Category Description<span class="text-danger">*</span></label>
+                            <label for="CourseDescription" class="col-sm-3 col-form-label">Job Description<span class="text-danger">*</span></label>
                             <div class="col-sm-9">
                                 <input type="text" class="form-control" id="CourseDescription" name="description"
-                                   required placeholder="Course description here...">
+                                   required placeholder="Job description here...">
                             </div>
                         </div>
 

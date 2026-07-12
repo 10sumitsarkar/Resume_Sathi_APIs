@@ -4,13 +4,13 @@
 @section('keywords',
     'Code examples, Programming snippets, Coding samples, Script snippets, Code references, Developer
     snippets, Programming solutions, Coding shortcuts, Code library, Code repository, Syntax examples, Software snippets,
-    Programming techniques, Code hacks, Quick code references, w3coderschool')
-@section('canonical', $snipit_category ? 'https://www.w3coderschool.com/code-snipits/' . $snipit_category->url_name :
-    'https://www.w3coderschool.com/code-snipits')
-@section('og-title', 'Code Snippets - w3coderschool')
+    Programming techniques, Code hacks, Quick code references, ResumeSathi')
+@section('canonical', $snipit_category ? 'https://www.ResumeSathi.com/code-snipits/' . $snipit_category->url_name :
+    'https://www.ResumeSathi.com/code-snipits')
+@section('og-title', 'Code Snippets - ResumeSathi')
 @section('og-description', 'Unlock efficient coding solutions with our curated collection of versatile code snippets')
-@section('og-url', $snipit_category ? 'https://www.w3coderschool.com/code-snipits/' . $snipit_category->url_name :
-    'https://www.w3coderschool.com/code-snipits')
+@section('og-url', $snipit_category ? 'https://www.ResumeSathi.com/code-snipits/' . $snipit_category->url_name :
+    'https://www.ResumeSathi.com/code-snipits')
 @section('content')
     @php
         use Illuminate\Support\Carbon;

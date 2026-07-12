@@ -1,11 +1,11 @@
 @extends('frontend.layout.master')
 @section('title', 'Learn Programming & Tech Skills Online')
 @section('description', 'Master programming, coding, and tech skills through expert tutorials and hands-on projects. Explore our diverse courses designed for beginners to professionals. Start learning today!')
-@section('keywords', 'programming tutorials, coding lessons, HTML, CSS, JavaScript, Python, web development, coding courses, tech skills, learn to code, web design, W3CoderSchool')
-@section('canonical', 'https://www.w3coderschool.com/')
+@section('keywords', 'programming tutorials, coding lessons, HTML, CSS, JavaScript, Python, web development, coding courses, tech skills, learn to code, web design, ResumeSathi')
+@section('canonical', 'https://www.ResumeSathi.com/')
 @section('og-title', 'All in One Platform for Learning & Skills')
 @section('og-description', 'Master programming, coding, and tech skills through expert tutorials and hands-on projects. Explore our diverse courses designed for beginners to professionals. Start learning today!')
-@section('og-url', 'https://www.w3coderschool.com/')
+@section('og-url', 'https://www.ResumeSathi.com/')
 
 @section('content')
     @php
@@ -37,7 +37,7 @@
                         <p>Build your dream website now!</p>
                     </div>
                     <div class="col-lg-4 text-center mt-4 mt-lg-0 text-lg-end">
-                        <a href="https://pixeltech.w3coderschool.com/" target="_blank" class="get-quote-btn" aria-label="Get a Quote">Get a Quote</a>
+                        <a href="https://pixeltech.ResumeSathi.com/" target="_blank" class="get-quote-btn" aria-label="Get a Quote">Get a Quote</a>
                     </div>
                 </div>
             </div>
@@ -210,7 +210,7 @@
                                 and designs.</p>
                             <button class="get-started-btn">Get started <img loading="lazy" src="{{ asset('front-assets/images/icons/arrow-1.svg') }}" width="20" height="25" alt="Arrow"></button>
                         </a>
-                    </div>                    
+                    </div>
                     <div class="col-md-6 col-lg-4 col-xl-3 mb-4">
                         <a href="{{ url('px-to-rem-converter') }}" class="each-card-type-5"
                             aria-label="PX ⇄ REM Converter">
@@ -289,7 +289,7 @@
                     </div>
                 </div>
                 <div class="row justify-content-center">
-                   
+
                     <div class="col-md-6 col-lg-4 col-xl-3 mb-4">
                         <a href="{{ url('white-board') }}" class="each-card-type-5" aria-label="White Board">
                             <div class="image-div">

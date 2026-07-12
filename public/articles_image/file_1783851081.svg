@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="860" viewBox="0 0 540 860">
+  <rect width="540" height="860" rx="28" fill="#fff"/><rect width="540" height="240" rx="28" fill="#e11d48"/>
+  <text x="270" y="72" text-anchor="middle" fill="#fff" font-family="Arial" font-size="30" font-weight="700">Green Valley Public School</text>
+  <text x="270" y="104" text-anchor="middle" fill="#fff" font-family="Arial" font-size="13" letter-spacing="3">STUDENT IDENTITY CARD</text>
+  <rect x="170" y="150" width="200" height="255" rx="20" fill="#fff1f2" stroke="#fff" stroke-width="10"/>
+  <text x="270" y="300" text-anchor="middle" fill="#e11d48" font-family="Arial" font-size="70" font-weight="700">SS</text>
+  <text x="270" y="470" text-anchor="middle" fill="#0f172a" font-family="Arial" font-size="34" font-weight="700">Sumit Sarkar</text>
+  <text x="270" y="505" text-anchor="middle" fill="#e11d48" font-family="Arial" font-size="18" font-weight="700">Nursery</text>
+  <rect x="55" y="550" width="430" height="190" rx="20" fill="#fff1f2"/>
+  <text x="85" y="600" fill="#64748b" font-family="Arial" font-size="13">ADMISSION NO.</text><text x="85" y="630" fill="#0f172a" font-family="Arial" font-size="20" font-weight="700">2026-0007</text>
+  <text x="310" y="600" fill="#64748b" font-family="Arial" font-size="13">ROLL NO.</text><text x="310" y="630" fill="#0f172a" font-family="Arial" font-size="20" font-weight="700">3</text>
+  <text x="85" y="680" fill="#64748b" font-family="Arial" font-size="13">DATE OF BIRTH</text><text x="85" y="710" fill="#0f172a" font-family="Arial" font-size="20" font-weight="700">02 Jul 2026</text>
+  <text x="310" y="680" fill="#64748b" font-family="Arial" font-size="13">BLOOD GROUP</text><text x="310" y="710" fill="#0f172a" font-family="Arial" font-size="20" font-weight="700">O+</text>
+  <text x="55" y="805" fill="#64748b" font-family="Arial" font-size="14">Valid school identity · 2026-0007</text></svg>

@@ -1,11 +1,11 @@
 @extends('frontend.layout.master')
 @section('title', 'Privacy Policy')
 @section('description', 'Master programming, coding, and tech skills through expert tutorials and hands-on projects. Explore our diverse courses designed for beginners to professionals. Start learning today!')
-@section('keywords', 'programming tutorials, coding lessons, HTML, CSS, JavaScript, Python, web development, coding courses, tech skills, learn to code, web design, W3CoderSchool')
-@section('canonical', 'https://www.w3coderschool.com/privacy-policy')
+@section('keywords', 'programming tutorials, coding lessons, HTML, CSS, JavaScript, Python, web development, coding courses, tech skills, learn to code, web design, ResumeSathi')
+@section('canonical', 'https://www.ResumeSathi.com/privacy-policy')
 @section('og-title', 'Privacy Policy')
 @section('og-description', 'Master programming, coding, and tech skills through expert tutorials and hands-on projects. Explore our diverse courses designed for beginners to professionals. Start learning today!')
-@section('og-url', 'https://www.w3coderschool.com/privacy-policy')
+@section('og-url', 'https://www.ResumeSathi.com/privacy-policy')
 
 @section('content')
     <section class="policy-main-section pb-5">
@@ -16,11 +16,11 @@
                     <h1 class="topics-heading pb-4">Privacy <span>Policy</span></h1>
                     <!-- Header End -->
                     <p>Your privacy is critically important to us.</p>
-                    <p> It is w3coderschool policy to respect your privacy regarding any information we may collect
+                    <p> It is ResumeSathi policy to respect your privacy regarding any information we may collect
                         while operating our
                         website. </p>
-                    <p>This Privacy Policy applies to <a href="https://www.w3coderschool.com"
-                            class="link">www.w3coderschool.com</a> . </p>
+                    <p>This Privacy Policy applies to <a href="https://www.ResumeSathi.com"
+                            class="link">www.ResumeSathi.com</a> . </p>
                     <p>We respect your privacy and are committed to protecting personally identifiable information
                         you may provide
                         us
@@ -42,36 +42,36 @@
                         additional terms and
                         conditions.</p>
                     <h2>Website Visitors</h2>
-                    <p> Like most website operators, w3coderschool collects non-personally-identifying information of
+                    <p> Like most website operators, ResumeSathi collects non-personally-identifying information of
                         the sort that web
                         browsers and servers typically make available. </p>
                     <p>Such as the browser type, language preference, referring site, and the date and time of each
                         visitor request.
                     </p>
-                    <p>w3coderschool purpose in collecting non-personally identifying information is to better
-                        understand how w3coderschool
+                    <p>ResumeSathi purpose in collecting non-personally identifying information is to better
+                        understand how ResumeSathi
                         visitors use its website.</p>
-                    <p> rom time to time, w3coderschool may release non-personally-identifying information in the
+                    <p> rom time to time, ResumeSathi may release non-personally-identifying information in the
                         aggregate, e.g., by
                         publishing a report on trends in the usage of its website.</p>
-                    <p>w3coderschool also collects potentially personally-identifying information like Internet Protocol
+                    <p>ResumeSathi also collects potentially personally-identifying information like Internet Protocol
                         (IP) addresses
                         for
-                        logged in users and for users leaving comments on <a href="https://www.w3coderschool.com"
-                            class="link">www.w3coderschool.com</a> blog posts.</p>
-                    <p> w3coderschool only discloses logged in user and commenter IP addresses under the same
+                        logged in users and for users leaving comments on <a href="https://www.ResumeSathi.com"
+                            class="link">www.ResumeSathi.com</a> blog posts.</p>
+                    <p> ResumeSathi only discloses logged in user and commenter IP addresses under the same
                         circumstances that it uses
                         and
                         discloses personally-identifying information as described below. </p>
                     <h2>Gathering of Personally-Identifying Information</h2>
-                    <p>Certain visitors to w3coderschool websites choose to interact with w3coderschool in ways that require
-                        w3coderschool to
+                    <p>Certain visitors to ResumeSathi websites choose to interact with ResumeSathi in ways that require
+                        ResumeSathi to
                         gather
                         personally-identifying information.</p>
-                    <p> The amount and type of information that w3coderschool gathers depends on the nature of the
+                    <p> The amount and type of information that ResumeSathi gathers depends on the nature of the
                         interaction.</p>
-                    <p>For example, we may ask visitors who sign up for a blog at <a href="https://www.w3coderschool.com"
-                            class="link">www.w3coderschool.com</a> to
+                    <p>For example, we may ask visitors who sign up for a blog at <a href="https://www.ResumeSathi.com"
+                            class="link">www.ResumeSathi.com</a> to
                         provide a username
                         and
                         email address. </p>
@@ -94,7 +94,7 @@
                     <p>This information allows ad networks to, among other things, deliver targeted advertisements
                         that they believe
                         will be of most interest to you.
-                        This Privacy Policy covers the use of cookies by w3coderschool and does not cover the use of
+                        This Privacy Policy covers the use of cookies by ResumeSathi and does not cover the use of
                         cookies by any
                         advertisers.</p>
                     <h2>Links To External Sites</h2>
@@ -108,7 +108,7 @@
                         third
                         party sites, products or services. </p>
                     <h2>Site May use Google AdWords for Remarketing</h2>
-                    <p> <a href="https://www.w3coderschool.com" class="link">www.w3coderschool.com</a> may use the
+                    <p> <a href="https://www.ResumeSathi.com" class="link">www.ResumeSathi.com</a> may use the
                         remarketing services to advertise on third party
                         websites (including
                         Google) to previous visitors to our site.</p>
@@ -131,35 +131,35 @@
                         or permanently
                         using a browser plugin.</p>
                     <h2>Protection of Certain Personally-Identifying Information</h2>
-                    <p>w3coderschool discloses potentially personally-identifying and personally-identifying information
+                    <p>ResumeSathi discloses potentially personally-identifying and personally-identifying information
                         only to those
                         of
                         its employees, contractors and affiliated organizations.</p>
-                    <p> that (i) need to know that information in order to process it on w3coderschool behalf or to
+                    <p> that (i) need to know that information in order to process it on ResumeSathi behalf or to
                         provide services
-                        available at w3coderschool website,</p>
+                        available at ResumeSathi website,</p>
                     <p> and (ii) that have agreed not to disclose it to others. </p>
                     <p> Some of those employees, contractors and affiliated organizations may be located outside of
                         your home
                         country;
-                        by using w3coderschool website, you consent to the transfer of such information to them. </p>
-                    <p> w3coderschool will not rent or sell potentially personally-identifying and
+                        by using ResumeSathi website, you consent to the transfer of such information to them. </p>
+                    <p> ResumeSathi will not rent or sell potentially personally-identifying and
                         personally-identifying information to
                         anyone. </p>
                     <p> Other than to its employees, contractors, and affiliated organizations. </p>
-                    <p> As described above, w3coderschool discloses potentially personally-identifying and
+                    <p> As described above, ResumeSathi discloses potentially personally-identifying and
                         personally-identifying
                         information only in response to a subpoena, court order or other governmental requests.</p>
-                    <p>Or when w3coderschool believes in good faith that disclosure is reasonably necessary to protect
+                    <p>Or when ResumeSathi believes in good faith that disclosure is reasonably necessary to protect
                         the property or
-                        rights of w3coderschool, third parties or the public at large. </p>
-                    <p> If you are a registered user of <a href="https://www.w3coderschool.com"
-                            class="link">www.w3coderschool.com</a> and have supplied your email
+                        rights of ResumeSathi, third parties or the public at large. </p>
+                    <p> If you are a registered user of <a href="https://www.ResumeSathi.com"
+                            class="link">www.ResumeSathi.com</a> and have supplied your email
                         address. </p>
-                    <p>w3coderschool may occasionally send you an email to tell you about new features, solicit your
+                    <p>ResumeSathi may occasionally send you an email to tell you about new features, solicit your
                         feedback, or just
                         keep
-                        you up to date with what’s going on with w3coderschool and our products.</p>
+                        you up to date with what’s going on with ResumeSathi and our products.</p>
                     <p> We primarily use our article to communicate this type of information, so we expect to keep
                         this type of
                         email
@@ -172,22 +172,22 @@
                         support other
                         users.
                     </p>
-                    <p> w3coderschool takes all measures reasonably necessary to protect against the unauthorized
+                    <p> ResumeSathi takes all measures reasonably necessary to protect against the unauthorized
                         access, use,
                         alteration
                         or
                         destruction of potentially personally-identifying and personally-identifying information.
                     </p>
                     <h2>Aggregated Statistics</h2>
-                    <p>w3coderschool may collect statistics about the behavior of visitors to its website.</p>
-                    <p> w3coderschool may display this information publicly or provide it to others. </p>
-                    <p> However, w3coderschool does not disclose your personally-identifying information. </p>
+                    <p>ResumeSathi may collect statistics about the behavior of visitors to its website.</p>
+                    <p> ResumeSathi may display this information publicly or provide it to others. </p>
+                    <p> However, ResumeSathi does not disclose your personally-identifying information. </p>
                     <h2>Affiliate Disclosure</h2>
                     <p> This site uses affiliate links and does earn a commission from certain links. This does not
                         affect your
                         purchases or the price you may pay. </p>
                     <h2>Cookies</h2>
-                    <p> To enrich and perfect your online experience, w3coderschool uses “Cookies”, similar technologies
+                    <p> To enrich and perfect your online experience, ResumeSathi uses “Cookies”, similar technologies
                         and services
                         provided by others to display personalized content, appropriate advertising and store your
                         preferences on
@@ -196,28 +196,28 @@
                     <p> A cookie is a string of information that a website stores on a visitor’s computer, and that
                         the visitor’s
                         browser provides to the website each time the visitor returns. </p>
-                    <p> w3coderschool uses cookies to help w3coderschool identify and track visitors, their usage of
-                        <a href="https://www.w3coderschool.com" class="link">www.w3coderschool.com</a>,
+                    <p> ResumeSathi uses cookies to help ResumeSathi identify and track visitors, their usage of
+                        <a href="https://www.ResumeSathi.com" class="link">www.ResumeSathi.com</a>,
                         and their website access preferences.
                     </p>
-                    <p> w3coderschool visitors who do not wish to have cookies placed on their computers should set
+                    <p> ResumeSathi visitors who do not wish to have cookies placed on their computers should set
                         their browsers to
                         refuse
-                        cookies before using w3coderschool websites, with the drawback that certain features of
-                        w3coderschool websites may
+                        cookies before using ResumeSathi websites, with the drawback that certain features of
+                        ResumeSathi websites may
                         not
                         function properly without the aid of cookies. </p>
                     <p> By continuing to navigate our website without changing your cookie settings, you hereby
                         acknowledge and
                         agree
                         to
-                        w3coderschool use of cookies.
+                        ResumeSathi use of cookies.
                     <h2>Privacy Policy Changes</h2>
-                    <p> Although most changes are likely to be minor, w3coderschool may change its Privacy Policy from
+                    <p> Although most changes are likely to be minor, ResumeSathi may change its Privacy Policy from
                         time to time, and
                         in
-                        w3coderschool sole discretion. </p>
-                    <p> w3coderschool encourages visitors to frequently check this page for any changes to its Privacy
+                        ResumeSathi sole discretion. </p>
+                    <p> ResumeSathi encourages visitors to frequently check this page for any changes to its Privacy
                         Policy. </p>
                     <p> Your continued use of this site after any change in this Privacy Policy will constitute your
                         acceptance of
@@ -227,7 +227,7 @@
                     <p> If you have any queries related to the privacy policy or usage or capture of information
                         feel free to
                         contact
-                        us. </p> <span>Regards, </span> <span>w3coderschool </span>
+                        us. </p> <span>Regards, </span> <span>ResumeSathi </span>
 
                 </div>
             </div>

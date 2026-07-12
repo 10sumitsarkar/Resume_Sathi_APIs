@@ -9,20 +9,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
-    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="W3CoderSchool Logo">
-    <title>REM to PX Converter | w3coderschool</title>
+    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="ResumeSathi Logo">
+    <title>REM to PX Converter | ResumeSathi</title>
     <meta name="description"
         content="Effortlessly convert REM values to Pixel units with our user-friendly REM to Pixel Converter tool. Enter the REM value, click 'Convert,' and instantly get the equivalent Pixel value based on a root font size of 16px. Simple, accurate, and convenient for responsive web design. Try it now!">
     <meta name="keywords" content="REM to PX converter, convert REM to pixels, online REM to PX converter, REM to pixel conversion, PX to REM converter, CSS REM to PX, convert REM units, REM PX converter tool, REM to pixel calculator, free REM to PX converter, convert CSS units, REM to PX online tool, web design REM to PX">
-    <link rel="canonical" href="https://www.w3coderschool.com/rem-to-px-converter" />
+    <link rel="canonical" href="https://www.ResumeSathi.com/rem-to-px-converter" />
 
     <!--- OG meta tags start -->
-    <meta property="og:title" content="REM to PX Converter | w3coderschool" />
+    <meta property="og:title" content="REM to PX Converter | ResumeSathi" />
     <meta property="og:description"
         content="Effortlessly convert REM values to Pixel units with our user-friendly REM to Pixel Converter tool. Enter the REM value, click 'Convert,' and instantly get the equivalent Pixel value based on a root font size of 16px. Simple, accurate, and convenient for responsive web design. Try it now!" />
     <meta property="og:type" content="article" />
     <meta property="og:image" content="{{ asset('front-assets/images/logos/og-images.png') }}" />
-    <meta property="og:url" content="https://www.w3coderschool.com/rem-to-px-converter" />
+    <meta property="og:url" content="https://www.ResumeSathi.com/rem-to-px-converter" />
     <!--- OG meta tags end -->
 
     <!-- bootstrap 5 CDN and css -->
@@ -38,7 +38,7 @@
          window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
            gtag('js', new Date());
-    
+
          gtag('config', 'G-L3QP8NJR3K');
         </script>
         {{-- Google analytics code end --}}
@@ -98,7 +98,7 @@
                         @include('frontend.layout.inc.sidebar-components.search-adsense')
                     </div>
                     <!-- Google search End -->
-                
+
                     {{-- Others Tools  Start --}}
                     @include('frontend.layout.inc.sidebar-components.tools-categories')
                     {{-- Other Tools End --}}

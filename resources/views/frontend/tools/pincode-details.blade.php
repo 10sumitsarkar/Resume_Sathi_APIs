@@ -9,20 +9,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
-    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="W3CoderSchool Logo">
-    <title>Search By Pincode | w3coderschool</title>
+    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="ResumeSathi Logo">
+    <title>Search By Pincode | ResumeSathi</title>
     <meta name="description"
         content="Using the pincode tool for area details is very simple. Follow the steps given below to use the pincode tool for area details:">
     <meta name="keywords" content="search by pincode, pincode finder, postal code search, find pincode, pincode lookup, zip code search, pincode locator, area pincode search, find postal code, pincode search tool, search by postal code, local pincode finder, search by zip code, pincode checker, postal code lookup">
-    <link rel="canonical" href="https://www.w3coderschool.com/pincode-details" />
+    <link rel="canonical" href="https://www.ResumeSathi.com/pincode-details" />
 
     <!--- OG meta tags start -->
-    <meta property="og:title" content="Search By Pincode | w3coderschool" />
+    <meta property="og:title" content="Search By Pincode | ResumeSathi" />
     <meta property="og:description"
         content="Using the pincode tool for area details is very simple. Follow the steps given below to use the pincode tool for area details:" />
     <meta property="og:type" content="article" />
     <meta property="og:image" content="{{ asset('front-assets/images/logos/og-images.png') }}" />
-    <meta property="og:url" content="https://www.w3coderschool.com/pincode-details" />
+    <meta property="og:url" content="https://www.ResumeSathi.com/pincode-details" />
     <!--- OG meta tags end -->
 
     <!-- bootstrap 5 CDN and css -->
@@ -38,7 +38,7 @@
          window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
            gtag('js', new Date());
-    
+
          gtag('config', 'G-L3QP8NJR3K');
         </script>
         {{-- Google analytics code end --}}
@@ -79,7 +79,7 @@
                         @include('frontend.layout.inc.sidebar-components.search-adsense')
                     </div>
                     <!-- Google search End -->
-                
+
                     {{-- Others Tools  Start --}}
                     @include('frontend.layout.inc.sidebar-components.tools-categories')
                     {{-- Other Tools End --}}

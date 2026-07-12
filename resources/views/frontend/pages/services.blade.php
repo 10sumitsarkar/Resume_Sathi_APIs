@@ -1,11 +1,11 @@
 @extends('frontend.layout.master')
 @section('title', 'Services')
 @section('description', 'Master programming, coding, and tech skills through expert tutorials and hands-on projects. Explore our diverse courses designed for beginners to professionals. Start learning today!')
-@section('keywords', 'programming tutorials, coding lessons, HTML, CSS, JavaScript, Python, web development, coding courses, tech skills, learn to code, web design, W3CoderSchool')
-@section('canonical', 'https://www.w3coderschool.com/services')
+@section('keywords', 'programming tutorials, coding lessons, HTML, CSS, JavaScript, Python, web development, coding courses, tech skills, learn to code, web design, ResumeSathi')
+@section('canonical', 'https://www.ResumeSathi.com/services')
 @section('og-title', 'Services')
 @section('og-description', 'Master programming, coding, and tech skills through expert tutorials and hands-on projects. Explore our diverse courses designed for beginners to professionals. Start learning today!')
-@section('og-url', 'https://www.w3coderschool.com/services')
+@section('og-url', 'https://www.ResumeSathi.com/services')
 @section('content')
 
     <!-- --------------------------
@@ -20,9 +20,9 @@
                         <div class="common_headings_div pb-2">
                             <h1>Our <span>Services</span></h1>
                             <div class="common_headings_mobArrow"><img loading="lazy"
-                                    src="{{ asset('front-assets/images/icons/Arrow2.svg') }}" alt="w3coderschool"
-                                    title="w3coderschool"> <img loading="lazy" src="{{ asset('front-assets/images/icons/Arrow1.svg') }}"
-                                    alt="w3coderschool" title="w3coderschool"></div>
+                                    src="{{ asset('front-assets/images/icons/Arrow2.svg') }}" alt="ResumeSathi"
+                                    title="ResumeSathi"> <img loading="lazy" src="{{ asset('front-assets/images/icons/Arrow1.svg') }}"
+                                    alt="ResumeSathi" title="ResumeSathi"></div>
                         </div>
                     </div>
                 </div>

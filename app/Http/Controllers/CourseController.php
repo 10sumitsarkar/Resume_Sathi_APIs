@@ -8,12 +8,14 @@ use App\Models\CourseContent;
 use App\Models\ProgramingLanguage;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Schema;
+use Illuminate\Support\Str;
 
 class CourseController extends Controller
 {
 
     public function courses(Request $request){
-        $courses = course::with('user', 'course_category')->where(['is_draft'=> 0, "status"=>1])->orderBy('id', 'desc')->get();
+        $courses = Course::with('user', 'course_category')->where(["status"=>1])->orderBy('id', 'desc')->get();
         return view('backend.pages.course.courses', compact('courses'));
     }
 
@@ -37,9 +39,10 @@ class CourseController extends Controller
         if($request->isMethod('post')){
             $data = [
                 'course_name' => $request->course_name,
-                'course_url' => $request->course_url,
+                'course_url' => $request->course_url ?: Str::slug($request->course_name),
                 'description' => $request->description,
                 'created_by' => Auth::id(),
+                'course_image' => '',
             ];
 
             if($request->file('image') !== null){
@@ -95,7 +98,7 @@ class CourseController extends Controller
 
     public function draft_courses(Request $request){
         $courses_category = CourseCategory::all();
-        $courses = Course::with('user', 'course_category')->where(['is_draft'=> 1, "status"=>1])->orderBy('id', 'desc')->get();
+        $courses = Course::with('user', 'course_category')->where(["status"=>0])->orderBy('id', 'desc')->get();
         return view('backend.pages.course.draft-courses', compact('courses', 'courses_category'));
     }
 
@@ -105,7 +108,28 @@ class CourseController extends Controller
         if($course){
             $course_id = $course->id;
         }else{
-            $course_id = Course::create(["course_type"=>1, "is_draft"=>1, 'status'=>0, "is_active"=>0, "created_by" => Auth::id()])->id;
+            $createData = [
+                'status' => 0,
+                'is_active' => 0,
+            ];
+
+            if (Schema::hasColumn('jobs', 'created_by')) {
+                $createData['created_by'] = Auth::id();
+            }
+
+            if (Schema::hasColumn('jobs', 'title')) {
+                $createData['title'] = 'New Job';
+            }
+
+            if (Schema::hasColumn('jobs', 'slug')) {
+                $createData['slug'] = 'new-job';
+            }
+
+            if (Schema::hasColumn('jobs', 'description')) {
+                $createData['description'] = '';
+            }
+
+            $course_id = Course::create($createData)->id;
             CourseContent::create(["course_id"=> $course_id]);
         }
         return redirect(route('save-course', base64_encode($course_id)));
@@ -115,55 +139,108 @@ class CourseController extends Controller
         if($request->isMethod('post'))
         {
             $course_id = $request->course_id;
-            $topic_name = $request->topic_name;
-            $title = $request->meta_title;
-            $description = $request->meta_description;
-            $keyword = $request->meta_keyword;
-            $url_title = $request->url_name;
-            $editordata = $request->editordata;
+
+            // Get the topic/title - prioritize topic_name
+            $topic_name = $request->topic_name ?? $request->title ?? 'Untitled';
+            $meta_title = $request->meta_title ?? $topic_name;
+            $meta_description = $request->meta_description ?? '';
+            $meta_keyword = $request->meta_keyword ?? '';
+            $description = $request->description ?? $meta_description ?? $topic_name;
+            $url_title = $request->url_name ?? Str::slug($topic_name);
+            $editordata = $request->editordata ?? '';
             $course_type = $request->course_type;
-            $is_active = $request->is_active;
-            $is_draft = $request->is_draft;
-            $created_by = 1;
+            $is_active = $request->is_active ? 1 : 0;
+            $is_draft = $request->is_draft ? 1 : 0;
+
+            $created_by = Auth::id();
+
+            // Get existing course to check if created_by is already set
+            $existingCourse = Course::find($course_id);
+            if ($existingCourse && $existingCourse->created_by) {
+                $created_by = $existingCourse->created_by;
+            }
+
             $data = CourseCategory::find($course_type);
-            $canonical_tag = "courses/".$data->course_url.'/'.$url_title;
+            $canonical_tag = $data ? 'courses/' . $data->course_url . '/' . $url_title : 'courses/' . $url_title;
+            $jobTypeId = null;
+
+            if (!empty($course_type)) {
+                $jobTypeId = (int) $course_type;
+                if (!Schema::hasTable('job_types') || !\Illuminate\Support\Facades\DB::table('job_types')->where('id', $jobTypeId)->exists()) {
+                    $jobTypeId = null;
+                }
+            }
+
+            // Handle hero image upload
             if($request->file('image') !== null){
                 $file1 = $request->file('image');
                 $file1->move(base_path('public/courses_image'), $file1->getClientOriginalName());
                 $front_image = 'courses_image/'.$file1->getClientOriginalName();
-                $update = ["hero_image"=>$front_image];
-                Course::where('id', $course_id)->update($update);
+
+                if (Schema::hasColumn('jobs', 'hero_image')) {
+                    Course::where('id', $course_id)->update(['hero_image' => $front_image]);
+                }
             }
 
-            $update = [
-                'topic_name'=> $topic_name,
-                'url_name'=>$url_title,
-                'meta_title'=> $title,
-                'meta_description'=> $description,
-                'meta_keyword'=> $keyword,
-                'canonical_tag'=> $canonical_tag,
-                'course_type'=> $course_type,
-                'status'=> 1,
-                'created_by'=>$created_by
-            ];
+            $update = [];
 
-            if($is_active){
-                $update['is_active'] = 1;
-             }else{
-                $update['is_active'] = 0;
-             }
+            // Populate all available fields
+            if (Schema::hasColumn('jobs', 'title')) {
+                $update['title'] = $meta_title;
+            }
+            if (Schema::hasColumn('jobs', 'slug')) {
+                $update['slug'] = $url_title;
+            }
+            if (Schema::hasColumn('jobs', 'description')) {
+                $update['description'] = $description;
+            }
+            if (Schema::hasColumn('jobs', 'topic_name')) {
+                $update['topic_name'] = $topic_name;
+            }
+            if (Schema::hasColumn('jobs', 'url_name')) {
+                $update['url_name'] = $url_title;
+            }
+            if (Schema::hasColumn('jobs', 'meta_title')) {
+                $update['meta_title'] = $meta_title;
+            }
+            if (Schema::hasColumn('jobs', 'meta_description')) {
+                $update['meta_description'] = $meta_description;
+            }
+            if (Schema::hasColumn('jobs', 'meta_keyword')) {
+                $update['meta_keyword'] = $meta_keyword;
+            }
+            if (Schema::hasColumn('jobs', 'canonical_tag')) {
+                $update['canonical_tag'] = $canonical_tag;
+            }
+            if (Schema::hasColumn('jobs', 'job_type_id') && $jobTypeId !== null) {
+                $update['job_type_id'] = $jobTypeId;
+            }
+            if (Schema::hasColumn('jobs', 'department_id') && $jobTypeId !== null) {
+                $update['department_id'] = $jobTypeId;
+            }
+            if (Schema::hasColumn('jobs', 'course_type')) {
+                $update['course_type'] = $course_type;
+            }
+            if (Schema::hasColumn('jobs', 'is_active')) {
+                $update['is_active'] = $is_active;
+            }
+            if (Schema::hasColumn('jobs', 'created_by')) {
+                $update['created_by'] = $created_by;
+            }
 
-             if($is_draft){
-                 $update['is_draft'] = 1;
-             }else{
-                 $update['is_draft'] = 0;
-             }
+            // Status: if is_draft is checked, keep status 0, otherwise set to 1
+            if (Schema::hasColumn('jobs', 'status')) {
+                $update['status'] = $is_draft ? 0 : 1;
+            }
 
-            $content = ['content'=> $editordata];
+            // Update content
+            $content = ['content' => $editordata];
+            CourseContent::where('course_id', $course_id)->update($content);
 
-            $edit = CourseContent::where('course_id', $course_id)->update($content);
+            // Update job record
             $edit = Course::where('id', $course_id)->update($update);
-            if($edit){
+
+            if($edit || count($update) == 0){
                 $msg = "Post Saved successfully! ";
                 return redirect()->back()->with('success', strtoupper($msg));
             }else{

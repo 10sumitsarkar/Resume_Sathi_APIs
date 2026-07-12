@@ -2,10 +2,10 @@
 @section('title', 'Best of Health')
 @section('description', 'Here, we share all the new and latest information and tips related to the Health')
 @section('keywords', 'Wellness, Fitness, Nutrition, Healthy living, Mental health, Exercise, Weight loss, Healthy recipes, Holistic health, Prevention, Well-being, Medical advice, Health tips, Lifestyle choices, Self-care')
-@section('canonical', 'https://www.w3coderschool.com/health')
-@section('og-title', 'Best of Health - w3coderschool')
+@section('canonical', 'https://www.ResumeSathi.com/health')
+@section('og-title', 'Best of Health - ResumeSathi')
 @section('og-description', 'Here, we share all the new and latest information and tips related to the Health')
-@section('og-url', 'https://www.w3coderschool.com/health')
+@section('og-url', 'https://www.ResumeSathi.com/health')
 @section('content')
 
     @php
@@ -49,14 +49,14 @@
                             </a>
                         </div>
                         @endforeach
-                       
+
                     </div>
                     <div class="row">
                         <div class="col-12">
                             <div id="pagination" class="post-pagination-container"></div>
                         </div>
                     </div>
-                    
+
                 </div>
             </div>
             <!-- Left Part End -->

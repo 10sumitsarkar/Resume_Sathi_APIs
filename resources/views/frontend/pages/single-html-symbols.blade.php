@@ -9,7 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
-    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="W3CoderSchool Logo">
+    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="ResumeSathi Logo">
     <title>{{ $singleSymbols->meta_title }}</title>
     <meta name="description" content="{{ $singleSymbols->meta_description }}">
     <meta name="keywords" content="{{ $singleSymbols->meta_keyword }}">
@@ -41,12 +41,12 @@
           },
           "headline": "{{ $singleSymbols->meta_title }}",
           "description": "{{ $singleSymbols->meta_description }}",
-          "image": "{{ asset('front-assets/images/logos/og-images.png') }}", 
+          "image": "{{ asset('front-assets/images/logos/og-images.png') }}",
           "author": {
             "@type": "Person",
-            "name": "W3CoderSchool"
-          }, 
-         
+            "name": "ResumeSathi"
+          },
+
           "datePublished": "{{ $singleSymbols->created_at->format('Y-m-d\TH:i:sP') }}"
         }
     </script>
@@ -58,7 +58,7 @@
          window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
            gtag('js', new Date());
-    
+
          gtag('config', 'G-L3QP8NJR3K');
         </script>
         {{-- Google analytics code end --}}

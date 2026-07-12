@@ -11,10 +11,8 @@ class ArticleAttachment extends Model
 
     protected $fillable = [
         'article_id',
-        'file_name',
-        'file_path',
+        'file',
         'file_type',
-        'file_size',
     ];
 
     /**
@@ -23,5 +21,14 @@ class ArticleAttachment extends Model
     public function article()
     {
         return $this->belongsTo(Article::class);
+    }
+
+    public function getFileUrlAttribute(): ?string
+    {
+        if (empty($this->file)) {
+            return null;
+        }
+
+        return asset($this->file);
     }
 }

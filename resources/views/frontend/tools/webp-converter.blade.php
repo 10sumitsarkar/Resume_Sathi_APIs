@@ -9,18 +9,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
-    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="W3CoderSchool Logo">
-    <title>WEBP Converter | w3coderschool</title>
+    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="ResumeSathi Logo">
+    <title>WEBP Converter | ResumeSathi</title>
     <meta name="description" content="Convert your image pictures into the more efficient WebP format. WebP is supported by Chrome, Firefox, Edge and Safari">
     <meta name="keywords" content="online WEBP converter, convert to WEBP, WEBP image converter, convert image to WEBP, JPEG to WEBP, PNG to WEBP, WEBP file converter, free WEBP converter, WEBP format converter, convert images online, image to WEBP converter, online image converter, convert pictures to WEBP, fast WEBP converter, WEBP conversion tool">
-    <link rel="canonical" href="https://www.w3coderschool.com/webp-converter" />
+    <link rel="canonical" href="https://www.ResumeSathi.com/webp-converter" />
 
     <!--- OG meta tags start -->
-    <meta property="og:title" content="WEBP Converter | w3coderschool" />
+    <meta property="og:title" content="WEBP Converter | ResumeSathi" />
     <meta property="og:description" content="Convert your image pictures into the more efficient WebP format. WebP is supported by Chrome, Firefox, Edge and Safari" />
     <meta property="og:type" content="article" />
     <meta property="og:image" content="{{ asset('front-assets/images/logos/og-images.png') }}" />
-    <meta property="og:url" content="https://www.w3coderschool.com/webp-converter" />
+    <meta property="og:url" content="https://www.ResumeSathi.com/webp-converter" />
     <!--- OG meta tags end -->
 
     <!-- bootstrap 5 CDN and css -->
@@ -36,7 +36,7 @@
          window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
            gtag('js', new Date());
-    
+
          gtag('config', 'G-L3QP8NJR3K');
         </script>
         {{-- Google analytics code end --}}
@@ -84,7 +84,7 @@
                         @include('frontend.layout.inc.sidebar-components.search-adsense')
                     </div>
                     <!-- Google search End -->
-                
+
                     {{-- Others Tools  Start --}}
                     @include('frontend.layout.inc.sidebar-components.tools-categories')
                     {{-- Other Tools End --}}

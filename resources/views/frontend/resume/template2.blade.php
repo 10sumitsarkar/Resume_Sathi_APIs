@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     {{-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> --}}
     <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}"
-        alt="W3CoderSchool Logo">
+        alt="ResumeSathi Logo">
     <title>My Resume</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css" />
     <meta name="description" content="My resume gennerated">
@@ -735,8 +735,8 @@
                     document.querySelector('.resume_education').innerHTML = `
                            <h3>Education</h3>
                             <ul class="resume_education">
-                                 ${educationHtml}   
-                                 
+                                 ${educationHtml}
+
                             </ul>`;
                 }
             }
@@ -766,8 +766,8 @@
 
                     <h3>Experience</h3>
                             <ul>
-                                    ${experienceHtml} 
-                                
+                                    ${experienceHtml}
+
                             </ul>`;
                 }
             }
@@ -789,7 +789,7 @@
                             <div id="scrolls" class="groups">
                                 <div id="line01" class="lines">
                                     <ul>
-                                        ${skillsHtml}                                        
+                                        ${skillsHtml}
                                     </ul>
                                 </div>
                             </div>`;
@@ -824,7 +824,7 @@
                             <div id="scrolls" class="groups">
                                 <div id="line01" class="lines">
                                     <ul>
-                                      ${languagesHtml}                                   
+                                      ${languagesHtml}
                                     </ul>
                                 </div>
                             </div>`;
@@ -836,7 +836,7 @@
                 if (socialHtml) {
                     document.querySelector('.resume_social').innerHTML = `
                     <ul>
-                                        ${socialHtml}                                 
+                                        ${socialHtml}
                                     </ul> `;
                 }
             }

@@ -19,7 +19,7 @@
     'Find the list latest of hindi movies, english movies, tamil movies, telgu movies, bangla movies
     and Web Series from youtube, offline theater and various OTT platforms like Netflix, Amazon Prime Video, ZEE5, Disney+
     Hotstar and other with trailer, cast.')
-@section('og-url', 'https://www.w3coderschool.com/movies')
+@section('og-url', 'https://www.ResumeSathi.com/movies')
 @section('content')
     <link rel="stylesheet" href="{{ asset('front-assets/css/movies.css') }}">
     @php

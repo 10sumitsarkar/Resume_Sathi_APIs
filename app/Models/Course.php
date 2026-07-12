@@ -5,10 +5,14 @@ namespace App\Models;
 use Carbon\Carbon;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Support\Facades\Schema;
 
 class Course extends Model
 {
     use HasFactory;
+
+    protected $table = 'jobs';
+
     // use SoftDeletes;
     protected $fillable = [
         'title',
@@ -31,16 +35,33 @@ class Course extends Model
         'language_id',
         'hero_image',
         'pageview',
-        'is_draft',
+        'company',
+        'location',
+        'employment_type',
+        'salary',
+        'job_type_id',
+        'department_id',
+        'featured',
+        'trending',
+        'urgent',
+        'homepage',
     ];
     // protected $dates = ['deleted_at'];
 
     /**
-     * Get the category that owns the course.
+     * Get the category that owns the job.
+     */
+    public function course_category()
+    {
+        return $this->belongsTo(CourseCategory::class, 'course_type');
+    }
+
+    /**
+     * Alias for the category relationship used by the admin views.
      */
     public function category()
     {
-        return $this->belongsTo(CourseCategory::class, 'category_id');
+        return $this->course_category();
     }
 
     /**
@@ -75,10 +96,26 @@ class Course extends Model
         return $this->belongsTo(User::class, 'created_by');
     }
 
-    static function related($type)
+    static function related($type = null, $excludeId = null)
     {
-        $related_artcles = Course::select('canonical_tag', 'topic_name')->where(['course_type' => $type, 'is_active' => 1, 'status' => 1, 'is_draft' => 0])->get();
-        return $related_artcles;
+        $query = Course::select(['canonical_tag', 'title', 'topic_name'])
+            ->where(['is_active' => 1, 'status' => 1]);
+
+        if ($type !== null) {
+            if (Schema::hasColumn('jobs', 'job_type_id')) {
+                $query->where('job_type_id', $type);
+            } elseif (Schema::hasColumn('jobs', 'department_id')) {
+                $query->where('department_id', $type);
+            } elseif (Schema::hasColumn('jobs', 'course_type')) {
+                $query->where('course_type', $type);
+            }
+        }
+
+        if ($excludeId !== null) {
+            $query->where('id', '!=', $excludeId);
+        }
+
+        return $query->limit(10)->get();
     }
 
     function addView()
@@ -105,7 +142,7 @@ class Course extends Model
 
     static function activePost()
     {
-        return Course::where(['is_active' => 1, 'status' => 1, 'is_draft' => 0])->get();
+        return Course::where(['is_active' => 1, 'status' => 1])->get();
     }
 
     static function getTodayPostClicks()
