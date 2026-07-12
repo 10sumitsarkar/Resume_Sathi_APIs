@@ -31,7 +31,7 @@
       <li class="nav-item">
         <a class="nav-link" data-toggle="collapse" href="#course-elements" aria-expanded="false" aria-controls="course-elements">
           <i class="icon-paper menu-icon"></i>
-          <span class="menu-title">Course</span>
+          <span class="menu-title">Jobs</span>
           <i class="menu-arrow"></i>
         </a>
         <div class="collapse" id="course-elements">
@@ -44,51 +44,6 @@
         </div>
       </li>
 
-      <li class="nav-item">
-        <a class="nav-link" data-toggle="collapse" href="#snipit-elements" aria-expanded="false" aria-controls="snipit-elements">
-          <i class="icon-columns menu-icon"></i>
-          <span class="menu-title">Snipits</span>
-          <i class="menu-arrow"></i>
-        </a>
-        <div class="collapse" id="snipit-elements">
-          <ul class="nav flex-column sub-menu">
-            <li class="nav-item"><a class="nav-link" href="{{ route('snipits') }}">Snipit List</a></li>
-            <li class="nav-item"><a class="nav-link" href="{{ route('draft_snipits') }}">Draft Snipits</a></li>
-            <li class="nav-item"><a class="nav-link" href="{{ route('create-snipit') }}">Add Snipit</a></li>
-            <li class="nav-item"><a class="nav-link" href="{{ route('snipit-category') }}">Category</a></li>
-          </ul>
-        </div>
-      </li>
-
-      <li class="nav-item">
-        <a class="nav-link" data-toggle="collapse" href="#html-category" aria-expanded="false" aria-controls="html-category">
-          <i class="icon-layout menu-icon"></i>
-          <span class="menu-title">Html Symbols</span>
-          <i class="menu-arrow"></i>
-        </a>
-        <div class="collapse" id="html-category">
-          <ul class="nav flex-column sub-menu">
-            <li class="nav-item"><a class="nav-link" href="{{ route('html-symbols-categories') }}">Categories</a></li>
-            <li class="nav-item"><a class="nav-link" href="{{ route('add-html-symbols-category') }}">Add Category</a></li>
-            <li class="nav-item"><a class="nav-link" href="{{ route('html-symbols') }}">Symbols</a></li>
-            <li class="nav-item"><a class="nav-link" href="{{ route('add-html-symbol') }}">Add Symbol</a></li>
-          </ul>
-        </div>
-      </li>
-
-      <li class="nav-item">
-        <a class="nav-link" data-toggle="collapse" href="#movie-category" aria-expanded="false" aria-controls="movie-category">
-          <i class="icon-layout menu-icon"></i>
-          <span class="menu-title">Movies</span>
-          <i class="menu-arrow"></i>
-        </a>
-        <div class="collapse" id="movie-category">
-          <ul class="nav flex-column sub-menu">
-            <li class="nav-item"><a class="nav-link" href="{{ route('admin-movies') }}">List</a></li>
-            <li class="nav-item"><a class="nav-link" href="{{ route('admin-movie-create') }}">Create Movie</a></li>
-          </ul>
-        </div>
-      </li>
 
       <li class="nav-item">
         <a class="nav-link" href="{{ route('sitemap-urls') }}">

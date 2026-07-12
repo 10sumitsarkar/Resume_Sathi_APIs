@@ -218,9 +218,9 @@
                                     @foreach ($article->attachments as $attachment)
                                     <div class="col-12" id="AttachmentFile{{$attachment->id}}">
                                         <br>
-                                        <a class="pr-2" href="{{ asset($attachment->file) }}">{{ asset($attachment->file) }}</a>
+                                        <a class="pr-2" href="{{ $attachment->file_url }}">{{ $attachment->file_url }}</a>
                                         <a class="px-2 text-danger bg-light" data-id="{{ $attachment->id }}" onclick="removeAttachment({{ $attachment->id }})">Remove</a>
-                                        <a class="px-2 text-primary bg-light"  data-toggle="modal" data-src="{{ asset($attachment->file) }}" data-target="#attachmentModal" onclick="viewAttachment('{{ asset($attachment->file) }}')">View</a>
+                                        <a class="px-2 text-primary bg-light" href="javascript:void(0)" data-toggle="modal" data-target="#attachmentModal" onclick="viewAttachment('{{ $attachment->file_url }}')">View</a>
                                     </div>
                                     @endforeach
                                 </div>
@@ -312,7 +312,7 @@
                     html += '<div class="col-12" id="AttachmentFile'+response.data.file_id+'"><br>';
                     html += '<a class="pr-2" href="'+src+'">'+src+'</a>';
                     html += '<a class="px-2 text-danger bg-light" data-id="'+response.data.file_id+'" onclick="removeAttachment('+response.data.file_id+')">Remove</a>';
-                    html += '<a class="px-2 text-primary bg-light"  data-toggle="modal" data-src="'+src+'" data-target="#attachmentModal" onclick=viewAttachment("'+src+'")>View</a>';
+                    html += '<a class="px-2 text-primary bg-light" href="javascript:void(0)" data-toggle="modal" data-target="#attachmentModal" onclick="viewAttachment(\''+src+'\')">View</a>';
                     html += '</div>';
                     $('#attachmentList').append(html);
                     $('#loadingBtn').hide();
@@ -340,6 +340,7 @@
 
         function viewAttachment(src){
             $('#attachmentModalSrc').attr('src', src);
+            $('#attachmentModal').modal('show');
         }
 
     </script>

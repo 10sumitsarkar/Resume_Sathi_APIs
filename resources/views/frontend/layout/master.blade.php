@@ -9,8 +9,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
-    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="W3CoderSchool Logo">
-    <title>@yield('title') | w3coderschool</title>
+    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="ResumeSathi Logo">
+    <title>@yield('title') | ResumeSathi</title>
     <meta name="description" content="@yield('description')">
     <meta name="keywords" content="@yield('keywords')">
     <link rel="canonical" href="@yield('canonical')" />
@@ -40,12 +40,12 @@
         {
           "@context": "https://schema.org",
           "@type": "WebSite",
-          "name": "W3CoderSchool",
+          "name": "ResumeSathi",
           "url": "@yield('og-url')",
           "description": "@yield('description')",
           "publisher": {
             "@type": "WebPage",
-            "name": "W3CoderSchool"
+            "name": "ResumeSathi"
           }
         }
         </script>

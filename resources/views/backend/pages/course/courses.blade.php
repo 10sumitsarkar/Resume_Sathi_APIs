@@ -1,5 +1,5 @@
 @extends('backend.layout.master')
-@section('title', 'courses')
+@section('title', 'jobs')
 @section('custom-css')
   <link rel="stylesheet" href="https://cdn.datatables.net/1.13.1/css/dataTables.bootstrap4.min.css">
 @endsection
@@ -36,7 +36,7 @@
             <div class="card w-100">
                 <div class="card-body">
                   <div class="d-flex justify-content-between">
-                    <p class="card-title">Course Topics</p>
+                    <p class="card-title">Job Topics</p>
                     <p class=""><a class="btn btn-primary" href="{{ route('create-course') }}"><i class="fa fa-plus"></i> Add New Topic</a>
                     </p>
                 </div>
@@ -60,9 +60,9 @@
                             @foreach ($courses as $item)
                             <tr>
                                 <td>{{ $loop->iteration }}</td>
-                                <td>{{ $item->course_category->course_name }}</td>
-                                <td>{{ $item->user->first_name.' '.$item->user->last_name }}</td>
-                                <td>{{ $item->topic_name }}</td>
+                                <td>{{ optional($item->course_category)->course_name ?? 'N/A' }}</td>
+                                <td>{{ optional($item->user)->first_name . ' ' . optional($item->user)->last_name }}</td>
+                                <td>{{ $item->title ?? $item->topic_name ?? 'Untitled' }}</td>
                                 <td>{{ $item->pageview }}</td>
                                 <td>{{ $item->updated_at }}</td>
                                 <td>
@@ -73,9 +73,9 @@
                                     @endif
                                 </td>
                                 <td>
-                                    <a href="{{ url($item->canonical_tag) }}"><i class="fa fa-eye text-success" aria-hidden="true"></i></a>&nbsp;&nbsp;
-                                    <a href="{{ route('course-delete', $item->id) }}" onclick="return confirm('Are you sure you want to delete this item?');"><i class="fa fa-trash text-danger" aria-hidden="true"></i></a>&nbsp;&nbsp;
-                                    <a href="{{ route('save-course' , base64_encode($item->id)) }}"><i class="fa fa-edit text-primary" aria-hidden="true"></i></a>&nbsp;&nbsp;
+                                    <a href="{{ url((string) $item->canonical_tag) }}"><i class="fa fa-eye text-success" aria-hidden="true"></i></a>&nbsp;&nbsp;
+                                    <a href="{{ route('course-delete', ['id' => $item->id]) }}" onclick="return confirm('Are you sure you want to delete this item?');"><i class="fa fa-trash text-danger" aria-hidden="true"></i></a>&nbsp;&nbsp;
+                                    <a href="{{ route('save-course', ['id' => base64_encode($item->id)]) }}"><i class="fa fa-edit text-primary" aria-hidden="true"></i></a>&nbsp;&nbsp;
                                 </td>
                             </tr>
                             @endforeach

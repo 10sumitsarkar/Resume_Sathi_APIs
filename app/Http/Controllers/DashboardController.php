@@ -43,7 +43,7 @@ class DashboardController extends Controller
 
         if($upload){
             $response['success'] = true;
-            $response['data']['file'] = asset($upload->file);
+            $response['data']['file'] = $upload->file_url;
             $response['data']['file_id'] = $upload->id;
             $response['message'] = 'Success! Attachment Added Successfully.';
         }else{

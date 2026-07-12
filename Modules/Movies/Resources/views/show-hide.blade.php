@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
-    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="W3CoderSchool Logo">
+    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="ResumeSathi Logo">
     <title>{{ $movie->meta_title }}</title>
     <meta name="description" content="{{ $movie->meta_description }}">
     <meta name="keywords" content="{{ $movie->meta_keyword }}">
@@ -38,12 +38,12 @@
           },
           "headline": "{{ $movie->meta_title }}",
           "description": "{{ $movie->meta_description }}",
-          "image": "{{ @getImageSize(asset($movie->hero_image)) ? asset($movie->hero_image) : asset('front-assets/images/logos/og-images.png') }}", 
+          "image": "{{ @getImageSize(asset($movie->hero_image)) ? asset($movie->hero_image) : asset('front-assets/images/logos/og-images.png') }}",
           "author": {
             "@type": "Person",
-            "name": "W3CoderSchool"
-          }, 
-         
+            "name": "ResumeSathi"
+          },
+
           "datePublished": "{{ $movie->created_at->format('Y-m-d\TH:i:sP') }}"
         }
     </script>
@@ -55,7 +55,7 @@
          window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
            gtag('js', new Date());
-    
+
          gtag('config', 'G-L3QP8NJR3K');
         </script>
         {{-- Google analytics code end --}}
@@ -78,7 +78,7 @@
                     <!-- ********* Left Part Start********** -->
                     <div class="col-12 col-lg-9">
                         <div class="pb-2">
-    
+
                             <div class="single-movie-card-div">
                                 <img loading="lazy" src="{{ asset('front-assets/images/icons/movie.svg') }}" alt="Movie"
                                     class="img-fluid movie-card-bg-image">
@@ -89,12 +89,12 @@
                                         @if ($movie->is_upcoming())
                                             <span class="upcomming-latest-label">Upcoming</span>
                                         @endif
-    
+
                                         @if ($movie->is_latest())
                                             <span class="upcomming-latest-label">Latest</span>
                                         @endif
                                     </div>
-    
+
                                     @if ($movie->watchlink && $movie->watchlink->platform())
                                         <a @if ($movie->watchlink->link) href="{{ $movie->watchlink->link }}" @endif
                                             target="_blank" class="text-decoration-none" aria-label="Movies">
@@ -110,7 +110,7 @@
                                             </div>
                                         </a>
                                     @endif
-    
+
                                     {{-- @if ($movie->booklink && $movie->booklink->platform())
                                         <a href="{{ $movie->booklink->link }}" target="_blank" aria-label="Movies">
                                             <div class="movie-label">
@@ -122,7 +122,7 @@
                                         </a>
                                     @endif --}}
                                 </div>
-    
+
                                 <div class="movie-details-div">
                                     <h1>{{ $movie->name }}</h1>
                                     <p class="movie-lang">{{ $movie->language_text() }}</p>
@@ -165,7 +165,7 @@
                             <div class="table-main-div">
                                 <div class="container-fluid p-0 table-responsive">
                                     <table class="table-area">
-    
+
                                         <thead>
                                             <tr>
                                                 <th>Release Date</th>
@@ -178,7 +178,7 @@
                                                 </td>
                                             </tr>
                                         </thead>
-    
+
                                         <thead>
                                             <tr>
                                                 <th>Language</th>
@@ -221,21 +221,21 @@
                                                 <td>{{ $movie->writer ?? 'N/A' }}</td>
                                             </tr>
                                         </thead>
-    
+
                                         <thead>
                                             <tr>
                                                 <th>Cinematography</th>
                                                 <td>{{ $movie->cinematography ?? 'N/A' }}</td>
                                             </tr>
                                         </thead>
-    
+
                                         <thead>
                                             <tr>
                                                 <th>Music</th>
                                                 <td>{{ $movie->music ?? 'N/A' }}</td>
                                             </tr>
                                         </thead>
-    
+
                                         <thead>
                                             <tr>
                                                 <th>Producer</th>
@@ -254,7 +254,7 @@
                                                 <td>{{ $movie->certificate ?? 'N/A' }}</td>
                                             </tr>
                                         </thead>
-    
+
                                     </table>
                                 </div>
                             </div>
@@ -263,13 +263,13 @@
                             @endif
                         </div>
                     </div>
-    
+
                     <!-- ********* Right Part start********** -->
                     @include('movies::layout.front-sidebar')
                     <!-- ********* Right Part End********** -->
-    
+
                 </div>
-    
+
             </div>
         </div>
     <!-- footer area start -->

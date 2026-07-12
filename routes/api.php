@@ -3,6 +3,7 @@
 use App\Http\Controllers\WhiteBoardController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\PdfController;
 
 /*
 |--------------------------------------------------------------------------
@@ -19,3 +20,6 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
 Route::post('upload-board-file', [WhiteBoardController::class, 'upload_board_file'])->name('upload-board-file');
+
+Route::post('/pdf/compress', [PdfController::class, 'compress']);
+Route::get('/pdf/download/{file}', [PdfController::class, 'download']);

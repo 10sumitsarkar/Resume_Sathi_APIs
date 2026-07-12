@@ -10,21 +10,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
     <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}"
-        alt="W3CoderSchool Logo">
-    <title>Age Calculator | w3coderschool</title>
+        alt="ResumeSathi Logo">
+    <title>Age Calculator | ResumeSathi</title>
     <meta name="description"
         content="This free age calculator computes age in terms of years, months, days, hours, minutes, and seconds, given a date of birth.">
     <meta name="keywords"
         content="age calculator, calculate age online, online age calculator, age finder tool, birthday age calculator, how old am I calculator, age calculator by date of birth, find your age, calculate age by birthdate, free age calculator, quick age calculator, age calculator tool, age difference calculator, exact age calculator, current age calculator">
-    <link rel="canonical" href="https://www.w3coderschool.com/age-calculator" />
+    <link rel="canonical" href="https://www.ResumeSathi.com/age-calculator" />
 
     <!--- OG meta tags start -->
-    <meta property="og:title" content="Age Calculator | w3coderschool" />
+    <meta property="og:title" content="Age Calculator | ResumeSathi" />
     <meta property="og:description"
         content="This free age calculator computes age in terms of years, months, days, hours, minutes, and seconds, given a date of birth." />
     <meta property="og:type" content="article" />
     <meta property="og:image" content="{{ asset('front-assets/images/logos/og-images.png') }}" />
-    <meta property="og:url" content="https://www.w3coderschool.com/age-calculator" />
+    <meta property="og:url" content="https://www.ResumeSathi.com/age-calculator" />
     <!--- OG meta tags end -->
 
     <!-- bootstrap 5 CDN and css -->

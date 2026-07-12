@@ -1,11 +1,11 @@
 @extends('frontend.layout.master')
 @section('title', 'Terms and condition')
 @section('description', 'Master programming, coding, and tech skills through expert tutorials and hands-on projects. Explore our diverse courses designed for beginners to professionals. Start learning today!')
-@section('keywords', 'programming tutorials, coding lessons, HTML, CSS, JavaScript, Python, web development, coding courses, tech skills, learn to code, web design, W3CoderSchool')
-@section('canonical', 'https://www.w3coderschool.com/terms-and-conditions')
+@section('keywords', 'programming tutorials, coding lessons, HTML, CSS, JavaScript, Python, web development, coding courses, tech skills, learn to code, web design, ResumeSathi')
+@section('canonical', 'https://www.ResumeSathi.com/terms-and-conditions')
 @section('og-title', 'Terms and condition')
 @section('og-description', 'Master programming, coding, and tech skills through expert tutorials and hands-on projects. Explore our diverse courses designed for beginners to professionals. Start learning today!')
-@section('og-url', 'https://www.w3coderschool.com/terms-and-conditions')
+@section('og-url', 'https://www.ResumeSathi.com/terms-and-conditions')
 @section('content')
 
     <section class="policy-main-section">
@@ -15,13 +15,13 @@
                     <!-- Header Start -->
                     <h1 class="topics-heading pb-4">Terms  <span>and</span> Conditions</h1>
                     <!-- Header End -->
-                    <p>Welcome to w3coderschool!</p>
-                    <p>These terms and conditions outline the rules and regulations for the use of w3coderschool's Website,
+                    <p>Welcome to ResumeSathi!</p>
+                    <p>These terms and conditions outline the rules and regulations for the use of ResumeSathi's Website,
                         located at
-                        <a href="https://www.w3coderschool.com" class="link">www.w3coderschool.com</a>.
+                        <a href="https://www.ResumeSathi.com" class="link">www.ResumeSathi.com</a>.
                     </p>
                     <p>By accessing this website we assume you accept these terms and conditions. Do not continue to use
-                        w3coderschool
+                        ResumeSathi
                         if
                         you do not agree to take all of the terms and conditions stated on this page.</p>
                     <p>The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer
@@ -44,9 +44,9 @@
                         are taken as
                         interchangeable and therefore as referring to same.</p>
                     <h2>Cookies</h2>
-                    <p>We employ the use of cookies. By accessing w3coderschool, you agreed to use cookies in agreement with
+                    <p>We employ the use of cookies. By accessing ResumeSathi, you agreed to use cookies in agreement with
                         the
-                        w3coderschool's
+                        ResumeSathi's
                         Privacy Policy. </p>
                     <p>Most interactive websites use cookies to let us retrieve the user’s details for each visit.
                         Cookies are used
@@ -56,40 +56,40 @@
                         Some
                         of our affiliate/advertising partners may also use cookies.</p>
                     <h2>License</h2>
-                    <p>Unless otherwise stated, w3coderschool and/or its licensors own the intellectual property rights for
+                    <p>Unless otherwise stated, ResumeSathi and/or its licensors own the intellectual property rights for
                         all material
                         on
-                        w3coderschool. All intellectual property rights are reserved. You may access this from w3coderschool
+                        ResumeSathi. All intellectual property rights are reserved. You may access this from ResumeSathi
                         for
                         your own
                         personal use subjected to restrictions set in these terms and conditions.</p>
                     <p>You must not:</p>
                     <ul>
-                        <li>Republish material from w3coderschool</li>
-                        <li>Sell, rent or sub-license material from w3coderschool</li>
-                        <li>Reproduce, duplicate or copy material from w3coderschool</li>
-                        <li>Redistribute content from w3coderschool</li>
+                        <li>Republish material from ResumeSathi</li>
+                        <li>Sell, rent or sub-license material from ResumeSathi</li>
+                        <li>Reproduce, duplicate or copy material from ResumeSathi</li>
+                        <li>Redistribute content from ResumeSathi</li>
                     </ul>
                     <p>This Agreement shall begin on the date hereof. Our Terms and Conditions were created with the
                         help of the Terms And Conditions and the Privacy Policy
                         Generator.</p>
                     <p>Parts of this website offer an opportunity for users to post and exchange opinions and
                         information in certain
-                        areas of the website. w3coderschool does not filter, edit, publish or review Comments prior to their
+                        areas of the website. ResumeSathi does not filter, edit, publish or review Comments prior to their
                         presence on
                         the
-                        website. Comments do not reflect the views and opinions of w3coderschool,its agents and/or
+                        website. Comments do not reflect the views and opinions of ResumeSathi,its agents and/or
                         affiliates. Comments
                         reflect the views and opinions of the person who post their views and opinions. To the extent
                         permitted by
-                        applicable laws, w3coderschool shall not be liable for the Comments or for any liability, damages or
+                        applicable laws, ResumeSathi shall not be liable for the Comments or for any liability, damages or
                         expenses
                         caused
                         and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on
                         this
                         website.
                     </p>
-                    <p>w3coderschool reserves the right to monitor all Comments and to remove any Comments which can be
+                    <p>ResumeSathi reserves the right to monitor all Comments and to remove any Comments which can be
                         considered
                         inappropriate, offensive or causes breach of these Terms and Conditions.</p>
                     <p>You warrant and represent that:</p>
@@ -110,7 +110,7 @@
                             or
                             unlawful activity.</li>
                     </ul>
-                    <p>You hereby grant w3coderschool a non-exclusive license to use, reproduce, edit and authorize others
+                    <p>You hereby grant ResumeSathi a non-exclusive license to use, reproduce, edit and authorize others
                         to use,
                         reproduce
                         and edit any of your Comments in any and all forms, formats or media.</p>
@@ -151,7 +151,7 @@
                         negative
                         records with us; (c) the benefit to us from the visibility of the hyperlink compensates the
                         absence of
-                        w3coderschool; and (d) the link is in the context of general resource information.</p>
+                        ResumeSathi; and (d) the link is in the context of general resource information.</p>
                     <p>These organizations may link to our home page so long as the link: (a) is not in any way
                         deceptive; (b) does
                         not
@@ -162,7 +162,7 @@
                     <p>If you are one of the organizations listed in paragraph 2 above and are interested in linking to
                         our website,
                         you
-                        must inform us by sending an e-mail to w3coderschool. Please include your name, your organization
+                        must inform us by sending an e-mail to ResumeSathi. Please include your name, your organization
                         name, contact
                         information as well as the URL of your site, a list of any URLs from which you intend to link to
                         our
@@ -177,7 +177,7 @@
                             context and
                             format of content on the linking party’s site.</li>
                     </ul>
-                    <p>No use of w3coderschool's logo or other artwork will be allowed for linking absent a trademark
+                    <p>No use of ResumeSathi's logo or other artwork will be allowed for linking absent a trademark
                         license agreement.
                     </p>
                     <h2>iFrames</h2>

@@ -21,17 +21,29 @@ function our_courses()
 
 function our_tutorials()
 {
-    return ProgramingLanguage::all();
+    try {
+        return ProgramingLanguage::all();
+    } catch (\Throwable $e) {
+        return collect([]);
+    }
 }
 
 function our_snipits()
 {
-    return SnipitCategory::all();
+    try {
+        return SnipitCategory::all();
+    } catch (\Throwable $e) {
+        return collect([]);
+    }
 }
 
 function getHtmlSymbolCategories()
 {
-    return HtmlSymbolCategory::where('is_active', 1)->get();
+    try {
+        return HtmlSymbolCategory::where('is_active', 1)->get();
+    } catch (\Throwable $e) {
+        return collect([]);
+    }
 }
 
 function getTodayViews()
@@ -64,15 +76,15 @@ function getTotalToolViews()
         'pincode_details' => ToolView::totalViews(3),
         'css_minifier' => ToolView::totalViews(4),
         'age_calculator' => ToolView::totalViews(5),
-        'white_board' => ToolView::totalViews(6), 
-        'gradient_maker' => ToolView::totalViews(7), 
-        'px_to_rem_converter' => ToolView::totalViews(8), 
-        'rem_to_px_converter' => ToolView::totalViews(9), 
-        'px_to_em_converter' => ToolView::totalViews(10), 
-        'em_to_px_converter' => ToolView::totalViews(11), 
-        'webp_converter' => ToolView::totalViews(12), 
-        'coding_play_ground' => ToolView::totalViews(13), 
-        'my_resume' => ToolView::totalViews(14), 
+        'white_board' => ToolView::totalViews(6),
+        'gradient_maker' => ToolView::totalViews(7),
+        'px_to_rem_converter' => ToolView::totalViews(8),
+        'rem_to_px_converter' => ToolView::totalViews(9),
+        'px_to_em_converter' => ToolView::totalViews(10),
+        'em_to_px_converter' => ToolView::totalViews(11),
+        'webp_converter' => ToolView::totalViews(12),
+        'coding_play_ground' => ToolView::totalViews(13),
+        'my_resume' => ToolView::totalViews(14),
     ]));
 }
 

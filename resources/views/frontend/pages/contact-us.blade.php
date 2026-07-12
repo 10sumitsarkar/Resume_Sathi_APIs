@@ -1,13 +1,13 @@
 @extends('frontend.layout.master')
 @section('title', 'Contact Us')
 @section('description', 'Master programming, coding, and tech skills through expert tutorials and hands-on projects. Explore our diverse courses designed for beginners to professionals. Start learning today!')
-@section('keywords', 'programming tutorials, coding lessons, HTML, CSS, JavaScript, Python, web development, coding courses, tech skills, learn to code, web design, W3CoderSchool')
-@section('canonical', 'https://www.w3coderschool.com/contact-us')
+@section('keywords', 'programming tutorials, coding lessons, HTML, CSS, JavaScript, Python, web development, coding courses, tech skills, learn to code, web design, ResumeSathi')
+@section('canonical', 'https://www.ResumeSathi.com/contact-us')
 @section('og-title', 'Contact Us')
 @section('og-description',
-    'w3coderschool.com is the online platform where you can learn web development,programming,tech
+    'ResumeSathi.com is the online platform where you can learn web development,programming,tech
     related article for free.')
-@section('og-url', 'https://www.w3coderschool.com/contact-us')
+@section('og-url', 'https://www.ResumeSathi.com/contact-us')
 
 @section('content')
     <!-- Header Start -->
@@ -119,25 +119,25 @@
                             </div>
                             <div class="quike_contact_div">
                                 <h5>Email</h5>
-                                <p><a href="mailto:edu@w3coderschool.com" aria-label="Email">edu@w3coderschool.com</a></p>
+                                <p><a href="mailto:edu@ResumeSathi.com" aria-label="Email">edu@ResumeSathi.com</a></p>
                             </div>
                         </div>
                         <div class="contact_social_icons_div">
                             <p>Follow us on:</p>
                             <div class="contact_social_icons">
-                                <a href="https://www.facebook.com/w3coderschool/" aria-label="Facebook">
+                                <a href="https://www.facebook.com/ResumeSathi/" aria-label="Facebook">
                                     <div>
                                         <img loading="lazy" src="{{ asset('front-assets/images/icons/facebook.svg') }}" width="18"
                                             height="18" alt="Facebook">
                                     </div>
                                 </a>
-                                <a href="https://www.instagram.com/w3coderschool/" aria-label="Instagram">
+                                <a href="https://www.instagram.com/ResumeSathi/" aria-label="Instagram">
                                     <div>
                                         <img loading="lazy" src="{{ asset('front-assets/images/icons/instagram.svg') }}" width="18"
                                             height="18" alt="Instagram">
                                     </div>
                                 </a>
-                                <a href="https://in.pinterest.com/w3coderschool/" aria-label="Pinterest">
+                                <a href="https://in.pinterest.com/ResumeSathi/" aria-label="Pinterest">
                                     <div>
                                         <img loading="lazy" src="{{ asset('front-assets/images/icons/pinterest.svg') }}" width="18"
                                             height="18" alt="Pinterest">

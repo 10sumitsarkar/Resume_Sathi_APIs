@@ -2,10 +2,10 @@
 @section('title', 'Best of Travel')
 @section('description', 'Here, we share all the new and latest information and tips related to the Travel')
 @section('keywords', 'Adventure travel, Destination guides, Travel tips, Backpacking, Cultural experiences, Budget travel, Solo travel, Luxury travel, Road trips, Travel photography, Local cuisine, Outdoor activities, Sustainable travel, Hidden gems, Travel itineraries')
-@section('canonical', 'https://www.w3coderschool.com/travel')
-@section('og-title', 'Best of Travel - w3coderschool')
+@section('canonical', 'https://www.ResumeSathi.com/travel')
+@section('og-title', 'Best of Travel - ResumeSathi')
 @section('og-description', 'Here, we share all the new and latest information and tips related to the Travel')
-@section('og-url', 'https://www.w3coderschool.com/travel')
+@section('og-url', 'https://www.ResumeSathi.com/travel')
 @section('content')
 
     @php
@@ -51,14 +51,14 @@
                             </a>
                         </div>
                         @endforeach
-                       
+
                     </div>
                     <div class="row">
                         <div class="col-12">
                             <div id="pagination" class="post-pagination-container"></div>
                         </div>
                     </div>
-                    
+
                 </div>
             </div>
             <!-- Left Part End -->

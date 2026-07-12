@@ -148,7 +148,7 @@ class FrontController extends Controller
 
         return view('frontend.pages.travel', compact('articles', 'languages', 'popular'));
     }
-    
+
     function privacy_policy()
     {
         return view('frontend.pages.privacy-policy');
@@ -297,7 +297,7 @@ class FrontController extends Controller
             return view('error.error-400');
         }
         $course->addView();
-        $related = Course::related($course->course_type);
+        $related = Course::related($course->job_type_id ?? $course->department_id ?? $course->course_type, $course->id);
         return view('frontend.pages.course', compact('course', 'related'));
     }
 

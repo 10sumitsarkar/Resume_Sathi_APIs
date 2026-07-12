@@ -49,9 +49,9 @@
     <script>
         const firebaseConfig = {
             apiKey: "AIzaSyAYANyF-7KiOONso2EinguR64pr7_fkqRI",
-            authDomain: "w3coderschool-d2f95.firebaseapp.com",
-            projectId: "w3coderschool-d2f95",
-            storageBucket: "w3coderschool-d2f95.appspot.com",
+            authDomain: "ResumeSathi-d2f95.firebaseapp.com",
+            projectId: "ResumeSathi-d2f95",
+            storageBucket: "ResumeSathi-d2f95.appspot.com",
             messagingSenderId: "522977570113",
             appId: "1:522977570113:web:ae438c6416a904c7dc45c0",
             measurementId: "G-GY9GZ0KJ01"

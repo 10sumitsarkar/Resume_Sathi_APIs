@@ -26,7 +26,8 @@ class CategoryController extends Controller
                 $this->model = SnipitCategory::class;
                 break;
             default:
-                abort(404);
+                $this->model = ArticleCategory::class;
+                break;
         }
     }
 
@@ -57,7 +58,7 @@ class CategoryController extends Controller
     public function update(Request $request, $id)
     {
         $category = $this->model::findOrFail($id);
-        
+
         $validated = $request->validate([
             'name' => 'sometimes|string|max:255',
             'slug' => 'sometimes|string|unique:' . $this->model::getTable() . ',slug,' . $id,
@@ -74,4 +75,4 @@ class CategoryController extends Controller
         $category->delete();
         return response()->json(null, 204);
     }
-} 
+}

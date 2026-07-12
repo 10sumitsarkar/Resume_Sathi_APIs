@@ -6,14 +6,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
-    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="W3CoderSchool Logo">
-    <title>{{ $course->meta_title }}</title>
-    <meta name="description" content="{{ $course->meta_description }}">
-    <meta name="keywords" content="{{ $course->meta_keyword }}">
+    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="ResumeSathi Logo">
+    <title>{{ $course->meta_title ?? $course->title ?? 'Job' }}</title>
+    <meta name="description" content="{{ $course->meta_description ?? $course->description ?? '' }}">
+    <meta name="keywords" content="{{ $course->meta_keyword ?? '' }}">
     <link rel="canonical" href="{{ url($course->canonical_tag) }}" />
     <!--- OG meta tags start -->
-    <meta property="og:title" content="{{ $course->meta_title }}" />
-    <meta property="og:description" content="{{ $course->meta_description }}" />
+    <meta property="og:title" content="{{ $course->meta_title ?? $course->title ?? 'Job' }}" />
+    <meta property="og:description" content="{{ $course->meta_description ?? $course->description ?? '' }}" />
     <meta property="og:type" content="article" />
     <meta property="og:image" content="{{ asset('front-assets/images/logos/og-images.png') }}" />
     <meta property="og:url" content="{{ url($course->canonical_tag) }}" />
@@ -36,36 +36,33 @@
          window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
            gtag('js', new Date());
-    
+
          gtag('config', 'G-L3QP8NJR3K');
         </script>
         {{-- Google analytics code end --}}
 
     <script type="application/ld+json">
         {
-          "@context": "https://schema.org",
-          "@type": "Article",
+          "@@context": "https://schema.org",
+          "@@type": "Article",
           "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "{{ url($course->canonical_tag) }}"
+            "@@type": "WebPage",
+            "@@id": "{{ url($course->canonical_tag) }}"
           },
-          "headline": "{{ $course->meta_title }}",
-          "description": "{{ $course->meta_description }}",
-          "image": "{{asset($course->hero_image)}}", 
+          "headline": "{{ $course->meta_title ?? $course->title ?? 'Job' }}",
+          "description": "{{ $course->meta_description ?? $course->description ?? '' }}",
+          "image": "{{ asset($course->hero_image ?? 'front-assets/images/logos/og-images.png') }}",
           "author": {
             "@type": "Person",
-            "name": "{{ $course->user->first_name }} {{ $course->user->last_name }}"
-          }, 
-         
+            "name": "{{ optional($course->user)->first_name }} {{ optional($course->user)->last_name }}"
+          },
+
           "datePublished": "{{ $course->created_at->format('Y-m-d\TH:i:sP') }}"
         }
     </script>
 </head>
 
 <body>
-    @php
-        use Illuminate\Support\Carbon;
-    @endphp
     @include('frontend.layout.inc.header')
 
 
@@ -73,11 +70,11 @@
     <div class="sidebar-area">
         <button class="sidebar-collapse-btn"><img loading="lazy" src="{{ asset('front-assets/images/icons/collapse-btn.svg') }}" width="32" height="32" alt="Collapse Button"></button>
 
-        <h3 class="side-heading">{{ $course->course_category->course_name }}</h3>
+        <h3 class="side-heading">{{ optional($course->course_category)->course_name ?? 'Uncategorized' }}</h3>
         <div class="sidebar-scroll-div">
             @foreach ($related as $item)
                 <a href="{{ url($item->canonical_tag) }}"
-                    class="sidebar-links {{ $course->canonical_tag === $item->canonical_tag ? 'active' : '' }}">{{ $item->topic_name }}</a>
+                    class="sidebar-links {{ $course->canonical_tag === $item->canonical_tag ? 'active' : '' }}">{{ $item->title ?? $item->topic_name ?? 'Untitled' }}</a>
             @endforeach
         </div>
     </div>
@@ -85,18 +82,18 @@
     <!-- Right Part Start -->
     <div class="right-content-area">
         <div class="common-container ps-4 ps-md-5">
-            <h1 class="topics-heading" id="button-focused">{{ $course->topic_name }}</h1>
+            <h1 class="topics-heading" id="button-focused">{{ $course->title ?? $course->topic_name ?? 'Untitled' }}</h1>
             <div class="article-details-div">
                 <div class="left-part">
-                    <p><img loading="lazy" src="{{asset('front-assets/images/icons/single-post-author.svg')}}" alt="Author">{{ $course->user->first_name }} {{ $course->user->last_name }}</p>
-                    <p><img loading="lazy" src="{{asset('front-assets/images/icons/single-post-date.svg')}}" alt="Date">{{ Carbon::parse($course->created_at)->format('d M Y') }}</p>
+                    <p><img loading="lazy" src="{{asset('front-assets/images/icons/single-post-author.svg')}}" alt="Author">{{ optional($course->user)->first_name }} {{ optional($course->user)->last_name }}</p>
+                    <p><img loading="lazy" src="{{asset('front-assets/images/icons/single-post-date.svg')}}" alt="Date">{{ \Illuminate\Support\Carbon::parse($course->created_at)->format('d M Y') }}</p>
                 </div>
                 <div class="right-part">
-                    <p><img loading="lazy" src="{{asset('front-assets/images/icons/single-post-category.svg')}}" alt="Category">{{ $course->course_category->course_name }}</p>
+                    <p><img loading="lazy" src="{{asset('front-assets/images/icons/single-post-category.svg')}}" alt="Category">{{ optional($course->course_category)->course_name ?? 'Uncategorized' }}</p>
                 </div>
             </div>
             <div class="article-content-div my-4">
-                <p>{!! $course->content->content !!}</p>
+                <p>{!! optional($course->content)->content !!}</p>
             </div>
         </div>
         <!-- Right Part End -->

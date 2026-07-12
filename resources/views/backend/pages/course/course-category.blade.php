@@ -1,5 +1,5 @@
 @extends('backend.layout.master')
-@section('title', 'courses')
+@section('title', 'jobs')
 @section('custom-css')
     <link rel="stylesheet" href="https://cdn.datatables.net/1.13.1/css/dataTables.bootstrap4.min.css">
 @endsection
@@ -36,7 +36,7 @@
             <div class="card w-100">
                 <div class="card-body">
                     <div class="d-flex justify-content-between">
-                        <p class="card-title">Course Categories</p>
+                        <p class="card-title">Job Categories</p>
                         <p class=""><a class="btn btn-primary" href="{{ route('add-course-category') }}"><i class="fa fa-plus"></i> Add New Category</a>
                         </p>
                     </div>

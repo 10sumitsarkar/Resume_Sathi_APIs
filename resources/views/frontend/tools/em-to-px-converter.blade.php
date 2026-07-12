@@ -9,19 +9,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
-    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="W3CoderSchool Logo">
-    <title>EM to PX Converter | w3coderschool</title>
+    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="ResumeSathi Logo">
+    <title>EM to PX Converter | ResumeSathi</title>
     <meta name="description" content="Effortlessly convert EM values to Pixel units with our user-friendly EM to Pixel Converter tool. Enter the EM value, click 'Convert,' and instantly get the equivalent Pixel value based on a root font size of 16px. Simple, accurate, and convenient for responsive web design. Try it now!">
     <meta name="keywords" content="EM to Pixel Converter, EM to Pixel, Pixel conversion, Responsive web design, Web development tool">
-    <link rel="canonical" href="https://www.w3coderschool.com/em-to-px-converter" />
+    <link rel="canonical" href="https://www.ResumeSathi.com/em-to-px-converter" />
 
     <!--- OG meta tags start -->
-    <meta property="og:title" content="EM to PX Converter | w3coderschool" />
+    <meta property="og:title" content="EM to PX Converter | ResumeSathi" />
     <meta property="og:description"
         content="Effortlessly convert EM values to Pixel units with our user-friendly EM to Pixel Converter tool. Enter the EM value, click 'Convert,' and instantly get the equivalent Pixel value based on a root font size of 16px. Simple, accurate, and convenient for responsive web design. Try it now!" />
     <meta property="og:type" content="article" />
     <meta property="og:image" content="{{ asset('front-assets/images/logos/og-images.png') }}" />
-    <meta property="og:url" content="https://www.w3coderschool.com/em-to-px-converter" />
+    <meta property="og:url" content="https://www.ResumeSathi.com/em-to-px-converter" />
     <!--- OG meta tags end -->
 
     <!-- bootstrap 5 CDN and css -->
@@ -37,7 +37,7 @@
          window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
            gtag('js', new Date());
-    
+
          gtag('config', 'G-L3QP8NJR3K');
         </script>
         {{-- Google analytics code end --}}

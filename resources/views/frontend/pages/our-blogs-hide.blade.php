@@ -1,17 +1,17 @@
 @extends('frontend.layout.master')
 @section('title', 'Best of Internet')
-@section('description', 'Explore the best of the internet with w3coderschool. Find insightful articles on technology, coding, web development, and the latest trends in the tech industry. Stay informed with tutorials, programming tips, and in-depth tech blogs.')
-@section('keywords', 'Best of Internet, w3coderschool, Technology Articles, Coding Tutorials, Tech Blogs, Web Development, Learn Coding, Programming Tips, Tech Industry News, HTML CSS JavaScript, Software Development, Digital Innovation, Online Learning, IT Trends, Emerging Technologies')
-@section('canonical', 'https://www.w3coderschool.com/our-blogs')
-@section('og-title', 'Best of Internet - w3coderschool')
-@section('og-description', 'Explore the best of the internet with w3coderschool. Find insightful articles on technology, coding, web development, and the latest trends in the tech industry. Stay informed with tutorials, programming tips, and in-depth tech blogs.')
-@section('og-url', 'https://www.w3coderschool.com/our-blogs')
+@section('description', 'Explore the best of the internet with ResumeSathi. Find insightful articles on technology, coding, web development, and the latest trends in the tech industry. Stay informed with tutorials, programming tips, and in-depth tech blogs.')
+@section('keywords', 'Best of Internet, ResumeSathi, Technology Articles, Coding Tutorials, Tech Blogs, Web Development, Learn Coding, Programming Tips, Tech Industry News, HTML CSS JavaScript, Software Development, Digital Innovation, Online Learning, IT Trends, Emerging Technologies')
+@section('canonical', 'https://www.ResumeSathi.com/our-blogs')
+@section('og-title', 'Best of Internet - ResumeSathi')
+@section('og-description', 'Explore the best of the internet with ResumeSathi. Find insightful articles on technology, coding, web development, and the latest trends in the tech industry. Stay informed with tutorials, programming tips, and in-depth tech blogs.')
+@section('og-url', 'https://www.ResumeSathi.com/our-blogs')
 @section('content')
 
-    @php 
+    @php
         use Illuminate\Support\Carbon;
     @endphp
-    
+
  <!-- Header Start -->
  <div class="common-container pt-5">
     <h1 class="topics-heading" >Best of <span>Internet</span></h1>

@@ -8,11 +8,11 @@
     tag,html Small tag,html Pre tag,html Mark tag,html Centre tag,html Delete text tag,html Comment tag,html Anchor
     tag,html,Remove underline,html Target attribute,html Title attribute,html Button tag,html Alt tag,Html table,HTML
     list,HTML form')
-@section('canonical', 'https://www.w3coderschool.com/notes/html-notes-pdf')
+@section('canonical', 'https://www.ResumeSathi.com/notes/html-notes-pdf')
 @section('og-title', 'html notes')
 @section('og:description', 'In this pdf html notes w3schools we cover all the important topic of html which help you to
     learn basic to advance tutorial of html (pdf).')
-@section('og-url', 'https://www.w3coderschool.com/notes/html-notes-pdf')
+@section('og-url', 'https://www.ResumeSathi.com/notes/html-notes-pdf')
 <meta name="robots" content="noindex" />
 @push('custom_css')
     <style>

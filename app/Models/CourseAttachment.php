@@ -9,13 +9,12 @@ class CourseAttachment extends Model
 {
     use HasFactory;
 
+    protected $table = 'job_attachments';
+
     protected $fillable = [
         'course_id',
-        'file_name',
-        'file_path',
+        'file',
         'file_type',
-        'file_size',
-        'is_active',
     ];
 
     /**

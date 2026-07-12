@@ -5,7 +5,7 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>w3coderschool | @yield('title')</title>
+  <title>ResumeSathi | @yield('title')</title>
   <!-- plugins:css -->
   <link rel="stylesheet" href="{{ asset('dashboard-assets/vendors/feather/feather.css') }}">
   <link rel="stylesheet" href="{{ asset('dashboard-assets/vendors/ti-icons/css/themify-icons.css') }}">

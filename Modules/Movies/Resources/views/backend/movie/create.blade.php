@@ -781,9 +781,9 @@ Edit your content here...
                 document.getElementById('MovieProduction').value = productionCompanies;
                 document.getElementById('MovieDirector').value = director;
                 document.getElementById('MetaTitle').value = movie.title + ' Movie ' + movie.release_date.split('-')[0] +
-                    ' | Release Date, Review, Cast, Trailer, Watch Online at Amazon Prime Video, Netflix - w3coderschool'
+                    ' | Release Date, Review, Cast, Trailer, Watch Online at Amazon Prime Video, Netflix - ResumeSathi'
                 document.getElementById('MetaDescription').value = movie.title + ' Movie: Find ' + movie.title +
-                    ' movie release date, cast, trailer, review, critics rating, duration on w3coderschool';
+                    ' movie release date, cast, trailer, review, critics rating, duration on ResumeSathi';
                 document.getElementById('MetaKeyword').value = movie.title + ',' + movie.title + ' cast,' + movie.title +
                     ' director,' + movie.title + ' trailer,' + movie.title + ' ad teaser ';
                 tinymce.get('tinyMceExample').setContent(`

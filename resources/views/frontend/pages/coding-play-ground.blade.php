@@ -5,11 +5,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
-    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="W3CoderSchool Logo">
-    <title>Code Playground | w3coderschool</title>
+    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="ResumeSathi Logo">
+    <title>Code Playground | ResumeSathi</title>
     <meta name="description" content="Test your JavaScript, CSS, HTML or CoffeeScript online">
-    <meta name="keywords" content="Code Playground, w3coderschool, Learn Coding Online, Online Code Editor, Web Development Playground, HTML CSS JavaScript Practice, Online Programming Platform, Code Learning Tools, Try Coding Online, Interactive Coding Lessons, Frontend Code Practice, Web Developer Sandbox, Online Coding Tutorials, Test Code Online, Programming Playground, Free Code Editor, Online Coding Exercises, Real-time Code Compiler, JavaScript Code Editor Online, Beginner Coding Lessons">
-    <link rel="canonical" href="https://www.w3coderschool.com/coding-play-ground" />
+    <meta name="keywords" content="Code Playground, ResumeSathi, Learn Coding Online, Online Code Editor, Web Development Playground, HTML CSS JavaScript Practice, Online Programming Platform, Code Learning Tools, Try Coding Online, Interactive Coding Lessons, Frontend Code Practice, Web Developer Sandbox, Online Coding Tutorials, Test Code Online, Programming Playground, Free Code Editor, Online Coding Exercises, Real-time Code Compiler, JavaScript Code Editor Online, Beginner Coding Lessons">
+    <link rel="canonical" href="https://www.ResumeSathi.com/coding-play-ground" />
 
     <!-- Preloded CSS start -->
     <link rel="preload" as="style" href="{{ asset('front-assets/css/bootstrap.min.css') }}">
@@ -40,7 +40,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/mode/javascript/javascript.min.js"></script>
 
     <!--- OG meta tags start -->
-    <meta property="og:title" content="Code Playground | w3coderschool" />
+    <meta property="og:title" content="Code Playground | ResumeSathi" />
     <meta property="og:description" content="Test your JavaScript, CSS, HTML or CoffeeScript online" />
     <meta property="og:type" content="website" />
     <meta property="og:image" content="" />
@@ -50,14 +50,14 @@
     {{-- Google Ads Start --}}
     @include('frontend.layout.inc.ads.auto-ads')
     {{-- Google Ads End --}}
-       
+
         {{-- Google analytics code start --}}
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-L3QP8NJR3K"></script>
         <script>
          window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
            gtag('js', new Date());
-    
+
          gtag('config', 'G-L3QP8NJR3K');
         </script>
         {{-- Google analytics code end --}}
@@ -92,7 +92,7 @@
                         height="16" alt="HTML Code">
                     HTML
                 </div>
-                <textarea class="editor-content" id="html-content"><p>Welcome to <span>w3coderschool</span></p></textarea>
+                <textarea class="editor-content" id="html-content"><p>Welcome to <span>ResumeSathi</span></p></textarea>
             </div>
 
             <div class="editor-pane mob-tab" id="css-pane">
@@ -104,7 +104,7 @@
                 <textarea class="editor-content" id="css-content">p {
 color:#333;
 text-align:center;
-font-size:28px; 
+font-size:28px;
 margin-top:35px;
 }
 

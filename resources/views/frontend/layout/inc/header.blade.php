@@ -1,7 +1,7 @@
         <!-- Navbar start -->
         <nav class="navbar-main common-container">
             <a href="{{ url('/') }}" aria-label="Logo"><img src="{{ asset('front-assets/images/logos/logo.svg') }}"
-                    width="110" height="56" alt="w3coderschool"></a>
+                    width="110" height="56" alt="ResumeSathi"></a>
             <div class="all-links-category">
                 <ul class="nav-all-links">
                     <li class="link-list"><button aria-label="Tutorial">Tutorials</button>
@@ -139,8 +139,9 @@
                             </ul>
                         </div>
                     </li>
-                    <li class="link-list"><a href="{{ url('free-resume-builder') }}"
-                            aria-label="Create Resume">Create Resume</a>
+                    <li class="link-list"><a href="http://localhost:3000" target="_blank" rel="noopener noreferrer" aria-label="Blogs">Blogs</a>
+                    </li>
+                    <li class="link-list"><a href="{{ url('free-resume-builder') }}" aria-label="Create Resume">Create Resume</a>
                     </li>
                     {{-- <li class="link-list"><a href="{{ url('/') }}" aria-label="Home">Home</a>
                     </li>
@@ -363,17 +364,17 @@
                                     <ul class="sub-content list-group" data-title="Entertainment">
                                         <li class="sub-catecory-each-list">
                                             <ul>
-                                                 <li class="list-group-item"><a href="https://www.w3coderschool.com/movies/hindi"><img src="{{ asset('front-assets/images/icons/nav-entertainment.svg') }}" alt="Bollywood Movies">Bollywood Movies</a></li>
-                                                 <li class="list-group-item"><a href="https://www.w3coderschool.com/movies/english"><img src="{{ asset('front-assets/images/icons/nav-entertainment.svg') }}" alt="Hollywood Movies">Hollywood Movies</a></li>
-                                                 <li class="list-group-item"><a href="https://www.w3coderschool.com/movies/tamil"><img src="{{ asset('front-assets/images/icons/nav-entertainment.svg') }}" alt="Tamil Movies">Tamil Movies</a></li>
-                                                 <li class="list-group-item"><a href="https://www.w3coderschool.com/movies/telgu"><img src="{{ asset('front-assets/images/icons/nav-entertainment.svg') }}" alt="Telgu Movies">Telgu Movies</a></li>
-                                                 <li class="list-group-item"><a href="https://www.w3coderschool.com/movies/bangla"><img src="{{ asset('front-assets/images/icons/nav-entertainment.svg') }}" alt="Bangla Movies">Bangla Movies</a></li>
-                                                 <li class="list-group-item"><a href="https://www.w3coderschool.com/movies/web-series"><img src="{{ asset('front-assets/images/icons/nav-entertainment.svg') }}" alt=" Web Series">Web Series</a></li>
-                                         
+                                                 <li class="list-group-item"><a href="https://www.ResumeSathi.com/movies/hindi"><img src="{{ asset('front-assets/images/icons/nav-entertainment.svg') }}" alt="Bollywood Movies">Bollywood Movies</a></li>
+                                                 <li class="list-group-item"><a href="https://www.ResumeSathi.com/movies/english"><img src="{{ asset('front-assets/images/icons/nav-entertainment.svg') }}" alt="Hollywood Movies">Hollywood Movies</a></li>
+                                                 <li class="list-group-item"><a href="https://www.ResumeSathi.com/movies/tamil"><img src="{{ asset('front-assets/images/icons/nav-entertainment.svg') }}" alt="Tamil Movies">Tamil Movies</a></li>
+                                                 <li class="list-group-item"><a href="https://www.ResumeSathi.com/movies/telgu"><img src="{{ asset('front-assets/images/icons/nav-entertainment.svg') }}" alt="Telgu Movies">Telgu Movies</a></li>
+                                                 <li class="list-group-item"><a href="https://www.ResumeSathi.com/movies/bangla"><img src="{{ asset('front-assets/images/icons/nav-entertainment.svg') }}" alt="Bangla Movies">Bangla Movies</a></li>
+                                                 <li class="list-group-item"><a href="https://www.ResumeSathi.com/movies/web-series"><img src="{{ asset('front-assets/images/icons/nav-entertainment.svg') }}" alt=" Web Series">Web Series</a></li>
+
                                             </ul>
                                         </li>
                                     </ul>
-                                </div>                                
+                                </div>
                                 <div class="col-6 mb-3">
                                     <a href="{{ url('our-blogs') }}" class="each-category-link">
                                         <img src="{{ asset('front-assets/images/icons/nav-bestof.svg') }}"

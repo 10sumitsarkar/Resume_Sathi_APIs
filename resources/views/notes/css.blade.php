@@ -18,13 +18,13 @@
     QueriesRWD ImagesRWD VideosRWD FrameworksRWD TemplatesGrid IntroGrid ContainerGrid Item,CSS Templates,CSS Examples,CSS
     Quiz,CSS Exercises,CSS Certificate,CSS Reference,CSS Selectors,CSS Functions,CSS Reference Aural,CSS Web Safe Fonts,CSS
     Animatable,CSS Units,CSS PX-EM Converter,CSS Colors,CSS Color Values')
-@section('canonical', 'https://www.w3coderschool.com/notes/css-notes-pdf')
+@section('canonical', 'https://www.ResumeSathi.com/notes/css-notes-pdf')
 
 @section('og-title', 'css notes')
 @section('og:description',
     'In this tutorial we cover all the topic of cascading style sheets (css) which help you to
     learn basic to advance tutorial of css (pdf).')
-@section('og-url', 'https://www.w3coderschool.com/notes/css-notes-pdf')
+@section('og-url', 'https://www.ResumeSathi.com/notes/css-notes-pdf')
 <meta name="robots" content="noindex" />
 @push('custom-css')
     <style>
@@ -253,14 +253,14 @@
 
         <div style="text-align:center;font-weight:800;"><img src="{{ asset('front-assets/images/icons/new-image.gif') }}"
                 alt="new_gif" width="24"> Learn SQL
-            with notes <a class="text-success" href="https://www.w3coderschool.com/notes/sql-notes-pdf"> click
+            with notes <a class="text-success" href="https://www.ResumeSathi.com/notes/sql-notes-pdf"> click
                 here </a><img src="{{ asset('front-assets/images/icons/new-image.gif') }}" alt="new_gif" width="24">
         </div>
 
         <br>
         <div style="text-align:center;font-weight:800;"><img src="{{ asset('front-assets/images/icons/new-image.gif') }}"
                 alt="new_gif" width="24"> Learn
-            HTML with notes <a class="text-success" href="https://www.w3coderschool.com/notes/html-notes-pdf">
+            HTML with notes <a class="text-success" href="https://www.ResumeSathi.com/notes/html-notes-pdf">
                 click here </a><img src="{{ asset('front-assets/images/icons/new-image.gif') }}" alt="new_gif"
                 width="24"></div>
         <br>

@@ -1,5 +1,5 @@
 @extends('backend.layout.master')
-@section('title', 'Create Course')
+@section('title', 'Create Job')
 @section('page-css')
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <link rel="stylesheet" href="{{ asset('dashboard-assets/vendors/select2/select2.min.css') }}">

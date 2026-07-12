@@ -9,18 +9,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
-    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="W3CoderSchool Logo">
-    <title>Animation.css Preview | w3coderschool</title>
+    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="ResumeSathi Logo">
+    <title>Animation.css Preview | ResumeSathi</title>
     <meta name="description" content="Effortlessly test, customize, and visualize CSS animations in real time for seamless web development.">
     <meta name="keywords" content="CSS animations, Animation.css, CSS effects, web animations, animate CSS, preview animations, custom CSS animations, front-end development, web design, animation preview tool">
-    <link rel="canonical" href="https://www.w3coderschool.com/case-converter" />
+    <link rel="canonical" href="https://www.ResumeSathi.com/case-converter" />
 
     <!--- OG meta tags start -->
-    <meta property="og:title" content="Animation.css Preview | w3coderschool" />
+    <meta property="og:title" content="Animation.css Preview | ResumeSathi" />
     <meta property="og:description" content="Effortlessly test, customize, and visualize CSS animations in real time for seamless web development." />
     <meta property="og:type" content="article" />
     <meta property="og:image" content="{{ asset('front-assets/images/logos/og-images.png') }}" />
-    <meta property="og:url" content="https://www.w3coderschool.com/case-converter" />
+    <meta property="og:url" content="https://www.ResumeSathi.com/case-converter" />
     <!--- OG meta tags end -->
 
     <!-- bootstrap 5 CDN and css -->
@@ -39,7 +39,7 @@
          window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
            gtag('js', new Date());
-    
+
          gtag('config', 'G-L3QP8NJR3K');
         </script>
         {{-- Google analytics code end --}}
@@ -71,7 +71,7 @@
                             <select id="animationSelect" onchange="applyAnimation()"></select>
                         </div>
                         <div id="animatedText">
-                            W3CoderSchool                            
+                            ResumeSathi
                         </div>
                     </div>
                     <p class="animate-code-para">Add the following link inside the <b>&lt;head&gt;</b> tag of your HTML file.</p>
@@ -114,7 +114,7 @@
                         @include('frontend.layout.inc.sidebar-components.search-adsense')
                     </div>
                     <!-- Google search End -->
-                
+
                     {{-- Others Tools  Start --}}
                     @include('frontend.layout.inc.sidebar-components.tools-categories')
                     {{-- Other Tools End --}}
