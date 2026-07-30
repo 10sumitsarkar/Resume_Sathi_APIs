@@ -33,4 +33,7 @@ Route::get('/article-comments', [PublicContentController::class, 'articleComment
 Route::post('/article-comments', [PublicContentController::class, 'storeArticleComment']);
 Route::get('/courses', [PublicContentController::class, 'courses']);
 Route::get('/course-categories', [PublicContentController::class, 'courseCategories']);
+Route::match(['get', 'post'], '/public-cache/rebuild', [PublicContentController::class, 'rebuildCache']);
+Route::get('/public-cache/{filename}', [PublicContentController::class, 'cacheFile'])
+    ->where('filename', 'articles\.json|jobs\.json|article-categories\.json|job-categories\.json|manifest\.json');
 Route::get('/pdf/download/{file}', [PdfController::class, 'download']);

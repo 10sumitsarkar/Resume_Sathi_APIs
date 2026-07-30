@@ -1,0 +1,79 @@
+[
+    {
+        "id": 9,
+        "course_name": "Railways",
+        "course_url": "railways",
+        "course_image": "courses/Indian-Railways.svg",
+        "description": "Latest railway job updates, recruitment notifications, exam details, and career opportunities in the railway",
+        "created_at": "2026-07-16T15:33:50.000000Z",
+        "updated_at": "2026-07-16T15:33:50.000000Z",
+        "deleted_at": null,
+        "created_by": 1
+    },
+    {
+        "id": 10,
+        "course_name": "State PSC",
+        "course_url": "state-psc",
+        "course_image": "courses/Emblem_of_India_(navy_blue).svg",
+        "description": "State-level Public Service Commission (WBPSC, UPPSC, BPSC etc.) recruitment notifications.",
+        "created_at": "2026-07-18T18:41:29.000000Z",
+        "updated_at": "2026-07-18T18:41:29.000000Z",
+        "deleted_at": null,
+        "created_by": 1
+    },
+    {
+        "id": 11,
+        "course_name": "Judiciary",
+        "course_url": "judiciary",
+        "course_image": "courses/game-icons_injustice.svg",
+        "description": "Recruitment notifications from High Courts, District Courts and other judicial bodies across India.",
+        "created_at": "2026-07-19T13:59:17.000000Z",
+        "updated_at": "2026-07-19T14:01:26.000000Z",
+        "deleted_at": null,
+        "created_by": 1
+    },
+    {
+        "id": 12,
+        "course_name": "Defence",
+        "course_url": "defence",
+        "course_image": "courses/62967shield_109323.svg",
+        "description": "Recruitment notifications from Indian Army, Navy, Air Force and other central defence forces, including Agniveer intake.",
+        "created_at": "2026-07-20T06:49:07.000000Z",
+        "updated_at": "2026-07-20T06:49:07.000000Z",
+        "deleted_at": null,
+        "created_by": 1
+    },
+    {
+        "id": 13,
+        "course_name": "PSU",
+        "course_url": "psu",
+        "course_image": "courses/building-construction-industry-svgrepo-com.svg",
+        "description": "Recruitment notifications from Central Public Sector Undertakings like AAI, ONGC, NTPC, SAIL and others.",
+        "created_at": "2026-07-24T06:36:57.000000Z",
+        "updated_at": "2026-07-24T06:36:57.000000Z",
+        "deleted_at": null,
+        "created_by": 1
+    },
+    {
+        "id": 14,
+        "course_name": "University",
+        "course_url": "university",
+        "course_image": "",
+        "description": "Recruitment notifications from JNU, DU, BHU and other Central Universities for teaching and non-teaching posts.",
+        "created_at": "2026-07-26T19:31:29.000000Z",
+        "updated_at": "2026-07-26T19:31:29.000000Z",
+        "deleted_at": null,
+        "created_by": 1
+    },
+    {
+        "id": 15,
+        "course_name": "Teaching",
+        "course_url": "teaching",
+        "course_image": "courses/book-open-thin-svgrepo-com.svg",
+        "description": "Teacher recruitment notifications for STET, CTET-based and other government teaching posts across states.",
+        "created_at": "2026-07-30T05:06:00.000000Z",
+        "updated_at": "2026-07-30T05:10:33.000000Z",
+        "deleted_at": null,
+        "created_by": 1
+    }
+]

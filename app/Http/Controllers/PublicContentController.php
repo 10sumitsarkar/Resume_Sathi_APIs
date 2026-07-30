@@ -7,7 +7,9 @@ use App\Models\ArticleCategory;
 use App\Models\ArticleComment;
 use App\Models\Course;
 use App\Models\CourseCategory;
+use App\Services\PublicContentCacheService;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Validator;
 
 class PublicContentController extends Controller
@@ -61,8 +63,7 @@ class PublicContentController extends Controller
         $article = Article::with(['user', 'category', 'contents'])
             ->where(['is_draft' => 0, 'status' => 1, 'is_active' => 1])
             ->where(function ($query) use ($decodedSlug) {
-                $query->where('slug', $decodedSlug)
-                    ->orWhere('url_name', $decodedSlug)
+                $query->where('url_name', $decodedSlug)
                     ->orWhere('canonical_tag', $decodedSlug)
                     ->orWhere('canonical_tag', 'like', "%/{$decodedSlug}");
             })
@@ -150,5 +151,40 @@ class PublicContentController extends Controller
     public function courseCategories()
     {
         return CourseCategory::orderBy('id')->get();
+    }
+
+    public function rebuildCache(PublicContentCacheService $cache)
+    {
+        return response()->json([
+            'message' => 'Public content cache rebuilt successfully',
+            'counts' => $cache->rebuild(),
+        ]);
+    }
+
+    public function cacheFile($filename)
+    {
+        $allowed = [
+            'articles.json',
+            'jobs.json',
+            'article-categories.json',
+            'job-categories.json',
+            'manifest.json',
+        ];
+
+        if (!in_array($filename, $allowed, true)) {
+            abort(404);
+        }
+
+        $path = public_path(PublicContentCacheService::DIRECTORY . DIRECTORY_SEPARATOR . $filename);
+        if (!File::exists($path)) {
+            app(PublicContentCacheService::class)->rebuild();
+        }
+
+        return response(File::get($path), 200, [
+            'Content-Type' => 'application/json; charset=utf-8',
+            'Cache-Control' => 'no-cache, no-store, must-revalidate',
+            'Pragma' => 'no-cache',
+            'Expires' => '0',
+        ]);
     }
 }

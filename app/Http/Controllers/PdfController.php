@@ -26,7 +26,17 @@ class PdfController extends Controller
 
             'quality'=>[
                 'nullable',
-                'in:extreme,recommended,less'
+                'in:extreme,recommended,less,screen,ebook,printer,prepress'
+            ],
+
+            'compression'=>[
+                'nullable',
+                'in:extreme,recommended,less,screen,ebook,printer,prepress'
+            ],
+
+            'level'=>[
+                'nullable',
+                'in:extreme,recommended,less,screen,ebook,printer,prepress'
             ]
 
         ]);
@@ -92,7 +102,12 @@ class PdfController extends Controller
 
 
 
-        $quality = $request->quality ?? 'recommended';
+        $quality = $this->normalizeCompressionLevel(
+            $request->input('quality')
+                ?? $request->input('compression')
+                ?? $request->input('level')
+                ?? 'recommended'
+        );
 
 
 
@@ -286,6 +301,17 @@ class PdfController extends Controller
         )."%";
 
 
+    }
+
+    private function normalizeCompressionLevel($quality)
+    {
+        return match ($quality) {
+            'screen' => 'extreme',
+            'ebook' => 'recommended',
+            'printer', 'prepress' => 'less',
+            'extreme', 'recommended', 'less' => $quality,
+            default => 'recommended',
+        };
     }
     
     public function download($file)
