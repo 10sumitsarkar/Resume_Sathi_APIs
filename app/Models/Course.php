@@ -45,6 +45,8 @@ class Course extends Model
         'trending',
         'urgent',
         'homepage',
+        'application_begin',
+        'last_date_for_apply',
     ];
     // protected $dates = ['deleted_at'];
 

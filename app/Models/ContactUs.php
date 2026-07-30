@@ -9,14 +9,13 @@ class ContactUs extends Model
 {
     use HasFactory;
 
-    protected $fillable = [
-        'name',
-        'email',
-        'subject',
-        'message',
-        'phone',
-        'status',
-    ];
+protected $fillable = [
+    'first_name',
+    'last_name',
+    'phone_number',
+    'email',
+    'message',
+];
 
     protected $casts = [
         'status' => 'boolean',

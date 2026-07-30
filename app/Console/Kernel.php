@@ -13,10 +13,43 @@ class Kernel extends ConsoleKernel
      * @param  \Illuminate\Console\Scheduling\Schedule  $schedule
      * @return void
      */
-    protected function schedule(Schedule $schedule)
-    {
-        // $schedule->command('inspire')->hourly();
-    }
+ protected function schedule(Schedule $schedule)
+{
+    $schedule->call(function () {
+
+        $folders = [
+
+            storage_path('app/temp'),
+
+            storage_path('app/public/pdf')
+
+        ];
+
+        foreach($folders as $folder){
+
+            if(!is_dir($folder)){
+                continue;
+            }
+
+            $files = glob($folder.'/*');
+
+            foreach($files as $file){
+
+                if(
+                    is_file($file) &&
+                    time() - filemtime($file) > 3 * 60 * 60
+                ){
+
+                    unlink($file);
+
+                }
+
+            }
+
+        }
+
+    })->hourly();
+}
 
     /**
      * Register the commands for the application.

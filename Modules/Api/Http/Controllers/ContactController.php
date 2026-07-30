@@ -11,25 +11,27 @@ class ContactController extends Controller
     public function store(Request $request)
     {
         $validated = $request->validate([
-            'name' => 'required|string|max:255',
-            'email' => 'required|email|max:255',
-            'subject' => 'required|string|max:255',
+            'name'    => 'required|string|max:255',
+            'email'   => 'required|email|max:255',
+            'phone'   => 'nullable|string|max:20',
             'message' => 'required|string',
-            'phone' => 'nullable|string|max:20',
+            'subject' => 'nullable|string|max:255', // Validation ke liye rakha hai, DB me save nahi hoga
         ]);
 
+        // Full name ko first_name & last_name me split karna
+        $nameParts = preg_split('/\s+/', trim($validated['name']), 2);
+
         $contact = ContactUs::create([
-            'name' => $validated['name'],
-            'email' => $validated['email'],
-            'subject' => $validated['subject'],
-            'message' => $validated['message'],
-            'phone' => $validated['phone'] ?? null,
-            'status' => false,
+            'first_name'  => $nameParts[0] ?? '',
+            'last_name'   => $nameParts[1] ?? '',
+            'email'       => $validated['email'],
+            'phone_number'=> $validated['phone'] ?? null,
+            'message'     => $validated['message'],
         ]);
 
         return response()->json([
             'message' => 'Contact form submitted successfully',
-            'data' => $contact
+            'data'    => $contact,
         ], 201);
     }
-} 
+}

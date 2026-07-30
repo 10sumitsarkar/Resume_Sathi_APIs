@@ -151,6 +151,8 @@ class CourseController extends Controller
             $course_type = $request->course_type;
             $is_active = $request->is_active ? 1 : 0;
             $is_draft = $request->is_draft ? 1 : 0;
+            $applicationBegin = $request->application_begin;
+            $lastDateForApply = $request->last_date_for_apply;
 
             $created_by = Auth::id();
 
@@ -226,6 +228,12 @@ class CourseController extends Controller
             }
             if (Schema::hasColumn('jobs', 'created_by')) {
                 $update['created_by'] = $created_by;
+            }
+            if (Schema::hasColumn('jobs', 'application_begin')) {
+                $update['application_begin'] = $applicationBegin;
+            }
+            if (Schema::hasColumn('jobs', 'last_date_for_apply')) {
+                $update['last_date_for_apply'] = $lastDateForApply;
             }
 
             // Status: if is_draft is checked, keep status 0, otherwise set to 1

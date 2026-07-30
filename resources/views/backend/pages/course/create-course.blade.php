@@ -98,6 +98,20 @@ Edit your content here...
                             </div>
                         </div>
                         <div class="form-group row">
+                            <label for="ApplicationBegin" class="col-sm-3 col-form-label">Application Begin</label>
+                            <div class="col-sm-9">
+                                <input type="date" class="form-control" id="ApplicationBegin" name="application_begin"
+                                    value="{{ $course->application_begin ?? '' }}">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <label for="LastDateForApply" class="col-sm-3 col-form-label">Last Date for Apply</label>
+                            <div class="col-sm-9">
+                                <input type="date" class="form-control" id="LastDateForApply" name="last_date_for_apply"
+                                    value="{{ $course->last_date_for_apply ?? '' }}">
+                            </div>
+                        </div>
+                        <div class="form-group row">
                             <label for="MetaTitle" class="col-sm-3 col-form-label">Meta Title</label>
                             <div class="col-sm-9">
                                 <input type="text" class="form-control" id="MetaTitle" name="meta_title"
