@@ -7,6 +7,7 @@ use App\Http\Controllers\AuthController;
 use App\Http\Controllers\CompilerController;
 use App\Http\Controllers\CourseController;
 use App\Http\Controllers\DashboardController;
+use App\Http\Controllers\DynamicContentController;
 use App\Http\Controllers\FrontController;
 use App\Http\Controllers\NotesController;
 use App\Http\Controllers\NotificationController;
@@ -60,6 +61,12 @@ Route::match(['get', 'post'], 'contact-us', [FrontController::class, 'contact_us
 Route::get('privacy-policy', [FrontController::class, 'privacy_policy'])->name('privacy-policy');
 Route::get('disclaimer', [FrontController::class, 'disclaimer'])->name('disclaimer');
 Route::get('terms-and-conditions', [FrontController::class, 'terms_and_conditions'])->name('terms-and-conditions');
+
+// Dynamic SEO routes for shared hosting. These pages are rendered from the
+// database, so new jobs/blogs do not need a Next static rebuild.
+Route::get('sitemap.xml', [DynamicContentController::class, 'sitemap'])->name('dynamic-sitemap');
+Route::get('jobs/{slug}', [DynamicContentController::class, 'job'])->name('dynamic-job');
+Route::get('blog/{slug}', [DynamicContentController::class, 'blog'])->name('dynamic-blog');
 
 // CSS Tools
 Route::get('dev/animate-preview', [FrontController::class, 'animate_preview_tool'])->name('animate-preview');
