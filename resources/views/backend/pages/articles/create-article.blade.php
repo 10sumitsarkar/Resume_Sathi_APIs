@@ -44,26 +44,28 @@
             {{-- {{dd($article)}} --}}
             <form method="POST" class="col-lg-12" enctype="multipart/form-data">
                 @csrf
+                <div class="rs-form-steps">
+                    <span class="active" data-step-nav="1"><b>01</b> Details</span>
+                    <span data-step-nav="2"><b>02</b> Meta & Publish</span>
+                </div>
                 <div class="card">
                     <div class="card-body">
                         <div class="row">
                             <div class="col-md-9 col">
                                 <h4 class="card-title">Web Development Article</h4>
                             </div>
-                            <div class="col-md-3 col">
-                                <div class=" float-right">
+                            <div class="col-md-3 col rs-switch-group">
+                                <input type="hidden" name="is_draft" id="draftCheck" value="1" {{ $article->is_active ? 'disabled' : '' }}>
+                                <div class="rs-switch-field">
                                     <input class="form-check-input" name="is_active" type="checkbox" role="switch" id="activeCheck" {{ $article->is_active ? 'checked' : '' }}>
-                                    <label class="form-check-label" for="activeCheck">Active</label>
-                                </div>
-                                <div class="">
-                                    <input class="form-check-input" name="is_draft" type="checkbox" role="switch" id="draftCheck" {{ $article->is_draft ? 'checked' : '' }}>
-                                    <label class="form-check-label" for="draftCheck">Draft</label>
+                                    <label class="form-check-label" for="activeCheck">Publish</label>
                                 </div>
                             </div>
                         </div>
                         <p class="card-description">
                             Create Article Form
                         </p>
+                        <div class="rs-step-panel" data-step-panel="1">
                         <textarea name="editordata" id='tinyMceExample'>
                             @if ($article->content)
                             {{$article->content->content}}
@@ -72,7 +74,7 @@
                             @endif
                         </textarea>
                         <br />
-                        <h4 class="card-title">Article Detail</h4>
+                        <h4 class="card-title rs-step-title">Article Details</h4>
                         <div class="form-group row">
                             <label for="ArticleName" class="col-sm-3 col-form-label">Article Title<span class="text-danger">*</span></label>
                             <div class="col-sm-9">
@@ -87,6 +89,9 @@
                                  value="{{ $article->url_name }}" required  placeholder="URL title here...">
                             </div>
                         </div>
+                        </div>
+                        <div class="rs-step-panel" data-step-panel="2" style="display:none">
+                        <h4 class="card-title rs-step-title">Meta & Publish</h4>
                         <div class="form-group row">
                             <label for="MetaTitle" class="col-sm-3 col-form-label">Meta Title</label>
                             <div class="col-sm-9">
@@ -169,10 +174,26 @@
                         </div>
                         <br>
                         <input type="hidden" name="article_id" value="{{ $article->id }}">
-                        <button type="submit" class="btn btn-primary">Save Detail</button>
+                        <button type="submit" class="btn btn-primary rs-inline-submit">Save Detail</button>
+                        </div>
                     </div>
                 </div>
+                <div class="rs-fixed-actions">
+                    <button type="button" class="btn rs-step-back" style="display:none"><i class="fa fa-arrow-left"></i> Previous</button>
+                    <button type="button" class="btn btn-primary rs-step-next">Next <i class="fa fa-arrow-right"></i></button>
+                    <button type="submit" class="btn btn-primary rs-step-submit" style="display:none">Submit</button>
+                </div>
             </form>
+            <aside class="col-lg-4 d-none">
+                <div class="rs-form-checklist">
+                    <div class="rs-form-checklist-head">
+                        <strong>Article Checklist</strong>
+                        <span>2 steps</span>
+                    </div>
+                    <div class="rs-check-item active"><i class="fa fa-check"></i><div><strong>Details</strong><small>Title, slug, content and category</small></div></div>
+                    <div class="rs-check-item"><i class="fa fa-circle-o"></i><div><strong>Meta & Publish</strong><small>SEO fields, image and publish status</small></div></div>
+                </div>
+            </aside>
         </div>
         <div class="row grid-margin">
             <form class="col-lg-12" id="attachment_form" enctype="multipart/form-data">
@@ -273,7 +294,83 @@
                 'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
                 }
             });
+            $('#activeCheck').on('change', function() {
+                if (this.checked && !validateAllRequired(true)) {
+                    this.checked = false;
+                    $('#draftCheck').prop('disabled', false);
+                    return;
+                }
+                $('#draftCheck').prop('disabled', this.checked);
+            }).trigger('change');
+            let currentStep = 1;
+            function showStep(step) {
+                currentStep = step;
+                $('[data-step-panel]').hide();
+                $('[data-step-panel="' + step + '"]').show();
+                $('[data-step-nav]').removeClass('active');
+                $('[data-step-nav="' + step + '"]').addClass('active');
+                $('.rs-step-back').toggle(step === 2);
+                $('.rs-step-next').toggle(step === 1);
+                $('.rs-step-submit').toggle(step === 2);
+            }
+            $('.rs-step-next').on('click', function() {
+                if (!validateStep(1)) {
+                    return;
+                }
+                showStep(2);
+            });
+            $('.rs-step-back').on('click', function() { showStep(1); });
+            $('.rs-step-submit').on('click', function(e) {
+                if ($('#activeCheck').is(':checked') && !validateAllRequired(true)) {
+                    e.preventDefault();
+                    return false;
+                }
+            });
+            showStep(1);
         });
+
+        function editorContentText() {
+            const textarea = document.getElementById('tinyMceExample');
+            const editor = window.tinymce ? tinymce.get('tinyMceExample') : null;
+            let content = '';
+            if (editor && textarea && textarea.dataset.editorReady === '1') {
+                content = editor.getContent({ format: 'text' });
+            } else if (editor && editor.initialized) {
+                content = editor.getContent({ format: 'text' });
+            } else if (textarea) {
+                content = textarea.value.replace(/<[^>]*>/g, '');
+            }
+            content = (content || '').replace(/\u00a0/g, ' ').trim();
+            return content === 'Edit your content here...' ? '' : content;
+        }
+
+        function validateStep(step) {
+            const invalid = $('[data-step-panel="' + step + '"]').find('[required]').filter(function() {
+                return !this.checkValidity();
+            }).first();
+            if (invalid.length) {
+                invalid[0].reportValidity();
+                return false;
+            }
+            if (step === 1 && window.tinymce && tinymce.get('tinyMceExample') && !tinymce.get('tinyMceExample').initialized) {
+                return true;
+            }
+            if (step === 1 && !editorContentText()) {
+                alert('Content is required.');
+                return false;
+            }
+            return true;
+        }
+
+        function validateAllRequired(showMessage) {
+            if (!validateStep(1)) {
+                return false;
+            }
+            if (!validateStep(2)) {
+                return false;
+            }
+            return true;
+        }
 
         let attachment ;
         const article_id = "{{ $article->id }}";

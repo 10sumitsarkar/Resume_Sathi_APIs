@@ -46,27 +46,30 @@
                     <div class="card-body">
                         <div class="row">
                             <div class="col-md-9 col">
-                                <h4 class="card-title">Web Development Sitemap</h4>
+                                <h4 class="card-title">Edit Extra Sitemap URL</h4>
                             </div>
                         </div>
                         <p class="card-description">
-                            Edit Sitemap Form
+                            Update a custom/static frontend URL. Blog and jobs are generated automatically.
                         </p>
                         <br />
-                        <h4 class="card-title">Sitemap Detail</h4>
+                        <div class="rs-page-intro">
+                            <strong>Reminder:</strong> use frontend paths like <code>/tools/new-tool/</code>. Do not add blog/job URLs manually.
+                        </div>
+                        <h4 class="card-title">URL Detail</h4>
                         <div class="form-group row">
-                            <label for="URLName" class="col-sm-3 col-form-label">Sitemap Title<span
+                            <label for="URLName" class="col-sm-3 col-form-label">Frontend URL Path<span
                                     class="text-danger">*</span></label>
                             <div class="col-sm-9">
                                 <input type="text" class="form-control" id="URLName" name="slug" value="{{$sitemap->slug}}" required
-                                    placeholder="URL Slug here...">
+                                    placeholder="/tools/new-tool/">
                             </div>
                         </div>
                         <div class="form-group row">
-                            <label for="URLName" class="col-sm-3 col-form-label">Sitemap priority<span
+                            <label for="URLPriority" class="col-sm-3 col-form-label">Priority<span
                                     class="text-danger">*</span></label>
                             <div class="col-sm-9">
-                                <input type="text" class="form-control" id="URLName" name="priority" value="{{$sitemap->priority}}" required
+                                <input type="number" step="0.01" min="0" max="1" class="form-control" id="URLPriority" name="priority" value="{{$sitemap->priority}}" required
                                     placeholder="URL priority here...">
                             </div>
                         </div>

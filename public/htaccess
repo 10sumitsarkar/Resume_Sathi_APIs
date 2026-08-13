@@ -23,6 +23,7 @@ RewriteRule ^(.*)$ https://www.teknowize.com/$1 [L,R=301]
     # Dynamic SEO routes must always hit Laravel, even if a static export file
     # with the same path exists in the document root.
     RewriteRule ^sitemap\.xml$ index.php [L]
+    RewriteRule ^robots\.txt$ index.php [L]
     RewriteRule ^(jobs|blog)/([^/]+)/?$ index.php [L]
 
     # Redirect Trailing Slashes If Not A Folder...

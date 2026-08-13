@@ -8,14 +8,16 @@ use App\Models\CourseContent;
 use App\Models\ProgramingLanguage;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Schema;
 use Illuminate\Support\Str;
+use App\Models\CourseAttachment;
 
 class CourseController extends Controller
 {
 
     public function courses(Request $request){
-        $courses = Course::with('user', 'course_category')->where(["status"=>1])->orderBy('id', 'desc')->get();
+        $courses = Course::with('user', 'course_category')->orderBy('id', 'desc')->get();
         return view('backend.pages.course.courses', compact('courses'));
     }
 
@@ -266,7 +268,18 @@ class CourseController extends Controller
     }
 
     function course_delete($id){
-        $response =  Course::find($id)->delete();
+        $course = Course::with('attachments')->find($id);
+        if (!$course) {
+            return redirect()->back()->with('fail', strtoupper('Something went wrong.'));
+        }
+
+        $this->deletePublicFile($course->hero_image);
+        foreach ($course->attachments as $attachment) {
+            $this->deletePublicFile($attachment->file);
+        }
+
+        CourseAttachment::where('course_id', $id)->delete();
+        $response = $course->delete();
         CourseContent::where('course_id', $id)->delete();
 
         if($response){
@@ -277,5 +290,39 @@ class CourseController extends Controller
             $status = 'fail';
         }
         return redirect()->back()->with($status, strtoupper($msg));
+    }
+
+    public function toggle_status($id)
+    {
+        $course = Course::find($id);
+        if (!$course) {
+            return redirect()->back()->with('fail', strtoupper('Something went wrong.'));
+        }
+
+        $course->is_active = $course->is_active ? 0 : 1;
+        if (Schema::hasColumn('jobs', 'is_draft')) {
+            $course->is_draft = $course->is_active ? 0 : 1;
+        }
+        if (Schema::hasColumn('jobs', 'status')) {
+            $course->status = 1;
+        }
+        $course->save();
+
+        return redirect()->back()->with('success', strtoupper('Status updated successfully.'));
+    }
+
+    private function deletePublicFile(?string $path): void
+    {
+        if (!$path) {
+            return;
+        }
+
+        $relativePath = ltrim(parse_url($path, PHP_URL_PATH) ?: $path, '/');
+        $relativePath = preg_replace('#^(public/|storage/)#', '', $relativePath);
+        $fullPath = public_path($relativePath);
+
+        if (File::exists($fullPath) && File::isFile($fullPath)) {
+            File::delete($fullPath);
+        }
     }
 }

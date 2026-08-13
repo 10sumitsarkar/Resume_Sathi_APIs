@@ -1,12 +1,7 @@
-@extends('backend.layout.master')
+﻿@extends('backend.layout.master')
 @section('title', 'Errors')
-@section('custom-css')
-    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.1/css/dataTables.bootstrap4.min.css">
-    {{-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" /> --}}
-    {{-- <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/js/brands.min.js" integrity="sha512-rbApvPERCHI8cOpTOKfMLVJNlXSCs4QRu8UsJ0HieeHyNKkHtUIQTZq3hv0pT7X0SUsLrRGEUsMTTpzwpdeIuw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script> --}}
-@endsection
 @section('content')
-    <div class="content-wrapper">
+    <div class="content-wrapper rs-table-page">
         <div class="row grid-margin">
             <div class="col-sm-12">
                 @if (Session::get('success'))
@@ -33,25 +28,30 @@
                         </div>
                     </div>
                 @endif
-                <br>
             </div>
-            <div class="card w-100">
+            <div class="rs-page-head">
+                <div>
+                    <span>Content Management</span>
+                    <h1>Article Comments</h1>
+                    <p>Review and manage comments submitted on articles.</p>
+                </div>
+            </div>
+            <div class="card w-100 rs-table-card">
                 <div class="card-body">
-                    <p class="card-title">Article Comments({{ count($comments) }})</p>
+                    <div class="rs-table-toolbar">
+                        <label class="rs-table-search"><i class="fa fa-search"></i><input type="search" id="tableSearch" placeholder="Search comments"></label>
+                        <button type="button" class="btn rs-icon-btn" id="tableReset"><i class="fa fa-refresh"></i></button>
+                    </div>
                     <div class="row">
                         <div class="col-12">
                             <div class="table-responsive">
-                                <table id="example" class="display expandable-table table-bordered" style="width:100%">
+                                <table id="example" class="display expandable-table" style="width:100%">
                                     <thead>
                                         <tr>
-                                            <th>#</th>
                                             <th>Message</th>
                                             <th>Article </th>
                                             <th>IP Address</th>
-                                            <th>Country</th>
-                                            <th>State</th>
-                                            <th>City</th>
-                                            <th>Created By</th>
+                                            <th>Email</th>
                                             <th>Created On</th>
                                             <th>Action</th>
                                         </tr>
@@ -59,31 +59,20 @@
                                     <tbody>
                                         @foreach ($comments as $item)
                                             <tr>
-                                                <td>{{ $loop->iteration }}</td>
                                                 <td>{{ $item->text }}</td>
                                                 <td>
                                                     <a href="{{ url($item->article->canonical_tag) }}">{{ $item->article->article_title }}</a>
                                                 </td>
                                                 <td>{{ $item->user_ip }}</td>
-                                                <td>{{ $item->country }}</td>
-                                                <td>{{ $item->state }}</td>
-                                                <td>{{ $item->city }}</td>
                                                 <td>{{ $item->email }}</td>
                                                 <td>{{ $item->created_at }}</td>
                                                 <td>
                                                     <a href="{{ route('article-comment-delete', $item->id) }}"
                                                         onclick="return confirm('Are you sure you want to delete this item?');"><i
-                                                            class="fa fa-trash text-danger" aria-hidden="true"></i></a>
+                                                            class="ti-trash text-danger" aria-hidden="true"></i></a>
                                                 </td>
                                             </tr>
                                         @endforeach
-                                        @if (count($comments) == 0)
-                                            <tr>
-                                                <td colspan="10" class="text-center">No data found
-                                                    <hr class="w-100">
-                                                </td>
-                                            </tr>
-                                        @endif
                                     </tbody>
                                 </table>
                             </div>
@@ -96,10 +85,19 @@
 @endsection
 @section('page-js')
     <script src="https://cdn.datatables.net/1.13.1/js/jquery.dataTables.min.js"></script>
-    <script src="https://cdn.datatables.net/1.13.1/js/dataTables.bootstrap4.min.js"></script>
     <script>
         $(document).ready(function() {
-            $('#example').DataTable();
+            $.fn.DataTable.ext.pager.numbers_length = 3;
+            var table = $('#example').DataTable({
+                dom: 'rt<"rs-table-bottom"ip>',
+                pageLength: 10,
+                pagingType: 'simple_numbers',
+                language: { info: 'Showing _START_ to _END_ of _TOTAL_ comments', emptyTable: 'No comments found' }
+            });
+            $('#tableSearch').on('keyup change', function() { table.search(this.value).draw(); });
+            $('#tableReset').on('click', function() { $('#tableSearch').val(''); table.search('').draw(); });
         });
     </script>
 @endsection
+
+

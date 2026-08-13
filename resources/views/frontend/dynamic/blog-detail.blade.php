@@ -15,6 +15,8 @@
 @section('og-title', $title . ' | ResumeSathi')
 @section('og-description', $description)
 @section('og-url', $canonical)
+@section('og-type', 'article')
+@section('og-image', $image)
 
 @section('custom-css')
 <style>
@@ -37,19 +39,28 @@
 @endsection
 
 @section('content')
+@php
+    $articleSchema = [
+        '@' . 'context' => 'https://schema.org',
+        '@' . 'type' => 'Article',
+        'headline' => $title,
+        'description' => $description,
+        'image' => $image,
+        'datePublished' => optional($article->created_at)->toAtomString(),
+        'dateModified' => optional($article->updated_at)->toAtomString(),
+        'mainEntityOfPage' => $canonical,
+        'author' => [
+            '@' . 'type' => 'Person',
+            'name' => trim(optional($article->user)->first_name . ' ' . optional($article->user)->last_name) ?: 'ResumeSathi',
+        ],
+        'publisher' => [
+            '@' . 'type' => 'Organization',
+            'name' => 'ResumeSathi',
+        ],
+    ];
+@endphp
 <script type="application/ld+json">
-{!! json_encode([
-    '@context' => 'https://schema.org',
-    '@type' => 'Article',
-    'headline' => $title,
-    'description' => $description,
-    'image' => $image,
-    'datePublished' => optional($article->created_at)->toAtomString(),
-    'dateModified' => optional($article->updated_at)->toAtomString(),
-    'mainEntityOfPage' => $canonical,
-    'author' => ['@type' => 'Person', 'name' => trim(optional($article->user)->first_name . ' ' . optional($article->user)->last_name) ?: 'ResumeSathi'],
-    'publisher' => ['@type' => 'Organization', 'name' => 'ResumeSathi'],
-], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) !!}
+{!! json_encode($articleSchema, JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) !!}
 </script>
 
 <main class="rs-dynamic-page">

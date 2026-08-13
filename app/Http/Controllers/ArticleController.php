@@ -10,12 +10,13 @@ use App\Models\ArticleContent;
 use App\Models\ProgramingLanguage;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Validator;
 
 class ArticleController extends Controller
 {
     public function articles(Request $request){
-        $articles = Article::with('user', 'article_category', 'language')->where(['is_draft'=> 0, "status"=>1])->orderBy('id', 'desc')->get();
+        $articles = Article::with('user', 'article_category', 'language')->where("status", 1)->orderBy('id', 'desc')->get();
         return view('backend.pages.articles.articles', compact('articles'));
     }
 
@@ -111,7 +112,18 @@ class ArticleController extends Controller
 
 
     function article_delete($id){
-        $response =  Article::find($id)->delete();
+        $article = Article::with('attachments')->find($id);
+        if (!$article) {
+            return redirect()->back()->with('fail', strtoupper('Something went wrong.'));
+        }
+
+        $this->deletePublicFile($article->hero_image);
+        foreach ($article->attachments as $attachment) {
+            $this->deletePublicFile($attachment->file);
+        }
+
+        ArticleAttachment::where('article_id', $id)->delete();
+        $response = $article->delete();
         ArticleContent::where('article_id', $id)->delete();
 
         if($response){
@@ -124,84 +136,33 @@ class ArticleController extends Controller
         return redirect()->back()->with($status, strtoupper($msg));
     }
 
-    function tutorials(){
-        $tutorials = ProgramingLanguage::with('user')->get();
-        return view('backend.pages.tutorials.languages', compact('tutorials'));
-    }
-
-
-    public function add_tutorial(Request $request){
-        if($request->isMethod('post')){
-            $request->validate([
-                'title'=> 'required|unique:programing_languages,title',
-                'url_name' => 'required|unique:programing_languages,url_name'
-            ]);
-            $data = [
-                'title' => $request->title,
-                'url_name' => $request->url_name,
-                'created_by' => Auth::id(),
-            ];
-
-            if($request->file('image') !== null){
-                $file1 = $request->file('image');
-                $file1->move(base_path('public/tutorials'), $file1->getClientOriginalName());
-                $front_image = 'tutorials/'.$file1->getClientOriginalName();
-                $data['image'] = $front_image;
-            }
-
-            $response = ProgramingLanguage::create($data);
-            if($response){
-                $msg = "Tutorial added successfully! ";
-                return redirect(route('add-tutorial'))->with('success', strtoupper($msg));
-            }else{
-                $msg = "Something went wrong! ";
-                return redirect(route('add-tutorial'))->with('danger', strtoupper($msg));
-            }
-        }
-       return view('backend.pages.tutorials.add-tutorial');
-    }
-
-
-
-    public function tutorial_edit(Request $request, $id){
-        $tutorial_id = base64_decode($id);
-        if($request->isMethod('post')){
-            $data = [
-                'title' => $request->title,
-                'url_name' => $request->url_name,
-            ];
-
-            if($request->file('image') !== null){
-                $file1 = $request->file('image');
-                $file1->move(base_path('public/tutorials'), $file1->getClientOriginalName());
-                $front_image = 'tutorials/'.$file1->getClientOriginalName();
-                $data['image'] = $front_image;
-            }
-            $response = ProgramingLanguage::where('id', $tutorial_id)->update($data);
-            if($response){
-                $msg = "Tutorial updated successfully! ";
-                return redirect()->back()->with('success', strtoupper($msg));
-            }else{
-                $msg = "Something went wrong! ";
-                return redirect()->back()->with('danger', strtoupper($msg));
-            }
+    public function toggle_status($id)
+    {
+        $article = Article::find($id);
+        if (!$article) {
+            return redirect()->back()->with('fail', strtoupper('Something went wrong.'));
         }
 
-        $tutorial = ProgramingLanguage::where('id', $tutorial_id)->first();
-        if(!$tutorial){
-            return view('error.error-500');
-        }
-       return view('backend.pages.tutorials.edit-tutorial', compact('tutorial'));
+        $article->is_active = $article->is_active ? 0 : 1;
+        $article->is_draft = $article->is_active ? 0 : 1;
+        $article->status = 1;
+        $article->save();
+
+        return redirect()->back()->with('success', strtoupper('Status updated successfully.'));
     }
 
-    public function tutorial_delete($id){
-        $response = ProgramingLanguage::where('id', $id)->delete();
-        if($response){
-            $msg = "Tutorial deleted successfully! ";
-            return redirect()->back()->with('success', strtoupper($msg));
-        }else{
-            $msg = "Something went wrong! ";
-            return redirect()->back()->with('danger', strtoupper($msg));
+    private function deletePublicFile(?string $path): void
+    {
+        if (!$path) {
+            return;
+        }
+
+        $relativePath = ltrim(parse_url($path, PHP_URL_PATH) ?: $path, '/');
+        $relativePath = preg_replace('#^(public/|storage/)#', '', $relativePath);
+        $fullPath = public_path($relativePath);
+
+        if (File::exists($fullPath) && File::isFile($fullPath)) {
+            File::delete($fullPath);
         }
     }
 
