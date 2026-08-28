@@ -5,19 +5,27 @@ namespace App\Http\Controllers;
 use App\Models\Article;
 use App\Models\ArticleCategory;
 use App\Models\ArticleComment;
+use App\Models\ContactUs;
 use App\Models\Course;
 use App\Models\CourseCategory;
+use App\Models\Subscriber;
 use App\Services\PublicContentCacheService;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\File;
+use Illuminate\Support\Facades\Schema;
 use Illuminate\Support\Facades\Validator;
 
 class PublicContentController extends Controller
 {
     public function articles(Request $request)
     {
-        $limit = max(1, min((int) $request->query('limit', 10), 100));
-        $query = Article::with(['user', 'category', 'contents'])
+        $limit = max(1, min((int) $request->query('limit', 10), 500));
+        $relations = ['user', 'category'];
+        if ($request->boolean('include_contents')) {
+            $relations[] = 'contents';
+        }
+
+        $query = Article::with($relations)
             ->where(['is_draft' => 0, 'status' => 1, 'is_active' => 1])
             ->orderBy('created_at', 'desc');
 
@@ -122,8 +130,13 @@ class PublicContentController extends Controller
 
     public function courses(Request $request)
     {
-        $limit = max(1, min((int) $request->query('limit', 100), 500));
-        $query = Course::with(['user', 'course_category', 'contents'])
+        $limit = max(1, min((int) $request->query('limit', 12), 500));
+        $relations = ['user', 'course_category'];
+        if ($request->boolean('include_contents')) {
+            $relations[] = 'contents';
+        }
+
+        $query = Course::with($relations)
             ->where('status', 1)
             ->where(function ($q) {
                 $q->where('is_active', 1)->orWhereNull('is_active');
@@ -132,6 +145,18 @@ class PublicContentController extends Controller
 
         if ($request->filled('category_id')) {
             $query->where('course_type', $request->query('category_id'));
+        }
+
+        if ($request->filled('type')) {
+            $typeColumns = [
+                'admit-card' => 'has_admit_card',
+                'answer-key' => 'has_answer_key',
+                'result' => 'has_result',
+            ];
+            $column = $typeColumns[$request->query('type')] ?? null;
+            if ($column && Schema::hasColumn('jobs', $column)) {
+                $query->where($column, 1);
+            }
         }
 
         if ($request->filled('search')) {
@@ -145,12 +170,100 @@ class PublicContentController extends Controller
             });
         }
 
-        return $query->limit($limit)->get();
+        $page = $query->paginate($limit);
+
+        return response()->json([
+            'items' => $page->items(),
+            'total' => $page->total(),
+            'page' => $page->currentPage(),
+            'per_page' => $page->perPage(),
+        ]);
+    }
+
+    public function latestCourses(Request $request)
+    {
+        $limit = max(1, min((int) $request->query('limit', 5), 20));
+
+        return Course::with(['user', 'course_category'])
+            ->where('status', 1)
+            ->where(function ($query) {
+                $query->where('is_active', 1)->orWhereNull('is_active');
+            })
+            ->orderBy('created_at', 'desc')
+            ->limit($limit)
+            ->get();
+    }
+
+    public function courseBySlug($slug)
+    {
+        $decodedSlug = urldecode($slug);
+
+        $course = Course::with(['user', 'course_category', 'contents'])
+            ->where('status', 1)
+            ->where(function ($query) {
+                $query->where('is_active', 1)->orWhereNull('is_active');
+            })
+            ->where(function ($query) use ($decodedSlug) {
+                $query->where('slug', $decodedSlug)
+                    ->orWhere('url_name', $decodedSlug)
+                    ->orWhere('canonical_tag', $decodedSlug)
+                    ->orWhere('canonical_tag', 'like', "%/{$decodedSlug}");
+            })
+            ->first();
+
+        if (!$course) {
+            return response()->json(['message' => 'Job not found'], 404);
+        }
+
+        return $course;
     }
 
     public function courseCategories()
     {
         return CourseCategory::orderBy('id')->get();
+    }
+
+    public function storeContact(Request $request)
+    {
+        $validated = $request->validate([
+            'name' => 'required|string|max:255',
+            'email' => 'required|email|max:255',
+            'phone' => 'nullable|string|max:20',
+            'message' => 'required|string|max:5000',
+        ]);
+
+        $nameParts = preg_split('/\s+/', trim($validated['name']), 2);
+        $contact = ContactUs::create([
+            'first_name' => $nameParts[0] ?? '',
+            'last_name' => $nameParts[1] ?? '',
+            'email' => $validated['email'],
+            'phone_number' => $validated['phone'] ?? null,
+            'message' => $validated['message'],
+        ]);
+
+        return response()->json([
+            'message' => 'Contact form submitted successfully',
+            'data' => $contact,
+        ], 201);
+    }
+
+    public function storeSubscriber(Request $request)
+    {
+        $validated = $request->validate([
+            'email' => 'required|email|max:255|unique:subscribers,email',
+            'name' => 'nullable|string|max:255',
+        ]);
+
+        $subscriber = Subscriber::create([
+            'email' => $validated['email'],
+            'name' => $validated['name'] ?? null,
+            'status' => true,
+        ]);
+
+        return response()->json([
+            'message' => 'Successfully subscribed to newsletter',
+            'data' => $subscriber,
+        ], 201);
     }
 
     public function rebuildCache(PublicContentCacheService $cache)

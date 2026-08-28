@@ -1,0 +1,419 @@
+1:"$Sreact.fragment"
+7:I[88609,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/06pj_k8chkpe5.js","/_next/static/chunks/16ymsuy-x3uv9.js"],"default"]
+9:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["/_next/static/chunks/36s5nf8n-vj81.css","style"]
+2:T87d5,{"@context":"https://schema.org/","@type":"JobPosting","title":"WBPSC ICDS Supervisor, Cook & Helper Recruitment 2026 (16,000+ Post)","description":"\u003cdiv class=\"post-content\">\r\n\u003cp>West Bengal Public Service Commission (WBPSC) is going to release a notification for the post of \u003cstrong>ICDS Supervisor\u003c/strong> along with Cook &amp; Helper posts under the Department of Women &amp; Child Development and Social Welfare, Govt of West Bengal. Those candidates who are waiting for WBPSC ICDS Application 2026 can check the post information, selection procedure, age limit, pay scale and all other information before applying.&nbsp;\u003c/p>\r\n\u003ch2>Important Dates\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Notification Release\u003c/td>\r\n\u003ctd>\u003cstrong>To Be Notified\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Application Begins\u003c/td>\r\n\u003ctd>\u003cstrong>To Be Notified\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Last Date for Apply Online\u003c/td>\r\n\u003ctd>\u003cstrong>To Be Notified\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Exam Date\u003c/td>\r\n\u003ctd>\u003cstrong>As per Schedule\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Admit Card Available\u003c/td>\r\n\u003ctd>\u003cstrong>Before Exam\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>Application Fee\u003c/h2>\r\n\u003cul>\r\n\u003cli>General : 160/-\u003c/li>\r\n\u003cli>SC / ST (West Bengal) &amp; PwBD : Exempted\u003c/li>\r\n\u003cli>Pay the Examination Fee Through Online Mode Only\u003c/li>\r\n\u003cli>Fee Once Paid Will Not Be Refunded Under Any Circumstances\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Age Limit\u003c/h2>\r\n\u003cul>\r\n\u003cli>Supervisor Post : 18 to 39 Years (Expected)\u003c/li>\r\n\u003cli>Cook &amp; Helper Post : 18 to 35 Years (Expected)\u003c/li>\r\n\u003cli>Age Relaxation Extra as per WBPSC ICDS Recruitment Rules (SC/ST &ndash; 5 Years, OBC-A/OBC-B &ndash; 3 Years, PwBD &ndash; as per Govt Norms)\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Vacancy Details Total : 16000 Post (Expected)\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003cthead>\r\n\u003ctr>\r\n\u003cth>Post Name\u003c/th>\r\n\u003cth>Total Post\u003c/th>\r\n\u003cth>WBPSC ICDS Recruitment Eligibility\u003c/th>\r\n\u003c/tr>\r\n\u003c/thead>\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>ICDS Supervisor\u003c/td>\r\n\u003ctd>To Be Notified\u003c/td>\r\n\u003ctd>Bachelor Degree in Any Discipline from a Recognised University. Proficiency in Bengali Generally Required.\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Cook &amp; Helper\u003c/td>\r\n\u003ctd>To Be Notified\u003c/td>\r\n\u003ctd>Class 8th Pass from a Recognised Board. More Eligibility Details Read the Notification.\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>How to Fill WBPSC ICDS Supervisor Recruitment Online Form 2026\u003c/h2>\r\n\u003cul>\r\n\u003cli>WBPSC ICDS 2026 Application Link Will Be Activated Once the Official Notification is Out.\u003c/li>\r\n\u003cli>Candidate Read the Notification Before Apply the Recruitment Application Form in WBPSC ICDS Supervisor Recruitment 2026.\u003c/li>\r\n\u003cli>PleaseCheck and Collect the All Document - Eligibility, Domicile Certificate, ID Proof, Address Details, Basic Details.\u003c/li>\r\n\u003cli>Ready Scan Document Related to Recruitment Form - Photo, Sign, ID Proof, Etc.\u003c/li>\r\n\u003cli>Complete the One Time Registration (OTR) on psc.wb.gov.in if not already done.\u003c/li>\r\n\u003cli>Before Submit the Application Form Must Check the Preview and All Column Carefully.\u003c/li>\r\n\u003cli>Take a Print Out of Final Submitted Form.\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Some Useful Important Links\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Apply Online\u003c/strong>\u003c/td>\r\n\u003ctd>Link Will Be Activated Soon\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Download Notification\u003c/strong>\u003c/td>\r\n\u003ctd>To Be Released Soon\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Signature Resizer, PDF Compress, Age Calculator and More Tools\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"https://www.resumesathi.com/tools/\" href=\"https://www.resumesathi.com/tools/\" target=\"_blank\" rel=\"noopener\">View Tools\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>WBPSC Official Website\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"https://www.psc.wb.gov.in/\" href=\"https://www.psc.wb.gov.in/\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003cblockquote>\u003cstrong>Note:\u003c/strong> Candidates are advised to always cross-check dates, fee details, and eligibility criteria from the official WBPSC website before applying, as the schedule may change based on official updates.\u003c/blockquote>\r\n\u003ch2>WBPSC ICDS Supervisor Preparation Tips 2026\u003c/h2>\r\n\u003ch3>1. Prelims - General Knowledge\u003c/h3>\r\n\u003cul>\r\n\u003cli>Focus on West Bengal Specific GK like State History, Geography, Culture and Current Affairs.\u003c/li>\r\n\u003cli>Cover National Current Affairs of the Last 6 Months.\u003c/li>\r\n\u003cli>Read Newspaper or Current Affairs for 15 to 20 Minutes Daily and try to Make Short Notes for Quick Revision.\u003c/li>\r\n\u003c/ul>\r\n\u003ch3>2. Prelims - Arithmetic\u003c/h3>\r\n\u003cul>\r\n\u003cli>Practice Basic Topics Daily: Percentage, Ratio, Average, Profit &amp; Loss, Simple/Compound Interest and Time &amp; Work.\u003c/li>\r\n\u003cli>Since the Paper Is Objective With a 60-Minute Time Limit for 100 Questions, Speed and Accuracy Both Matter - Practice With a Timer.\u003c/li>\r\n\u003cli>Solve 20-25 Questions Daily, Covering Mixed Topics From Previous Year Papers.\u003c/li>\r\n\u003c/ul>\r\n\u003ch3>3. Prelims - Reasoning\u003c/h3>\r\n\u003cul>\r\n\u003cli>Practice Series, Coding-Decoding, Analogy, Blood Relations, Direction Sense and Puzzles for Regular basis to Improves Speed.\u003c/li>\r\n\u003c/ul>\r\n\u003ch3>4. Mains - Descriptive Paper\u003c/h3>\r\n\u003cul>\r\n\u003cli>The Mains Paper Is 400 Marks With 90 Minutes Per Paper so Practice Writing Answers Within the Time Limit.\u003c/li>\r\n\u003cli>Read About ICDS Scheme, Women &amp; Child Development Policies and Social Welfare Schemes of West Bengal because These Are Directly Related to the Post.\u003c/li>\r\n\u003cli>Practice Bengali Language Sections Regularly because Proficiency in Bengali Is Generally Required for the Supervisor Post.\u003c/li>\r\n\u003c/ul>\r\n\u003ch3>5. Viva-Voce (Personality Test)\u003c/h3>\r\n\u003cul>\r\n\u003cli>Ready to Answer Questions on the ICDS Scheme, Your Educational Background and Why You Want This Role.\u003c/li>\r\n\u003cli>Stay Updated on Current Affairs Related to Women &amp; Child Development.\u003c/li>\r\n\u003cli>Practice Mock Interviews to Build Confidence and Work on Clear Communication.\u003c/li>\r\n\u003cli>Attempt at Least One Full Mock Test Weekly toTrack Progress.\u003c/li>\r\n\u003cli>Keep Revising Previous Year Question Papers because Repeated Patterns Are Common in State-Level Exams.\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Frequently Asked Questions\u003c/h2>\r\n\u003csection class=\"tre-faq-list\">\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>When will the WBPSC ICDS Supervisor 2026 notification be released?\u003c/summary>\r\n\u003cp>The official notification is expected to be released soon. Exact dates for application begin and last date are yet to be notified.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>How many total vacancies are expected in WBPSC ICDS Recruitment 2026?\u003c/summary>\r\n\u003cp>Around 16000 posts are expected across ICDS Supervisor, Cook and Helper categories, though the exact post-wise breakup will be confirmed in the official notification.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>What is the application fee for WBPSC ICDS Supervisor 2026?\u003c/summary>\r\n\u003cp>The fee is Rs. 160/- for General category candidates, while SC/ST (West Bengal) and PwBD candidates are exempted from the fee.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>What is the age limit for the Supervisor and Cook/Helper posts?\u003c/summary>\r\n\u003cp>The expected age limit is 18 to 39 years for Supervisor posts and 18 to 35 years for Cook and Helper posts, with category-wise relaxation applicable.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>Is Bengali language proficiency required for the Supervisor post?\u003c/summary>\r\n\u003cp>Yes, proficiency in Bengali is generally required for the ICDS Supervisor post, as mentioned in the eligibility criteria.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>What is the minimum qualification for the Cook and Helper posts?\u003c/summary>\r\n\u003cp>Candidates need a Class 8th pass certificate from a recognised board, with more eligibility details available in the official notification.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>What is the selection process for WBPSC ICDS Supervisor 2026?\u003c/summary>\r\n\u003cp>The selection process includes Prelims (General Knowledge, Arithmetic, Reasoning), Mains (a 400-mark descriptive paper), and a Viva-Voce (Personality Test).\u003c/p>\r\n\u003c/details>\u003c/section>\r\n\u003csection class=\"tre-quiz-wrap\">\r\n\u003ch3 class=\"tre-quiz-header\">WBPSC ICDS Supervisor - Job Specific Practice Questions (ICDS Scheme, Anganwadi Structure &amp; Social Welfare)\u003c/h3>\r\n\u003cp class=\"tre-quiz-sub\">25 Objective Questions with Explanation\u003c/p>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q1.\u003c/span> An ICDS Supervisor is generally responsible for overseeing how many Anganwadi Centres on average in a project area?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"wbpsc_q1_o1\" class=\"tre-opt-item opt-wrong\">5 to 8\u003c/li>\r\n\u003cli id=\"wbpsc_q1_o2\" class=\"tre-opt-item opt-right\">Around 20 to 25\u003c/li>\r\n\u003cli id=\"wbpsc_q1_o3\" class=\"tre-opt-item opt-wrong\">50 to 60\u003c/li>\r\n\u003cli id=\"wbpsc_q1_o4\" class=\"tre-opt-item opt-wrong\">100 and above\u003c/li>\r\n\u003c/ul>\r\n\u003cp class=\"tre-q-explain\">\u003cstrong>Explanation:\u003c/strong> A Supervisor (also called Mukhya Sevika) typically monitors around 20-25 Anganwadi Centres under one ICDS project/circle, conducting regular visits, checking registers and guiding the Anganwadi Workers.\u003c/p>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q2.\u003c/span> Which register is NOT usually maintained at an Anganwadi Centre?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"wbpsc_q2_o1\" class=\"tre-opt-item opt-wrong\">Growth Monitoring Register\u003c/li>\r\n\u003cli id=\"wbpsc_q2_o2\" class=\"tre-opt-item opt-wrong\">Attendance Register\u003c/li>\r\n\u003cli id=\"wbpsc_q2_o3\" class=\"tre-opt-item opt-wrong\">Beneficiary Register (Pregnant/Lactating Women)\u003c/li>\r\n\u003cli id=\"wbpsc_q2_o4\" class=\"tre-opt-item opt-right\">Land Revenue Register\u003c/li>\r\n\u003c/ul>\r\n\u003cp class=\"tre-q-explain\">\u003cstrong>Explanation:\u003c/strong> Anganwadi records mainly track children, mothers, health check-ups, nutrition and attendance - not land revenue, which falls under a different department entirely.\u003c/p>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q3.\u003c/span> The Take Home Ration (THR) under ICDS is generally provided to which beneficiaries?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"wbpsc_q3_o1\" class=\"tre-opt-item opt-wrong\">Only school-going children above 10 years\u003c/li>\r\n\u003cli id=\"wbpsc_q3_o2\" class=\"tre-opt-item opt-right\">Children 6 months to 3 years, and pregnant/lactating mothers\u003c/li>\r\n\u003cli id=\"wbpsc_q3_o3\" class=\"tre-opt-item opt-wrong\">Only senior citizens\u003c/li>\r\n\u003cli id=\"wbpsc_q3_o4\" class=\"tre-opt-item opt-wrong\">Only Anganwadi staff\u003c/li>\r\n\u003c/ul>\r\n\u003cp class=\"tre-q-explain\">\u003cstrong>Explanation:\u003c/strong> THR is meant for children who cannot yet eat cooked meals at the centre (6 months to 3 years) and for pregnant and lactating mothers, so they can consume nutrition at home.\u003c/p>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q4.\u003c/span> Which of these is a core service under the ICDS package (also called the \"Six Services\")?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"wbpsc_q4_o1\" class=\"tre-opt-item opt-wrong\">Vocational Skill Training for Adults\u003c/li>\r\n\u003cli id=\"wbpsc_q4_o2\" class=\"tre-opt-item opt-right\">Non-Formal Pre-School Education\u003c/li>\r\n\u003cli id=\"wbpsc_q4_o3\" class=\"tre-opt-item opt-wrong\">Loan Distribution\u003c/li>\r\n\u003cli id=\"wbpsc_q4_o4\" class=\"tre-opt-item opt-wrong\">Pension Disbursement\u003c/li>\r\n\u003c/ul>\r\n\u003cp class=\"tre-q-explain\">\u003cstrong>Explanation:\u003c/strong> The ICDS \"six services\" are supplementary nutrition, immunization, health check-up, referral services, non-formal pre-school education, and nutrition &amp; health education.\u003c/p>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q5.\u003c/span> Who is the immediate reporting authority above an ICDS Supervisor at the block level in West Bengal?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"wbpsc_q5_o1\" class=\"tre-opt-item opt-right\">Child Development Project Officer (CDPO)\u003c/li>\r\n\u003cli id=\"wbpsc_q5_o2\" class=\"tre-opt-item opt-wrong\">District Magistrate\u003c/li>\r\n\u003cli id=\"wbpsc_q5_o3\" class=\"tre-opt-item opt-wrong\">Block Development Officer only\u003c/li>\r\n\u003cli id=\"wbpsc_q5_o4\" class=\"tre-opt-item opt-wrong\">State Secretary\u003c/li>\r\n\u003c/ul>\r\n\u003cp class=\"tre-q-explain\">\u003cstrong>Explanation:\u003c/strong> The CDPO heads the ICDS project at the block level and Supervisors report to the CDPO, who further reports up the district and state administrative chain.\u003c/p>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q6.\u003c/span> Which tool is commonly used by Anganwadi Workers to assess a child's nutritional status during growth monitoring?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"wbpsc_q6_o1\" class=\"tre-opt-item opt-right\">Weighing scale and height chart against growth cards\u003c/li>\r\n\u003cli id=\"wbpsc_q6_o2\" class=\"tre-opt-item opt-wrong\">Blood pressure monitor\u003c/li>\r\n\u003cli id=\"wbpsc_q6_o3\" class=\"tre-opt-item opt-wrong\">ECG machine\u003c/li>\r\n\u003cli id=\"wbpsc_q6_o4\" class=\"tre-opt-item opt-wrong\">X-ray machine\u003c/li>\r\n\u003c/ul>\r\n\u003cp class=\"tre-q-explain\">\u003cstrong>Explanation:\u003c/strong> Growth monitoring under ICDS relies on regular weight and height recording, plotted against standard growth cards to identify malnourished or at-risk children early.\u003c/p>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q7.\u003c/span> Which category of children is specifically prioritized for referral to a Nutrition Rehabilitation Centre (NRC)?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"wbpsc_q7_o1\" class=\"tre-opt-item opt-wrong\">Children with normal growth\u003c/li>\r\n\u003cli id=\"wbpsc_q7_o2\" class=\"tre-opt-item opt-right\">Severely Acute Malnourished (SAM) children\u003c/li>\r\n\u003cli id=\"wbpsc_q7_o3\" class=\"tre-opt-item opt-wrong\">Children above 12 years\u003c/li>\r\n\u003cli id=\"wbpsc_q7_o4\" class=\"tre-opt-item opt-wrong\">Only children with eye problems\u003c/li>\r\n\u003c/ul>\r\n\u003cp class=\"tre-q-explain\">\u003cstrong>Explanation:\u003c/strong> SAM children need intensive medical and nutritional care, so ICDS field staff refer them to NRCs where they receive supervised treatment until their condition stabilizes.\u003c/p>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q8.\u003c/span> The Scheme for Adolescent Girls under the Women &amp; Child Development set-up mainly targets which age group?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"wbpsc_q8_o1\" class=\"tre-opt-item opt-wrong\">0 to 3 years\u003c/li>\r\n\u003cli id=\"wbpsc_q8_o2\" class=\"tre-opt-item opt-wrong\">3 to 6 years\u003c/li>\r\n\u003cli id=\"wbpsc_q8_o3\" class=\"tre-opt-item opt-right\">11 to 14 years (out-of-school girls in most versions)\u003c/li>\r\n\u003cli id=\"wbpsc_q8_o4\" class=\"tre-opt-item opt-wrong\">Above 25 years\u003c/li>\r\n\u003c/ul>\r\n\u003cp class=\"tre-q-explain\">\u003cstrong>Explanation:\u003c/strong> This scheme focuses on nutrition, health awareness, and life-skill support for adolescent girls, particularly those who have dropped out of formal schooling.\u003c/p>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q9.\u003c/span> Which of the following comes under the Social Welfare Department's mandate along with ICDS in West Bengal?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"wbpsc_q9_o1\" class=\"tre-opt-item opt-right\">Welfare schemes for differently-abled persons and destitute women\u003c/li>\r\n\u003cli id=\"wbpsc_q9_o2\" class=\"tre-opt-item opt-wrong\">Highway construction\u003c/li>\r\n\u003cli id=\"wbpsc_q9_o3\" class=\"tre-opt-item opt-wrong\">Power distribution\u003c/li>\r\n\u003cli id=\"wbpsc_q9_o4\" class=\"tre-opt-item opt-wrong\">Railway ticketing\u003c/li>\r\n\u003c/ul>\r\n\u003cp class=\"tre-q-explain\">\u003cstrong>Explanation:\u003c/strong> Along with child and maternal welfare, the department also runs programs for the differently-abled, orphaned children, and destitute or distressed women.\u003c/p>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q10.\u003c/span> What does the term \"VHSND\" (commonly linked with Anganwadi activities) stand for?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"wbpsc_q10_o1\" class=\"tre-opt-item opt-right\">Village Health, Sanitation and Nutrition Day\u003c/li>\r\n\u003cli id=\"wbpsc_q10_o2\" class=\"tre-opt-item opt-wrong\">Vocational Health Skill Naming Drive\u003c/li>\r\n\u003cli id=\"wbpsc_q10_o3\" class=\"tre-opt-item opt-wrong\">Village Housing Scheme for Nutrition Development\u003c/li>\r\n\u003cli id=\"wbpsc_q10_o4\" class=\"tre-opt-item opt-wrong\">Village Health Survey and Numbering Data\u003c/li>\r\n\u003c/ul>\r\n\u003cp class=\"tre-q-explain\">\u003cstrong>Explanation:\u003c/strong> VHSND is a monthly outreach event held at the Anganwadi level, bringing together ASHA, ANM and Anganwadi Workers for immunization, health check-ups and nutrition counselling.\u003c/p>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q11.\u003c/span> As per general ICDS norms, what is the minimum number of days an Anganwadi Centre should ideally remain functional in a month?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"wbpsc_q11_o1\" class=\"tre-opt-item opt-wrong\">10 days\u003c/li>\r\n\u003cli id=\"wbpsc_q11_o2\" class=\"tre-opt-item opt-wrong\">15 days\u003c/li>\r\n\u003cli id=\"wbpsc_q11_o3\" class=\"tre-opt-item opt-right\">25 days\u003c/li>\r\n\u003cli id=\"wbpsc_q11_o4\" class=\"tre-opt-item opt-wrong\">30 days, no holidays\u003c/li>\r\n\u003c/ul>\r\n\u003cp class=\"tre-q-explain\">\u003cstrong>Explanation:\u003c/strong> Anganwadi Centres are generally expected to function around 25 days a month, excluding weekly offs and government holidays, to keep nutrition and pre-school activities consistent.\u003c/p>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q12.\u003c/span> Which of these duties would typically fall to a Supervisor rather than an Anganwadi Worker?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"wbpsc_q12_o1\" class=\"tre-opt-item opt-wrong\">Serving cooked meals daily\u003c/li>\r\n\u003cli id=\"wbpsc_q12_o2\" class=\"tre-opt-item opt-right\">Conducting on-the-spot inspection and verifying stock registers\u003c/li>\r\n\u003cli id=\"wbpsc_q12_o3\" class=\"tre-opt-item opt-wrong\">Cleaning the centre premises\u003c/li>\r\n\u003cli id=\"wbpsc_q12_o4\" class=\"tre-opt-item opt-wrong\">Taking daily attendance of children\u003c/li>\r\n\u003c/ul>\r\n\u003cp class=\"tre-q-explain\">\u003cstrong>Explanation:\u003c/strong> Field-level duties like cooking or attendance are handled by the Worker/Helper, while inspection, verification, and guidance across multiple centres fall under the Supervisor's role.\u003c/p>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q13.\u003c/span> The Beti Bachao Beti Padhao scheme is administered in coordination with which ministries?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"wbpsc_q13_o1\" class=\"tre-opt-item opt-right\">Women &amp; Child Development, Health, and Education\u003c/li>\r\n\u003cli id=\"wbpsc_q13_o2\" class=\"tre-opt-item opt-wrong\">Defence and Home Affairs\u003c/li>\r\n\u003cli id=\"wbpsc_q13_o3\" class=\"tre-opt-item opt-wrong\">Railways and Civil Aviation\u003c/li>\r\n\u003cli id=\"wbpsc_q13_o4\" class=\"tre-opt-item opt-wrong\">Commerce and Industry\u003c/li>\r\n\u003c/ul>\r\n\u003cp class=\"tre-q-explain\">\u003cstrong>Explanation:\u003c/strong> Since the scheme addresses declining child sex ratio and girls' education together, it is run jointly through the WCD, Health and Education ministries.\u003c/p>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q14.\u003c/span> Under the Mid-Day Meal / nutrition linkage, which age group is generally NOT covered by the Anganwadi feeding programme but by school-based schemes instead?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"wbpsc_q14_o1\" class=\"tre-opt-item opt-wrong\">6 months to 3 years\u003c/li>\r\n\u003cli id=\"wbpsc_q14_o2\" class=\"tre-opt-item opt-wrong\">3 to 6 years\u003c/li>\r\n\u003cli id=\"wbpsc_q14_o3\" class=\"tre-opt-item opt-right\">Primary school-going children (6+ years)\u003c/li>\r\n\u003cli id=\"wbpsc_q14_o4\" class=\"tre-opt-item opt-wrong\">Pregnant women\u003c/li>\r\n\u003c/ul>\r\n\u003cp class=\"tre-q-explain\">\u003cstrong>Explanation:\u003c/strong> Once a child moves into formal primary schooling, nutrition support generally shifts from the Anganwadi's supplementary feeding to the school Mid-Day Meal Scheme.\u003c/p>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q15.\u003c/span> What is the primary purpose of the Nutrition and Health Education (NHE) component of ICDS?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"wbpsc_q15_o1\" class=\"tre-opt-item opt-right\">Building awareness among mothers on childcare, hygiene and diet practices\u003c/li>\r\n\u003cli id=\"wbpsc_q15_o2\" class=\"tre-opt-item opt-wrong\">Providing free housing loans\u003c/li>\r\n\u003cli id=\"wbpsc_q15_o3\" class=\"tre-opt-item opt-wrong\">Distributing agricultural equipment\u003c/li>\r\n\u003cli id=\"wbpsc_q15_o4\" class=\"tre-opt-item opt-wrong\">Conducting driving license tests\u003c/li>\r\n\u003c/ul>\r\n\u003cp class=\"tre-q-explain\">\u003cstrong>Explanation:\u003c/strong> NHE sessions equip mothers and caregivers with practical knowledge on feeding practices, hygiene, and preventive healthcare for children and themselves.\u003c/p>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q16.\u003c/span> Which of the following is generally a disqualifying factor while filling the WBPSC ICDS application, unless specifically permitted?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"wbpsc_q16_o1\" class=\"tre-opt-item opt-right\">Providing false information in the OTR profile\u003c/li>\r\n\u003cli id=\"wbpsc_q16_o2\" class=\"tre-opt-item opt-wrong\">Applying from a cyber caf&eacute;\u003c/li>\r\n\u003cli id=\"wbpsc_q16_o3\" class=\"tre-opt-item opt-wrong\">Uploading photo in JPEG format\u003c/li>\r\n\u003cli id=\"wbpsc_q16_o4\" class=\"tre-opt-item opt-wrong\">Applying a day before the deadline\u003c/li>\r\n\u003c/ul>\r\n\u003cp class=\"tre-q-explain\">\u003cstrong>Explanation:\u003c/strong> Submitting incorrect or false details in the One Time Registration profile can lead to rejection of candidature at any later stage of the recruitment process.\u003c/p>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q17.\u003c/span> In the ICDS structure, what is the role of an \"Anganwadi Helper\" distinct from a \"Worker\"?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"wbpsc_q17_o1\" class=\"tre-opt-item opt-right\">Assisting with meal preparation, cleanliness and bringing children to the centre\u003c/li>\r\n\u003cli id=\"wbpsc_q17_o2\" class=\"tre-opt-item opt-wrong\">Handling the block-level budget\u003c/li>\r\n\u003cli id=\"wbpsc_q17_o3\" class=\"tre-opt-item opt-wrong\">Approving maternity benefit applications\u003c/li>\r\n\u003cli id=\"wbpsc_q17_o4\" class=\"tre-opt-item opt-wrong\">Conducting the Supervisor's exam\u003c/li>\r\n\u003c/ul>\r\n\u003cp class=\"tre-q-explain\">\u003cstrong>Explanation:\u003c/strong> The Helper supports the Worker with day-to-day physical tasks at the centre, while planning, teaching and record-keeping remain the Worker's responsibility.\u003c/p>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q18.\u003c/span> A batch of registers at an Anganwadi Centre shows 60 enrolled children, of whom 45 attended on a given day. What is the attendance percentage that day?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"wbpsc_q18_o1\" class=\"tre-opt-item opt-wrong\">65%\u003c/li>\r\n\u003cli id=\"wbpsc_q18_o2\" class=\"tre-opt-item opt-wrong\">70%\u003c/li>\r\n\u003cli id=\"wbpsc_q18_o3\" class=\"tre-opt-item opt-right\">75%\u003c/li>\r\n\u003cli id=\"wbpsc_q18_o4\" class=\"tre-opt-item opt-wrong\">80%\u003c/li>\r\n\u003c/ul>\r\n\u003cp class=\"tre-q-explain\">\u003cstrong>Explanation:\u003c/strong> 45 out of 60 = 45/60 x 100 = 75%. Such register-based percentage calculation questions are common in the ICDS Prelims arithmetic section.\u003c/p>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q19.\u003c/span> If a Supervisor covers 24 Anganwadi Centres in 6 working days, visiting an equal number each day, how many centres does she cover per day?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"wbpsc_q19_o1\" class=\"tre-opt-item opt-wrong\">2\u003c/li>\r\n\u003cli id=\"wbpsc_q19_o2\" class=\"tre-opt-item opt-wrong\">3\u003c/li>\r\n\u003cli id=\"wbpsc_q19_o3\" class=\"tre-opt-item opt-right\">4\u003c/li>\r\n\u003cli id=\"wbpsc_q19_o4\" class=\"tre-opt-item opt-wrong\">6\u003c/li>\r\n\u003c/ul>\r\n\u003cp class=\"tre-q-explain\">\u003cstrong>Explanation:\u003c/strong> 24 centres divided across 6 days = 4 centres per day, a straightforward division-based question framed around real field duties.\u003c/p>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q20.\u003c/span> A nutrition budget of ₹1,20,000 is to be distributed equally among 8 Anganwadi Centres in a circle. How much does each centre receive?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"wbpsc_q20_o1\" class=\"tre-opt-item opt-wrong\">₹12,000\u003c/li>\r\n\u003cli id=\"wbpsc_q20_o2\" class=\"tre-opt-item opt-right\">₹15,000\u003c/li>\r\n\u003cli id=\"wbpsc_q20_o3\" class=\"tre-opt-item opt-wrong\">₹16,000\u003c/li>\r\n\u003cli id=\"wbpsc_q20_o4\" class=\"tre-opt-item opt-wrong\">₹18,000\u003c/li>\r\n\u003c/ul>\r\n\u003cp class=\"tre-q-explain\">\u003cstrong>Explanation:\u003c/strong> ₹1,20,000 &divide; 8 = ₹15,000 per centre. Budget-distribution style word problems are frequently framed around welfare-department scenarios in this exam.\u003c/p>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q21.\u003c/span> Out of 200 children screened during a growth monitoring drive, 15% were found moderately underweight. How many children does that represent?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"wbpsc_q21_o1\" class=\"tre-opt-item opt-wrong\">25\u003c/li>\r\n\u003cli id=\"wbpsc_q21_o2\" class=\"tre-opt-item opt-right\">30\u003c/li>\r\n\u003cli id=\"wbpsc_q21_o3\" class=\"tre-opt-item opt-wrong\">35\u003c/li>\r\n\u003cli id=\"wbpsc_q21_o4\" class=\"tre-opt-item opt-wrong\">40\u003c/li>\r\n\u003c/ul>\r\n\u003cp class=\"tre-q-explain\">\u003cstrong>Explanation:\u003c/strong> 15% of 200 = 30 children. Percentage-based questions tied to health screening data are a common format in the ICDS/Social Welfare paper.\u003c/p>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q22.\u003c/span> If Anganwadi Worker, Helper, and Supervisor posts are advertised in the ratio 6:3:1, and there are 60 Worker posts, how many Supervisor posts are there?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"wbpsc_q22_o1\" class=\"tre-opt-item opt-wrong\">8\u003c/li>\r\n\u003cli id=\"wbpsc_q22_o2\" class=\"tre-opt-item opt-right\">10\u003c/li>\r\n\u003cli id=\"wbpsc_q22_o3\" class=\"tre-opt-item opt-wrong\">12\u003c/li>\r\n\u003cli id=\"wbpsc_q22_o4\" class=\"tre-opt-item opt-wrong\">15\u003c/li>\r\n\u003c/ul>\r\n\u003cp class=\"tre-q-explain\">\u003cstrong>Explanation:\u003c/strong> If 6 parts = 60, then 1 part = 10, so Supervisor posts (1 part) = 10. Ratio questions like this reflect how vacancy break-ups are often presented in real notifications.\u003c/p>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q23.\u003c/span> A Supervisor starts her centre visits from the CDPO office, travels east to Centre A, then turns south to reach Centre B. In which direction must she travel to return directly to the CDPO office?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"wbpsc_q23_o1\" class=\"tre-opt-item opt-wrong\">South-East\u003c/li>\r\n\u003cli id=\"wbpsc_q23_o2\" class=\"tre-opt-item opt-right\">North-West\u003c/li>\r\n\u003cli id=\"wbpsc_q23_o3\" class=\"tre-opt-item opt-wrong\">South-West\u003c/li>\r\n\u003cli id=\"wbpsc_q23_o4\" class=\"tre-opt-item opt-wrong\">North-East\u003c/li>\r\n\u003c/ul>\r\n\u003cp class=\"tre-q-explain\">\u003cstrong>Explanation:\u003c/strong> Moving east then south takes her away from the start point diagonally; the direct return path would be the opposite diagonal, i.e. north-west.\u003c/p>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q24.\u003c/span> In a coded register, \"AWC\" (Anganwadi Centre) is written as \"CYE\" by shifting each letter forward by 2. Using the same logic, how would \"CDPO\" be coded?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"wbpsc_q24_o1\" class=\"tre-opt-item opt-wrong\">DERP\u003c/li>\r\n\u003cli id=\"wbpsc_q24_o2\" class=\"tre-opt-item opt-right\">EFRQ\u003c/li>\r\n\u003cli id=\"wbpsc_q24_o3\" class=\"tre-opt-item opt-wrong\">EFQR\u003c/li>\r\n\u003cli id=\"wbpsc_q24_o4\" class=\"tre-opt-item opt-wrong\">DFRQ\u003c/li>\r\n\u003c/ul>\r\n\u003cp class=\"tre-q-explain\">\u003cstrong>Explanation:\u003c/strong> Shifting each letter of C-D-P-O forward by 2 gives E-F-R-Q, following the same +2 pattern used to convert AWC into CYE.\u003c/p>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q25.\u003c/span> Four documents are required for the ICDS application: Domicile Certificate, Educational Certificate, Caste Certificate, and Nutrition Chart. Which one does NOT belong with the rest in this list?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"wbpsc_q25_o1\" class=\"tre-opt-item opt-wrong\">Domicile Certificate\u003c/li>\r\n\u003cli id=\"wbpsc_q25_o2\" class=\"tre-opt-item opt-wrong\">Educational Certificate\u003c/li>\r\n\u003cli id=\"wbpsc_q25_o3\" class=\"tre-opt-item opt-wrong\">Caste Certificate\u003c/li>\r\n\u003cli id=\"wbpsc_q25_o4\" class=\"tre-opt-item opt-right\">Nutrition Chart\u003c/li>\r\n\u003c/ul>\r\n\u003cp class=\"tre-q-explain\">\u003cstrong>Explanation:\u003c/strong> The first three are personal eligibility documents needed at the time of applying; a Nutrition Chart is a field-level ICDS record, not an application document.\u003c/p>\r\n\u003c/article>\r\n\u003c/section>\r\n\u003c/div>","image":"https://api.resumesathi.com/courses_image/WBPSC%20ICDS%20Supervisor%20Recruitment%202026.png","identifier":{"@type":"PropertyValue","name":"ResumeSathi","value":"7"},"datePosted":"2026-07-18","employmentType":"FULL_TIME","industry":"State PSC","hiringOrganization":{"@type":"Organization","name":"State PSC - Government Jobs","sameAs":"https://www.resumesathi.com/jobs/"},"jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressCountry":"IN"}},"directApply":false}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4","$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"keVm6Da3qnRC_mqGccBX1"}
+8:T7007,<div class="post-content">
+<p>West Bengal Public Service Commission (WBPSC) is going to release a notification for the post of <strong>ICDS Supervisor</strong> along with Cook &amp; Helper posts under the Department of Women &amp; Child Development and Social Welfare, Govt of West Bengal. Those candidates who are waiting for WBPSC ICDS Application 2026 can check the post information, selection procedure, age limit, pay scale and all other information before applying.&nbsp;</p>
+<h2>Important Dates</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td>Notification Release</td>
+<td><strong>To Be Notified</strong></td>
+</tr>
+<tr>
+<td>Application Begins</td>
+<td><strong>To Be Notified</strong></td>
+</tr>
+<tr>
+<td>Last Date for Apply Online</td>
+<td><strong>To Be Notified</strong></td>
+</tr>
+<tr>
+<td>Exam Date</td>
+<td><strong>As per Schedule</strong></td>
+</tr>
+<tr>
+<td>Admit Card Available</td>
+<td><strong>Before Exam</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Application Fee</h2>
+<ul>
+<li>General : 160/-</li>
+<li>SC / ST (West Bengal) &amp; PwBD : Exempted</li>
+<li>Pay the Examination Fee Through Online Mode Only</li>
+<li>Fee Once Paid Will Not Be Refunded Under Any Circumstances</li>
+</ul>
+<h2>Age Limit</h2>
+<ul>
+<li>Supervisor Post : 18 to 39 Years (Expected)</li>
+<li>Cook &amp; Helper Post : 18 to 35 Years (Expected)</li>
+<li>Age Relaxation Extra as per WBPSC ICDS Recruitment Rules (SC/ST &ndash; 5 Years, OBC-A/OBC-B &ndash; 3 Years, PwBD &ndash; as per Govt Norms)</li>
+</ul>
+<h2>Vacancy Details Total : 16000 Post (Expected)</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<thead>
+<tr>
+<th>Post Name</th>
+<th>Total Post</th>
+<th>WBPSC ICDS Recruitment Eligibility</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ICDS Supervisor</td>
+<td>To Be Notified</td>
+<td>Bachelor Degree in Any Discipline from a Recognised University. Proficiency in Bengali Generally Required.</td>
+</tr>
+<tr>
+<td>Cook &amp; Helper</td>
+<td>To Be Notified</td>
+<td>Class 8th Pass from a Recognised Board. More Eligibility Details Read the Notification.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>How to Fill WBPSC ICDS Supervisor Recruitment Online Form 2026</h2>
+<ul>
+<li>WBPSC ICDS 2026 Application Link Will Be Activated Once the Official Notification is Out.</li>
+<li>Candidate Read the Notification Before Apply the Recruitment Application Form in WBPSC ICDS Supervisor Recruitment 2026.</li>
+<li>PleaseCheck and Collect the All Document - Eligibility, Domicile Certificate, ID Proof, Address Details, Basic Details.</li>
+<li>Ready Scan Document Related to Recruitment Form - Photo, Sign, ID Proof, Etc.</li>
+<li>Complete the One Time Registration (OTR) on psc.wb.gov.in if not already done.</li>
+<li>Before Submit the Application Form Must Check the Preview and All Column Carefully.</li>
+<li>Take a Print Out of Final Submitted Form.</li>
+</ul>
+<h2>Some Useful Important Links</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td><strong>Apply Online</strong></td>
+<td>Link Will Be Activated Soon</td>
+</tr>
+<tr>
+<td><strong>Download Notification</strong></td>
+<td>To Be Released Soon</td>
+</tr>
+<tr>
+<td><strong>Signature Resizer, PDF Compress, Age Calculator and More Tools</strong></td>
+<td><a title="https://www.resumesathi.com/tools/" href="https://www.resumesathi.com/tools/" target="_blank" rel="noopener">View Tools</a></td>
+</tr>
+<tr>
+<td><strong>WBPSC Official Website</strong></td>
+<td><a title="https://www.psc.wb.gov.in/" href="https://www.psc.wb.gov.in/" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote><strong>Note:</strong> Candidates are advised to always cross-check dates, fee details, and eligibility criteria from the official WBPSC website before applying, as the schedule may change based on official updates.</blockquote>
+<h2>WBPSC ICDS Supervisor Preparation Tips 2026</h2>
+<h3>1. Prelims - General Knowledge</h3>
+<ul>
+<li>Focus on West Bengal Specific GK like State History, Geography, Culture and Current Affairs.</li>
+<li>Cover National Current Affairs of the Last 6 Months.</li>
+<li>Read Newspaper or Current Affairs for 15 to 20 Minutes Daily and try to Make Short Notes for Quick Revision.</li>
+</ul>
+<h3>2. Prelims - Arithmetic</h3>
+<ul>
+<li>Practice Basic Topics Daily: Percentage, Ratio, Average, Profit &amp; Loss, Simple/Compound Interest and Time &amp; Work.</li>
+<li>Since the Paper Is Objective With a 60-Minute Time Limit for 100 Questions, Speed and Accuracy Both Matter - Practice With a Timer.</li>
+<li>Solve 20-25 Questions Daily, Covering Mixed Topics From Previous Year Papers.</li>
+</ul>
+<h3>3. Prelims - Reasoning</h3>
+<ul>
+<li>Practice Series, Coding-Decoding, Analogy, Blood Relations, Direction Sense and Puzzles for Regular basis to Improves Speed.</li>
+</ul>
+<h3>4. Mains - Descriptive Paper</h3>
+<ul>
+<li>The Mains Paper Is 400 Marks With 90 Minutes Per Paper so Practice Writing Answers Within the Time Limit.</li>
+<li>Read About ICDS Scheme, Women &amp; Child Development Policies and Social Welfare Schemes of West Bengal because These Are Directly Related to the Post.</li>
+<li>Practice Bengali Language Sections Regularly because Proficiency in Bengali Is Generally Required for the Supervisor Post.</li>
+</ul>
+<h3>5. Viva-Voce (Personality Test)</h3>
+<ul>
+<li>Ready to Answer Questions on the ICDS Scheme, Your Educational Background and Why You Want This Role.</li>
+<li>Stay Updated on Current Affairs Related to Women &amp; Child Development.</li>
+<li>Practice Mock Interviews to Build Confidence and Work on Clear Communication.</li>
+<li>Attempt at Least One Full Mock Test Weekly toTrack Progress.</li>
+<li>Keep Revising Previous Year Question Papers because Repeated Patterns Are Common in State-Level Exams.</li>
+</ul>
+<h2>Frequently Asked Questions</h2>
+<section class="tre-faq-list"><details class="tre-faq-item">
+<summary>When will the WBPSC ICDS Supervisor 2026 notification be released?</summary>
+<p>The official notification is expected to be released soon. Exact dates for application begin and last date are yet to be notified.</p>
+</details><details class="tre-faq-item">
+<summary>How many total vacancies are expected in WBPSC ICDS Recruitment 2026?</summary>
+<p>Around 16000 posts are expected across ICDS Supervisor, Cook and Helper categories, though the exact post-wise breakup will be confirmed in the official notification.</p>
+</details><details class="tre-faq-item">
+<summary>What is the application fee for WBPSC ICDS Supervisor 2026?</summary>
+<p>The fee is Rs. 160/- for General category candidates, while SC/ST (West Bengal) and PwBD candidates are exempted from the fee.</p>
+</details><details class="tre-faq-item">
+<summary>What is the age limit for the Supervisor and Cook/Helper posts?</summary>
+<p>The expected age limit is 18 to 39 years for Supervisor posts and 18 to 35 years for Cook and Helper posts, with category-wise relaxation applicable.</p>
+</details><details class="tre-faq-item">
+<summary>Is Bengali language proficiency required for the Supervisor post?</summary>
+<p>Yes, proficiency in Bengali is generally required for the ICDS Supervisor post, as mentioned in the eligibility criteria.</p>
+</details><details class="tre-faq-item">
+<summary>What is the minimum qualification for the Cook and Helper posts?</summary>
+<p>Candidates need a Class 8th pass certificate from a recognised board, with more eligibility details available in the official notification.</p>
+</details><details class="tre-faq-item">
+<summary>What is the selection process for WBPSC ICDS Supervisor 2026?</summary>
+<p>The selection process includes Prelims (General Knowledge, Arithmetic, Reasoning), Mains (a 400-mark descriptive paper), and a Viva-Voce (Personality Test).</p>
+</details></section>
+<section class="tre-quiz-wrap">
+<h3 class="tre-quiz-header">WBPSC ICDS Supervisor - Job Specific Practice Questions (ICDS Scheme, Anganwadi Structure &amp; Social Welfare)</h3>
+<p class="tre-quiz-sub">25 Objective Questions with Explanation</p>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q1.</span> An ICDS Supervisor is generally responsible for overseeing how many Anganwadi Centres on average in a project area?</p>
+<ul class="tre-quiz-options">
+<li id="wbpsc_q1_o1" class="tre-opt-item opt-wrong">5 to 8</li>
+<li id="wbpsc_q1_o2" class="tre-opt-item opt-right">Around 20 to 25</li>
+<li id="wbpsc_q1_o3" class="tre-opt-item opt-wrong">50 to 60</li>
+<li id="wbpsc_q1_o4" class="tre-opt-item opt-wrong">100 and above</li>
+</ul>
+<p class="tre-q-explain"><strong>Explanation:</strong> A Supervisor (also called Mukhya Sevika) typically monitors around 20-25 Anganwadi Centres under one ICDS project/circle, conducting regular visits, checking registers and guiding the Anganwadi Workers.</p>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q2.</span> Which register is NOT usually maintained at an Anganwadi Centre?</p>
+<ul class="tre-quiz-options">
+<li id="wbpsc_q2_o1" class="tre-opt-item opt-wrong">Growth Monitoring Register</li>
+<li id="wbpsc_q2_o2" class="tre-opt-item opt-wrong">Attendance Register</li>
+<li id="wbpsc_q2_o3" class="tre-opt-item opt-wrong">Beneficiary Register (Pregnant/Lactating Women)</li>
+<li id="wbpsc_q2_o4" class="tre-opt-item opt-right">Land Revenue Register</li>
+</ul>
+<p class="tre-q-explain"><strong>Explanation:</strong> Anganwadi records mainly track children, mothers, health check-ups, nutrition and attendance - not land revenue, which falls under a different department entirely.</p>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q3.</span> The Take Home Ration (THR) under ICDS is generally provided to which beneficiaries?</p>
+<ul class="tre-quiz-options">
+<li id="wbpsc_q3_o1" class="tre-opt-item opt-wrong">Only school-going children above 10 years</li>
+<li id="wbpsc_q3_o2" class="tre-opt-item opt-right">Children 6 months to 3 years, and pregnant/lactating mothers</li>
+<li id="wbpsc_q3_o3" class="tre-opt-item opt-wrong">Only senior citizens</li>
+<li id="wbpsc_q3_o4" class="tre-opt-item opt-wrong">Only Anganwadi staff</li>
+</ul>
+<p class="tre-q-explain"><strong>Explanation:</strong> THR is meant for children who cannot yet eat cooked meals at the centre (6 months to 3 years) and for pregnant and lactating mothers, so they can consume nutrition at home.</p>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q4.</span> Which of these is a core service under the ICDS package (also called the "Six Services")?</p>
+<ul class="tre-quiz-options">
+<li id="wbpsc_q4_o1" class="tre-opt-item opt-wrong">Vocational Skill Training for Adults</li>
+<li id="wbpsc_q4_o2" class="tre-opt-item opt-right">Non-Formal Pre-School Education</li>
+<li id="wbpsc_q4_o3" class="tre-opt-item opt-wrong">Loan Distribution</li>
+<li id="wbpsc_q4_o4" class="tre-opt-item opt-wrong">Pension Disbursement</li>
+</ul>
+<p class="tre-q-explain"><strong>Explanation:</strong> The ICDS "six services" are supplementary nutrition, immunization, health check-up, referral services, non-formal pre-school education, and nutrition &amp; health education.</p>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q5.</span> Who is the immediate reporting authority above an ICDS Supervisor at the block level in West Bengal?</p>
+<ul class="tre-quiz-options">
+<li id="wbpsc_q5_o1" class="tre-opt-item opt-right">Child Development Project Officer (CDPO)</li>
+<li id="wbpsc_q5_o2" class="tre-opt-item opt-wrong">District Magistrate</li>
+<li id="wbpsc_q5_o3" class="tre-opt-item opt-wrong">Block Development Officer only</li>
+<li id="wbpsc_q5_o4" class="tre-opt-item opt-wrong">State Secretary</li>
+</ul>
+<p class="tre-q-explain"><strong>Explanation:</strong> The CDPO heads the ICDS project at the block level and Supervisors report to the CDPO, who further reports up the district and state administrative chain.</p>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q6.</span> Which tool is commonly used by Anganwadi Workers to assess a child's nutritional status during growth monitoring?</p>
+<ul class="tre-quiz-options">
+<li id="wbpsc_q6_o1" class="tre-opt-item opt-right">Weighing scale and height chart against growth cards</li>
+<li id="wbpsc_q6_o2" class="tre-opt-item opt-wrong">Blood pressure monitor</li>
+<li id="wbpsc_q6_o3" class="tre-opt-item opt-wrong">ECG machine</li>
+<li id="wbpsc_q6_o4" class="tre-opt-item opt-wrong">X-ray machine</li>
+</ul>
+<p class="tre-q-explain"><strong>Explanation:</strong> Growth monitoring under ICDS relies on regular weight and height recording, plotted against standard growth cards to identify malnourished or at-risk children early.</p>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q7.</span> Which category of children is specifically prioritized for referral to a Nutrition Rehabilitation Centre (NRC)?</p>
+<ul class="tre-quiz-options">
+<li id="wbpsc_q7_o1" class="tre-opt-item opt-wrong">Children with normal growth</li>
+<li id="wbpsc_q7_o2" class="tre-opt-item opt-right">Severely Acute Malnourished (SAM) children</li>
+<li id="wbpsc_q7_o3" class="tre-opt-item opt-wrong">Children above 12 years</li>
+<li id="wbpsc_q7_o4" class="tre-opt-item opt-wrong">Only children with eye problems</li>
+</ul>
+<p class="tre-q-explain"><strong>Explanation:</strong> SAM children need intensive medical and nutritional care, so ICDS field staff refer them to NRCs where they receive supervised treatment until their condition stabilizes.</p>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q8.</span> The Scheme for Adolescent Girls under the Women &amp; Child Development set-up mainly targets which age group?</p>
+<ul class="tre-quiz-options">
+<li id="wbpsc_q8_o1" class="tre-opt-item opt-wrong">0 to 3 years</li>
+<li id="wbpsc_q8_o2" class="tre-opt-item opt-wrong">3 to 6 years</li>
+<li id="wbpsc_q8_o3" class="tre-opt-item opt-right">11 to 14 years (out-of-school girls in most versions)</li>
+<li id="wbpsc_q8_o4" class="tre-opt-item opt-wrong">Above 25 years</li>
+</ul>
+<p class="tre-q-explain"><strong>Explanation:</strong> This scheme focuses on nutrition, health awareness, and life-skill support for adolescent girls, particularly those who have dropped out of formal schooling.</p>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q9.</span> Which of the following comes under the Social Welfare Department's mandate along with ICDS in West Bengal?</p>
+<ul class="tre-quiz-options">
+<li id="wbpsc_q9_o1" class="tre-opt-item opt-right">Welfare schemes for differently-abled persons and destitute women</li>
+<li id="wbpsc_q9_o2" class="tre-opt-item opt-wrong">Highway construction</li>
+<li id="wbpsc_q9_o3" class="tre-opt-item opt-wrong">Power distribution</li>
+<li id="wbpsc_q9_o4" class="tre-opt-item opt-wrong">Railway ticketing</li>
+</ul>
+<p class="tre-q-explain"><strong>Explanation:</strong> Along with child and maternal welfare, the department also runs programs for the differently-abled, orphaned children, and destitute or distressed women.</p>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q10.</span> What does the term "VHSND" (commonly linked with Anganwadi activities) stand for?</p>
+<ul class="tre-quiz-options">
+<li id="wbpsc_q10_o1" class="tre-opt-item opt-right">Village Health, Sanitation and Nutrition Day</li>
+<li id="wbpsc_q10_o2" class="tre-opt-item opt-wrong">Vocational Health Skill Naming Drive</li>
+<li id="wbpsc_q10_o3" class="tre-opt-item opt-wrong">Village Housing Scheme for Nutrition Development</li>
+<li id="wbpsc_q10_o4" class="tre-opt-item opt-wrong">Village Health Survey and Numbering Data</li>
+</ul>
+<p class="tre-q-explain"><strong>Explanation:</strong> VHSND is a monthly outreach event held at the Anganwadi level, bringing together ASHA, ANM and Anganwadi Workers for immunization, health check-ups and nutrition counselling.</p>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q11.</span> As per general ICDS norms, what is the minimum number of days an Anganwadi Centre should ideally remain functional in a month?</p>
+<ul class="tre-quiz-options">
+<li id="wbpsc_q11_o1" class="tre-opt-item opt-wrong">10 days</li>
+<li id="wbpsc_q11_o2" class="tre-opt-item opt-wrong">15 days</li>
+<li id="wbpsc_q11_o3" class="tre-opt-item opt-right">25 days</li>
+<li id="wbpsc_q11_o4" class="tre-opt-item opt-wrong">30 days, no holidays</li>
+</ul>
+<p class="tre-q-explain"><strong>Explanation:</strong> Anganwadi Centres are generally expected to function around 25 days a month, excluding weekly offs and government holidays, to keep nutrition and pre-school activities consistent.</p>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q12.</span> Which of these duties would typically fall to a Supervisor rather than an Anganwadi Worker?</p>
+<ul class="tre-quiz-options">
+<li id="wbpsc_q12_o1" class="tre-opt-item opt-wrong">Serving cooked meals daily</li>
+<li id="wbpsc_q12_o2" class="tre-opt-item opt-right">Conducting on-the-spot inspection and verifying stock registers</li>
+<li id="wbpsc_q12_o3" class="tre-opt-item opt-wrong">Cleaning the centre premises</li>
+<li id="wbpsc_q12_o4" class="tre-opt-item opt-wrong">Taking daily attendance of children</li>
+</ul>
+<p class="tre-q-explain"><strong>Explanation:</strong> Field-level duties like cooking or attendance are handled by the Worker/Helper, while inspection, verification, and guidance across multiple centres fall under the Supervisor's role.</p>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q13.</span> The Beti Bachao Beti Padhao scheme is administered in coordination with which ministries?</p>
+<ul class="tre-quiz-options">
+<li id="wbpsc_q13_o1" class="tre-opt-item opt-right">Women &amp; Child Development, Health, and Education</li>
+<li id="wbpsc_q13_o2" class="tre-opt-item opt-wrong">Defence and Home Affairs</li>
+<li id="wbpsc_q13_o3" class="tre-opt-item opt-wrong">Railways and Civil Aviation</li>
+<li id="wbpsc_q13_o4" class="tre-opt-item opt-wrong">Commerce and Industry</li>
+</ul>
+<p class="tre-q-explain"><strong>Explanation:</strong> Since the scheme addresses declining child sex ratio and girls' education together, it is run jointly through the WCD, Health and Education ministries.</p>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q14.</span> Under the Mid-Day Meal / nutrition linkage, which age group is generally NOT covered by the Anganwadi feeding programme but by school-based schemes instead?</p>
+<ul class="tre-quiz-options">
+<li id="wbpsc_q14_o1" class="tre-opt-item opt-wrong">6 months to 3 years</li>
+<li id="wbpsc_q14_o2" class="tre-opt-item opt-wrong">3 to 6 years</li>
+<li id="wbpsc_q14_o3" class="tre-opt-item opt-right">Primary school-going children (6+ years)</li>
+<li id="wbpsc_q14_o4" class="tre-opt-item opt-wrong">Pregnant women</li>
+</ul>
+<p class="tre-q-explain"><strong>Explanation:</strong> Once a child moves into formal primary schooling, nutrition support generally shifts from the Anganwadi's supplementary feeding to the school Mid-Day Meal Scheme.</p>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q15.</span> What is the primary purpose of the Nutrition and Health Education (NHE) component of ICDS?</p>
+<ul class="tre-quiz-options">
+<li id="wbpsc_q15_o1" class="tre-opt-item opt-right">Building awareness among mothers on childcare, hygiene and diet practices</li>
+<li id="wbpsc_q15_o2" class="tre-opt-item opt-wrong">Providing free housing loans</li>
+<li id="wbpsc_q15_o3" class="tre-opt-item opt-wrong">Distributing agricultural equipment</li>
+<li id="wbpsc_q15_o4" class="tre-opt-item opt-wrong">Conducting driving license tests</li>
+</ul>
+<p class="tre-q-explain"><strong>Explanation:</strong> NHE sessions equip mothers and caregivers with practical knowledge on feeding practices, hygiene, and preventive healthcare for children and themselves.</p>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q16.</span> Which of the following is generally a disqualifying factor while filling the WBPSC ICDS application, unless specifically permitted?</p>
+<ul class="tre-quiz-options">
+<li id="wbpsc_q16_o1" class="tre-opt-item opt-right">Providing false information in the OTR profile</li>
+<li id="wbpsc_q16_o2" class="tre-opt-item opt-wrong">Applying from a cyber caf&eacute;</li>
+<li id="wbpsc_q16_o3" class="tre-opt-item opt-wrong">Uploading photo in JPEG format</li>
+<li id="wbpsc_q16_o4" class="tre-opt-item opt-wrong">Applying a day before the deadline</li>
+</ul>
+<p class="tre-q-explain"><strong>Explanation:</strong> Submitting incorrect or false details in the One Time Registration profile can lead to rejection of candidature at any later stage of the recruitment process.</p>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q17.</span> In the ICDS structure, what is the role of an "Anganwadi Helper" distinct from a "Worker"?</p>
+<ul class="tre-quiz-options">
+<li id="wbpsc_q17_o1" class="tre-opt-item opt-right">Assisting with meal preparation, cleanliness and bringing children to the centre</li>
+<li id="wbpsc_q17_o2" class="tre-opt-item opt-wrong">Handling the block-level budget</li>
+<li id="wbpsc_q17_o3" class="tre-opt-item opt-wrong">Approving maternity benefit applications</li>
+<li id="wbpsc_q17_o4" class="tre-opt-item opt-wrong">Conducting the Supervisor's exam</li>
+</ul>
+<p class="tre-q-explain"><strong>Explanation:</strong> The Helper supports the Worker with day-to-day physical tasks at the centre, while planning, teaching and record-keeping remain the Worker's responsibility.</p>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q18.</span> A batch of registers at an Anganwadi Centre shows 60 enrolled children, of whom 45 attended on a given day. What is the attendance percentage that day?</p>
+<ul class="tre-quiz-options">
+<li id="wbpsc_q18_o1" class="tre-opt-item opt-wrong">65%</li>
+<li id="wbpsc_q18_o2" class="tre-opt-item opt-wrong">70%</li>
+<li id="wbpsc_q18_o3" class="tre-opt-item opt-right">75%</li>
+<li id="wbpsc_q18_o4" class="tre-opt-item opt-wrong">80%</li>
+</ul>
+<p class="tre-q-explain"><strong>Explanation:</strong> 45 out of 60 = 45/60 x 100 = 75%. Such register-based percentage calculation questions are common in the ICDS Prelims arithmetic section.</p>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q19.</span> If a Supervisor covers 24 Anganwadi Centres in 6 working days, visiting an equal number each day, how many centres does she cover per day?</p>
+<ul class="tre-quiz-options">
+<li id="wbpsc_q19_o1" class="tre-opt-item opt-wrong">2</li>
+<li id="wbpsc_q19_o2" class="tre-opt-item opt-wrong">3</li>
+<li id="wbpsc_q19_o3" class="tre-opt-item opt-right">4</li>
+<li id="wbpsc_q19_o4" class="tre-opt-item opt-wrong">6</li>
+</ul>
+<p class="tre-q-explain"><strong>Explanation:</strong> 24 centres divided across 6 days = 4 centres per day, a straightforward division-based question framed around real field duties.</p>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q20.</span> A nutrition budget of ₹1,20,000 is to be distributed equally among 8 Anganwadi Centres in a circle. How much does each centre receive?</p>
+<ul class="tre-quiz-options">
+<li id="wbpsc_q20_o1" class="tre-opt-item opt-wrong">₹12,000</li>
+<li id="wbpsc_q20_o2" class="tre-opt-item opt-right">₹15,000</li>
+<li id="wbpsc_q20_o3" class="tre-opt-item opt-wrong">₹16,000</li>
+<li id="wbpsc_q20_o4" class="tre-opt-item opt-wrong">₹18,000</li>
+</ul>
+<p class="tre-q-explain"><strong>Explanation:</strong> ₹1,20,000 &divide; 8 = ₹15,000 per centre. Budget-distribution style word problems are frequently framed around welfare-department scenarios in this exam.</p>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q21.</span> Out of 200 children screened during a growth monitoring drive, 15% were found moderately underweight. How many children does that represent?</p>
+<ul class="tre-quiz-options">
+<li id="wbpsc_q21_o1" class="tre-opt-item opt-wrong">25</li>
+<li id="wbpsc_q21_o2" class="tre-opt-item opt-right">30</li>
+<li id="wbpsc_q21_o3" class="tre-opt-item opt-wrong">35</li>
+<li id="wbpsc_q21_o4" class="tre-opt-item opt-wrong">40</li>
+</ul>
+<p class="tre-q-explain"><strong>Explanation:</strong> 15% of 200 = 30 children. Percentage-based questions tied to health screening data are a common format in the ICDS/Social Welfare paper.</p>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q22.</span> If Anganwadi Worker, Helper, and Supervisor posts are advertised in the ratio 6:3:1, and there are 60 Worker posts, how many Supervisor posts are there?</p>
+<ul class="tre-quiz-options">
+<li id="wbpsc_q22_o1" class="tre-opt-item opt-wrong">8</li>
+<li id="wbpsc_q22_o2" class="tre-opt-item opt-right">10</li>
+<li id="wbpsc_q22_o3" class="tre-opt-item opt-wrong">12</li>
+<li id="wbpsc_q22_o4" class="tre-opt-item opt-wrong">15</li>
+</ul>
+<p class="tre-q-explain"><strong>Explanation:</strong> If 6 parts = 60, then 1 part = 10, so Supervisor posts (1 part) = 10. Ratio questions like this reflect how vacancy break-ups are often presented in real notifications.</p>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q23.</span> A Supervisor starts her centre visits from the CDPO office, travels east to Centre A, then turns south to reach Centre B. In which direction must she travel to return directly to the CDPO office?</p>
+<ul class="tre-quiz-options">
+<li id="wbpsc_q23_o1" class="tre-opt-item opt-wrong">South-East</li>
+<li id="wbpsc_q23_o2" class="tre-opt-item opt-right">North-West</li>
+<li id="wbpsc_q23_o3" class="tre-opt-item opt-wrong">South-West</li>
+<li id="wbpsc_q23_o4" class="tre-opt-item opt-wrong">North-East</li>
+</ul>
+<p class="tre-q-explain"><strong>Explanation:</strong> Moving east then south takes her away from the start point diagonally; the direct return path would be the opposite diagonal, i.e. north-west.</p>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q24.</span> In a coded register, "AWC" (Anganwadi Centre) is written as "CYE" by shifting each letter forward by 2. Using the same logic, how would "CDPO" be coded?</p>
+<ul class="tre-quiz-options">
+<li id="wbpsc_q24_o1" class="tre-opt-item opt-wrong">DERP</li>
+<li id="wbpsc_q24_o2" class="tre-opt-item opt-right">EFRQ</li>
+<li id="wbpsc_q24_o3" class="tre-opt-item opt-wrong">EFQR</li>
+<li id="wbpsc_q24_o4" class="tre-opt-item opt-wrong">DFRQ</li>
+</ul>
+<p class="tre-q-explain"><strong>Explanation:</strong> Shifting each letter of C-D-P-O forward by 2 gives E-F-R-Q, following the same +2 pattern used to convert AWC into CYE.</p>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q25.</span> Four documents are required for the ICDS application: Domicile Certificate, Educational Certificate, Caste Certificate, and Nutrition Chart. Which one does NOT belong with the rest in this list?</p>
+<ul class="tre-quiz-options">
+<li id="wbpsc_q25_o1" class="tre-opt-item opt-wrong">Domicile Certificate</li>
+<li id="wbpsc_q25_o2" class="tre-opt-item opt-wrong">Educational Certificate</li>
+<li id="wbpsc_q25_o3" class="tre-opt-item opt-wrong">Caste Certificate</li>
+<li id="wbpsc_q25_o4" class="tre-opt-item opt-right">Nutrition Chart</li>
+</ul>
+<p class="tre-q-explain"><strong>Explanation:</strong> The first three are personal eligibility documents needed at the time of applying; a Nutrition Chart is a field-level ICDS record, not an application document.</p>
+</article>
+</section>
+</div>3:["$","$L7",null,{"article":{"id":7,"title":"WBPSC ICDS Supervisor, Cook & Helper Recruitment 2026 (16,000+ Post)","slug":"wbpsc-icds-supervisor-recruitment-2026","description":"WBPSC ICDS Supervisor Recruitment 2026 notification expected soon for 16000 posts (Supervisor, Cook & Helper) under Dept of Women & Child Development, Govt of West Bengal. Female candidates only.","company":null,"location":null,"employment_type":null,"salary":null,"status":1,"created_at":"2026-07-18T18:41:35.000000Z","updated_at":"2026-08-04T18:47:09.000000Z","job_type_id":null,"department_id":null,"is_active":1,"featured":0,"trending":0,"urgent":0,"homepage":0,"deleted_at":null,"hero_image":"courses_image/WBPSC ICDS Supervisor Recruitment 2026.png","created_by":1,"topic_name":"WBPSC ICDS Supervisor, Cook & Helper Recruitment 2026 (16,000+ Post)","url_name":"wbpsc-icds-supervisor-recruitment-2026","meta_title":"WBPSC ICDS Supervisor, Cook & Helper Recruitment 2026 (16,000+ Post)","meta_description":"WBPSC ICDS Supervisor Recruitment 2026 notification expected soon for 16000 posts (Supervisor, Cook & Helper) under Dept of Women & Child Development, Govt of West Bengal. Female candidates only.","meta_keyword":"WBPSC ICDS Supervisor 2026, WBPSC ICDS Recruitment, ICDS Supervisor Vacancy, WBPSC Supervisor Notification, WB ICDS Cook Helper Recruitment","canonical_tag":"courses/state-psc/wbpsc-icds-supervisor-recruitment-2026","course_type":10,"pageview":0,"application_begin":null,"last_date_for_apply":null,"user":{"id":1,"first_name":"Hariom","last_name":"Prajapati","email":"hariomprajapati9029@gmail.com","mobile":"8840860841","birth_date":"08/01/1999","age":"23","gender":"male","profile_image":"Hariom.jpg","background_image":null,"is_active":1,"created_at":"2021-09-12T13:19:51.000000Z","updated_at":"2026-07-12T10:04:13.000000Z"},"course_category":{"id":10,"course_name":"State PSC","course_url":"state-psc","course_image":"courses/Emblem_of_India_(navy_blue).svg","description":"State-level Public Service Commission (WBPSC, UPPSC, BPSC etc.) recruitment notifications.","created_at":"2026-07-18T18:41:29.000000Z","updated_at":"2026-07-18T18:41:29.000000Z","deleted_at":null,"created_by":1},"contents":[{"id":7,"content":"$8","course_id":7,"created_at":"2026-07-18T18:41:35.000000Z","updated_at":"2026-08-04T18:47:09.000000Z"}]},"slug":"wbpsc-icds-supervisor-recruitment-2026"}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/36s5nf8n-vj81.css","precedence":"next"}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/16ymsuy-x3uv9.js","async":true}]
+6:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

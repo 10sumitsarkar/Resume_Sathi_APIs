@@ -1,0 +1,179 @@
+1:"$Sreact.fragment"
+2:I[41057,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/0oa3ilh4tyqfb.js","/_next/static/chunks/2ru1qq791pt7o.js"],"default"]
+7:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+:HL["/_next/static/chunks/19r02t9galfzp.css","style"]
+3:T1b95,<p>I get asked this a lot &mdash; "which resume template should I actually use?" And honestly, there's no single right answer. It depends on what job you're going for, how much you want to show off visually, and whether the company you're applying to even bothers reading past the ATS screening. One template that a lot of people gravitate toward lately has a dark header, a round profile photo up top, skill bars running down the side, and a two-column body underneath it. That's the one I want to talk about here.</p>
+<p>If you've seen it before and wondered whether it's worth using, or you're just trying to figure out if it fits your field, this should clear things up.</p>
+<h3>Breaking Down the Layout</h3>
+<p>The template is really just two zones stitched together. Nothing fancy, but it's laid out in a way that makes sense once you see it in front of you.</p>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
+<th>Section</th>
+<th>Where It Sits</th>
+<th>What Goes In It</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Header</td>
+<td>Full-width, top</td>
+<td>Name, designation, location, phone, email, website</td>
+</tr>
+<tr>
+<td>Left Sidebar</td>
+<td>Left column</td>
+<td>Skills with progress bars, Languages, Social Links, Hobbies</td>
+</tr>
+<tr>
+<td>Main Content</td>
+<td>Right column</td>
+<td>Profile Summary, Work Experience, Internships, Education, Certifications</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>What I like about this setup is that it gives you room to include the extra stuff &mdash; languages, hobbies, social links &mdash; without it feeling like you're cramming things into a corner just to fit them in.</p>
+<h3>What Actually Sets It Apart</h3>
+<p>A few small design choices make this template stand out from the usual plain-text resume:</p>
+<ul>
+<li>Skill bars next to each listed skill &mdash; instead of just naming a skill, you can show roughly how good you are at it (Intermediate, Proficient, Advanced, that sort of thing)</li>
+<li>A dotted timeline running through Work Experience, Internships, and Certifications, so it reads a bit like a story instead of a list</li>
+<li>One accent color used consistently across headers and icons &mdash; small detail, but it makes the resume look put-together rather than thrown together</li>
+<li>A proper spot for social links, which honestly gets left out of a lot of templates even though recruiters do check LinkedIn and GitHub</li>
+</ul>
+<h3>Who Should Actually Go For This One</h3>
+<p>Not every template works for every job, and this one's no exception. Some fields respond well to a bit of visual flair, others really don't.</p>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
+<th>Candidate Type</th>
+<th>Good Fit?</th>
+<th>Why</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Retail / Sales Professionals</td>
+<td>Yes</td>
+<td>The skill bars make your strengths easy to scan at a glance</td>
+</tr>
+<tr>
+<td>Freshers / Students</td>
+<td>Yes</td>
+<td>Internships and education actually get proper visibility instead of being buried</td>
+</tr>
+<tr>
+<td>Designers / Creative Roles</td>
+<td>Yes</td>
+<td>The layout itself doubles as a small demonstration of design sense</td>
+</tr>
+<tr>
+<td>Corporate / Finance Roles</td>
+<td>Not really</td>
+<td>These industries usually expect something more conservative and text-heavy</td>
+</tr>
+<tr>
+<td>Senior Management Roles</td>
+<td>Not really</td>
+<td>Timeline-style templates tend to read as junior to mid-level</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Now, About ATS &mdash; Will It Even Get Read?</h3>
+<p>This is the part people worry about most, and fair enough. A resume can look great and still get chewed up by an applicant tracking system if it's not built carefully.</p>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
+<th>Element</th>
+<th>ATS-Safe?</th>
+<th>Note</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Two-column layout</td>
+<td>Mostly</td>
+<td>Older ATS software can occasionally scramble the reading order</td>
+</tr>
+<tr>
+<td>Skill progress bars</td>
+<td>Somewhat risky</td>
+<td>Type out the actual skill level in words too, don't rely on the bar alone</td>
+</tr>
+<tr>
+<td>Icons for contact info</td>
+<td>Usually fine</td>
+<td>Just make sure the text sits right next to the icon, not inside it</td>
+</tr>
+<tr>
+<td>Profile photo</td>
+<td>Depends</td>
+<td>Normal practice in India, but some international recruiters prefer no photo at all</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>If the company you're applying to is a large corporate setup, it doesn't hurt to keep a plainer, single-column resume on standby too. Better safe than filtered out before a human even looks at it.</p>
+<h3>A Few Things Worth Doing (and Avoiding)</h3>
+<p>Some of this is common sense, but it's easy to overlook once you're deep in template customization mode:</p>
+<ul>
+<li>Keep the skills section tight &mdash; only what's actually relevant to the role you're applying for</li>
+<li>Add real numbers to your work experience wherever you can, even something like "grew monthly sales by 10%" changes how a line reads</li>
+<li>Stick to professional social links only, this isn't the place for a personal Instagram</li>
+<li>Don't try to fit every section you can think of, a resume with too much going on stops being readable</li>
+<li>Don't guess at your skill bar levels just to look good, recruiters notice inconsistency between what you claim and how you answer in an interview</li>
+<li>Keep certification and work dates in one consistent format throughout</li>
+</ul>
+<h3>Timeline Template vs a Plain One &mdash; Side by Side</h3>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
+<th>Factor</th>
+<th>Timeline Template</th>
+<th>Simple/Minimal Template</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Visual Appeal</td>
+<td>High</td>
+<td>Lower</td>
+</tr>
+<tr>
+<td>ATS Safety</td>
+<td>Medium</td>
+<td>High</td>
+</tr>
+<tr>
+<td>Best For</td>
+<td>Retail, creative, entry-level roles</td>
+<td>Corporate, government, traditional industries</td>
+</tr>
+<tr>
+<td>Customization Options</td>
+<td>High &mdash; colors, bars, icons</td>
+<td>Limited</td>
+</tr>
+<tr>
+<td>Recruiter Scan Time</td>
+<td>Fast, guided by visuals</td>
+<td>Fast, but plainer</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Where I'd Land On This</h3>
+<p>If you're in retail, sales, design, or you're a fresher still building out your work history, this template genuinely does a good job of making a thin resume look complete and a strong one look even better. But if you're eyeing a corporate or finance role, or applying somewhere known for being conservative about hiring formats, I'd lean toward something simpler instead.</p>
+<p>At the end of the day, the best template isn't the one that looks the most polished on screen &mdash; it's the one that gets your actual experience across clearly, without getting in its own way.</p>
+<p>Building your resume with templates like this one? Check out the other resume-related posts on the channel for more guidance.</p>0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"article":{"id":26,"article_type":2,"article_title":"Timeline Resume Template: Is It Right for Your Job Search?","url_name":"timeline-resume-template-guide","meta_title":"Timeline Resume Template: Is It Right for Your Job Search?","meta_description":"A breakdown of the Timeline resume template — its layout, who it suits best, ATS compatibility, and tips before you use it.","meta_keyword":"timeline resume template, resume template guide, ats friendly resume template, best resume template for freshers, resume template for retail jobs, two column resume template, resume design tips, resume template comparison, free resume template india, resume format for sales jobs","canonical_tag":"articles/resume-tips/timeline-resume-template-guide","language_id":null,"hero_image":"articles_image/file_1786429773.png","pageview":0,"created_by":1,"created_at":"2026-07-19T07:07:05.000000Z","is_draft":0,"is_active":1,"status":1,"updated_at":"2026-08-13T10:27:14.000000Z","deleted_at":null,"user":{"id":1,"first_name":"Hariom","last_name":"Prajapati","email":"hariomprajapati9029@gmail.com","mobile":"8840860841","birth_date":"08/01/1999","age":"23","gender":"male","profile_image":"Hariom.jpg","background_image":null,"is_active":1,"created_at":"2021-09-12T13:19:51.000000Z","updated_at":"2026-07-12T10:04:13.000000Z"},"category":{"id":2,"article_name":"Resume Tips","url_name":"resume-tips","article_description":"Expert tips and useful guidance to help you create a professional, ATS-friendly resume and improve your chances of getting hired.","created_at":"2026-08-13T03:37:18.000000Z","updated_at":"2026-08-13T03:37:18.000000Z"},"contents":[{"id":26,"article_id":26,"content":"$3","created_at":"2026-07-19T07:07:05.000000Z","updated_at":"2026-08-13T10:27:14.000000Z"}]},"slug":"timeline-resume-template-guide"}],["$L4","$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"keVm6Da3qnRC_mqGccBX1"}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/19r02t9galfzp.css","precedence":"next"}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/2ru1qq791pt7o.js","async":true}]
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

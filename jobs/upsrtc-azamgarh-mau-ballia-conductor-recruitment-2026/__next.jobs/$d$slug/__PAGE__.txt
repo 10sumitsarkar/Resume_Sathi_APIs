@@ -1,0 +1,112 @@
+1:"$Sreact.fragment"
+7:I[88609,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/06pj_k8chkpe5.js","/_next/static/chunks/16ymsuy-x3uv9.js"],"default"]
+9:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["/_next/static/chunks/36s5nf8n-vj81.css","style"]
+2:T1714,{"@context":"https://schema.org/","@type":"JobPosting","title":"UPSRTC Azamgarh, Mau, Ballia Bus Conductor Recruitment 2026","description":"\u003cdiv class=\"post-content\">\r\n\u003cp>Uttar Pradesh State Road Transport Corporation (UPSRTC) has released the advertisement for \u003cstrong>Bus Conductor Outsourcing Recruitment 2026\u003c/strong> for Azamgarh, Mau and Ballia districts. Candidates interested and eligible from these districts can apply online through the Sewayojan Portal from 20 July 2026 to 05 August 2026.\u003c/p>\r\n\u003ch2>Important Dates\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Application Begin\u003c/td>\r\n\u003ctd>\u003cstrong>20/07/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Last Date for Apply\u003c/td>\r\n\u003ctd>\u003cstrong>05/08/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Interview Date\u003c/td>\r\n\u003ctd>\u003cstrong>As per Schedule\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>Application Fee\u003c/h2>\r\n\u003cul>\r\n\u003cli>General / OBC / EWS : 0/-\u003c/li>\r\n\u003cli>SC / ST : 0/-\u003c/li>\r\n\u003cli>No Application Fee for Any Candidate\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Age Limit\u003c/h2>\r\n\u003cul>\r\n\u003cli>Minimum Age : 18 Years\u003c/li>\r\n\u003cli>Maximum Age : 45 Years\u003c/li>\r\n\u003cli>Age Relaxation Extra as per UPSRTC Conductor Outsourcing Recruitment Rules\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Vacancy Details Total : 35 Post\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003cthead>\r\n\u003ctr>\r\n\u003cth>District Name\u003c/th>\r\n\u003cth>Total Post\u003c/th>\r\n\u003cth>UPSRTC Conductor Eligibility\u003c/th>\r\n\u003c/tr>\r\n\u003c/thead>\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Azamgarh, Mau, Ballia\u003c/td>\r\n\u003ctd>35\u003c/td>\r\n\u003ctd>\r\n\u003cul>\r\n\u003cli>Passed Class 12th (Intermediate) From Any Recognized Board in India\u003c/li>\r\n\u003cli>Candidate Must Be Medically Fit\u003c/li>\r\n\u003cli>No Prior Experience Required\u003c/li>\r\n\u003cli>CCC Exam Passed\u003c/li>\r\n\u003c/ul>\r\n\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>Selection Process\u003c/h2>\r\n\u003cul>\r\n\u003cli>Registration and Profile Update on the Sewayojan Portal (Rojgar Sangam)\u003c/li>\r\n\u003cli>Document Verification\u003c/li>\r\n\u003cli>Interview - As per Schedule\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>How to Fill UPSRTC Conductor Outsourcing Online Form 2026\u003c/h2>\r\n\u003cul>\r\n\u003cli>Register on the Sewayojan Portal if Not Already Registered, and Update Your Qualification and CCC Certificate Details in Your Profile.\u003c/li>\r\n\u003cli>Once the Profile Is Updated, the Option to Apply for UPSRTC Conductor Recruitment Will Appear on the Portal.\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Some Useful Important Links\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Apply Online\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"Apply Now\" href=\"https://sewayojan.up.nic.in/IEP/Login.aspx\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Download Notification\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"Click Here\" href=\"https://www.sarkariresult.com/wp-content/uploads/2026/07/up-bus-conductor-bharti.pdf\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Signature Resizer, PDF Compress, Age Calculator and More Tools\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"https://www.resumesathi.com/tools/\" href=\"https://www.resumesathi.com/tools/\" target=\"_blank\" rel=\"noopener\">View Tools\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Official Website\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"UPSRTC Official Website\" href=\"https://upsrtc.up.gov.in/\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003cblockquote>\u003cstrong>Note: \u003c/strong>Candidates are advised to always cross-check dates, eligibility criteria, and the application process from the official UPSRTC and Sewayojan Portal before applying, as the schedule may change based on official updates.\u003c/blockquote>\r\n\u003ch2>UPSRTC Conductor Preparation Tips 2026\u003c/h2>\r\n\u003cul>\r\n\u003cli>Selection Is Through Document Verification and Interview, Keep Your Class 12th Marksheet, CCC Certificate and ID Proof Ready.\u003c/li>\r\n\u003cli>Prepare Basic Questions About Traffic Rules, Ticketing and Passenger Handling for the Interview Round.\u003c/li>\r\n\u003cli>Stay Medically Fit, Since Medical Fitness Is a Mandatory Eligibility Requirement for This Post.\u003c/li>\r\n\u003cli>Carry All Original Documents Along With Photocopies on the Day of Document Verification and Interview.\u003c/li>\r\n\u003c/ul>\r\n\u003c/div>","image":"https://api.resumesathi.com/courses_image/job.webp","identifier":{"@type":"PropertyValue","name":"ResumeSathi","value":"20"},"datePosted":"2026-07-23","validFrom":"2026-07-20","validThrough":"2026-08-05","employmentType":"FULL_TIME","industry":"State PSC","hiringOrganization":{"@type":"Organization","name":"State PSC - Government Jobs","sameAs":"https://www.resumesathi.com/jobs/"},"jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressCountry":"IN"}},"directApply":false}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4","$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"keVm6Da3qnRC_mqGccBX1"}
+8:T1015,<div class="post-content">
+<p>Uttar Pradesh State Road Transport Corporation (UPSRTC) has released the advertisement for <strong>Bus Conductor Outsourcing Recruitment 2026</strong> for Azamgarh, Mau and Ballia districts. Candidates interested and eligible from these districts can apply online through the Sewayojan Portal from 20 July 2026 to 05 August 2026.</p>
+<h2>Important Dates</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td>Application Begin</td>
+<td><strong>20/07/2026</strong></td>
+</tr>
+<tr>
+<td>Last Date for Apply</td>
+<td><strong>05/08/2026</strong></td>
+</tr>
+<tr>
+<td>Interview Date</td>
+<td><strong>As per Schedule</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Application Fee</h2>
+<ul>
+<li>General / OBC / EWS : 0/-</li>
+<li>SC / ST : 0/-</li>
+<li>No Application Fee for Any Candidate</li>
+</ul>
+<h2>Age Limit</h2>
+<ul>
+<li>Minimum Age : 18 Years</li>
+<li>Maximum Age : 45 Years</li>
+<li>Age Relaxation Extra as per UPSRTC Conductor Outsourcing Recruitment Rules</li>
+</ul>
+<h2>Vacancy Details Total : 35 Post</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<thead>
+<tr>
+<th>District Name</th>
+<th>Total Post</th>
+<th>UPSRTC Conductor Eligibility</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Azamgarh, Mau, Ballia</td>
+<td>35</td>
+<td>
+<ul>
+<li>Passed Class 12th (Intermediate) From Any Recognized Board in India</li>
+<li>Candidate Must Be Medically Fit</li>
+<li>No Prior Experience Required</li>
+<li>CCC Exam Passed</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Selection Process</h2>
+<ul>
+<li>Registration and Profile Update on the Sewayojan Portal (Rojgar Sangam)</li>
+<li>Document Verification</li>
+<li>Interview - As per Schedule</li>
+</ul>
+<h2>How to Fill UPSRTC Conductor Outsourcing Online Form 2026</h2>
+<ul>
+<li>Register on the Sewayojan Portal if Not Already Registered, and Update Your Qualification and CCC Certificate Details in Your Profile.</li>
+<li>Once the Profile Is Updated, the Option to Apply for UPSRTC Conductor Recruitment Will Appear on the Portal.</li>
+</ul>
+<h2>Some Useful Important Links</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td><strong>Apply Online</strong></td>
+<td><a title="Apply Now" href="https://sewayojan.up.nic.in/IEP/Login.aspx" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+<tr>
+<td><strong>Download Notification</strong></td>
+<td><a title="Click Here" href="https://www.sarkariresult.com/wp-content/uploads/2026/07/up-bus-conductor-bharti.pdf" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+<tr>
+<td><strong>Signature Resizer, PDF Compress, Age Calculator and More Tools</strong></td>
+<td><a title="https://www.resumesathi.com/tools/" href="https://www.resumesathi.com/tools/" target="_blank" rel="noopener">View Tools</a></td>
+</tr>
+<tr>
+<td><strong>Official Website</strong></td>
+<td><a title="UPSRTC Official Website" href="https://upsrtc.up.gov.in/" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote><strong>Note: </strong>Candidates are advised to always cross-check dates, eligibility criteria, and the application process from the official UPSRTC and Sewayojan Portal before applying, as the schedule may change based on official updates.</blockquote>
+<h2>UPSRTC Conductor Preparation Tips 2026</h2>
+<ul>
+<li>Selection Is Through Document Verification and Interview, Keep Your Class 12th Marksheet, CCC Certificate and ID Proof Ready.</li>
+<li>Prepare Basic Questions About Traffic Rules, Ticketing and Passenger Handling for the Interview Round.</li>
+<li>Stay Medically Fit, Since Medical Fitness Is a Mandatory Eligibility Requirement for This Post.</li>
+<li>Carry All Original Documents Along With Photocopies on the Day of Document Verification and Interview.</li>
+</ul>
+</div>3:["$","$L7",null,{"article":{"id":20,"title":"UPSRTC Azamgarh, Mau, Ballia Bus Conductor Recruitment 2026","slug":"upsrtc-azamgarh-mau-ballia-conductor-recruitment-2026","description":"UPSRTC Bus Conductor Outsourcing Recruitment 2026 for Azamgarh, Mau, Ballia districts (35 posts). Check eligibility, age limit and apply online through Sewayojan Portal from 20 July to 05 August 2026.","company":null,"location":null,"employment_type":null,"salary":null,"status":1,"created_at":"2026-07-23T21:08:59.000000Z","updated_at":"2026-07-23T21:32:08.000000Z","job_type_id":null,"department_id":null,"is_active":1,"featured":0,"trending":0,"urgent":0,"homepage":0,"deleted_at":null,"hero_image":"courses_image/job.webp","created_by":1,"topic_name":"UPSRTC Azamgarh, Mau, Ballia Bus Conductor Recruitment 2026","url_name":"upsrtc-azamgarh-mau-ballia-conductor-recruitment-2026","meta_title":"UPSRTC Azamgarh, Mau, Ballia Bus Conductor Recruitment 2026","meta_description":"UPSRTC Bus Conductor Outsourcing Recruitment 2026 for Azamgarh, Mau, Ballia districts (35 posts). Check eligibility, age limit and apply online through Sewayojan Portal from 20 July to 05 August 2026.","meta_keyword":"UPSRTC Conductor Recruitment 2026, UPSRTC Azamgarh Mau Ballia, UP Bus Conductor Outsourcing, Sewayojan Portal Conductor Job, UPSRTC Bharti 2026","canonical_tag":"courses/state-psc/upsrtc-azamgarh-mau-ballia-conductor-recruitment-2026","course_type":10,"pageview":0,"application_begin":"2026-07-20","last_date_for_apply":"2026-08-05","user":{"id":1,"first_name":"Hariom","last_name":"Prajapati","email":"hariomprajapati9029@gmail.com","mobile":"8840860841","birth_date":"08/01/1999","age":"23","gender":"male","profile_image":"Hariom.jpg","background_image":null,"is_active":1,"created_at":"2021-09-12T13:19:51.000000Z","updated_at":"2026-07-12T10:04:13.000000Z"},"course_category":{"id":10,"course_name":"State PSC","course_url":"state-psc","course_image":"courses/Emblem_of_India_(navy_blue).svg","description":"State-level Public Service Commission (WBPSC, UPPSC, BPSC etc.) recruitment notifications.","created_at":"2026-07-18T18:41:29.000000Z","updated_at":"2026-07-18T18:41:29.000000Z","deleted_at":null,"created_by":1},"contents":[{"id":16,"content":"$8","course_id":20,"created_at":"2026-07-23T21:08:59.000000Z","updated_at":"2026-07-23T21:32:08.000000Z"}]},"slug":"upsrtc-azamgarh-mau-ballia-conductor-recruitment-2026"}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/36s5nf8n-vj81.css","precedence":"next"}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/16ymsuy-x3uv9.js","async":true}]
+6:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

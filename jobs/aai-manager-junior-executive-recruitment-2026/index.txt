@@ -1,0 +1,457 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+3:I[37457,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+4:I[44134,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/0dge8h81efw6t.js"],"default"]
+5:I[22016,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/0dge8h81efw6t.js"],""]
+6:I[59708,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+7:I[32666,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+8:I[92825,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"ClientSegmentRoot"]
+9:I[39040,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/06pj_k8chkpe5.js"],"default"]
+c:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"ViewportBoundary"]
+13:I[68027,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default",1]
+:HL["/_next/static/chunks/36s5nf8n-vj81.css","style"]
+:HL["/front-assets/css/bootstrap.min.css","style"]
+:HL["/front-assets/css/style.css","style"]
+:HL["/front-assets/css/responsive.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap","style",{"crossOrigin":"anonymous"}]
+0:{"P":null,"c":["","jobs","aai-manager-junior-executive-recruitment-2026",""],"q":"","i":false,"f":[[["",{"children":["jobs",{"children":[["slug","aai-manager-junior-executive-recruitment-2026","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/3_bezyotg8f3w.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0b5j8te8ufv_z.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"data-scroll-behavior":"smooth","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preload","href":"/front-assets/css/bootstrap.min.css","as":"style"}],["$","link",null,{"rel":"preload","href":"/front-assets/css/style.css","as":"style"}],["$","link",null,{"rel":"preload","href":"/front-assets/css/responsive.css","as":"style"}],["$","link",null,{"rel":"preload","href":"https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap","as":"style","crossOrigin":"anonymous"}],["$","link",null,{"rel":"stylesheet","href":"/front-assets/css/bootstrap.min.css"}],["$","link",null,{"rel":"stylesheet","href":"/front-assets/css/style.css"}],["$","link",null,{"rel":"stylesheet","href":"/front-assets/css/responsive.css"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"}]]}],["$","body",null,{"suppressHydrationWarning":true,"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ResumeSathi\",\"url\":\"https://www.resumesathi.com\",\"logo\":\"https://www.resumesathi.com/front-assets/images/logo/logo.svg\",\"sameAs\":[\"https://www.facebook.com\",\"https://www.linkedin.com\",\"https://www.instagram.com\"],\"description\":\"ResumeSathi helps job seekers create ATS-friendly resumes, cover letters, and career documents for free.\"}"}}],["$","main",null,{"id":"main-content","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","$L4",null,{}],["$","section",null,{"className":"page-404","children":["$","div",null,{"className":"container","children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"col-sm-12","children":["$","div",null,{"className":"col-sm-10 offset-sm-1 text-center","children":[["$","div",null,{"className":"four-zero-four-bg","children":["$","h1",null,{"className":"text-center","children":"404"}]}],["$","div",null,{"className":"contant-box-404","children":[["$","h3",null,{"className":"h2","children":"Looks like you are lost"}],["$","p",null,{"children":"The page you are looking for is not available."}],["$","$L5",null,{"prefetch":false,"href":"/","className":"link-404","aria-label":"Go to Home Page","children":"Go to Home"}]]}]]}]}]}]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{}],["$","$L7",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/06pj_k8chkpe5.js","async":true,"nonce":"$undefined"}]],["$","$L8",null,{"Component":"$9","slots":{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]},"serverProvidedParams":{"params":{},"promises":["$@a"]}}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$Lb",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/36s5nf8n-vj81.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/16ymsuy-x3uv9.js","async":true,"nonce":"$undefined"}]],["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],{},null,false,null]},null,false,"$@f"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$L11"}],"$L12",null]}],false]],"m":"$undefined","G":["$13",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"keVm6Da3qnRC_mqGccBX1"}
+15:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"MetadataBoundary"]
+14:[]
+f:"$W14"
+12:["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$d",null,{"name":"Next.Metadata","children":"$L16"}]}]}]
+a:"$0:f:0:1:1:children:0:props:children:1:props:serverProvidedParams:params"
+17:T6ac2,{"@context":"https://schema.org/","@type":"JobPosting","title":"AAI Manager, Junior Executive Recruitment 2026 (389 Post)","description":"\u003cdiv class=\"post-content\">\r\n\u003cp>Airports Authority of India (AAI) has released the notification for \u003cstrong>Manager and Junior Executive Recruitment 2026\u003c/strong> under Advt. No. 12/2026/CHQ/DR-CBT, for 389 posts. Candidates interested in this AAI Recruitment can apply online from 08 August 2026 to 07 September 2026.\u003c/p>\r\n\u003ch2>Important Dates\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Application Begin\u003c/td>\r\n\u003ctd>\u003cstrong>08/08/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Last Date for Apply Online\u003c/td>\r\n\u003ctd>\u003cstrong>07/09/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Pay Exam Fee Last Date\u003c/td>\r\n\u003ctd>\u003cstrong>07/09/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Exam Date\u003c/td>\r\n\u003ctd>\u003cstrong>As per Schedule\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Admit Card Available\u003c/td>\r\n\u003ctd>\u003cstrong>Before Exam\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>Application Fee\u003c/h2>\r\n\u003cul>\r\n\u003cli>General / OBC / EWS : 1000/-\u003c/li>\r\n\u003cli>SC / ST / PH : 0/-\u003c/li>\r\n\u003cli>Female Candidate : 0/-\u003c/li>\r\n\u003cli>Pay the Exam Fee Through Online or Offline Fee Mode Only\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Age Limit as on 07/09/2026\u003c/h2>\r\n\u003cul>\r\n\u003cli>Minimum Age : Not Applicable\u003c/li>\r\n\u003cli>Maximum Age : 27 Years for Junior Executive Post\u003c/li>\r\n\u003cli>Maximum Age : 32 Years for Manager Post\u003c/li>\r\n\u003cli>Age Relaxation Extra as per AAI Manager, Junior Executive Examination 2026 Rules\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Vacancy Details Total : 389 Post\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003cthead>\r\n\u003ctr>\r\n\u003cth>Post Name\u003c/th>\r\n\u003cth>Total Post\u003c/th>\r\n\u003cth>AAI Manager, Junior Executive Eligibility\u003c/th>\r\n\u003c/tr>\r\n\u003c/thead>\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Junior Executive (Finance)\u003c/td>\r\n\u003ctd>36\u003c/td>\r\n\u003ctd>MBA With Finance / PG Diploma in Management With Specialization in Finance OR CA / CFA\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Junior Executive (Law)\u003c/td>\r\n\u003ctd>06\u003c/td>\r\n\u003ctd>Bachelor Degree in Law (3 Year / 5 Year) From Any Recognized University in India, Enrolled With Bar Council of India\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Junior Executive (Operations)\u003c/td>\r\n\u003ctd>79\u003c/td>\r\n\u003ctd>Bachelor Degree in Science With MBA, OR Bachelor Degree in Engineering\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Junior Executive (Survey &amp; Cartography)\u003c/td>\r\n\u003ctd>08\u003c/td>\r\n\u003ctd>BE / B.Tech in Civil OR M.Sc in Geography OR Master's in Remote Sensing &amp; GIS / Geoinformatics / Geomatics. More Eligibility Details Read the Notification\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Manager (Engineering - Civil)\u003c/td>\r\n\u003ctd>145\u003c/td>\r\n\u003ctd>BE / B.Tech Degree in the Related Trade With 3 Years Experience\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Manager (Engineering - Electrical)\u003c/td>\r\n\u003ctd>16\u003c/td>\r\n\u003ctd>BE / B.Tech Degree in Electrical Engineering With 3 Years Experience (For complete eligibility, check official notification.)\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Manager (Finance)\u003c/td>\r\n\u003ctd>34\u003c/td>\r\n\u003ctd>MBA With Finance Specialization OR PG Diploma in Management With Finance Specialization, With 3 Years Experience\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Manager (Information Technology)\u003c/td>\r\n\u003ctd>05\u003c/td>\r\n\u003ctd>BE / B.Tech Degree in Computer Science / Engineering / IT OR MCA, With 3 Years Experience\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Manager (Architecture)\u003c/td>\r\n\u003ctd>04\u003c/td>\r\n\u003ctd>Bachelor Degree in Architecture, Registered With Council of Architecture, With 3 Years Experience\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Manager (Law)\u003c/td>\r\n\u003ctd>02\u003c/td>\r\n\u003ctd>Bachelor Degree in Law (3 Year / 5 Year) From Any Recognized University in India, Enrolled With Bar Council, With 3 Years Experience\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Manager (Fire Services)\u003c/td>\r\n\u003ctd>14\u003c/td>\r\n\u003ctd>BE / B.Tech Degree in Fire Engineering / Mechanical Engineering / Automobile Engineering, With 3 Years Experience\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Manager (Operations)\u003c/td>\r\n\u003ctd>28\u003c/td>\r\n\u003ctd>Bachelor Degree in Science (B.Sc) With MBA, OR Bachelor Degree in Engineering, With 3 Years Experience\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Manager (Commercial)\u003c/td>\r\n\u003ctd>09\u003c/td>\r\n\u003ctd>Bachelor Degree in Any Stream With MBA in Marketing Specialization, OR Bachelor Degree in Engineering, With 3 Years Experience\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Manager (Corporate Planning &amp; Management Services)\u003c/td>\r\n\u003ctd>01\u003c/td>\r\n\u003ctd>Master's Degree in Mathematical Statistics / Operations Research / Statistics / Applied Statistics / Economics With Statistics / Mathematics With Statistics\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Manager (Corporate Communications)\u003c/td>\r\n\u003ctd>02\u003c/td>\r\n\u003ctd>Bachelor Degree in Mass Communication / Journalism / Literature (Hindi / English) and PG Degree / Diploma in Journalism / Mass Media / Mass Communication with 3 Year Experience\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>Selection Process\u003c/h2>\r\n\u003cul>\r\n\u003cli>Computer Based Test (CBT)\u003c/li>\r\n\u003cli>Document Verification\u003c/li>\r\n\u003cli>Interview / Skill Test, Wherever Applicable as per Post\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>How to Fill AAI Manager, Junior Executive Online Form 2026\u003c/h2>\r\n\u003cul>\r\n\u003cli>Keep Your Documents Ready in Advance&nbsp; like Educational Certificates, Experience Certificate (for Manager Posts), ID Proof and Address Proof.\u003c/li>\r\n\u003cli>Scan Copies of Photo, Signature and ID Proof Ready in the Prescribed Format.\u003c/li>\r\n\u003cli>Application Fee Payment Is Mandatory.\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Some Useful Important Links\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Apply Online\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"Link Will Be Activated on 08/08/2026\" href=\"https://www.aai.aero/en\" target=\"_blank\" rel=\"noopener\">Link Will Be Activated on 08/08/2026\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Download Notification\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"Download Notification\" href=\"https://www.aai.aero/sites/default/files/examdashboard_advertisement/Detailed%20Advertisement%2012-2026-CHQ.pdf\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Signature Resizer, PDF Compress, Age Calculator and More Tools\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"https://www.resumesathi.com/tools/\" href=\"https://www.resumesathi.com/tools/\" target=\"_blank\" rel=\"noopener\">View Tools\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Official Website\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"AAI Official Website\" href=\"https://www.aai.aero/en\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003cblockquote>\u003cstrong>Note: \u003c/strong>Candidates are advised to always cross-check dates, fee details, and eligibility criteria from the official AAI website before applying, as the schedule may change based on official updates.\u003c/blockquote>\r\n\u003ch2>AAI Manager, Junior Executive Preparation Tips 2026\u003c/h2>\r\n\u003cul>\r\n\u003cli>Focus on Core Subject Knowledge Related to Your Applied Post (Finance, Engineering, Law, Operations Etc.).\u003c/li>\r\n\u003cli>Cover General Awareness Topics Related to Aviation Sector, Airports Authority of India and Current Affairs of the Last 6 Months.\u003c/li>\r\n\u003cli>Revise Basic Reasoning and Quantitative Aptitude Daily, Since These Sections Are Common Across Most CBT-Based Exams.\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Frequently Asked Questions\u003c/h2>\r\n\u003csection class=\"tre-faq-list\">\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>What is the last date to apply for AAI Manager, Junior Executive Recruitment 2026?\u003c/summary>\r\n\u003cp>The last date to apply online is 07 September 2026, and the fee payment deadline is also 07 September 2026.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>How many total vacancies are there in AAI Recruitment 2026?\u003c/summary>\r\n\u003cp>A total of 389 posts have been announced across various Junior Executive and Manager categories, including Finance, Law, Operations, Engineering, IT, Architecture and more.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>What is the application fee for AAI Manager, Junior Executive 2026?\u003c/summary>\r\n\u003cp>General, OBC and EWS candidates need to pay Rs. 1000/-, while SC, ST, PH and female candidates are exempted from the fee.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>What is the age limit for Junior Executive and Manager posts?\u003c/summary>\r\n\u003cp>The maximum age is 27 years for Junior Executive posts and 32 years for Manager posts, as on 07 September 2026, with age relaxation applicable as per rules.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>Is work experience required for Manager posts in AAI?\u003c/summary>\r\n\u003cp>Yes, most Manager posts require 3 years of relevant experience along with the required educational qualification, while Junior Executive posts generally do not require prior experience.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>What is the selection process for AAI Manager, Junior Executive 2026?\u003c/summary>\r\n\u003cp>Selection involves a Computer Based Test (CBT), followed by Document Verification and an Interview or Skill Test wherever applicable for the specific post.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>Which post has the highest number of vacancies in this AAI recruitment?\u003c/summary>\r\n\u003cp>Manager (Engineering - Civil) has the highest number of vacancies with 145 posts, followed by Junior Executive (Operations) with 79 posts.\u003c/p>\r\n\u003c/details>\u003c/section>\r\n\u003csection class=\"tre-quiz-wrap\">\r\n\u003ch3 class=\"tre-quiz-header\">AAI Manager, Junior Executive - Practice Questions (As Per Actual Exam Pattern)\u003c/h3>\r\n\u003cp class=\"tre-quiz-sub\">English, Reasoning, Quantitative Aptitude, General Awareness\u003c/p>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q1.\u003c/span> Spot the error: \"Neither of the candidates were present for the interview.\"\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Neither of the candidates\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">were present (should be \"was present\")\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">for the interview\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">No error\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q2.\u003c/span> Choose the correctly improved sentence: \"He is one of the finest manager our company have ever hired.\"\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">He is one of the finest manager our company has ever hired.\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">He is one of the finest managers our company has ever hired.\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">He is one of finest managers our company have hired.\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">No improvement needed.\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q3.\u003c/span> Fill in the blank: The airport authority has decided ___ upgrade the terminal facilities.\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">for\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">to\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">of\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">at\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q4.\u003c/span> Choose the word closest in meaning to \"Mandatory\":\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Optional\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Compulsory\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Flexible\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Occasional\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q5.\u003c/span> Six people P, Q, R, S, T, U sit in a row facing north. P is second from the left end. Q sits immediately right of P. If R sits at the extreme right, how many people sit between Q and R?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">1\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">3\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">2\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">4\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q6.\u003c/span> Find the next number in the series: 4, 9, 19, 39, 79, ___?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">149\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">159\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">169\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">179\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q7.\u003c/span> If in a code language, MANAGER is written as NBOBHFS, how is EXECUTIVE written in the same code?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-right\">FYFDVUJWF\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">FYFDVUJVF\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">FYFDVUJWE\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">FXFDVUJWF\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q8.\u003c/span> A is the brother of B. C is the sister of A. D is the father of B. How is C related to D?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Wife\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Daughter\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Sister\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Mother\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q9.\u003c/span> A sum of Rs. 15,000 amounts to Rs. 18,000 in 2 years at simple interest. What is the rate of interest per annum?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">8%\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">10%\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">12%\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">15%\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q10.\u003c/span> A can complete a task in 15 days and B can complete it in 10 days. Working together, in how many days will they complete it?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">5 days\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">6 days\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">7 days\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">8 days\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q11.\u003c/span> The average age of 5 employees in a department is 32 years. If a new employee aged 26 joins, what is the new average age?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">29 years\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">31 years\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">30 years\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">32 years\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q12.\u003c/span> A shopkeeper marks an item 40% above cost price and gives a discount of 10%. What is his overall profit percentage?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">24%\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">26%\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">30%\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">28%\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q13.\u003c/span> Two pipes can fill a tank in 12 and 15 hours respectively, while a third pipe can empty it in 20 hours. If all three are opened together, in how many hours will the tank be full?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">8 hours\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">10 hours\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">12 hours\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">15 hours\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q14.\u003c/span> Under which ministry does the Airports Authority of India currently function?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Ministry of Commerce and Industry\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Ministry of Civil Aviation\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Ministry of Corporate Affairs\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Ministry of Road Transport and Highways\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q15.\u003c/span> What is the primary objective of the UDAN (Ude Desh ka Aam Naagrik) scheme?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Subsidizing international flights for business travelers\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Making air travel affordable and improving connectivity to underserved regions\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Training commercial pilots\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Manufacturing aircraft parts domestically\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q16.\u003c/span> Which body sets international standards for civil aviation that member countries, including India, align their regulations with?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">IATA\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">ICAO\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">WTO\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">UNCTAD\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q17.\u003c/span> In accounting, which financial statement primarily shows a company's assets, liabilities, and equity at a specific point in time &mdash; relevant for Finance-related posts?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Profit and Loss Account\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Balance Sheet\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Cash Flow Statement\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Trial Balance\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q18.\u003c/span> Under Indian law, which act primarily governs the formation and functioning of contracts, relevant for Law post candidates?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">The Companies Act, 2013\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">The Indian Contract Act, 1872\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">The Sale of Goods Act, 1930\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">The Negotiable Instruments Act, 1881\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q19.\u003c/span> In civil engineering terminology, what does \"bearing capacity of soil\" refer to, relevant for Engineering (Civil) posts?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">The chemical composition of soil\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">The maximum load per unit area the soil can support without failure\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">The moisture content of soil\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">The color grading of soil samples\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q20.\u003c/span> Which of these best describes the role of a network protocol like TCP/IP, relevant for Information Technology posts?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">A programming language for building websites\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">A set of rules governing how data is transmitted and received over a network\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">A type of database management system\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">A hardware component used in servers\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q21.\u003c/span> Choose the correctly spelled word relevant to formal written communication:\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Recieve\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Receive\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Receeve\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Receve\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q22.\u003c/span> Read the sentence and choose the correct synonym for \"Meticulous\": \"The auditor was meticulous while reviewing the financial records.\"\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Careless\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Thorough\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Hasty\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Indifferent\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q23.\u003c/span> If in a certain code, \"AIRPORT\" is written as \"ZHQOSNQ\" (each letter shifted back by 1), how would \"MANAGER\" be written using the same rule?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-right\">LZMZFDQ\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">LZMZFDR\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">LZMZFEQ\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">LYMZFDQ\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q24.\u003c/span> A trader gets a 15% discount on the marked price and still makes a 20% profit on the cost price. If the marked price is Rs. 850, what is the cost price (approximately)?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Rs. 580\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Rs. 602\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Rs. 625\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Rs. 650\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q25.\u003c/span> Which recent Government of India initiative is most closely linked to boosting domestic manufacturing in the aviation and infrastructure sector?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Digital India\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Make in India\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Beti Bachao Beti Padhao\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Swachh Bharat Abhiyan\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003c/section>\r\n\u003c/div>","image":"https://api.resumesathi.com/courses_image/aai-manager-junior-executive-recruitment-2026.webp","identifier":{"@type":"PropertyValue","name":"ResumeSathi","value":"21"},"datePosted":"2026-07-24","validFrom":"2026-08-08","validThrough":"2026-09-07","employmentType":"FULL_TIME","industry":"PSU","hiringOrganization":{"@type":"Organization","name":"PSU - Government Jobs","sameAs":"https://www.resumesathi.com/jobs/"},"jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressCountry":"IN"}},"directApply":false}b:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$17"}}],"$L18"]
+19:I[88609,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/06pj_k8chkpe5.js","/_next/static/chunks/16ymsuy-x3uv9.js"],"default"]
+1a:T542d,<div class="post-content">
+<p>Airports Authority of India (AAI) has released the notification for <strong>Manager and Junior Executive Recruitment 2026</strong> under Advt. No. 12/2026/CHQ/DR-CBT, for 389 posts. Candidates interested in this AAI Recruitment can apply online from 08 August 2026 to 07 September 2026.</p>
+<h2>Important Dates</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td>Application Begin</td>
+<td><strong>08/08/2026</strong></td>
+</tr>
+<tr>
+<td>Last Date for Apply Online</td>
+<td><strong>07/09/2026</strong></td>
+</tr>
+<tr>
+<td>Pay Exam Fee Last Date</td>
+<td><strong>07/09/2026</strong></td>
+</tr>
+<tr>
+<td>Exam Date</td>
+<td><strong>As per Schedule</strong></td>
+</tr>
+<tr>
+<td>Admit Card Available</td>
+<td><strong>Before Exam</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Application Fee</h2>
+<ul>
+<li>General / OBC / EWS : 1000/-</li>
+<li>SC / ST / PH : 0/-</li>
+<li>Female Candidate : 0/-</li>
+<li>Pay the Exam Fee Through Online or Offline Fee Mode Only</li>
+</ul>
+<h2>Age Limit as on 07/09/2026</h2>
+<ul>
+<li>Minimum Age : Not Applicable</li>
+<li>Maximum Age : 27 Years for Junior Executive Post</li>
+<li>Maximum Age : 32 Years for Manager Post</li>
+<li>Age Relaxation Extra as per AAI Manager, Junior Executive Examination 2026 Rules</li>
+</ul>
+<h2>Vacancy Details Total : 389 Post</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<thead>
+<tr>
+<th>Post Name</th>
+<th>Total Post</th>
+<th>AAI Manager, Junior Executive Eligibility</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Junior Executive (Finance)</td>
+<td>36</td>
+<td>MBA With Finance / PG Diploma in Management With Specialization in Finance OR CA / CFA</td>
+</tr>
+<tr>
+<td>Junior Executive (Law)</td>
+<td>06</td>
+<td>Bachelor Degree in Law (3 Year / 5 Year) From Any Recognized University in India, Enrolled With Bar Council of India</td>
+</tr>
+<tr>
+<td>Junior Executive (Operations)</td>
+<td>79</td>
+<td>Bachelor Degree in Science With MBA, OR Bachelor Degree in Engineering</td>
+</tr>
+<tr>
+<td>Junior Executive (Survey &amp; Cartography)</td>
+<td>08</td>
+<td>BE / B.Tech in Civil OR M.Sc in Geography OR Master's in Remote Sensing &amp; GIS / Geoinformatics / Geomatics. More Eligibility Details Read the Notification</td>
+</tr>
+<tr>
+<td>Manager (Engineering - Civil)</td>
+<td>145</td>
+<td>BE / B.Tech Degree in the Related Trade With 3 Years Experience</td>
+</tr>
+<tr>
+<td>Manager (Engineering - Electrical)</td>
+<td>16</td>
+<td>BE / B.Tech Degree in Electrical Engineering With 3 Years Experience (For complete eligibility, check official notification.)</td>
+</tr>
+<tr>
+<td>Manager (Finance)</td>
+<td>34</td>
+<td>MBA With Finance Specialization OR PG Diploma in Management With Finance Specialization, With 3 Years Experience</td>
+</tr>
+<tr>
+<td>Manager (Information Technology)</td>
+<td>05</td>
+<td>BE / B.Tech Degree in Computer Science / Engineering / IT OR MCA, With 3 Years Experience</td>
+</tr>
+<tr>
+<td>Manager (Architecture)</td>
+<td>04</td>
+<td>Bachelor Degree in Architecture, Registered With Council of Architecture, With 3 Years Experience</td>
+</tr>
+<tr>
+<td>Manager (Law)</td>
+<td>02</td>
+<td>Bachelor Degree in Law (3 Year / 5 Year) From Any Recognized University in India, Enrolled With Bar Council, With 3 Years Experience</td>
+</tr>
+<tr>
+<td>Manager (Fire Services)</td>
+<td>14</td>
+<td>BE / B.Tech Degree in Fire Engineering / Mechanical Engineering / Automobile Engineering, With 3 Years Experience</td>
+</tr>
+<tr>
+<td>Manager (Operations)</td>
+<td>28</td>
+<td>Bachelor Degree in Science (B.Sc) With MBA, OR Bachelor Degree in Engineering, With 3 Years Experience</td>
+</tr>
+<tr>
+<td>Manager (Commercial)</td>
+<td>09</td>
+<td>Bachelor Degree in Any Stream With MBA in Marketing Specialization, OR Bachelor Degree in Engineering, With 3 Years Experience</td>
+</tr>
+<tr>
+<td>Manager (Corporate Planning &amp; Management Services)</td>
+<td>01</td>
+<td>Master's Degree in Mathematical Statistics / Operations Research / Statistics / Applied Statistics / Economics With Statistics / Mathematics With Statistics</td>
+</tr>
+<tr>
+<td>Manager (Corporate Communications)</td>
+<td>02</td>
+<td>Bachelor Degree in Mass Communication / Journalism / Literature (Hindi / English) and PG Degree / Diploma in Journalism / Mass Media / Mass Communication with 3 Year Experience</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Selection Process</h2>
+<ul>
+<li>Computer Based Test (CBT)</li>
+<li>Document Verification</li>
+<li>Interview / Skill Test, Wherever Applicable as per Post</li>
+</ul>
+<h2>How to Fill AAI Manager, Junior Executive Online Form 2026</h2>
+<ul>
+<li>Keep Your Documents Ready in Advance&nbsp; like Educational Certificates, Experience Certificate (for Manager Posts), ID Proof and Address Proof.</li>
+<li>Scan Copies of Photo, Signature and ID Proof Ready in the Prescribed Format.</li>
+<li>Application Fee Payment Is Mandatory.</li>
+</ul>
+<h2>Some Useful Important Links</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td><strong>Apply Online</strong></td>
+<td><a title="Link Will Be Activated on 08/08/2026" href="https://www.aai.aero/en" target="_blank" rel="noopener">Link Will Be Activated on 08/08/2026</a></td>
+</tr>
+<tr>
+<td><strong>Download Notification</strong></td>
+<td><a title="Download Notification" href="https://www.aai.aero/sites/default/files/examdashboard_advertisement/Detailed%20Advertisement%2012-2026-CHQ.pdf" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+<tr>
+<td><strong>Signature Resizer, PDF Compress, Age Calculator and More Tools</strong></td>
+<td><a title="https://www.resumesathi.com/tools/" href="https://www.resumesathi.com/tools/" target="_blank" rel="noopener">View Tools</a></td>
+</tr>
+<tr>
+<td><strong>Official Website</strong></td>
+<td><a title="AAI Official Website" href="https://www.aai.aero/en" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote><strong>Note: </strong>Candidates are advised to always cross-check dates, fee details, and eligibility criteria from the official AAI website before applying, as the schedule may change based on official updates.</blockquote>
+<h2>AAI Manager, Junior Executive Preparation Tips 2026</h2>
+<ul>
+<li>Focus on Core Subject Knowledge Related to Your Applied Post (Finance, Engineering, Law, Operations Etc.).</li>
+<li>Cover General Awareness Topics Related to Aviation Sector, Airports Authority of India and Current Affairs of the Last 6 Months.</li>
+<li>Revise Basic Reasoning and Quantitative Aptitude Daily, Since These Sections Are Common Across Most CBT-Based Exams.</li>
+</ul>
+<h2>Frequently Asked Questions</h2>
+<section class="tre-faq-list"><details class="tre-faq-item">
+<summary>What is the last date to apply for AAI Manager, Junior Executive Recruitment 2026?</summary>
+<p>The last date to apply online is 07 September 2026, and the fee payment deadline is also 07 September 2026.</p>
+</details><details class="tre-faq-item">
+<summary>How many total vacancies are there in AAI Recruitment 2026?</summary>
+<p>A total of 389 posts have been announced across various Junior Executive and Manager categories, including Finance, Law, Operations, Engineering, IT, Architecture and more.</p>
+</details><details class="tre-faq-item">
+<summary>What is the application fee for AAI Manager, Junior Executive 2026?</summary>
+<p>General, OBC and EWS candidates need to pay Rs. 1000/-, while SC, ST, PH and female candidates are exempted from the fee.</p>
+</details><details class="tre-faq-item">
+<summary>What is the age limit for Junior Executive and Manager posts?</summary>
+<p>The maximum age is 27 years for Junior Executive posts and 32 years for Manager posts, as on 07 September 2026, with age relaxation applicable as per rules.</p>
+</details><details class="tre-faq-item">
+<summary>Is work experience required for Manager posts in AAI?</summary>
+<p>Yes, most Manager posts require 3 years of relevant experience along with the required educational qualification, while Junior Executive posts generally do not require prior experience.</p>
+</details><details class="tre-faq-item">
+<summary>What is the selection process for AAI Manager, Junior Executive 2026?</summary>
+<p>Selection involves a Computer Based Test (CBT), followed by Document Verification and an Interview or Skill Test wherever applicable for the specific post.</p>
+</details><details class="tre-faq-item">
+<summary>Which post has the highest number of vacancies in this AAI recruitment?</summary>
+<p>Manager (Engineering - Civil) has the highest number of vacancies with 145 posts, followed by Junior Executive (Operations) with 79 posts.</p>
+</details></section>
+<section class="tre-quiz-wrap">
+<h3 class="tre-quiz-header">AAI Manager, Junior Executive - Practice Questions (As Per Actual Exam Pattern)</h3>
+<p class="tre-quiz-sub">English, Reasoning, Quantitative Aptitude, General Awareness</p>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q1.</span> Spot the error: "Neither of the candidates were present for the interview."</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Neither of the candidates</li>
+<li class="tre-opt-item opt-right">were present (should be "was present")</li>
+<li class="tre-opt-item opt-wrong">for the interview</li>
+<li class="tre-opt-item opt-wrong">No error</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q2.</span> Choose the correctly improved sentence: "He is one of the finest manager our company have ever hired."</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">He is one of the finest manager our company has ever hired.</li>
+<li class="tre-opt-item opt-right">He is one of the finest managers our company has ever hired.</li>
+<li class="tre-opt-item opt-wrong">He is one of finest managers our company have hired.</li>
+<li class="tre-opt-item opt-wrong">No improvement needed.</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q3.</span> Fill in the blank: The airport authority has decided ___ upgrade the terminal facilities.</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">for</li>
+<li class="tre-opt-item opt-right">to</li>
+<li class="tre-opt-item opt-wrong">of</li>
+<li class="tre-opt-item opt-wrong">at</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q4.</span> Choose the word closest in meaning to "Mandatory":</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Optional</li>
+<li class="tre-opt-item opt-right">Compulsory</li>
+<li class="tre-opt-item opt-wrong">Flexible</li>
+<li class="tre-opt-item opt-wrong">Occasional</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q5.</span> Six people P, Q, R, S, T, U sit in a row facing north. P is second from the left end. Q sits immediately right of P. If R sits at the extreme right, how many people sit between Q and R?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">1</li>
+<li class="tre-opt-item opt-right">3</li>
+<li class="tre-opt-item opt-wrong">2</li>
+<li class="tre-opt-item opt-wrong">4</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q6.</span> Find the next number in the series: 4, 9, 19, 39, 79, ___?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">149</li>
+<li class="tre-opt-item opt-right">159</li>
+<li class="tre-opt-item opt-wrong">169</li>
+<li class="tre-opt-item opt-wrong">179</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q7.</span> If in a code language, MANAGER is written as NBOBHFS, how is EXECUTIVE written in the same code?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-right">FYFDVUJWF</li>
+<li class="tre-opt-item opt-wrong">FYFDVUJVF</li>
+<li class="tre-opt-item opt-wrong">FYFDVUJWE</li>
+<li class="tre-opt-item opt-wrong">FXFDVUJWF</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q8.</span> A is the brother of B. C is the sister of A. D is the father of B. How is C related to D?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Wife</li>
+<li class="tre-opt-item opt-right">Daughter</li>
+<li class="tre-opt-item opt-wrong">Sister</li>
+<li class="tre-opt-item opt-wrong">Mother</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q9.</span> A sum of Rs. 15,000 amounts to Rs. 18,000 in 2 years at simple interest. What is the rate of interest per annum?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">8%</li>
+<li class="tre-opt-item opt-right">10%</li>
+<li class="tre-opt-item opt-wrong">12%</li>
+<li class="tre-opt-item opt-wrong">15%</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q10.</span> A can complete a task in 15 days and B can complete it in 10 days. Working together, in how many days will they complete it?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">5 days</li>
+<li class="tre-opt-item opt-right">6 days</li>
+<li class="tre-opt-item opt-wrong">7 days</li>
+<li class="tre-opt-item opt-wrong">8 days</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q11.</span> The average age of 5 employees in a department is 32 years. If a new employee aged 26 joins, what is the new average age?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">29 years</li>
+<li class="tre-opt-item opt-right">31 years</li>
+<li class="tre-opt-item opt-wrong">30 years</li>
+<li class="tre-opt-item opt-wrong">32 years</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q12.</span> A shopkeeper marks an item 40% above cost price and gives a discount of 10%. What is his overall profit percentage?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">24%</li>
+<li class="tre-opt-item opt-right">26%</li>
+<li class="tre-opt-item opt-wrong">30%</li>
+<li class="tre-opt-item opt-wrong">28%</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q13.</span> Two pipes can fill a tank in 12 and 15 hours respectively, while a third pipe can empty it in 20 hours. If all three are opened together, in how many hours will the tank be full?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">8 hours</li>
+<li class="tre-opt-item opt-right">10 hours</li>
+<li class="tre-opt-item opt-wrong">12 hours</li>
+<li class="tre-opt-item opt-wrong">15 hours</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q14.</span> Under which ministry does the Airports Authority of India currently function?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Ministry of Commerce and Industry</li>
+<li class="tre-opt-item opt-right">Ministry of Civil Aviation</li>
+<li class="tre-opt-item opt-wrong">Ministry of Corporate Affairs</li>
+<li class="tre-opt-item opt-wrong">Ministry of Road Transport and Highways</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q15.</span> What is the primary objective of the UDAN (Ude Desh ka Aam Naagrik) scheme?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Subsidizing international flights for business travelers</li>
+<li class="tre-opt-item opt-right">Making air travel affordable and improving connectivity to underserved regions</li>
+<li class="tre-opt-item opt-wrong">Training commercial pilots</li>
+<li class="tre-opt-item opt-wrong">Manufacturing aircraft parts domestically</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q16.</span> Which body sets international standards for civil aviation that member countries, including India, align their regulations with?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">IATA</li>
+<li class="tre-opt-item opt-right">ICAO</li>
+<li class="tre-opt-item opt-wrong">WTO</li>
+<li class="tre-opt-item opt-wrong">UNCTAD</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q17.</span> In accounting, which financial statement primarily shows a company's assets, liabilities, and equity at a specific point in time &mdash; relevant for Finance-related posts?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Profit and Loss Account</li>
+<li class="tre-opt-item opt-right">Balance Sheet</li>
+<li class="tre-opt-item opt-wrong">Cash Flow Statement</li>
+<li class="tre-opt-item opt-wrong">Trial Balance</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q18.</span> Under Indian law, which act primarily governs the formation and functioning of contracts, relevant for Law post candidates?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">The Companies Act, 2013</li>
+<li class="tre-opt-item opt-right">The Indian Contract Act, 1872</li>
+<li class="tre-opt-item opt-wrong">The Sale of Goods Act, 1930</li>
+<li class="tre-opt-item opt-wrong">The Negotiable Instruments Act, 1881</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q19.</span> In civil engineering terminology, what does "bearing capacity of soil" refer to, relevant for Engineering (Civil) posts?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">The chemical composition of soil</li>
+<li class="tre-opt-item opt-right">The maximum load per unit area the soil can support without failure</li>
+<li class="tre-opt-item opt-wrong">The moisture content of soil</li>
+<li class="tre-opt-item opt-wrong">The color grading of soil samples</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q20.</span> Which of these best describes the role of a network protocol like TCP/IP, relevant for Information Technology posts?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">A programming language for building websites</li>
+<li class="tre-opt-item opt-right">A set of rules governing how data is transmitted and received over a network</li>
+<li class="tre-opt-item opt-wrong">A type of database management system</li>
+<li class="tre-opt-item opt-wrong">A hardware component used in servers</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q21.</span> Choose the correctly spelled word relevant to formal written communication:</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Recieve</li>
+<li class="tre-opt-item opt-right">Receive</li>
+<li class="tre-opt-item opt-wrong">Receeve</li>
+<li class="tre-opt-item opt-wrong">Receve</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q22.</span> Read the sentence and choose the correct synonym for "Meticulous": "The auditor was meticulous while reviewing the financial records."</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Careless</li>
+<li class="tre-opt-item opt-right">Thorough</li>
+<li class="tre-opt-item opt-wrong">Hasty</li>
+<li class="tre-opt-item opt-wrong">Indifferent</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q23.</span> If in a certain code, "AIRPORT" is written as "ZHQOSNQ" (each letter shifted back by 1), how would "MANAGER" be written using the same rule?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-right">LZMZFDQ</li>
+<li class="tre-opt-item opt-wrong">LZMZFDR</li>
+<li class="tre-opt-item opt-wrong">LZMZFEQ</li>
+<li class="tre-opt-item opt-wrong">LYMZFDQ</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q24.</span> A trader gets a 15% discount on the marked price and still makes a 20% profit on the cost price. If the marked price is Rs. 850, what is the cost price (approximately)?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Rs. 580</li>
+<li class="tre-opt-item opt-right">Rs. 602</li>
+<li class="tre-opt-item opt-wrong">Rs. 625</li>
+<li class="tre-opt-item opt-wrong">Rs. 650</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q25.</span> Which recent Government of India initiative is most closely linked to boosting domestic manufacturing in the aviation and infrastructure sector?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Digital India</li>
+<li class="tre-opt-item opt-right">Make in India</li>
+<li class="tre-opt-item opt-wrong">Beti Bachao Beti Padhao</li>
+<li class="tre-opt-item opt-wrong">Swachh Bharat Abhiyan</li>
+</ul>
+</article>
+</section>
+</div>18:["$","$L19",null,{"article":{"id":21,"title":"AAI Manager, Junior Executive Recruitment 2026 (389 Post)","slug":"aai-manager-junior-executive-recruitment-2026","description":"Airports Authority of India (AAI) Manager & Junior Executive Recruitment 2026 notification out for 389 posts. Check post wise eligibility, age limit, fee and apply online from 08 August to 07 September 2026.","company":null,"location":null,"employment_type":null,"salary":null,"status":1,"created_at":"2026-07-24T06:21:26.000000Z","updated_at":"2026-08-02T18:24:07.000000Z","job_type_id":null,"department_id":null,"is_active":1,"featured":0,"trending":0,"urgent":0,"homepage":0,"deleted_at":null,"hero_image":"courses_image/aai-manager-junior-executive-recruitment-2026.webp","created_by":1,"topic_name":"AAI Manager, Junior Executive Recruitment 2026 (389 Post)","url_name":"aai-manager-junior-executive-recruitment-2026","meta_title":"AAI Manager, Junior Executive Recruitment 2026 (389 Post)","meta_description":"Airports Authority of India (AAI) Manager & Junior Executive Recruitment 2026 notification out for 389 posts. Check post wise eligibility, age limit, fee and apply online from 08 August to 07 September 2026.","meta_keyword":"AAI Manager Recruitment 2026, AAI Junior Executive Vacancy, Airports Authority of India Jobs 2026, AAI CHQ DR-CBT Recruitment, AAI Manager Engineering Finance Law Post","canonical_tag":"courses/psu/aai-manager-junior-executive-recruitment-2026","course_type":13,"pageview":0,"application_begin":"2026-08-08","last_date_for_apply":"2026-09-07","user":{"id":1,"first_name":"Hariom","last_name":"Prajapati","email":"hariomprajapati9029@gmail.com","mobile":"8840860841","birth_date":"08/01/1999","age":"23","gender":"male","profile_image":"Hariom.jpg","background_image":null,"is_active":1,"created_at":"2021-09-12T13:19:51.000000Z","updated_at":"2026-07-12T10:04:13.000000Z"},"course_category":{"id":13,"course_name":"PSU","course_url":"psu","course_image":"courses/building-construction-industry-svgrepo-com.svg","description":"Recruitment notifications from Central Public Sector Undertakings like AAI, ONGC, NTPC, SAIL and others.","created_at":"2026-07-24T06:36:57.000000Z","updated_at":"2026-07-24T06:36:57.000000Z","deleted_at":null,"created_by":1},"contents":[{"id":17,"content":"$1a","course_id":21,"created_at":"2026-07-24T06:21:26.000000Z","updated_at":"2026-08-02T18:24:07.000000Z"}]},"slug":"aai-manager-junior-executive-recruitment-2026"}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1b:I[27201,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"IconMark"]
+e:null
+16:[["$","title","0",{"children":"AAI Manager, Junior Executive Recruitment 2026 (389 Post) | ResumeSathi"}],["$","meta","1",{"name":"description","content":"Airports Authority of India (AAI) Manager & Junior Executive Recruitment 2026 notification out for 389 posts. Check post wise eligibility, age limit, fee and apply online from 08 August to 07 September 2026."}],["$","meta","2",{"name":"keywords","content":"jobs, career opportunities, hiring, apply now, government jobs"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://www.resumesathi.com/jobs/aai-manager-junior-executive-recruitment-2026/"}],["$","meta","5",{"property":"og:title","content":"AAI Manager, Junior Executive Recruitment 2026 (389 Post) | ResumeSathi"}],["$","meta","6",{"property":"og:description","content":"Airports Authority of India (AAI) Manager & Junior Executive Recruitment 2026 notification out for 389 posts. Check post wise eligibility, age limit, fee and apply online from 08 August to 07 September 2026."}],["$","meta","7",{"property":"og:url","content":"https://www.resumesathi.com/jobs/aai-manager-junior-executive-recruitment-2026/"}],["$","meta","8",{"property":"og:site_name","content":"ResumeSathi"}],["$","meta","9",{"property":"og:image","content":"https://api.resumesathi.com/courses_image/aai-manager-junior-executive-recruitment-2026.webp"}],["$","meta","10",{"property":"og:image:alt","content":"AAI Manager, Junior Executive Recruitment 2026 (389 Post)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"AAI Manager, Junior Executive Recruitment 2026 (389 Post) | ResumeSathi"}],["$","meta","14",{"name":"twitter:description","content":"Airports Authority of India (AAI) Manager & Junior Executive Recruitment 2026 notification out for 389 posts. Check post wise eligibility, age limit, fee and apply online from 08 August to 07 September 2026."}],["$","meta","15",{"name":"twitter:image","content":"https://api.resumesathi.com/courses_image/aai-manager-junior-executive-recruitment-2026.webp"}],["$","link","16",{"rel":"shortcut icon","href":"/front-assets/images/logo/favicon.png"}],["$","link","17",{"rel":"icon","href":"/front-assets/images/logo/favicon.png"}],["$","link","18",{"rel":"apple-touch-icon","href":"/front-assets/images/logo/favicon.png"}],["$","link","19",{"rel":"apple-touch-icon-precomposed","href":"/front-assets/images/logo/favicon.png"}],["$","$L1b","20",{}]]

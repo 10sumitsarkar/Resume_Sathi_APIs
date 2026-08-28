@@ -1,0 +1,452 @@
+1:"$Sreact.fragment"
+7:I[88609,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/06pj_k8chkpe5.js","/_next/static/chunks/16ymsuy-x3uv9.js"],"default"]
+9:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["/_next/static/chunks/36s5nf8n-vj81.css","style"]
+2:T7a48,{"@context":"https://schema.org/","@type":"JobPosting","title":"BPSC Bihar School Teacher TRE 4.0 Recruitment 2026 (32388 Post)","description":"\u003cdiv class=\"post-content\">\r\n\u003cp>Bihar Public Service Commission (BPSC) has opened OTR registration for \u003cstrong>School Teacher TRE 4.0 Recruitment 2026\u003c/strong>, covering 32388 posts across Primary, Middle, TGT and PGT categories. Candidates interested in Class 1 to 5, Class 6 to 8, Class 9 to 10, Class 11 to 12 and Special School Teacher posts can apply as per the schedule. Read the notification for eligibility, post information, selection procedure, age limit and all other information before applying it.\u003c/p>\r\n\u003cp>Bihar Public Service Commission has invited online applications for BPSC School Teacher TRE 4.0 Recruitment 2026. Interested candidates should complete OTR (One Time Registration) first, then apply online once the application window opens. Read the notification carefully before applying and check all eligibility conditions, post information, selection procedure, age limit and other details mentioned below.\u003c/p>\r\n\u003ch2>Important Dates\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Application Begin\u003c/td>\r\n\u003ctd>\u003cstrong>July / August 2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Last Date for Apply Online\u003c/td>\r\n\u003ctd>\u003cstrong>As per Schedule\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Pay Exam Fee Last Date\u003c/td>\r\n\u003ctd>\u003cstrong>As per Schedule\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Last Date With Late Fee\u003c/td>\r\n\u003ctd>\u003cstrong>As per Schedule\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Exam Date\u003c/td>\r\n\u003ctd>\u003cstrong>As per Schedule\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003cp>Exact dates for the application window haven't been fixed yet at the time of this notice - BPSC has only confirmed that the process should begin sometime in July or August 2026. It's worth bookmarking this page or checking back periodically rather than assuming a fixed date.\u003c/p>\r\n\u003ch2>Application Fee\u003c/h2>\r\n\u003cul>\r\n\u003cli>General / OBC / Other State : 100/-\u003c/li>\r\n\u003cli>SC / ST / PH : 100/-\u003c/li>\r\n\u003cli>Fee Payment Accepted Through Online or Offline Mode Only\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Age Limit\u003c/h2>\r\n\u003cul>\r\n\u003cli>Minimum Age (Primary Teacher) : 18 Years\u003c/li>\r\n\u003cli>Minimum Age (TGT / PGT Teacher) : 21 Years\u003c/li>\r\n\u003cli>Maximum Age : 37 Years for Male Candidates, 40 Years for Female Candidates\u003c/li>\r\n\u003cli>Category-Wise Age Relaxation Is Detailed in the Official Notification - Check It Before Assuming Your Exact Cutoff\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Vacancy Details Total : 32388 Post\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003cthead>\r\n\u003ctr>\r\n\u003cth>Post Name\u003c/th>\r\n\u003cth>Total Post\u003c/th>\r\n\u003cth>Bihar School Teacher TRE 4.0 Eligibility\u003c/th>\r\n\u003c/tr>\r\n\u003c/thead>\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Primary School Teacher (Class 1-5)\u003c/td>\r\n\u003ctd>3847\u003c/td>\r\n\u003ctd>\r\n\u003cul>\r\n\u003cli>Senior Secondary (50%) + 2-Year Diploma in Elementary Education\u003c/li>\r\n\u003cli>OR Senior Secondary (45%, as per NCTE Norms 2002) + 2-Year Diploma in Elementary Education\u003c/li>\r\n\u003cli>OR Senior Secondary (50%) + 4-Year B.El.Ed Course\u003c/li>\r\n\u003cli>OR Senior Secondary (50%) + 2-Year Diploma in Elementary Education (Special)\u003c/li>\r\n\u003cli>OR Bachelor's Degree in Any Stream + 2-Year Diploma in Elementary Education\u003c/li>\r\n\u003cli>CTET / BTET Paper I Qualified\u003c/li>\r\n\u003cli>Full Eligibility in the Official Notification\u003c/li>\r\n\u003c/ul>\r\n\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Middle School Teacher (Class 6-8)\u003c/td>\r\n\u003ctd>8563\u003c/td>\r\n\u003ctd>\r\n\u003cul>\r\n\u003cli>Bachelor's Degree + 2-Year Diploma in Elementary Education\u003c/li>\r\n\u003cli>OR Bachelor's / Master's Degree (50%) With B.Ed\u003c/li>\r\n\u003cli>OR Bachelor's Degree (45%, NCTE Norms) With B.Ed\u003c/li>\r\n\u003cli>OR Bachelor's Degree (50%) With BA B.Ed / B.Sc Ed\u003c/li>\r\n\u003cli>OR Bachelor's Degree (50%) With B.Ed Special\u003c/li>\r\n\u003cli>OR Master's Degree (55%) With 3-Year B.Ed-M.Ed Course\u003c/li>\r\n\u003cli>CTET / BTET Paper II Qualified\u003c/li>\r\n\u003cli>Full Eligibility in the Official Notification\u003c/li>\r\n\u003c/ul>\r\n\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>TGT Teacher (Class 9-10)\u003c/td>\r\n\u003ctd>3877\u003c/td>\r\n\u003ctd>\r\n\u003cul>\r\n\u003cli>Bachelor's / Master's Degree in the Relevant Subject (50%) With B.Ed\u003c/li>\r\n\u003cli>OR Same Degree (45%, 2002 Norms) With B.Ed\u003c/li>\r\n\u003cli>OR 4-Year Degree in BA Ed / B.Sc Ed\u003c/li>\r\n\u003cli>STET Paper I Qualified\u003c/li>\r\n\u003cli>Full Eligibility in the Official Notification\u003c/li>\r\n\u003c/ul>\r\n\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>TGT Teacher (Class 9-10) - Special\u003c/td>\r\n\u003ctd>To Be Notified\u003c/td>\r\n\u003ctd>\r\n\u003cul>\r\n\u003cli>Same Eligibility Pattern as Regular TGT Teacher (Class 9-10) Above\u003c/li>\r\n\u003cli>Full Eligibility in the Official Notification\u003c/li>\r\n\u003c/ul>\r\n\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>PGT Teacher (Class 11-12)\u003c/td>\r\n\u003ctd>16101\u003c/td>\r\n\u003ctd>\r\n\u003cul>\r\n\u003cli>Master's Degree in the Relevant Subject (50%) With B.Ed\u003c/li>\r\n\u003cli>OR Same Degree (45%, 2002 Norms) With B.Ed\u003c/li>\r\n\u003cli>OR Master's Degree With 4-Year Degree in BA Ed / B.Sc Ed\u003c/li>\r\n\u003cli>OR Master's Degree (55%) With B.Ed-M.Ed 3-Year Degree\u003c/li>\r\n\u003cli>STET Paper II Qualified\u003c/li>\r\n\u003cli>Full Eligibility in the Official Notification\u003c/li>\r\n\u003c/ul>\r\n\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>Important Points Before Filling the BPSC TRE 4.0 Form\u003c/h2>\r\n\u003cul>\r\n\u003cli>Complete Your BPSC OTR Registration Right Away Rather Than Waiting for the Application Window to Open - It Saves Time Once Forms Actually Go Live.\u003c/li>\r\n\u003cli>Candidates Currently Appearing in Bihar STET / CTET (Results Awaited) Are Not Eligible to Fill This Form.\u003c/li>\r\n\u003cli>In Place of the Bihar STET Result Card Number, You'll Need to Enter Your BSEB Unique ID During the Application.\u003c/li>\r\n\u003cli>CTET Candidates Should Use the Serial Number Printed on Their Certificate or Marksheet.\u003c/li>\r\n\u003cli>There's No Need to Physically Send Any Application Copy to BPSC - Everything Is Handled Online.\u003c/li>\r\n\u003cli>Read the Complete TRE 4.0 Notification for Anything Not Covered Here.\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Selection Process\u003c/h2>\r\n\u003cp>Selection under TRE 4.0 works on a single-stage, merit-based model rather than multiple rounds of interviews. Since STET/CTET has already screened candidates for subject and teaching eligibility, BPSC's own test focuses on ranking rather than re-testing basic qualification.\u003c/p>\r\n\u003cul>\r\n\u003cli>Computer Based Test (CBT) - Objective Type Questions Covering General Studies, Language and Subject-Related Areas Depending on the Post\u003c/li>\r\n\u003cli>Document Verification for Candidates Who Clear the CBT Cutoff\u003c/li>\r\n\u003cli>Final Merit List Prepared Based on CBT Score, District and Category-Wise Preferences\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>How to Fill BPSC School Teacher TRE 4.0 Online Form 2026\u003c/h2>\r\n\u003cp>If you haven't registered on the BPSC OTR portal yet, that's the first thing to sort out - it's a one-time process and once it's done, filling the actual TRE 4.0 application becomes much quicker. BPSC has issued this notification for Primary Teacher, Trained Graduate Teacher (TGT) and Post Graduate Teacher (PGT) posts, and candidates will be able to apply online once the exact schedule is announced.\u003c/p>\r\n\u003cul>\r\n\u003cli>Go Through the Notification Carefully Before You Begin Filling the Form.\u003c/li>\r\n\u003cli>Keep Your Documents Ready in Advance - Handwriting Sample, Educational Certificates, ID Proof, Address Proof and Basic Details.\u003c/li>\r\n\u003cli>Scan Copies of Your Photo, Signature, ID Proof and Thumb Impression Should Be Ready in the Prescribed Format.\u003c/li>\r\n\u003cli>Go Through Every Column in the Preview Section Carefully Before Final Submission.\u003c/li>\r\n\u003cli>Application Fee Payment Is Mandatory - Without It, Your Form Stays Incomplete.\u003c/li>\r\n\u003cli>Save or Print the Confirmation Page Once You've Submitted the Form.\u003c/li>\r\n\u003c/ul>\r\n\u003cp>Interested Candidates Should Read the Full Notification Before Applying Online.\u003c/p>\r\n\u003ch2>Some Useful Important Links\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Apply Online (OTR)\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"Click Here\" href=\"https://bpsconline.bihar.gov.in/candidate/login\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Apply Online (TRE 4.0)\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"Link Will Be Activated Soon\" href=\"https://bpsconline.bihar.gov.in/candidate/login\" target=\"_blank\" rel=\"noopener\">Link Will Be Activated Soon\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Download Notification\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"Click Here\" href=\"https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Press-Release-TRE-4.0_BPSC-20260211-am7sv1.pdf\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Signature Resizer, PDF Compress, Age Calculator and More Tools\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"https://www.resumesathi.com/tools/\" href=\"https://www.resumesathi.com/tools/\" target=\"_blank\" rel=\"noopener\">View Tools\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Official Website\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"BPSC Official Website\" href=\"https://bpsc.bihar.gov.in/\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003cblockquote>Note: Candidates are advised to always cross-check dates, fee details, and eligibility criteria from the official BPSC website before applying, as the schedule may change based on official updates.\u003c/blockquote>\r\n\u003ch2>Bihar School Teacher TRE 4.0 Preparation Tips 2026\u003c/h2>\r\n\u003cul>\r\n\u003cli>Since STET / CTET Qualification Is Already a Prerequisite, Focus Your Prep on the CBT Stage - Child Development &amp; Pedagogy, General Studies and Subject Knowledge Carry Most of the Weight.\u003c/li>\r\n\u003cli>For Primary and Middle School Posts, Revisit NCERT Books From Class 6 to 10 for Subject Content, Since Questions Often Stay Close to the School Syllabus.\u003c/li>\r\n\u003cli>TGT and PGT Aspirants Should Go Deeper Into Their Specific Subject at Graduation / Post-Graduation Level, Along With Bihar-Specific General Knowledge.\u003c/li>\r\n\u003cli>Practice Previous Year TRE Papers (Phase 1, 2 and 3) to Get a Sense of the Question Pattern BPSC Tends to Repeat.\u003c/li>\r\n\u003cli>Keep Your OTR Details, Category Certificates and Educational Documents Updated and Error-Free Well Before the Form Opens, Since Corrections Later Can Get Complicated.\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Frequently Asked Questions\u003c/h2>\r\n\u003csection class=\"tre-faq-list\">\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>Q1. What is BPSC TRE 4.0?\u003c/summary>\r\n\u003cp>BPSC TRE 4.0 is the fourth phase of the Bihar Teacher Recruitment Examination, conducted by the Bihar Public Service Commission to fill Primary, Middle, TGT and PGT teacher posts across the state.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>Q2. How many total vacancies are there in BPSC TRE 4.0?\u003c/summary>\r\n\u003cp>A total of 32388 posts have been announced across Primary School Teacher, Middle School Teacher, TGT Teacher and PGT Teacher categories.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>Q3. When will the BPSC TRE 4.0 application form start?\u003c/summary>\r\n\u003cp>The application process is expected to begin in July or August 2026, though the exact date will be confirmed in the official schedule.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>Q4. Is STET or CTET compulsory for BPSC TRE 4.0?\u003c/summary>\r\n\u003cp>Yes, STET or CTET/BTET qualification (Paper I or Paper II depending on the post) is required. However, candidates currently appearing in STET or CTET with results awaited cannot fill this form.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>Q5. What documents are needed instead of the STET Result Card Number?\u003c/summary>\r\n\u003cp>Candidates need to enter their BSEB Unique ID in place of the Bihar STET Result Card Number while filling the application.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>Q6. What is the application fee for BPSC TRE 4.0?\u003c/summary>\r\n\u003cp>The fee is Rs. 100/- for all categories, including General, OBC, SC, ST and PH candidates, payable through online or offline mode.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>Q7. Do candidates need to send a physical copy of the application to BPSC?\u003c/summary>\r\n\u003cp>No, the entire process is online and there is no requirement to send any application copy by post to BPSC.\u003c/p>\r\n\u003c/details>\u003c/section>\r\n\u003csection class=\"tre-quiz-wrap\">\r\n\u003ch3 class=\"tre-quiz-header\">BPSC TRE 4.0 - Exam Oriented Practice Questions\u003c/h3>\r\n\u003cp class=\"tre-quiz-sub\">Bihar GK, Child Development &amp; Pedagogy (CDP), Teaching Methodology\u003c/p>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q1.\u003c/span> What role does STET/CTET qualification play in BPSC TRE 4.0?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">It's optional, not required\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">It's a mandatory prerequisite for eligibility; the CBT is only for ranking on merit\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">It's required only for PGT posts\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">It's awarded after document verification\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q2.\u003c/span> Which of these is NOT valid eligibility for Primary Teacher (Class 1-5)?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Senior Secondary + 2-Year Diploma in Elementary Education\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Bachelor's Degree + 2-Year Diploma in Elementary Education\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Just passing 12th is enough, no diploma required\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">4-Year B.El.Ed Course\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q3.\u003c/span> What's the difference between Bihar STET Paper I and Paper II?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-right\">Paper I is for Class 9-10 (TGT), Paper II is for Class 11-12 (PGT)\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Both are for the same level\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Paper I is only for the Hindi subject\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Paper II is for Primary Teacher\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q4.\u003c/span> In which situation is the BSEB Unique ID required?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Only for CTET candidates\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">In place of the STET Result Card Number, for Bihar STET candidates\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Only for age proof\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Only for category certificates\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q5.\u003c/span> On what basis is selection made in BPSC TRE 4.0?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Interview marks\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">CBT score, along with district and category-wise preference in the merit list\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Age alone\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">A random lottery draw\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q6.\u003c/span> Which amendment brought the Panchayati Raj system into effect in Bihar?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">42nd Amendment\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">73rd Amendment\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">86th Amendment\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">44th Amendment\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q7.\u003c/span> Which aspect of Vikramshila University makes it relevant to a teacher exam?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">It's a modern engineering college\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">It was an ancient center of learning, reflecting Bihar's educational heritage\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">It's a British-era school\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">It's located in Patna\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q8.\u003c/span> Who proposed the Zone of Proximal Development (ZPD)?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Jean Piaget\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Lev Vygotsky\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">B.F. Skinner\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Howard Gardner\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q9.\u003c/span> A teacher adopts inclusive education in their classroom. What does this most fundamentally mean?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Focusing only on the top-performing students\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Teaching children of different abilities together, supporting each according to their needs\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Placing children with special needs in a separate section\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Grouping students only by age\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q10.\u003c/span> As per NEP 2020, at what age does the foundational stage begin?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-right\">3 years\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">6 years\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">8 years\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">5 years\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q11.\u003c/span> What is the main objective of Continuous and Comprehensive Evaluation (CCE)?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Only looking at final exam marks\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Continuous assessment of a child's scholastic and co-scholastic areas both\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Only keeping attendance records\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">It only applies to Class 10\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q12.\u003c/span> Kohlberg's theory relates to which type of development?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Physical development\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Moral development\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Language development\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Motor development\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q13.\u003c/span> Along with a graduate/postgraduate degree, which additional qualification is required for TGT/PGT?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-right\">B.Ed or an equivalent course\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Only a typing certificate\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Only a computer course\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">No additional qualification is needed\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q14.\u003c/span> In the Bihar context, Chhath Puja is most commonly referenced under which exam category?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-right\">Bihar-specific General Knowledge\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Only the Science section\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Only the Mathematics section\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">It doesn't come up in this exam\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q15.\u003c/span> A new Middle School Teacher notices a difference in learning pace among students in their classroom. What's the best teaching approach?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Teach everyone at the same speed, even if some fall behind\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Adopt differentiated instruction, supporting each student according to their needs\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Punish slower learners\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Focus only on fast learners\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q16.\u003c/span> If a candidate is currently appearing in Bihar STET with the result still awaited, can they apply for TRE 4.0?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-right\">No, such candidates are not eligible to fill this form\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Yes, they can apply provisionally\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Yes, but only for Primary Teacher posts\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Yes, if they submit an affidavit\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q17.\u003c/span> A student consistently struggles to sit still and focus during a lesson. Which concept in child psychology best describes what the teacher should assess first?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">The student's height and weight\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">The student's attention span and possible underlying learning needs\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">The student's handwriting speed\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">The student's family income\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q18.\u003c/span> Which theory emphasizes that reinforcement shapes classroom behavior?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-right\">Skinner's Operant Conditioning\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Piaget's Cognitive Theory\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Freud's Psychoanalysis\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Erikson's Psychosocial Theory\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q19.\u003c/span> Under BPSC TRE rules, is sending a physical copy of the application to BPSC required?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Yes, within 7 days of online submission\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">No, the entire process is handled online\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Yes, only for TGT and PGT posts\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Yes, but only if selected in the merit list\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q20.\u003c/span> How many total districts does Bihar have &mdash; a fact commonly tested in the Bihar GK portion of teacher exams?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">36\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">38\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">40\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">42\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q21.\u003c/span> Which of Gardner's multiple intelligences would best explain a student who excels at group activities and understanding others' emotions?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Logical-Mathematical Intelligence\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Interpersonal Intelligence\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Spatial Intelligence\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Naturalistic Intelligence\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q22.\u003c/span> For TGT (Class 9-10) posts, which qualification pathway is valid?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-right\">Bachelor's/Master's Degree in the relevant subject (with required percentage) along with B.Ed\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Only a diploma in elementary education\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Only a 12th pass certificate\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">A vocational trade certificate\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q23.\u003c/span> Which river is traditionally referred to as the \"Sorrow of Bihar\" due to its recurring floods, a fact often linked to Bihar's geography section in teacher exams?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-right\">Kosi\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Son\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Gandak\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Punpun\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q24.\u003c/span> A teacher wants to assess a student's progress throughout the term rather than only at the final exam. Which assessment approach fits this?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Summative assessment only\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Formative assessment, conducted continuously during teaching\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">No assessment until the board exam\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Assessment only at the time of admission\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q25.\u003c/span> What is the age relaxation pattern generally followed in BPSC TRE recruitment for reserved categories?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">No relaxation is given to any category\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Category-wise relaxation is provided as detailed in the official notification, over and above the general age limit\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Relaxation applies only to female candidates\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Relaxation applies only to PGT posts\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003c/section>\r\n\u003c/div>","image":"https://api.resumesathi.com/courses_image/bpsc-bihar-school-teachers-tre-4-recruitment-2026.webp","identifier":{"@type":"PropertyValue","name":"ResumeSathi","value":"25"},"datePosted":"2026-07-30","employmentType":"FULL_TIME","industry":"Teaching","hiringOrganization":{"@type":"Organization","name":"Teaching - Government Jobs","sameAs":"https://www.resumesathi.com/jobs/"},"jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressCountry":"IN"}},"directApply":false}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4","$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"keVm6Da3qnRC_mqGccBX1"}
+8:T6334,<div class="post-content">
+<p>Bihar Public Service Commission (BPSC) has opened OTR registration for <strong>School Teacher TRE 4.0 Recruitment 2026</strong>, covering 32388 posts across Primary, Middle, TGT and PGT categories. Candidates interested in Class 1 to 5, Class 6 to 8, Class 9 to 10, Class 11 to 12 and Special School Teacher posts can apply as per the schedule. Read the notification for eligibility, post information, selection procedure, age limit and all other information before applying it.</p>
+<p>Bihar Public Service Commission has invited online applications for BPSC School Teacher TRE 4.0 Recruitment 2026. Interested candidates should complete OTR (One Time Registration) first, then apply online once the application window opens. Read the notification carefully before applying and check all eligibility conditions, post information, selection procedure, age limit and other details mentioned below.</p>
+<h2>Important Dates</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td>Application Begin</td>
+<td><strong>July / August 2026</strong></td>
+</tr>
+<tr>
+<td>Last Date for Apply Online</td>
+<td><strong>As per Schedule</strong></td>
+</tr>
+<tr>
+<td>Pay Exam Fee Last Date</td>
+<td><strong>As per Schedule</strong></td>
+</tr>
+<tr>
+<td>Last Date With Late Fee</td>
+<td><strong>As per Schedule</strong></td>
+</tr>
+<tr>
+<td>Exam Date</td>
+<td><strong>As per Schedule</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Exact dates for the application window haven't been fixed yet at the time of this notice - BPSC has only confirmed that the process should begin sometime in July or August 2026. It's worth bookmarking this page or checking back periodically rather than assuming a fixed date.</p>
+<h2>Application Fee</h2>
+<ul>
+<li>General / OBC / Other State : 100/-</li>
+<li>SC / ST / PH : 100/-</li>
+<li>Fee Payment Accepted Through Online or Offline Mode Only</li>
+</ul>
+<h2>Age Limit</h2>
+<ul>
+<li>Minimum Age (Primary Teacher) : 18 Years</li>
+<li>Minimum Age (TGT / PGT Teacher) : 21 Years</li>
+<li>Maximum Age : 37 Years for Male Candidates, 40 Years for Female Candidates</li>
+<li>Category-Wise Age Relaxation Is Detailed in the Official Notification - Check It Before Assuming Your Exact Cutoff</li>
+</ul>
+<h2>Vacancy Details Total : 32388 Post</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<thead>
+<tr>
+<th>Post Name</th>
+<th>Total Post</th>
+<th>Bihar School Teacher TRE 4.0 Eligibility</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Primary School Teacher (Class 1-5)</td>
+<td>3847</td>
+<td>
+<ul>
+<li>Senior Secondary (50%) + 2-Year Diploma in Elementary Education</li>
+<li>OR Senior Secondary (45%, as per NCTE Norms 2002) + 2-Year Diploma in Elementary Education</li>
+<li>OR Senior Secondary (50%) + 4-Year B.El.Ed Course</li>
+<li>OR Senior Secondary (50%) + 2-Year Diploma in Elementary Education (Special)</li>
+<li>OR Bachelor's Degree in Any Stream + 2-Year Diploma in Elementary Education</li>
+<li>CTET / BTET Paper I Qualified</li>
+<li>Full Eligibility in the Official Notification</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Middle School Teacher (Class 6-8)</td>
+<td>8563</td>
+<td>
+<ul>
+<li>Bachelor's Degree + 2-Year Diploma in Elementary Education</li>
+<li>OR Bachelor's / Master's Degree (50%) With B.Ed</li>
+<li>OR Bachelor's Degree (45%, NCTE Norms) With B.Ed</li>
+<li>OR Bachelor's Degree (50%) With BA B.Ed / B.Sc Ed</li>
+<li>OR Bachelor's Degree (50%) With B.Ed Special</li>
+<li>OR Master's Degree (55%) With 3-Year B.Ed-M.Ed Course</li>
+<li>CTET / BTET Paper II Qualified</li>
+<li>Full Eligibility in the Official Notification</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>TGT Teacher (Class 9-10)</td>
+<td>3877</td>
+<td>
+<ul>
+<li>Bachelor's / Master's Degree in the Relevant Subject (50%) With B.Ed</li>
+<li>OR Same Degree (45%, 2002 Norms) With B.Ed</li>
+<li>OR 4-Year Degree in BA Ed / B.Sc Ed</li>
+<li>STET Paper I Qualified</li>
+<li>Full Eligibility in the Official Notification</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>TGT Teacher (Class 9-10) - Special</td>
+<td>To Be Notified</td>
+<td>
+<ul>
+<li>Same Eligibility Pattern as Regular TGT Teacher (Class 9-10) Above</li>
+<li>Full Eligibility in the Official Notification</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>PGT Teacher (Class 11-12)</td>
+<td>16101</td>
+<td>
+<ul>
+<li>Master's Degree in the Relevant Subject (50%) With B.Ed</li>
+<li>OR Same Degree (45%, 2002 Norms) With B.Ed</li>
+<li>OR Master's Degree With 4-Year Degree in BA Ed / B.Sc Ed</li>
+<li>OR Master's Degree (55%) With B.Ed-M.Ed 3-Year Degree</li>
+<li>STET Paper II Qualified</li>
+<li>Full Eligibility in the Official Notification</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Important Points Before Filling the BPSC TRE 4.0 Form</h2>
+<ul>
+<li>Complete Your BPSC OTR Registration Right Away Rather Than Waiting for the Application Window to Open - It Saves Time Once Forms Actually Go Live.</li>
+<li>Candidates Currently Appearing in Bihar STET / CTET (Results Awaited) Are Not Eligible to Fill This Form.</li>
+<li>In Place of the Bihar STET Result Card Number, You'll Need to Enter Your BSEB Unique ID During the Application.</li>
+<li>CTET Candidates Should Use the Serial Number Printed on Their Certificate or Marksheet.</li>
+<li>There's No Need to Physically Send Any Application Copy to BPSC - Everything Is Handled Online.</li>
+<li>Read the Complete TRE 4.0 Notification for Anything Not Covered Here.</li>
+</ul>
+<h2>Selection Process</h2>
+<p>Selection under TRE 4.0 works on a single-stage, merit-based model rather than multiple rounds of interviews. Since STET/CTET has already screened candidates for subject and teaching eligibility, BPSC's own test focuses on ranking rather than re-testing basic qualification.</p>
+<ul>
+<li>Computer Based Test (CBT) - Objective Type Questions Covering General Studies, Language and Subject-Related Areas Depending on the Post</li>
+<li>Document Verification for Candidates Who Clear the CBT Cutoff</li>
+<li>Final Merit List Prepared Based on CBT Score, District and Category-Wise Preferences</li>
+</ul>
+<h2>How to Fill BPSC School Teacher TRE 4.0 Online Form 2026</h2>
+<p>If you haven't registered on the BPSC OTR portal yet, that's the first thing to sort out - it's a one-time process and once it's done, filling the actual TRE 4.0 application becomes much quicker. BPSC has issued this notification for Primary Teacher, Trained Graduate Teacher (TGT) and Post Graduate Teacher (PGT) posts, and candidates will be able to apply online once the exact schedule is announced.</p>
+<ul>
+<li>Go Through the Notification Carefully Before You Begin Filling the Form.</li>
+<li>Keep Your Documents Ready in Advance - Handwriting Sample, Educational Certificates, ID Proof, Address Proof and Basic Details.</li>
+<li>Scan Copies of Your Photo, Signature, ID Proof and Thumb Impression Should Be Ready in the Prescribed Format.</li>
+<li>Go Through Every Column in the Preview Section Carefully Before Final Submission.</li>
+<li>Application Fee Payment Is Mandatory - Without It, Your Form Stays Incomplete.</li>
+<li>Save or Print the Confirmation Page Once You've Submitted the Form.</li>
+</ul>
+<p>Interested Candidates Should Read the Full Notification Before Applying Online.</p>
+<h2>Some Useful Important Links</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td><strong>Apply Online (OTR)</strong></td>
+<td><a title="Click Here" href="https://bpsconline.bihar.gov.in/candidate/login" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+<tr>
+<td><strong>Apply Online (TRE 4.0)</strong></td>
+<td><a title="Link Will Be Activated Soon" href="https://bpsconline.bihar.gov.in/candidate/login" target="_blank" rel="noopener">Link Will Be Activated Soon</a></td>
+</tr>
+<tr>
+<td><strong>Download Notification</strong></td>
+<td><a title="Click Here" href="https://bpsc.bihar.gov.in/wp-content/uploads/BPSC_content/Notices/Press-Release-TRE-4.0_BPSC-20260211-am7sv1.pdf" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+<tr>
+<td><strong>Signature Resizer, PDF Compress, Age Calculator and More Tools</strong></td>
+<td><a title="https://www.resumesathi.com/tools/" href="https://www.resumesathi.com/tools/" target="_blank" rel="noopener">View Tools</a></td>
+</tr>
+<tr>
+<td><strong>Official Website</strong></td>
+<td><a title="BPSC Official Website" href="https://bpsc.bihar.gov.in/" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote>Note: Candidates are advised to always cross-check dates, fee details, and eligibility criteria from the official BPSC website before applying, as the schedule may change based on official updates.</blockquote>
+<h2>Bihar School Teacher TRE 4.0 Preparation Tips 2026</h2>
+<ul>
+<li>Since STET / CTET Qualification Is Already a Prerequisite, Focus Your Prep on the CBT Stage - Child Development &amp; Pedagogy, General Studies and Subject Knowledge Carry Most of the Weight.</li>
+<li>For Primary and Middle School Posts, Revisit NCERT Books From Class 6 to 10 for Subject Content, Since Questions Often Stay Close to the School Syllabus.</li>
+<li>TGT and PGT Aspirants Should Go Deeper Into Their Specific Subject at Graduation / Post-Graduation Level, Along With Bihar-Specific General Knowledge.</li>
+<li>Practice Previous Year TRE Papers (Phase 1, 2 and 3) to Get a Sense of the Question Pattern BPSC Tends to Repeat.</li>
+<li>Keep Your OTR Details, Category Certificates and Educational Documents Updated and Error-Free Well Before the Form Opens, Since Corrections Later Can Get Complicated.</li>
+</ul>
+<h2>Frequently Asked Questions</h2>
+<section class="tre-faq-list"><details class="tre-faq-item">
+<summary>Q1. What is BPSC TRE 4.0?</summary>
+<p>BPSC TRE 4.0 is the fourth phase of the Bihar Teacher Recruitment Examination, conducted by the Bihar Public Service Commission to fill Primary, Middle, TGT and PGT teacher posts across the state.</p>
+</details><details class="tre-faq-item">
+<summary>Q2. How many total vacancies are there in BPSC TRE 4.0?</summary>
+<p>A total of 32388 posts have been announced across Primary School Teacher, Middle School Teacher, TGT Teacher and PGT Teacher categories.</p>
+</details><details class="tre-faq-item">
+<summary>Q3. When will the BPSC TRE 4.0 application form start?</summary>
+<p>The application process is expected to begin in July or August 2026, though the exact date will be confirmed in the official schedule.</p>
+</details><details class="tre-faq-item">
+<summary>Q4. Is STET or CTET compulsory for BPSC TRE 4.0?</summary>
+<p>Yes, STET or CTET/BTET qualification (Paper I or Paper II depending on the post) is required. However, candidates currently appearing in STET or CTET with results awaited cannot fill this form.</p>
+</details><details class="tre-faq-item">
+<summary>Q5. What documents are needed instead of the STET Result Card Number?</summary>
+<p>Candidates need to enter their BSEB Unique ID in place of the Bihar STET Result Card Number while filling the application.</p>
+</details><details class="tre-faq-item">
+<summary>Q6. What is the application fee for BPSC TRE 4.0?</summary>
+<p>The fee is Rs. 100/- for all categories, including General, OBC, SC, ST and PH candidates, payable through online or offline mode.</p>
+</details><details class="tre-faq-item">
+<summary>Q7. Do candidates need to send a physical copy of the application to BPSC?</summary>
+<p>No, the entire process is online and there is no requirement to send any application copy by post to BPSC.</p>
+</details></section>
+<section class="tre-quiz-wrap">
+<h3 class="tre-quiz-header">BPSC TRE 4.0 - Exam Oriented Practice Questions</h3>
+<p class="tre-quiz-sub">Bihar GK, Child Development &amp; Pedagogy (CDP), Teaching Methodology</p>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q1.</span> What role does STET/CTET qualification play in BPSC TRE 4.0?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">It's optional, not required</li>
+<li class="tre-opt-item opt-right">It's a mandatory prerequisite for eligibility; the CBT is only for ranking on merit</li>
+<li class="tre-opt-item opt-wrong">It's required only for PGT posts</li>
+<li class="tre-opt-item opt-wrong">It's awarded after document verification</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q2.</span> Which of these is NOT valid eligibility for Primary Teacher (Class 1-5)?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Senior Secondary + 2-Year Diploma in Elementary Education</li>
+<li class="tre-opt-item opt-wrong">Bachelor's Degree + 2-Year Diploma in Elementary Education</li>
+<li class="tre-opt-item opt-right">Just passing 12th is enough, no diploma required</li>
+<li class="tre-opt-item opt-wrong">4-Year B.El.Ed Course</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q3.</span> What's the difference between Bihar STET Paper I and Paper II?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-right">Paper I is for Class 9-10 (TGT), Paper II is for Class 11-12 (PGT)</li>
+<li class="tre-opt-item opt-wrong">Both are for the same level</li>
+<li class="tre-opt-item opt-wrong">Paper I is only for the Hindi subject</li>
+<li class="tre-opt-item opt-wrong">Paper II is for Primary Teacher</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q4.</span> In which situation is the BSEB Unique ID required?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Only for CTET candidates</li>
+<li class="tre-opt-item opt-right">In place of the STET Result Card Number, for Bihar STET candidates</li>
+<li class="tre-opt-item opt-wrong">Only for age proof</li>
+<li class="tre-opt-item opt-wrong">Only for category certificates</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q5.</span> On what basis is selection made in BPSC TRE 4.0?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Interview marks</li>
+<li class="tre-opt-item opt-right">CBT score, along with district and category-wise preference in the merit list</li>
+<li class="tre-opt-item opt-wrong">Age alone</li>
+<li class="tre-opt-item opt-wrong">A random lottery draw</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q6.</span> Which amendment brought the Panchayati Raj system into effect in Bihar?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">42nd Amendment</li>
+<li class="tre-opt-item opt-right">73rd Amendment</li>
+<li class="tre-opt-item opt-wrong">86th Amendment</li>
+<li class="tre-opt-item opt-wrong">44th Amendment</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q7.</span> Which aspect of Vikramshila University makes it relevant to a teacher exam?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">It's a modern engineering college</li>
+<li class="tre-opt-item opt-right">It was an ancient center of learning, reflecting Bihar's educational heritage</li>
+<li class="tre-opt-item opt-wrong">It's a British-era school</li>
+<li class="tre-opt-item opt-wrong">It's located in Patna</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q8.</span> Who proposed the Zone of Proximal Development (ZPD)?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Jean Piaget</li>
+<li class="tre-opt-item opt-right">Lev Vygotsky</li>
+<li class="tre-opt-item opt-wrong">B.F. Skinner</li>
+<li class="tre-opt-item opt-wrong">Howard Gardner</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q9.</span> A teacher adopts inclusive education in their classroom. What does this most fundamentally mean?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Focusing only on the top-performing students</li>
+<li class="tre-opt-item opt-right">Teaching children of different abilities together, supporting each according to their needs</li>
+<li class="tre-opt-item opt-wrong">Placing children with special needs in a separate section</li>
+<li class="tre-opt-item opt-wrong">Grouping students only by age</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q10.</span> As per NEP 2020, at what age does the foundational stage begin?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-right">3 years</li>
+<li class="tre-opt-item opt-wrong">6 years</li>
+<li class="tre-opt-item opt-wrong">8 years</li>
+<li class="tre-opt-item opt-wrong">5 years</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q11.</span> What is the main objective of Continuous and Comprehensive Evaluation (CCE)?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Only looking at final exam marks</li>
+<li class="tre-opt-item opt-right">Continuous assessment of a child's scholastic and co-scholastic areas both</li>
+<li class="tre-opt-item opt-wrong">Only keeping attendance records</li>
+<li class="tre-opt-item opt-wrong">It only applies to Class 10</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q12.</span> Kohlberg's theory relates to which type of development?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Physical development</li>
+<li class="tre-opt-item opt-right">Moral development</li>
+<li class="tre-opt-item opt-wrong">Language development</li>
+<li class="tre-opt-item opt-wrong">Motor development</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q13.</span> Along with a graduate/postgraduate degree, which additional qualification is required for TGT/PGT?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-right">B.Ed or an equivalent course</li>
+<li class="tre-opt-item opt-wrong">Only a typing certificate</li>
+<li class="tre-opt-item opt-wrong">Only a computer course</li>
+<li class="tre-opt-item opt-wrong">No additional qualification is needed</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q14.</span> In the Bihar context, Chhath Puja is most commonly referenced under which exam category?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-right">Bihar-specific General Knowledge</li>
+<li class="tre-opt-item opt-wrong">Only the Science section</li>
+<li class="tre-opt-item opt-wrong">Only the Mathematics section</li>
+<li class="tre-opt-item opt-wrong">It doesn't come up in this exam</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q15.</span> A new Middle School Teacher notices a difference in learning pace among students in their classroom. What's the best teaching approach?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Teach everyone at the same speed, even if some fall behind</li>
+<li class="tre-opt-item opt-right">Adopt differentiated instruction, supporting each student according to their needs</li>
+<li class="tre-opt-item opt-wrong">Punish slower learners</li>
+<li class="tre-opt-item opt-wrong">Focus only on fast learners</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q16.</span> If a candidate is currently appearing in Bihar STET with the result still awaited, can they apply for TRE 4.0?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-right">No, such candidates are not eligible to fill this form</li>
+<li class="tre-opt-item opt-wrong">Yes, they can apply provisionally</li>
+<li class="tre-opt-item opt-wrong">Yes, but only for Primary Teacher posts</li>
+<li class="tre-opt-item opt-wrong">Yes, if they submit an affidavit</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q17.</span> A student consistently struggles to sit still and focus during a lesson. Which concept in child psychology best describes what the teacher should assess first?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">The student's height and weight</li>
+<li class="tre-opt-item opt-right">The student's attention span and possible underlying learning needs</li>
+<li class="tre-opt-item opt-wrong">The student's handwriting speed</li>
+<li class="tre-opt-item opt-wrong">The student's family income</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q18.</span> Which theory emphasizes that reinforcement shapes classroom behavior?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-right">Skinner's Operant Conditioning</li>
+<li class="tre-opt-item opt-wrong">Piaget's Cognitive Theory</li>
+<li class="tre-opt-item opt-wrong">Freud's Psychoanalysis</li>
+<li class="tre-opt-item opt-wrong">Erikson's Psychosocial Theory</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q19.</span> Under BPSC TRE rules, is sending a physical copy of the application to BPSC required?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Yes, within 7 days of online submission</li>
+<li class="tre-opt-item opt-right">No, the entire process is handled online</li>
+<li class="tre-opt-item opt-wrong">Yes, only for TGT and PGT posts</li>
+<li class="tre-opt-item opt-wrong">Yes, but only if selected in the merit list</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q20.</span> How many total districts does Bihar have &mdash; a fact commonly tested in the Bihar GK portion of teacher exams?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">36</li>
+<li class="tre-opt-item opt-right">38</li>
+<li class="tre-opt-item opt-wrong">40</li>
+<li class="tre-opt-item opt-wrong">42</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q21.</span> Which of Gardner's multiple intelligences would best explain a student who excels at group activities and understanding others' emotions?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Logical-Mathematical Intelligence</li>
+<li class="tre-opt-item opt-right">Interpersonal Intelligence</li>
+<li class="tre-opt-item opt-wrong">Spatial Intelligence</li>
+<li class="tre-opt-item opt-wrong">Naturalistic Intelligence</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q22.</span> For TGT (Class 9-10) posts, which qualification pathway is valid?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-right">Bachelor's/Master's Degree in the relevant subject (with required percentage) along with B.Ed</li>
+<li class="tre-opt-item opt-wrong">Only a diploma in elementary education</li>
+<li class="tre-opt-item opt-wrong">Only a 12th pass certificate</li>
+<li class="tre-opt-item opt-wrong">A vocational trade certificate</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q23.</span> Which river is traditionally referred to as the "Sorrow of Bihar" due to its recurring floods, a fact often linked to Bihar's geography section in teacher exams?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-right">Kosi</li>
+<li class="tre-opt-item opt-wrong">Son</li>
+<li class="tre-opt-item opt-wrong">Gandak</li>
+<li class="tre-opt-item opt-wrong">Punpun</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q24.</span> A teacher wants to assess a student's progress throughout the term rather than only at the final exam. Which assessment approach fits this?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Summative assessment only</li>
+<li class="tre-opt-item opt-right">Formative assessment, conducted continuously during teaching</li>
+<li class="tre-opt-item opt-wrong">No assessment until the board exam</li>
+<li class="tre-opt-item opt-wrong">Assessment only at the time of admission</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q25.</span> What is the age relaxation pattern generally followed in BPSC TRE recruitment for reserved categories?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">No relaxation is given to any category</li>
+<li class="tre-opt-item opt-right">Category-wise relaxation is provided as detailed in the official notification, over and above the general age limit</li>
+<li class="tre-opt-item opt-wrong">Relaxation applies only to female candidates</li>
+<li class="tre-opt-item opt-wrong">Relaxation applies only to PGT posts</li>
+</ul>
+</article>
+</section>
+</div>3:["$","$L7",null,{"article":{"id":25,"title":"BPSC Bihar School Teacher TRE 4.0 Recruitment 2026 (32388 Post)","slug":"bpsc-bihar-school-teacher-tre-4-recruitment-2026","description":"BPSC Bihar School Teacher TRE 4.0 OTR Registration 2026 open for 32388 Primary, Middle, TGT and PGT posts. Check eligibility, age limit, fee and application process.","company":null,"location":null,"employment_type":null,"salary":null,"status":1,"created_at":"2026-07-30T04:56:31.000000Z","updated_at":"2026-08-02T18:06:07.000000Z","job_type_id":null,"department_id":null,"is_active":1,"featured":0,"trending":0,"urgent":0,"homepage":0,"deleted_at":null,"hero_image":"courses_image/bpsc-bihar-school-teachers-tre-4-recruitment-2026.webp","created_by":1,"topic_name":"BPSC Bihar School Teacher TRE 4.0 Recruitment 2026 (32388 Post)","url_name":"bpsc-bihar-school-teacher-tre-4-recruitment-2026","meta_title":"BPSC Bihar School Teacher TRE 4.0 Recruitment 2026 (32388 Post)","meta_description":"BPSC Bihar School Teacher TRE 4.0 OTR Registration 2026 open for 32388 Primary, Middle, TGT and PGT posts. Check eligibility, age limit, fee and application process.","meta_keyword":"BPSC TRE 4.0 2026, Bihar Teacher Recruitment Phase 4, BPSC School Teacher Vacancy, Bihar TGT PGT Recruitment 2026, BPSC OTR Registration Teacher","canonical_tag":"courses/teaching/bpsc-bihar-school-teacher-tre-4-recruitment-2026","course_type":15,"pageview":0,"application_begin":null,"last_date_for_apply":null,"user":{"id":1,"first_name":"Hariom","last_name":"Prajapati","email":"hariomprajapati9029@gmail.com","mobile":"8840860841","birth_date":"08/01/1999","age":"23","gender":"male","profile_image":"Hariom.jpg","background_image":null,"is_active":1,"created_at":"2021-09-12T13:19:51.000000Z","updated_at":"2026-07-12T10:04:13.000000Z"},"course_category":{"id":15,"course_name":"Teaching","course_url":"teaching","course_image":"courses/book-open-thin-svgrepo-com.svg","description":"Teacher recruitment notifications for STET, CTET-based and other government teaching posts across states.","created_at":"2026-07-30T05:06:00.000000Z","updated_at":"2026-07-30T05:10:33.000000Z","deleted_at":null,"created_by":1},"contents":[{"id":21,"content":"$8","course_id":25,"created_at":"2026-07-30T04:56:31.000000Z","updated_at":"2026-08-02T18:06:07.000000Z"}]},"slug":"bpsc-bihar-school-teacher-tre-4-recruitment-2026"}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/36s5nf8n-vj81.css","precedence":"next"}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/16ymsuy-x3uv9.js","async":true}]
+6:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

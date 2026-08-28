@@ -7,8 +7,6 @@ use App\Models\ArticleAttachment;
 use App\Models\ContactUs;
 use App\Models\Course;
 use App\Models\CourseAttachment;
-use App\Models\ErrorReport;
-use App\Models\SnipitAttachment;
 use App\Models\Subscriber;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\File;
@@ -16,7 +14,21 @@ use Illuminate\Support\Facades\File;
 class DashboardController extends Controller
 {
     public function index(){
-        return view('backend.pages.dashboard');
+        $stats = [
+            'articleCount' => Article::where('is_active', 1)->where('status', 1)->count(),
+            'draftArticleCount' => Article::where('is_draft', 1)->count(),
+            'jobCount' => Course::where('is_active', 1)->where('status', 1)->count(),
+            'draftJobCount' => Course::where(function ($query) {
+                $query->where('is_active', 0)->orWhere('status', 0);
+            })->count(),
+            'subscriberCount' => Subscriber::count(),
+            'contactCount' => ContactUs::count(),
+        ];
+
+        $latestArticles = Article::query()->orderByDesc('created_at')->limit(5)->get();
+        $latestJobs = Course::query()->orderByDesc('created_at')->limit(5)->get();
+
+        return view('backend.pages.dashboard', compact('stats', 'latestArticles', 'latestJobs'));
     }
 
     public function upload_attachment(Request $request){
@@ -33,9 +45,6 @@ class DashboardController extends Controller
         if($request->attachment_for === 'article'){
             $data['article_id'] = $request->action_id;
             $upload =  ArticleAttachment::create($data);
-        }elseif($request->attachment_for === 'snipit'){
-            $data['snipit_id'] = $request->action_id;
-            $upload =  SnipitAttachment::create($data);
         }else{
             $data['course_id'] = $request->action_id;
             $upload =  CourseAttachment::create($data);
@@ -58,21 +67,11 @@ class DashboardController extends Controller
 
         if($request->attachment_for === 'article'){
             $attachment = ArticleAttachment::find($request->id);
-            if(File::exists($attachment->file)) {
-                File::delete($attachment->file);
-            }
+            $this->deletePublicFile($attachment?->file);
             $delete =  ArticleAttachment::where('id', $request->id)->delete();
-        }elseif($request->attachment_for === 'snipit'){
-            $attachment = SnipitAttachment::find($request->id);
-            if(File::exists($attachment->file)) {
-                File::delete($attachment->file);
-            }
-            $delete =  SnipitAttachment::where('id', $request->id)->delete();
         }else{
             $attachment = CourseAttachment::find($request->id);
-            if(File::exists($attachment->file)) {
-                File::delete($attachment->file);
-            }
+            $this->deletePublicFile($attachment?->file);
             $delete =  CourseAttachment::where('id', $request->id)->delete();
         }
 
@@ -121,34 +120,19 @@ class DashboardController extends Controller
         return redirect()->back()->with($status, strtoupper($msg));
     }
 
-    public function errorsList(){
-        $errors = ErrorReport::orderBy('id', 'desc')->get();
-        return view('backend.pages.errors.list', compact('errors'));
+    private function deletePublicFile(?string $path): void
+    {
+        if (!$path) {
+            return;
+        }
+
+        $relativePath = ltrim(parse_url($path, PHP_URL_PATH) ?: $path, '/');
+        $relativePath = preg_replace('#^(public/|storage/)#', '', $relativePath);
+        $fullPath = public_path($relativePath);
+
+        if (File::exists($fullPath) && File::isFile($fullPath)) {
+            File::delete($fullPath);
+        }
     }
 
-    public function errorDelete($id){
-        $response = ErrorReport::find($id)->delete();
-        if($response){
-            $msg = "Error removed successfully!";
-            $status = 'success';
-        }else{
-            $msg = "Something went wrong.";
-            $status = 'fail';
-        }
-        return redirect()->back()->with($status, strtoupper($msg));
-    }
-
-    public function changeStatus($id){
-        $response = ErrorReport::find($id);
-        if($response){
-            $response->is_resolved = !$response->is_resolved;
-            $response->save();
-            $msg = "Action saved successfully!";
-            $status = 'success';
-        }else{
-            $msg = "Something went wrong.";
-            $status = 'fail';
-        }
-        return redirect()->back()->with($status, strtoupper($msg));
-    }
 }

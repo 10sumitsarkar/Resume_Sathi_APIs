@@ -16,6 +16,8 @@
 @section('og-title', $title . ' | ResumeSathi')
 @section('og-description', $description)
 @section('og-url', $canonical)
+@section('og-type', 'article')
+@section('og-image', $image)
 
 @section('custom-css')
 <style>
@@ -39,22 +41,40 @@
 @endsection
 
 @section('content')
+@php
+    $jobSchema = [
+        '@' . 'context' => 'https://schema.org/',
+        '@' . 'type' => 'JobPosting',
+        'title' => $job->title ?: $job->topic_name,
+        'description' => $content ?: $description,
+        'image' => $image,
+        'datePosted' => optional($job->created_at)->toDateString(),
+        'validThrough' => $validThrough,
+        'employmentType' => $job->employment_type ?: 'FULL_TIME',
+        'industry' => $category,
+        'identifier' => [
+            '@' . 'type' => 'PropertyValue',
+            'name' => 'ResumeSathi',
+            'value' => (string) $job->id,
+        ],
+        'hiringOrganization' => [
+            '@' . 'type' => 'Organization',
+            'name' => $job->company ?: ($category . ' - Government Jobs'),
+            'sameAs' => url('/jobs/'),
+        ],
+        'jobLocation' => [
+            '@' . 'type' => 'Place',
+            'address' => [
+                '@' . 'type' => 'PostalAddress',
+                'addressLocality' => $job->location,
+                'addressCountry' => 'IN',
+            ],
+        ],
+        'directApply' => false,
+    ];
+@endphp
 <script type="application/ld+json">
-{!! json_encode(array_filter([
-    '@context' => 'https://schema.org/',
-    '@type' => 'JobPosting',
-    'title' => $job->title ?: $job->topic_name,
-    'description' => $content ?: $description,
-    'image' => $image,
-    'datePosted' => optional($job->created_at)->toDateString(),
-    'validThrough' => $validThrough,
-    'employmentType' => $job->employment_type ?: 'FULL_TIME',
-    'industry' => $category,
-    'identifier' => ['@type' => 'PropertyValue', 'name' => 'ResumeSathi', 'value' => (string) $job->id],
-    'hiringOrganization' => ['@type' => 'Organization', 'name' => $job->company ?: ($category . ' - Government Jobs'), 'sameAs' => url('/jobs/')],
-    'jobLocation' => ['@type' => 'Place', 'address' => ['@type' => 'PostalAddress', 'addressLocality' => $job->location, 'addressCountry' => 'IN']],
-    'directApply' => false,
-], fn ($value) => $value !== null && $value !== ''), JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) !!}
+{!! json_encode(array_filter($jobSchema, fn ($value) => $value !== null && $value !== ''), JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) !!}
 </script>
 
 <main class="rs-dynamic-page">

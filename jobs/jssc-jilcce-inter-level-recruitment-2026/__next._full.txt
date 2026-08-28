@@ -1,0 +1,1103 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+3:I[37457,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+4:I[44134,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/0dge8h81efw6t.js"],"default"]
+5:I[22016,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/0dge8h81efw6t.js"],""]
+6:I[59708,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+7:I[32666,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+8:I[92825,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"ClientSegmentRoot"]
+9:I[39040,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/06pj_k8chkpe5.js"],"default"]
+c:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"ViewportBoundary"]
+13:I[68027,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default",1]
+:HL["/_next/static/chunks/36s5nf8n-vj81.css","style"]
+:HL["/front-assets/css/bootstrap.min.css","style"]
+:HL["/front-assets/css/style.css","style"]
+:HL["/front-assets/css/responsive.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap","style",{"crossOrigin":"anonymous"}]
+0:{"P":null,"c":["","jobs","jssc-jilcce-inter-level-recruitment-2026",""],"q":"","i":false,"f":[[["",{"children":["jobs",{"children":[["slug","jssc-jilcce-inter-level-recruitment-2026","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/3_bezyotg8f3w.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0b5j8te8ufv_z.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"data-scroll-behavior":"smooth","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preload","href":"/front-assets/css/bootstrap.min.css","as":"style"}],["$","link",null,{"rel":"preload","href":"/front-assets/css/style.css","as":"style"}],["$","link",null,{"rel":"preload","href":"/front-assets/css/responsive.css","as":"style"}],["$","link",null,{"rel":"preload","href":"https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap","as":"style","crossOrigin":"anonymous"}],["$","link",null,{"rel":"stylesheet","href":"/front-assets/css/bootstrap.min.css"}],["$","link",null,{"rel":"stylesheet","href":"/front-assets/css/style.css"}],["$","link",null,{"rel":"stylesheet","href":"/front-assets/css/responsive.css"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"}]]}],["$","body",null,{"suppressHydrationWarning":true,"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ResumeSathi\",\"url\":\"https://www.resumesathi.com\",\"logo\":\"https://www.resumesathi.com/front-assets/images/logo/logo.svg\",\"sameAs\":[\"https://www.facebook.com\",\"https://www.linkedin.com\",\"https://www.instagram.com\"],\"description\":\"ResumeSathi helps job seekers create ATS-friendly resumes, cover letters, and career documents for free.\"}"}}],["$","main",null,{"id":"main-content","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","$L4",null,{}],["$","section",null,{"className":"page-404","children":["$","div",null,{"className":"container","children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"col-sm-12","children":["$","div",null,{"className":"col-sm-10 offset-sm-1 text-center","children":[["$","div",null,{"className":"four-zero-four-bg","children":["$","h1",null,{"className":"text-center","children":"404"}]}],["$","div",null,{"className":"contant-box-404","children":[["$","h3",null,{"className":"h2","children":"Looks like you are lost"}],["$","p",null,{"children":"The page you are looking for is not available."}],["$","$L5",null,{"prefetch":false,"href":"/","className":"link-404","aria-label":"Go to Home Page","children":"Go to Home"}]]}]]}]}]}]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{}],["$","$L7",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/06pj_k8chkpe5.js","async":true,"nonce":"$undefined"}]],["$","$L8",null,{"Component":"$9","slots":{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]},"serverProvidedParams":{"params":{},"promises":["$@a"]}}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$Lb",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/36s5nf8n-vj81.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/16ymsuy-x3uv9.js","async":true,"nonce":"$undefined"}]],["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],{},null,false,null]},null,false,"$@f"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$L11"}],["$","div",null,{"hidden":true,"children":"$L12"}],null]}],false]],"m":"$undefined","G":["$13",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"keVm6Da3qnRC_mqGccBX1"}
+15:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"MetadataBoundary"]
+14:[]
+f:"$W14"
+12:["$","$L15",null,{"children":["$","$d",null,{"name":"Next.Metadata","children":"$L16"}]}]
+a:"$0:f:0:1:1:children:0:props:children:1:props:serverProvidedParams:params"
+17:T11660,{"@context":"https://schema.org/","@type":"JobPosting","title":"JSSC JILCCE Inter Level Recruitment 2026 - Apply Online for 326 Posts","description":"\u003cdiv class=\"post-content\">\r\n\u003cp>Jharkhand Staff Selection Commission (JSSC) has released the notification for \u003cstrong>JILCCE Inter Level Combined Recruitment 2026\u003c/strong> for 326 posts. Candidates interested in this Jharkhand JSSC JILCCE Inter Level Recruitment can apply online from 20 July 2026 to 19 August 2026.&nbsp;\u003c/p>\r\n\u003ch2>Important Dates\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Application Begin\u003c/td>\r\n\u003ctd>\u003cstrong>20/07/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Last Date for Apply Online\u003c/td>\r\n\u003ctd>\u003cstrong>19/08/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Pay Exam Fee Last Date\u003c/td>\r\n\u003ctd>\u003cstrong>19/08/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Correction Date\u003c/td>\r\n\u003ctd>\u003cstrong>21-23 August 2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>JSSC JILCCE Exam Date\u003c/td>\r\n\u003ctd>\u003cstrong>As per Schedule\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Admit Card Available\u003c/td>\r\n\u003ctd>\u003cstrong>Before Exam\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>Application Fee\u003c/h2>\r\n\u003cul>\r\n\u003cli>General / OBC / Other State : 100/-\u003c/li>\r\n\u003cli>SC / ST : 50/-\u003c/li>\r\n\u003cli>Pay the Exam Fee Through Online or Offline Fee Mode Only\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Age Limit\u003c/h2>\r\n\u003cul>\r\n\u003cli>Minimum Age : 18 Years\u003c/li>\r\n\u003cli>Maximum Age : 35 Years\u003c/li>\r\n\u003cli>Age Relaxation Extra as per JSSC JILCCE Inter Level Examination Rules Advt. No. 03/2026\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Vacancy Details Total : 326 Post\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003cthead>\r\n\u003ctr>\r\n\u003cth>Post Name\u003c/th>\r\n\u003cth>Total Post\u003c/th>\r\n\u003cth>JSSC JILCCE Inter Level Eligibility\u003c/th>\r\n\u003c/tr>\r\n\u003c/thead>\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>JILCCE Inter Level\u003c/td>\r\n\u003ctd>326\u003c/td>\r\n\u003ctd>10+2 Intermediate Passed From Any Recognized Board in India.\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>Department Wise Vacancy Details\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003cthead>\r\n\u003ctr>\r\n\u003cth>Post Name\u003c/th>\r\n\u003cth>Department\u003c/th>\r\n\u003cth>Total Post\u003c/th>\r\n\u003c/tr>\r\n\u003c/thead>\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Health Supervisor\u003c/td>\r\n\u003ctd>Directorate of Health Services\u003c/td>\r\n\u003ctd>137\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Junior Regional Investigator\u003c/td>\r\n\u003ctd>Planning and Development Department (Directorate of Economics and Statistics)\u003c/td>\r\n\u003ctd>27\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Multipurpose Health Worker\u003c/td>\r\n\u003ctd>Department of Health, Medical Education, and Family Welfare\u003c/td>\r\n\u003ctd>62\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Field Assistant / Medical Assistant\u003c/td>\r\n\u003ctd>Urban Development and Housing Department\u003c/td>\r\n\u003ctd>27\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Insect Collector\u003c/td>\r\n\u003ctd>Directorate of Health Services\u003c/td>\r\n\u003ctd>32\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Fisheries Technical Assistant\u003c/td>\r\n\u003ctd>Department of Agriculture, Animal Husbandry, and Cooperation - Fisheries Division\u003c/td>\r\n\u003ctd>41\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>How to Fill Jharkhand JSSC JILCCE Inter Level Online Form 2026\u003c/h2>\r\n\u003cul>\r\n\u003cli>Keep Your Documents Ready in Advance for Eligibility Proof, ID Proof, Address Proof and Basic Details.\u003c/li>\r\n\u003cli>Scan Copies of Photo, Signature and ID Proof in the Prescribed Format.\u003c/li>\r\n\u003cli>Application Fee Payment Is Mandatory without payment form is Incomplete.\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Some Useful Important Links\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Apply Online\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"Apply Now\" href=\"https://jssc.jharkhand.gov.in/\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Download Notification\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"Download Notification\" href=\"https://jssc.jharkhand.gov.in/sites/default/files/Brochure%20JILCCE-2026.pdf\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Signature Resizer, PDF Compress, Age Calculator and More Tools\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"https://www.resumesathi.com/tools/\" href=\"https://www.resumesathi.com/tools/\" target=\"_blank\" rel=\"noopener\">View Tools\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Official Website\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"JSSC Official Website\" href=\"https://jssc.jharkhand.gov.in/\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003cblockquote>\u003cstrong>Note: \u003c/strong>Candidates are advised to always cross-check dates, fee details, and eligibility criteria from the official JSSC website before applying, as the schedule may change based on official updates.\u003c/blockquote>\r\n\u003ch2>Jharkhand JSSC JILCCE Inter Level Preparation Tips 2026\u003c/h2>\r\n\u003cul>\r\n\u003cli>Read Jharkhand Specific like GK State History, Geography, Culture, Tribal Affairs and Current Affairs.\u003c/li>\r\n\u003cli>Practice Basic Arithmetic and Reasoning Daily.\u003c/li>\r\n\u003cli>Revise Hindi and English Language Grammar, Comprehension and Vocabulary.\u003c/li>\r\n\u003cli>Parctice Previous Year JSSC Papers.\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Frequently Asked Questions\u003c/h2>\r\n\u003csection class=\"tre-faq-list\">\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>What is the last date to apply for JSSC JILCCE Inter Level Recruitment 2026?\u003c/summary>\r\n\u003cp>The last date to apply online is 19 August 2026, and the fee payment deadline is also 19 August 2026.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>How many total vacancies are there in JSSC JILCCE Inter Level Recruitment 2026?\u003c/summary>\r\n\u003cp>A total of 326 posts have been announced across Health Supervisor, Junior Regional Investigator, Multipurpose Health Worker, Field Assistant/Medical Assistant, Insect Collector and Fisheries Technical Assistant categories.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>What is the application fee for this recruitment?\u003c/summary>\r\n\u003cp>General, OBC and Other State candidates need to pay Rs. 100/-, while SC and ST candidates pay Rs. 50/-.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>What is the age limit for JSSC JILCCE Inter Level 2026?\u003c/summary>\r\n\u003cp>Candidates must be between 18 and 35 years of age, with age relaxation applicable as per JSSC rules.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>What is the minimum qualification required for JILCCE Inter Level posts?\u003c/summary>\r\n\u003cp>Candidates need to have passed 10+2 (Intermediate) from any recognized board in India.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>When is the correction window for this recruitment?\u003c/summary>\r\n\u003cp>The correction window is open from 21 to 23 August 2026 for candidates who need to make changes to their submitted application.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>Which department has the highest number of vacancies in this recruitment?\u003c/summary>\r\n\u003cp>The Directorate of Health Services has the highest number of vacancies through the Health Supervisor post, with 137 openings.\u003c/p>\r\n\u003c/details>\u003c/section>\r\n\u003csection class=\"tre-quiz-wrap\">\r\n\u003ch3 class=\"tre-quiz-header\">JSSC JILCCE Inter Level - Practice Questions (Jharkhand GK, Health/Stats Awareness, Arithmetic, Reasoning)\u003c/h3>\r\n\u003cp class=\"tre-quiz-sub\">100 Objective Questions\u003c/p>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q1.\u003c/span> What is the capital of Jharkhand?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q1_o1\" class=\"tre-opt-item opt-wrong\">Dhanbad\u003c/li>\r\n\u003cli id=\"jssc_q1_o2\" class=\"tre-opt-item opt-right\">Ranchi\u003c/li>\r\n\u003cli id=\"jssc_q1_o3\" class=\"tre-opt-item opt-wrong\">Jamshedpur\u003c/li>\r\n\u003cli id=\"jssc_q1_o4\" class=\"tre-opt-item opt-wrong\">Bokaro\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q2.\u003c/span> In which year was Jharkhand carved out as a separate state?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q2_o1\" class=\"tre-opt-item opt-wrong\">1998\u003c/li>\r\n\u003cli id=\"jssc_q2_o2\" class=\"tre-opt-item opt-right\">2000\u003c/li>\r\n\u003cli id=\"jssc_q2_o3\" class=\"tre-opt-item opt-wrong\">2002\u003c/li>\r\n\u003cli id=\"jssc_q2_o4\" class=\"tre-opt-item opt-wrong\">2005\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q3.\u003c/span> Jharkhand was formed by separating territory from which state?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q3_o1\" class=\"tre-opt-item opt-right\">Bihar\u003c/li>\r\n\u003cli id=\"jssc_q3_o2\" class=\"tre-opt-item opt-wrong\">Odisha\u003c/li>\r\n\u003cli id=\"jssc_q3_o3\" class=\"tre-opt-item opt-wrong\">West Bengal\u003c/li>\r\n\u003cli id=\"jssc_q3_o4\" class=\"tre-opt-item opt-wrong\">Chhattisgarh\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q4.\u003c/span> Which river is closely associated with Jharkhand's industrial belt around Jamshedpur?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q4_o1\" class=\"tre-opt-item opt-right\">Subarnarekha\u003c/li>\r\n\u003cli id=\"jssc_q4_o2\" class=\"tre-opt-item opt-wrong\">Ganga\u003c/li>\r\n\u003cli id=\"jssc_q4_o3\" class=\"tre-opt-item opt-wrong\">Yamuna\u003c/li>\r\n\u003cli id=\"jssc_q4_o4\" class=\"tre-opt-item opt-wrong\">Godavari\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q5.\u003c/span> Which city in Jharkhand is known as the 'Steel City of India'?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q5_o1\" class=\"tre-opt-item opt-wrong\">Ranchi\u003c/li>\r\n\u003cli id=\"jssc_q5_o2\" class=\"tre-opt-item opt-right\">Jamshedpur\u003c/li>\r\n\u003cli id=\"jssc_q5_o3\" class=\"tre-opt-item opt-wrong\">Dhanbad\u003c/li>\r\n\u003cli id=\"jssc_q5_o4\" class=\"tre-opt-item opt-wrong\">Bokaro\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q6.\u003c/span> Which city is known as the 'Coal Capital of India' and is located in Jharkhand?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q6_o1\" class=\"tre-opt-item opt-wrong\">Ranchi\u003c/li>\r\n\u003cli id=\"jssc_q6_o2\" class=\"tre-opt-item opt-wrong\">Jamshedpur\u003c/li>\r\n\u003cli id=\"jssc_q6_o3\" class=\"tre-opt-item opt-right\">Dhanbad\u003c/li>\r\n\u003cli id=\"jssc_q6_o4\" class=\"tre-opt-item opt-wrong\">Deoghar\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q7.\u003c/span> Which famous waterfall is located near Ranchi?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q7_o1\" class=\"tre-opt-item opt-right\">Dassam Falls\u003c/li>\r\n\u003cli id=\"jssc_q7_o2\" class=\"tre-opt-item opt-wrong\">Jog Falls\u003c/li>\r\n\u003cli id=\"jssc_q7_o3\" class=\"tre-opt-item opt-wrong\">Athirappilly Falls\u003c/li>\r\n\u003cli id=\"jssc_q7_o4\" class=\"tre-opt-item opt-wrong\">Hogenakkal Falls\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q8.\u003c/span> Which is the state animal of Jharkhand?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q8_o1\" class=\"tre-opt-item opt-wrong\">Tiger\u003c/li>\r\n\u003cli id=\"jssc_q8_o2\" class=\"tre-opt-item opt-right\">Elephant\u003c/li>\r\n\u003cli id=\"jssc_q8_o3\" class=\"tre-opt-item opt-wrong\">Deer\u003c/li>\r\n\u003cli id=\"jssc_q8_o4\" class=\"tre-opt-item opt-wrong\">Leopard\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q9.\u003c/span> Which tribal community is one of the largest in Jharkhand?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q9_o1\" class=\"tre-opt-item opt-wrong\">Bhil\u003c/li>\r\n\u003cli id=\"jssc_q9_o2\" class=\"tre-opt-item opt-right\">Santhal\u003c/li>\r\n\u003cli id=\"jssc_q9_o3\" class=\"tre-opt-item opt-wrong\">Gond\u003c/li>\r\n\u003cli id=\"jssc_q9_o4\" class=\"tre-opt-item opt-wrong\">Naga\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q10.\u003c/span> Who was the first Chief Minister of Jharkhand?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q10_o1\" class=\"tre-opt-item opt-wrong\">Arjun Munda\u003c/li>\r\n\u003cli id=\"jssc_q10_o2\" class=\"tre-opt-item opt-right\">Babulal Marandi\u003c/li>\r\n\u003cli id=\"jssc_q10_o3\" class=\"tre-opt-item opt-wrong\">Shibu Soren\u003c/li>\r\n\u003cli id=\"jssc_q10_o4\" class=\"tre-opt-item opt-wrong\">Hemant Soren\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q11.\u003c/span> Which famous temple town in Jharkhand is a major pilgrimage site?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q11_o1\" class=\"tre-opt-item opt-right\">Deoghar\u003c/li>\r\n\u003cli id=\"jssc_q11_o2\" class=\"tre-opt-item opt-wrong\">Hazaribagh\u003c/li>\r\n\u003cli id=\"jssc_q11_o3\" class=\"tre-opt-item opt-wrong\">Giridih\u003c/li>\r\n\u003cli id=\"jssc_q11_o4\" class=\"tre-opt-item opt-wrong\">Chatra\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q12.\u003c/span> What is the state bird of Jharkhand?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q12_o1\" class=\"tre-opt-item opt-wrong\">Peacock\u003c/li>\r\n\u003cli id=\"jssc_q12_o2\" class=\"tre-opt-item opt-right\">Koel\u003c/li>\r\n\u003cli id=\"jssc_q12_o3\" class=\"tre-opt-item opt-wrong\">Asian Koel\u003c/li>\r\n\u003cli id=\"jssc_q12_o4\" class=\"tre-opt-item opt-wrong\">Myna\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q13.\u003c/span> Which is the state tree of Jharkhand?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q13_o1\" class=\"tre-opt-item opt-right\">Sal\u003c/li>\r\n\u003cli id=\"jssc_q13_o2\" class=\"tre-opt-item opt-wrong\">Peepal\u003c/li>\r\n\u003cli id=\"jssc_q13_o3\" class=\"tre-opt-item opt-wrong\">Mango\u003c/li>\r\n\u003cli id=\"jssc_q13_o4\" class=\"tre-opt-item opt-wrong\">Neem\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q14.\u003c/span> Which famous dance form is traditionally associated with Jharkhand's tribal culture?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q14_o1\" class=\"tre-opt-item opt-wrong\">Bharatanatyam\u003c/li>\r\n\u003cli id=\"jssc_q14_o2\" class=\"tre-opt-item opt-right\">Chhau Dance\u003c/li>\r\n\u003cli id=\"jssc_q14_o3\" class=\"tre-opt-item opt-wrong\">Kathak\u003c/li>\r\n\u003cli id=\"jssc_q14_o4\" class=\"tre-opt-item opt-wrong\">Odissi\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q15.\u003c/span> Jharkhand is rich in which natural resource, giving it major industrial importance?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q15_o1\" class=\"tre-opt-item opt-wrong\">Petroleum\u003c/li>\r\n\u003cli id=\"jssc_q15_o2\" class=\"tre-opt-item opt-right\">Minerals like Coal and Iron Ore\u003c/li>\r\n\u003cli id=\"jssc_q15_o3\" class=\"tre-opt-item opt-wrong\">Fisheries\u003c/li>\r\n\u003cli id=\"jssc_q15_o4\" class=\"tre-opt-item opt-wrong\">Spices\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q16.\u003c/span> Which is the highest peak in Jharkhand?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q16_o1\" class=\"tre-opt-item opt-right\">Parasnath Hill\u003c/li>\r\n\u003cli id=\"jssc_q16_o2\" class=\"tre-opt-item opt-wrong\">Netarhat\u003c/li>\r\n\u003cli id=\"jssc_q16_o3\" class=\"tre-opt-item opt-wrong\">Trikuta Hill\u003c/li>\r\n\u003cli id=\"jssc_q16_o4\" class=\"tre-opt-item opt-wrong\">Rajmahal Hills\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q17.\u003c/span> Which national park is located in Jharkhand?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q17_o1\" class=\"tre-opt-item opt-right\">Betla National Park\u003c/li>\r\n\u003cli id=\"jssc_q17_o2\" class=\"tre-opt-item opt-wrong\">Kaziranga National Park\u003c/li>\r\n\u003cli id=\"jssc_q17_o3\" class=\"tre-opt-item opt-wrong\">Gir National Park\u003c/li>\r\n\u003cli id=\"jssc_q17_o4\" class=\"tre-opt-item opt-wrong\">Bandipur National Park\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q18.\u003c/span> Jharkhand shares its border with how many Indian states (approximately)?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q18_o1\" class=\"tre-opt-item opt-wrong\">4\u003c/li>\r\n\u003cli id=\"jssc_q18_o2\" class=\"tre-opt-item opt-right\">5\u003c/li>\r\n\u003cli id=\"jssc_q18_o3\" class=\"tre-opt-item opt-wrong\">6\u003c/li>\r\n\u003cli id=\"jssc_q18_o4\" class=\"tre-opt-item opt-wrong\">7\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q19.\u003c/span> Which festival is a major harvest festival celebrated by tribal communities in Jharkhand?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q19_o1\" class=\"tre-opt-item opt-right\">Sarhul\u003c/li>\r\n\u003cli id=\"jssc_q19_o2\" class=\"tre-opt-item opt-wrong\">Onam\u003c/li>\r\n\u003cli id=\"jssc_q19_o3\" class=\"tre-opt-item opt-wrong\">Baisakhi\u003c/li>\r\n\u003cli id=\"jssc_q19_o4\" class=\"tre-opt-item opt-wrong\">Pongal\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q20.\u003c/span> Which industrial town in Jharkhand is home to Tata Steel's main plant?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q20_o1\" class=\"tre-opt-item opt-wrong\">Bokaro\u003c/li>\r\n\u003cli id=\"jssc_q20_o2\" class=\"tre-opt-item opt-right\">Jamshedpur\u003c/li>\r\n\u003cli id=\"jssc_q20_o3\" class=\"tre-opt-item opt-wrong\">Ranchi\u003c/li>\r\n\u003cli id=\"jssc_q20_o4\" class=\"tre-opt-item opt-wrong\">Dhanbad\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q21.\u003c/span> What does JSSC stand for?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q21_o1\" class=\"tre-opt-item opt-right\">Jharkhand Staff Selection Commission\u003c/li>\r\n\u003cli id=\"jssc_q21_o2\" class=\"tre-opt-item opt-wrong\">Jharkhand State Service Commission\u003c/li>\r\n\u003cli id=\"jssc_q21_o3\" class=\"tre-opt-item opt-wrong\">Jharkhand Subordinate Services Commission\u003c/li>\r\n\u003cli id=\"jssc_q21_o4\" class=\"tre-opt-item opt-wrong\">Jharkhand Skill Selection Council\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q22.\u003c/span> Which is a major hill station located in Jharkhand?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q22_o1\" class=\"tre-opt-item opt-right\">Netarhat\u003c/li>\r\n\u003cli id=\"jssc_q22_o2\" class=\"tre-opt-item opt-wrong\">Mahabaleshwar\u003c/li>\r\n\u003cli id=\"jssc_q22_o3\" class=\"tre-opt-item opt-wrong\">Lonavala\u003c/li>\r\n\u003cli id=\"jssc_q22_o4\" class=\"tre-opt-item opt-wrong\">Coonoor\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q23.\u003c/span> Jharkhand's economy is significantly dependent on which sector?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q23_o1\" class=\"tre-opt-item opt-wrong\">Fisheries\u003c/li>\r\n\u003cli id=\"jssc_q23_o2\" class=\"tre-opt-item opt-right\">Mining and Mineral-based Industries\u003c/li>\r\n\u003cli id=\"jssc_q23_o3\" class=\"tre-opt-item opt-wrong\">Tourism Only\u003c/li>\r\n\u003cli id=\"jssc_q23_o4\" class=\"tre-opt-item opt-wrong\">IT Services\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q24.\u003c/span> Which is the administrative division just below district level in Jharkhand?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q24_o1\" class=\"tre-opt-item opt-wrong\">Tehsil\u003c/li>\r\n\u003cli id=\"jssc_q24_o2\" class=\"tre-opt-item opt-right\">Block\u003c/li>\r\n\u003cli id=\"jssc_q24_o3\" class=\"tre-opt-item opt-wrong\">Taluka\u003c/li>\r\n\u003cli id=\"jssc_q24_o4\" class=\"tre-opt-item opt-wrong\">Mandal\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q25.\u003c/span> Which language, besides Hindi, is widely spoken among tribal communities in Jharkhand?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q25_o1\" class=\"tre-opt-item opt-right\">Santhali\u003c/li>\r\n\u003cli id=\"jssc_q25_o2\" class=\"tre-opt-item opt-wrong\">Punjabi\u003c/li>\r\n\u003cli id=\"jssc_q25_o3\" class=\"tre-opt-item opt-wrong\">Marathi\u003c/li>\r\n\u003cli id=\"jssc_q25_o4\" class=\"tre-opt-item opt-wrong\">Malayalam\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q26.\u003c/span> Which department is generally responsible for public health services at the district level?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q26_o1\" class=\"tre-opt-item opt-right\">Directorate of Health Services\u003c/li>\r\n\u003cli id=\"jssc_q26_o2\" class=\"tre-opt-item opt-wrong\">Directorate of Education\u003c/li>\r\n\u003cli id=\"jssc_q26_o3\" class=\"tre-opt-item opt-wrong\">Directorate of Agriculture\u003c/li>\r\n\u003cli id=\"jssc_q26_o4\" class=\"tre-opt-item opt-wrong\">Directorate of Transport\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q27.\u003c/span> What is the primary role of a Health Supervisor in the public health system?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q27_o1\" class=\"tre-opt-item opt-right\">Overseeing health workers and monitoring health programs at the field level\u003c/li>\r\n\u003cli id=\"jssc_q27_o2\" class=\"tre-opt-item opt-wrong\">Teaching in schools\u003c/li>\r\n\u003cli id=\"jssc_q27_o3\" class=\"tre-opt-item opt-wrong\">Managing court cases\u003c/li>\r\n\u003cli id=\"jssc_q27_o4\" class=\"tre-opt-item opt-wrong\">Running a police station\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q28.\u003c/span> What does the term 'Multipurpose Health Worker' generally refer to?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q28_o1\" class=\"tre-opt-item opt-right\">A worker trained to handle multiple basic health service tasks in a community\u003c/li>\r\n\u003cli id=\"jssc_q28_o2\" class=\"tre-opt-item opt-wrong\">A doctor specializing in surgery\u003c/li>\r\n\u003cli id=\"jssc_q28_o3\" class=\"tre-opt-item opt-wrong\">A hospital administrator only\u003c/li>\r\n\u003cli id=\"jssc_q28_o4\" class=\"tre-opt-item opt-wrong\">A pharmaceutical sales representative\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q29.\u003c/span> Which government body is typically responsible for conducting statistical surveys at the state level?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q29_o1\" class=\"tre-opt-item opt-right\">Directorate of Economics and Statistics\u003c/li>\r\n\u003cli id=\"jssc_q29_o2\" class=\"tre-opt-item opt-wrong\">Directorate of Education\u003c/li>\r\n\u003cli id=\"jssc_q29_o3\" class=\"tre-opt-item opt-wrong\">Directorate of Sports\u003c/li>\r\n\u003cli id=\"jssc_q29_o4\" class=\"tre-opt-item opt-wrong\">Directorate of Tourism\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q30.\u003c/span> What is the general role of a Junior Regional Investigator in a statistics department?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q30_o1\" class=\"tre-opt-item opt-right\">Collecting and compiling field-level statistical data\u003c/li>\r\n\u003cli id=\"jssc_q30_o2\" class=\"tre-opt-item opt-wrong\">Performing surgeries\u003c/li>\r\n\u003cli id=\"jssc_q30_o3\" class=\"tre-opt-item opt-wrong\">Teaching mathematics\u003c/li>\r\n\u003cli id=\"jssc_q30_o4\" class=\"tre-opt-item opt-wrong\">Managing traffic\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q31.\u003c/span> Which of these best describes 'Field Assistant' work in a welfare or health scheme?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q31_o1\" class=\"tre-opt-item opt-right\">Assisting with ground-level implementation and data collection for schemes\u003c/li>\r\n\u003cli id=\"jssc_q31_o2\" class=\"tre-opt-item opt-wrong\">Running a private business\u003c/li>\r\n\u003cli id=\"jssc_q31_o3\" class=\"tre-opt-item opt-wrong\">Conducting court trials\u003c/li>\r\n\u003cli id=\"jssc_q31_o4\" class=\"tre-opt-item opt-wrong\">Piloting aircraft\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q32.\u003c/span> What is the primary duty associated with an 'Insect Collector' post in a health/vector-control context?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q32_o1\" class=\"tre-opt-item opt-right\">Collecting and studying disease-carrying insects like mosquitoes for vector control\u003c/li>\r\n\u003cli id=\"jssc_q32_o2\" class=\"tre-opt-item opt-wrong\">Studying birds\u003c/li>\r\n\u003cli id=\"jssc_q32_o3\" class=\"tre-opt-item opt-wrong\">Managing forest wildlife\u003c/li>\r\n\u003cli id=\"jssc_q32_o4\" class=\"tre-opt-item opt-wrong\">Conducting soil testing\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q33.\u003c/span> Which department typically oversees fisheries-related technical posts in state governments?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q33_o1\" class=\"tre-opt-item opt-right\">Department of Agriculture, Animal Husbandry and Cooperation - Fisheries Division\u003c/li>\r\n\u003cli id=\"jssc_q33_o2\" class=\"tre-opt-item opt-wrong\">Department of Education\u003c/li>\r\n\u003cli id=\"jssc_q33_o3\" class=\"tre-opt-item opt-wrong\">Department of Home Affairs\u003c/li>\r\n\u003cli id=\"jssc_q33_o4\" class=\"tre-opt-item opt-wrong\">Department of Finance\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q34.\u003c/span> What is a key function of the Urban Development and Housing Department in most states?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q34_o1\" class=\"tre-opt-item opt-right\">Planning and managing urban infrastructure and housing schemes\u003c/li>\r\n\u003cli id=\"jssc_q34_o2\" class=\"tre-opt-item opt-wrong\">Running hospitals only\u003c/li>\r\n\u003cli id=\"jssc_q34_o3\" class=\"tre-opt-item opt-wrong\">Conducting elections\u003c/li>\r\n\u003cli id=\"jssc_q34_o4\" class=\"tre-opt-item opt-wrong\">Managing forests\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q35.\u003c/span> Which of these is a common responsibility under Medical Assistant roles at the community level?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q35_o1\" class=\"tre-opt-item opt-right\">Assisting healthcare delivery and basic patient care support\u003c/li>\r\n\u003cli id=\"jssc_q35_o2\" class=\"tre-opt-item opt-wrong\">Teaching engineering\u003c/li>\r\n\u003cli id=\"jssc_q35_o3\" class=\"tre-opt-item opt-wrong\">Managing bank accounts\u003c/li>\r\n\u003cli id=\"jssc_q35_o4\" class=\"tre-opt-item opt-wrong\">Conducting legal trials\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q36.\u003c/span> What is vector control primarily aimed at preventing?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q36_o1\" class=\"tre-opt-item opt-right\">Diseases spread by insects like mosquitoes (e.g., malaria, dengue)\u003c/li>\r\n\u003cli id=\"jssc_q36_o2\" class=\"tre-opt-item opt-wrong\">Traffic accidents\u003c/li>\r\n\u003cli id=\"jssc_q36_o3\" class=\"tre-opt-item opt-wrong\">Crop damage from weather\u003c/li>\r\n\u003cli id=\"jssc_q36_o4\" class=\"tre-opt-item opt-wrong\">Water pollution only\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q37.\u003c/span> Which of these is generally a duty of a Health Supervisor regarding Anganwadi/health centres?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q37_o1\" class=\"tre-opt-item opt-right\">Monitoring service delivery and record-keeping at centres\u003c/li>\r\n\u003cli id=\"jssc_q37_o2\" class=\"tre-opt-item opt-wrong\">Constructing buildings\u003c/li>\r\n\u003cli id=\"jssc_q37_o3\" class=\"tre-opt-item opt-wrong\">Running courts\u003c/li>\r\n\u003cli id=\"jssc_q37_o4\" class=\"tre-opt-item opt-wrong\">Managing power plants\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q38.\u003c/span> What does the abbreviation 'PHC' commonly stand for in the Indian health system?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q38_o1\" class=\"tre-opt-item opt-right\">Primary Health Centre\u003c/li>\r\n\u003cli id=\"jssc_q38_o2\" class=\"tre-opt-item opt-wrong\">Public Health Council\u003c/li>\r\n\u003cli id=\"jssc_q38_o3\" class=\"tre-opt-item opt-wrong\">Provincial Health Committee\u003c/li>\r\n\u003cli id=\"jssc_q38_o4\" class=\"tre-opt-item opt-wrong\">Personal Health Card\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q39.\u003c/span> Which of these best fits the general role of statistical data collectors at the block/district level?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q39_o1\" class=\"tre-opt-item opt-right\">Gathering demographic, economic and social data for government planning\u003c/li>\r\n\u003cli id=\"jssc_q39_o2\" class=\"tre-opt-item opt-wrong\">Providing legal advice\u003c/li>\r\n\u003cli id=\"jssc_q39_o3\" class=\"tre-opt-item opt-wrong\">Repairing vehicles\u003c/li>\r\n\u003cli id=\"jssc_q39_o4\" class=\"tre-opt-item opt-wrong\">Selling agricultural produce\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q40.\u003c/span> What is the general purpose of family welfare programs run by health departments?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q40_o1\" class=\"tre-opt-item opt-right\">Promoting maternal and child health, and population welfare\u003c/li>\r\n\u003cli id=\"jssc_q40_o2\" class=\"tre-opt-item opt-wrong\">Building roads\u003c/li>\r\n\u003cli id=\"jssc_q40_o3\" class=\"tre-opt-item opt-wrong\">Running banks\u003c/li>\r\n\u003cli id=\"jssc_q40_o4\" class=\"tre-opt-item opt-wrong\">Managing airports\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q41.\u003c/span> Which of these is typically part of an Insect Collector's fieldwork routine?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q41_o1\" class=\"tre-opt-item opt-right\">Surveying breeding sites of disease vectors\u003c/li>\r\n\u003cli id=\"jssc_q41_o2\" class=\"tre-opt-item opt-wrong\">Grading exam papers\u003c/li>\r\n\u003cli id=\"jssc_q41_o3\" class=\"tre-opt-item opt-wrong\">Auditing company accounts\u003c/li>\r\n\u003cli id=\"jssc_q41_o4\" class=\"tre-opt-item opt-wrong\">Repairing machinery\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q42.\u003c/span> What is the primary aim of the Department of Health, Medical Education and Family Welfare?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q42_o1\" class=\"tre-opt-item opt-right\">Managing public health services, medical education and family welfare programs\u003c/li>\r\n\u003cli id=\"jssc_q42_o2\" class=\"tre-opt-item opt-wrong\">Managing state highways\u003c/li>\r\n\u003cli id=\"jssc_q42_o3\" class=\"tre-opt-item opt-wrong\">Running the postal service\u003c/li>\r\n\u003cli id=\"jssc_q42_o4\" class=\"tre-opt-item opt-wrong\">Managing forest reserves\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q43.\u003c/span> Which of these describes the role of Economics and Statistics directorates in general administration?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q43_o1\" class=\"tre-opt-item opt-right\">Compiling data used for state planning and policy-making\u003c/li>\r\n\u003cli id=\"jssc_q43_o2\" class=\"tre-opt-item opt-wrong\">Conducting criminal investigations\u003c/li>\r\n\u003cli id=\"jssc_q43_o3\" class=\"tre-opt-item opt-wrong\">Managing school curriculums\u003c/li>\r\n\u003cli id=\"jssc_q43_o4\" class=\"tre-opt-item opt-wrong\">Running railway operations\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q44.\u003c/span> What is a common qualification requirement seen for many JILCCE-type combined posts?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q44_o1\" class=\"tre-opt-item opt-right\">10+2 (Intermediate) pass from a recognized board\u003c/li>\r\n\u003cli id=\"jssc_q44_o2\" class=\"tre-opt-item opt-wrong\">PhD in any subject\u003c/li>\r\n\u003cli id=\"jssc_q44_o3\" class=\"tre-opt-item opt-wrong\">Postgraduate degree only\u003c/li>\r\n\u003cli id=\"jssc_q44_o4\" class=\"tre-opt-item opt-wrong\">Diploma in aviation\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q45.\u003c/span> Which of these best represents the objective of 'Fisheries Technical Assistant' roles?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q45_o1\" class=\"tre-opt-item opt-right\">Supporting technical aspects of fisheries development and management\u003c/li>\r\n\u003cli id=\"jssc_q45_o2\" class=\"tre-opt-item opt-wrong\">Managing urban traffic\u003c/li>\r\n\u003cli id=\"jssc_q45_o3\" class=\"tre-opt-item opt-wrong\">Conducting court hearings\u003c/li>\r\n\u003cli id=\"jssc_q45_o4\" class=\"tre-opt-item opt-wrong\">Running a school\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q46.\u003c/span> What is the general purpose of correction windows in recruitment application processes?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q46_o1\" class=\"tre-opt-item opt-right\">Allowing candidates to fix errors in their submitted application form\u003c/li>\r\n\u003cli id=\"jssc_q46_o2\" class=\"tre-opt-item opt-wrong\">Extending the exam date indefinitely\u003c/li>\r\n\u003cli id=\"jssc_q46_o3\" class=\"tre-opt-item opt-wrong\">Cancelling the recruitment\u003c/li>\r\n\u003cli id=\"jssc_q46_o4\" class=\"tre-opt-item opt-wrong\">Reducing the vacancy count\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q47.\u003c/span> Which of these is typically NOT a function of a state Health Directorate?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q47_o1\" class=\"tre-opt-item opt-wrong\">Managing hospitals and health programs\u003c/li>\r\n\u003cli id=\"jssc_q47_o2\" class=\"tre-opt-item opt-wrong\">Disease surveillance and control\u003c/li>\r\n\u003cli id=\"jssc_q47_o3\" class=\"tre-opt-item opt-right\">Conducting national elections\u003c/li>\r\n\u003cli id=\"jssc_q47_o4\" class=\"tre-opt-item opt-wrong\">Training health workers\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q48.\u003c/span> What does 'Combined Recruitment' generally mean in exams like JILCCE?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q48_o1\" class=\"tre-opt-item opt-right\">A single exam used to recruit for multiple different posts at once\u003c/li>\r\n\u003cli id=\"jssc_q48_o2\" class=\"tre-opt-item opt-wrong\">Recruitment only for one post\u003c/li>\r\n\u003cli id=\"jssc_q48_o3\" class=\"tre-opt-item opt-wrong\">A recruitment conducted jointly with a private company\u003c/li>\r\n\u003cli id=\"jssc_q48_o4\" class=\"tre-opt-item opt-wrong\">A recruitment limited to one district\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q49.\u003c/span> Which of these is a common responsibility for Junior Regional Investigators regarding surveys?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q49_o1\" class=\"tre-opt-item opt-right\">Conducting household or field-level surveys for official statistics\u003c/li>\r\n\u003cli id=\"jssc_q49_o2\" class=\"tre-opt-item opt-wrong\">Performing medical surgeries\u003c/li>\r\n\u003cli id=\"jssc_q49_o3\" class=\"tre-opt-item opt-wrong\">Managing a railway station\u003c/li>\r\n\u003cli id=\"jssc_q49_o4\" class=\"tre-opt-item opt-wrong\">Teaching in a university\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q50.\u003c/span> What is the general aim of government welfare departments handling social schemes?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q50_o1\" class=\"tre-opt-item opt-right\">Delivering welfare benefits and services to eligible citizens\u003c/li>\r\n\u003cli id=\"jssc_q50_o2\" class=\"tre-opt-item opt-wrong\">Running private businesses\u003c/li>\r\n\u003cli id=\"jssc_q50_o3\" class=\"tre-opt-item opt-wrong\">Managing stock markets\u003c/li>\r\n\u003cli id=\"jssc_q50_o4\" class=\"tre-opt-item opt-wrong\">Conducting space missions\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q51.\u003c/span> What is 16% of 350?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q51_o1\" class=\"tre-opt-item opt-wrong\">52\u003c/li>\r\n\u003cli id=\"jssc_q51_o2\" class=\"tre-opt-item opt-wrong\">54\u003c/li>\r\n\u003cli id=\"jssc_q51_o3\" class=\"tre-opt-item opt-right\">56\u003c/li>\r\n\u003cli id=\"jssc_q51_o4\" class=\"tre-opt-item opt-wrong\">58\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q52.\u003c/span> A trader buys goods for Rs. 700 and sells them for Rs. 840. What is the profit percentage?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q52_o1\" class=\"tre-opt-item opt-wrong\">15%\u003c/li>\r\n\u003cli id=\"jssc_q52_o2\" class=\"tre-opt-item opt-wrong\">18%\u003c/li>\r\n\u003cli id=\"jssc_q52_o3\" class=\"tre-opt-item opt-right\">20%\u003c/li>\r\n\u003cli id=\"jssc_q52_o4\" class=\"tre-opt-item opt-wrong\">22%\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q53.\u003c/span> What is the average of 14, 22, 30, 38?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q53_o1\" class=\"tre-opt-item opt-wrong\">24\u003c/li>\r\n\u003cli id=\"jssc_q53_o2\" class=\"tre-opt-item opt-wrong\">25\u003c/li>\r\n\u003cli id=\"jssc_q53_o3\" class=\"tre-opt-item opt-right\">26\u003c/li>\r\n\u003cli id=\"jssc_q53_o4\" class=\"tre-opt-item opt-wrong\">27\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q54.\u003c/span> A bike covers 150 km in 3 hours. What is its average speed?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q54_o1\" class=\"tre-opt-item opt-wrong\">45 km/h\u003c/li>\r\n\u003cli id=\"jssc_q54_o2\" class=\"tre-opt-item opt-wrong\">48 km/h\u003c/li>\r\n\u003cli id=\"jssc_q54_o3\" class=\"tre-opt-item opt-right\">50 km/h\u003c/li>\r\n\u003cli id=\"jssc_q54_o4\" class=\"tre-opt-item opt-wrong\">52 km/h\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q55.\u003c/span> What is 11 x 8 - 6?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q55_o1\" class=\"tre-opt-item opt-wrong\">78\u003c/li>\r\n\u003cli id=\"jssc_q55_o2\" class=\"tre-opt-item opt-right\">80\u003c/li>\r\n\u003cli id=\"jssc_q55_o3\" class=\"tre-opt-item opt-wrong\">82\u003c/li>\r\n\u003cli id=\"jssc_q55_o4\" class=\"tre-opt-item opt-wrong\">84\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q56.\u003c/span> If a price increased by 20% becomes Rs. 240, what was the original price?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q56_o1\" class=\"tre-opt-item opt-wrong\">Rs. 190\u003c/li>\r\n\u003cli id=\"jssc_q56_o2\" class=\"tre-opt-item opt-wrong\">Rs. 195\u003c/li>\r\n\u003cli id=\"jssc_q56_o3\" class=\"tre-opt-item opt-right\">Rs. 200\u003c/li>\r\n\u003cli id=\"jssc_q56_o4\" class=\"tre-opt-item opt-wrong\">Rs. 205\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q57.\u003c/span> What is the simple interest on Rs. 3000 at 9% per annum for 2 years?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q57_o1\" class=\"tre-opt-item opt-wrong\">Rs. 500\u003c/li>\r\n\u003cli id=\"jssc_q57_o2\" class=\"tre-opt-item opt-wrong\">Rs. 520\u003c/li>\r\n\u003cli id=\"jssc_q57_o3\" class=\"tre-opt-item opt-right\">Rs. 540\u003c/li>\r\n\u003cli id=\"jssc_q57_o4\" class=\"tre-opt-item opt-wrong\">Rs. 560\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q58.\u003c/span> What is the square root of 256?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q58_o1\" class=\"tre-opt-item opt-wrong\">14\u003c/li>\r\n\u003cli id=\"jssc_q58_o2\" class=\"tre-opt-item opt-wrong\">15\u003c/li>\r\n\u003cli id=\"jssc_q58_o3\" class=\"tre-opt-item opt-right\">16\u003c/li>\r\n\u003cli id=\"jssc_q58_o4\" class=\"tre-opt-item opt-wrong\">17\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q59.\u003c/span> If 6 workers finish a task in 10 days, how many days will 4 workers take?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q59_o1\" class=\"tre-opt-item opt-wrong\">12 days\u003c/li>\r\n\u003cli id=\"jssc_q59_o2\" class=\"tre-opt-item opt-wrong\">13 days\u003c/li>\r\n\u003cli id=\"jssc_q59_o3\" class=\"tre-opt-item opt-wrong\">14 days\u003c/li>\r\n\u003cli id=\"jssc_q59_o4\" class=\"tre-opt-item opt-right\">15 days\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q60.\u003c/span> What is the ratio of 45 to 135?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q60_o1\" class=\"tre-opt-item opt-wrong\">1:2\u003c/li>\r\n\u003cli id=\"jssc_q60_o2\" class=\"tre-opt-item opt-right\">1:3\u003c/li>\r\n\u003cli id=\"jssc_q60_o3\" class=\"tre-opt-item opt-wrong\">1:4\u003c/li>\r\n\u003cli id=\"jssc_q60_o4\" class=\"tre-opt-item opt-wrong\">1:5\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q61.\u003c/span> What is 32% of 250?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q61_o1\" class=\"tre-opt-item opt-wrong\">76\u003c/li>\r\n\u003cli id=\"jssc_q61_o2\" class=\"tre-opt-item opt-wrong\">78\u003c/li>\r\n\u003cli id=\"jssc_q61_o3\" class=\"tre-opt-item opt-right\">80\u003c/li>\r\n\u003cli id=\"jssc_q61_o4\" class=\"tre-opt-item opt-wrong\">82\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q62.\u003c/span> A shopkeeper sells an item at an 18% loss. If the cost price is Rs. 900, what is the selling price?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q62_o1\" class=\"tre-opt-item opt-wrong\">Rs. 730\u003c/li>\r\n\u003cli id=\"jssc_q62_o2\" class=\"tre-opt-item opt-right\">Rs. 738\u003c/li>\r\n\u003cli id=\"jssc_q62_o3\" class=\"tre-opt-item opt-wrong\">Rs. 740\u003c/li>\r\n\u003cli id=\"jssc_q62_o4\" class=\"tre-opt-item opt-wrong\">Rs. 745\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q63.\u003c/span> What is the LCM of 7 and 10?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q63_o1\" class=\"tre-opt-item opt-wrong\">60\u003c/li>\r\n\u003cli id=\"jssc_q63_o2\" class=\"tre-opt-item opt-wrong\">65\u003c/li>\r\n\u003cli id=\"jssc_q63_o3\" class=\"tre-opt-item opt-right\">70\u003c/li>\r\n\u003cli id=\"jssc_q63_o4\" class=\"tre-opt-item opt-wrong\">75\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q64.\u003c/span> What is the HCF of 32 and 48?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q64_o1\" class=\"tre-opt-item opt-wrong\">8\u003c/li>\r\n\u003cli id=\"jssc_q64_o2\" class=\"tre-opt-item opt-wrong\">12\u003c/li>\r\n\u003cli id=\"jssc_q64_o3\" class=\"tre-opt-item opt-right\">16\u003c/li>\r\n\u003cli id=\"jssc_q64_o4\" class=\"tre-opt-item opt-wrong\">20\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q65.\u003c/span> If the perimeter of a square is 64 cm, what is the length of each side?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q65_o1\" class=\"tre-opt-item opt-wrong\">14 cm\u003c/li>\r\n\u003cli id=\"jssc_q65_o2\" class=\"tre-opt-item opt-wrong\">15 cm\u003c/li>\r\n\u003cli id=\"jssc_q65_o3\" class=\"tre-opt-item opt-right\">16 cm\u003c/li>\r\n\u003cli id=\"jssc_q65_o4\" class=\"tre-opt-item opt-wrong\">17 cm\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q66.\u003c/span> What is 210 divided by 7, then multiplied by 4?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q66_o1\" class=\"tre-opt-item opt-wrong\">100\u003c/li>\r\n\u003cli id=\"jssc_q66_o2\" class=\"tre-opt-item opt-wrong\">110\u003c/li>\r\n\u003cli id=\"jssc_q66_o3\" class=\"tre-opt-item opt-right\">120\u003c/li>\r\n\u003cli id=\"jssc_q66_o4\" class=\"tre-opt-item opt-wrong\">130\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q67.\u003c/span> A car travels at 55 km/h. How far will it travel in 3 hours?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q67_o1\" class=\"tre-opt-item opt-wrong\">155 km\u003c/li>\r\n\u003cli id=\"jssc_q67_o2\" class=\"tre-opt-item opt-wrong\">160 km\u003c/li>\r\n\u003cli id=\"jssc_q67_o3\" class=\"tre-opt-item opt-right\">165 km\u003c/li>\r\n\u003cli id=\"jssc_q67_o4\" class=\"tre-opt-item opt-wrong\">170 km\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q68.\u003c/span> What is the compound interest on Rs. 5000 at 8% per annum for 1 year?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q68_o1\" class=\"tre-opt-item opt-wrong\">Rs. 350\u003c/li>\r\n\u003cli id=\"jssc_q68_o2\" class=\"tre-opt-item opt-wrong\">Rs. 380\u003c/li>\r\n\u003cli id=\"jssc_q68_o3\" class=\"tre-opt-item opt-right\">Rs. 400\u003c/li>\r\n\u003cli id=\"jssc_q68_o4\" class=\"tre-opt-item opt-wrong\">Rs. 420\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q69.\u003c/span> If 5x - 5 = 30, what is the value of x?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q69_o1\" class=\"tre-opt-item opt-wrong\">6\u003c/li>\r\n\u003cli id=\"jssc_q69_o2\" class=\"tre-opt-item opt-right\">7\u003c/li>\r\n\u003cli id=\"jssc_q69_o3\" class=\"tre-opt-item opt-wrong\">8\u003c/li>\r\n\u003cli id=\"jssc_q69_o4\" class=\"tre-opt-item opt-wrong\">9\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q70.\u003c/span> What is 4/5 expressed as a percentage?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q70_o1\" class=\"tre-opt-item opt-wrong\">70%\u003c/li>\r\n\u003cli id=\"jssc_q70_o2\" class=\"tre-opt-item opt-wrong\">75%\u003c/li>\r\n\u003cli id=\"jssc_q70_o3\" class=\"tre-opt-item opt-right\">80%\u003c/li>\r\n\u003cli id=\"jssc_q70_o4\" class=\"tre-opt-item opt-wrong\">85%\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q71.\u003c/span> A rectangular field has a length of 25 m and width of 10 m. What is its area?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q71_o1\" class=\"tre-opt-item opt-wrong\">220 sq m\u003c/li>\r\n\u003cli id=\"jssc_q71_o2\" class=\"tre-opt-item opt-wrong\">240 sq m\u003c/li>\r\n\u003cli id=\"jssc_q71_o3\" class=\"tre-opt-item opt-right\">250 sq m\u003c/li>\r\n\u003cli id=\"jssc_q71_o4\" class=\"tre-opt-item opt-wrong\">260 sq m\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q72.\u003c/span> If 3 kg of pulses cost Rs. 210, what is the cost of 7 kg?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q72_o1\" class=\"tre-opt-item opt-wrong\">Rs. 470\u003c/li>\r\n\u003cli id=\"jssc_q72_o2\" class=\"tre-opt-item opt-wrong\">Rs. 480\u003c/li>\r\n\u003cli id=\"jssc_q72_o3\" class=\"tre-opt-item opt-right\">Rs. 490\u003c/li>\r\n\u003cli id=\"jssc_q72_o4\" class=\"tre-opt-item opt-wrong\">Rs. 500\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q73.\u003c/span> What comes next in the pattern: 4, 8, 16, 32, ___?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q73_o1\" class=\"tre-opt-item opt-wrong\">48\u003c/li>\r\n\u003cli id=\"jssc_q73_o2\" class=\"tre-opt-item opt-wrong\">56\u003c/li>\r\n\u003cli id=\"jssc_q73_o3\" class=\"tre-opt-item opt-right\">64\u003c/li>\r\n\u003cli id=\"jssc_q73_o4\" class=\"tre-opt-item opt-wrong\">72\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q74.\u003c/span> What is 12 squared?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q74_o1\" class=\"tre-opt-item opt-wrong\">134\u003c/li>\r\n\u003cli id=\"jssc_q74_o2\" class=\"tre-opt-item opt-right\">144\u003c/li>\r\n\u003cli id=\"jssc_q74_o3\" class=\"tre-opt-item opt-wrong\">154\u003c/li>\r\n\u003cli id=\"jssc_q74_o4\" class=\"tre-opt-item opt-wrong\">164\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q75.\u003c/span> If a tap fills a tank in 8 hours, what fraction is filled in 3 hours?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q75_o1\" class=\"tre-opt-item opt-wrong\">1/2\u003c/li>\r\n\u003cli id=\"jssc_q75_o2\" class=\"tre-opt-item opt-right\">3/8\u003c/li>\r\n\u003cli id=\"jssc_q75_o3\" class=\"tre-opt-item opt-wrong\">1/4\u003c/li>\r\n\u003cli id=\"jssc_q75_o4\" class=\"tre-opt-item opt-wrong\">5/8\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q76.\u003c/span> Find the odd one out: 6, 14, 21, 28, 35\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q76_o1\" class=\"tre-opt-item opt-right\">6\u003c/li>\r\n\u003cli id=\"jssc_q76_o2\" class=\"tre-opt-item opt-wrong\">14\u003c/li>\r\n\u003cli id=\"jssc_q76_o3\" class=\"tre-opt-item opt-wrong\">21\u003c/li>\r\n\u003cli id=\"jssc_q76_o4\" class=\"tre-opt-item opt-wrong\">35\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q77.\u003c/span> If STONE is coded as TUPOF, how is HOUSE coded?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q77_o1\" class=\"tre-opt-item opt-right\">IPVTF\u003c/li>\r\n\u003cli id=\"jssc_q77_o2\" class=\"tre-opt-item opt-wrong\">IPVTF\u003c/li>\r\n\u003cli id=\"jssc_q77_o3\" class=\"tre-opt-item opt-wrong\">IQVTF\u003c/li>\r\n\u003cli id=\"jssc_q77_o4\" class=\"tre-opt-item opt-wrong\">IPWTF\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q78.\u003c/span> Complete the series: 3, 7, 13, 21, ___\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q78_o1\" class=\"tre-opt-item opt-wrong\">29\u003c/li>\r\n\u003cli id=\"jssc_q78_o2\" class=\"tre-opt-item opt-right\">31\u003c/li>\r\n\u003cli id=\"jssc_q78_o3\" class=\"tre-opt-item opt-wrong\">33\u003c/li>\r\n\u003cli id=\"jssc_q78_o4\" class=\"tre-opt-item opt-wrong\">35\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q79.\u003c/span> R is S's sister. T is S's father. How is R related to T?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q79_o1\" class=\"tre-opt-item opt-right\">Daughter\u003c/li>\r\n\u003cli id=\"jssc_q79_o2\" class=\"tre-opt-item opt-wrong\">Sister\u003c/li>\r\n\u003cli id=\"jssc_q79_o3\" class=\"tre-opt-item opt-wrong\">Mother\u003c/li>\r\n\u003cli id=\"jssc_q79_o4\" class=\"tre-opt-item opt-wrong\">Niece\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q80.\u003c/span> Complete the analogy: Teacher is to Student as Doctor is to ___?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q80_o1\" class=\"tre-opt-item opt-wrong\">Hospital\u003c/li>\r\n\u003cli id=\"jssc_q80_o2\" class=\"tre-opt-item opt-right\">Patient\u003c/li>\r\n\u003cli id=\"jssc_q80_o3\" class=\"tre-opt-item opt-wrong\">Medicine\u003c/li>\r\n\u003cli id=\"jssc_q80_o4\" class=\"tre-opt-item opt-wrong\">Clinic\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q81.\u003c/span> If Tuesday falls on the 6th, what day falls on the 20th of the same month?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q81_o1\" class=\"tre-opt-item opt-wrong\">Monday\u003c/li>\r\n\u003cli id=\"jssc_q81_o2\" class=\"tre-opt-item opt-right\">Tuesday\u003c/li>\r\n\u003cli id=\"jssc_q81_o3\" class=\"tre-opt-item opt-wrong\">Wednesday\u003c/li>\r\n\u003cli id=\"jssc_q81_o4\" class=\"tre-opt-item opt-wrong\">Thursday\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q82.\u003c/span> Choose the odd one: Rose, Lily, Jasmine, Carrot\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q82_o1\" class=\"tre-opt-item opt-wrong\">Rose\u003c/li>\r\n\u003cli id=\"jssc_q82_o2\" class=\"tre-opt-item opt-wrong\">Lily\u003c/li>\r\n\u003cli id=\"jssc_q82_o3\" class=\"tre-opt-item opt-wrong\">Jasmine\u003c/li>\r\n\u003cli id=\"jssc_q82_o4\" class=\"tre-opt-item opt-right\">Carrot\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q83.\u003c/span> What is the antonym of 'Prasann' (happy) in Hindi?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q83_o1\" class=\"tre-opt-item opt-wrong\">Khush\u003c/li>\r\n\u003cli id=\"jssc_q83_o2\" class=\"tre-opt-item opt-right\">Dukhi\u003c/li>\r\n\u003cli id=\"jssc_q83_o3\" class=\"tre-opt-item opt-wrong\">Santusht\u003c/li>\r\n\u003cli id=\"jssc_q83_o4\" class=\"tre-opt-item opt-wrong\">Utsahit\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q84.\u003c/span> Choose the correct synonym of 'Brave':\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q84_o1\" class=\"tre-opt-item opt-wrong\">Cowardly\u003c/li>\r\n\u003cli id=\"jssc_q84_o2\" class=\"tre-opt-item opt-right\">Courageous\u003c/li>\r\n\u003cli id=\"jssc_q84_o3\" class=\"tre-opt-item opt-wrong\">Weak\u003c/li>\r\n\u003cli id=\"jssc_q84_o4\" class=\"tre-opt-item opt-wrong\">Timid\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q85.\u003c/span> Fill in the blank: They ___ playing football every evening.\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q85_o1\" class=\"tre-opt-item opt-wrong\">is\u003c/li>\r\n\u003cli id=\"jssc_q85_o2\" class=\"tre-opt-item opt-wrong\">am\u003c/li>\r\n\u003cli id=\"jssc_q85_o3\" class=\"tre-opt-item opt-right\">are\u003c/li>\r\n\u003cli id=\"jssc_q85_o4\" class=\"tre-opt-item opt-wrong\">be\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q86.\u003c/span> What is a synonym of 'Vidya' (knowledge) in Hindi?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q86_o1\" class=\"tre-opt-item opt-right\">Gyan\u003c/li>\r\n\u003cli id=\"jssc_q86_o2\" class=\"tre-opt-item opt-wrong\">Anjan\u003c/li>\r\n\u003cli id=\"jssc_q86_o3\" class=\"tre-opt-item opt-wrong\">Murkh\u003c/li>\r\n\u003cli id=\"jssc_q86_o4\" class=\"tre-opt-item opt-wrong\">Vinash\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q87.\u003c/span> Choose the correctly spelled word:\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q87_o1\" class=\"tre-opt-item opt-wrong\">Occurance\u003c/li>\r\n\u003cli id=\"jssc_q87_o2\" class=\"tre-opt-item opt-right\">Occurrence\u003c/li>\r\n\u003cli id=\"jssc_q87_o3\" class=\"tre-opt-item opt-wrong\">Occurrance\u003c/li>\r\n\u003cli id=\"jssc_q87_o4\" class=\"tre-opt-item opt-wrong\">Ocurrence\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q88.\u003c/span> In the sentence 'Sita reads a book,' identify the object.\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q88_o1\" class=\"tre-opt-item opt-wrong\">Sita\u003c/li>\r\n\u003cli id=\"jssc_q88_o2\" class=\"tre-opt-item opt-wrong\">Reads\u003c/li>\r\n\u003cli id=\"jssc_q88_o3\" class=\"tre-opt-item opt-right\">A book\u003c/li>\r\n\u003cli id=\"jssc_q88_o4\" class=\"tre-opt-item opt-wrong\">None\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q89.\u003c/span> What is the meaning of the Hindi idiom 'Nau Do Gyarah Hona'?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q89_o1\" class=\"tre-opt-item opt-right\">To run away suddenly\u003c/li>\r\n\u003cli id=\"jssc_q89_o2\" class=\"tre-opt-item opt-wrong\">To become very rich\u003c/li>\r\n\u003cli id=\"jssc_q89_o3\" class=\"tre-opt-item opt-wrong\">To fall ill\u003c/li>\r\n\u003cli id=\"jssc_q89_o4\" class=\"tre-opt-item opt-wrong\">To win a competition\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q90.\u003c/span> Which is a proper noun?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q90_o1\" class=\"tre-opt-item opt-wrong\">Country\u003c/li>\r\n\u003cli id=\"jssc_q90_o2\" class=\"tre-opt-item opt-wrong\">Ocean\u003c/li>\r\n\u003cli id=\"jssc_q90_o3\" class=\"tre-opt-item opt-right\">India\u003c/li>\r\n\u003cli id=\"jssc_q90_o4\" class=\"tre-opt-item opt-wrong\">Mountain\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q91.\u003c/span> What is the antonym of 'Sasta' (cheap) in Hindi?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q91_o1\" class=\"tre-opt-item opt-right\">Mehenga\u003c/li>\r\n\u003cli id=\"jssc_q91_o2\" class=\"tre-opt-item opt-wrong\">Kam\u003c/li>\r\n\u003cli id=\"jssc_q91_o3\" class=\"tre-opt-item opt-wrong\">Chhota\u003c/li>\r\n\u003cli id=\"jssc_q91_o4\" class=\"tre-opt-item opt-wrong\">Halka\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q92.\u003c/span> Choose the correct plural form of 'Mouse' (animal):\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q92_o1\" class=\"tre-opt-item opt-wrong\">Mouses\u003c/li>\r\n\u003cli id=\"jssc_q92_o2\" class=\"tre-opt-item opt-right\">Mice\u003c/li>\r\n\u003cli id=\"jssc_q92_o3\" class=\"tre-opt-item opt-wrong\">Mices\u003c/li>\r\n\u003cli id=\"jssc_q92_o4\" class=\"tre-opt-item opt-wrong\">Mouse\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q93.\u003c/span> What does 'Sangya' mean in Hindi grammar?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q93_o1\" class=\"tre-opt-item opt-wrong\">Verb\u003c/li>\r\n\u003cli id=\"jssc_q93_o2\" class=\"tre-opt-item opt-right\">Noun\u003c/li>\r\n\u003cli id=\"jssc_q93_o3\" class=\"tre-opt-item opt-wrong\">Adjective\u003c/li>\r\n\u003cli id=\"jssc_q93_o4\" class=\"tre-opt-item opt-wrong\">Pronoun\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q94.\u003c/span> Antonym of 'Difficult' is:\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q94_o1\" class=\"tre-opt-item opt-wrong\">Hard\u003c/li>\r\n\u003cli id=\"jssc_q94_o2\" class=\"tre-opt-item opt-right\">Easy\u003c/li>\r\n\u003cli id=\"jssc_q94_o3\" class=\"tre-opt-item opt-wrong\">Tough\u003c/li>\r\n\u003cli id=\"jssc_q94_o4\" class=\"tre-opt-item opt-wrong\">Complex\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q95.\u003c/span> What is the meaning of the Hindi idiom 'Haath Tang Hona'?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q95_o1\" class=\"tre-opt-item opt-right\">To be short of money\u003c/li>\r\n\u003cli id=\"jssc_q95_o2\" class=\"tre-opt-item opt-wrong\">To be very strong\u003c/li>\r\n\u003cli id=\"jssc_q95_o3\" class=\"tre-opt-item opt-wrong\">To be very tall\u003c/li>\r\n\u003cli id=\"jssc_q95_o4\" class=\"tre-opt-item opt-wrong\">To be angry\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q96.\u003c/span> Choose the correct article: '___ university offers many courses.'\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q96_o1\" class=\"tre-opt-item opt-right\">A\u003c/li>\r\n\u003cli id=\"jssc_q96_o2\" class=\"tre-opt-item opt-wrong\">An\u003c/li>\r\n\u003cli id=\"jssc_q96_o3\" class=\"tre-opt-item opt-wrong\">The\u003c/li>\r\n\u003cli id=\"jssc_q96_o4\" class=\"tre-opt-item opt-wrong\">No article needed\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q97.\u003c/span> What is the gender of the Hindi word 'Nadi' (river)?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q97_o1\" class=\"tre-opt-item opt-wrong\">Masculine\u003c/li>\r\n\u003cli id=\"jssc_q97_o2\" class=\"tre-opt-item opt-right\">Feminine\u003c/li>\r\n\u003cli id=\"jssc_q97_o3\" class=\"tre-opt-item opt-wrong\">Neuter\u003c/li>\r\n\u003cli id=\"jssc_q97_o4\" class=\"tre-opt-item opt-wrong\">None\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q98.\u003c/span> Which word is a preposition?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q98_o1\" class=\"tre-opt-item opt-wrong\">Quickly\u003c/li>\r\n\u003cli id=\"jssc_q98_o2\" class=\"tre-opt-item opt-right\">Under\u003c/li>\r\n\u003cli id=\"jssc_q98_o3\" class=\"tre-opt-item opt-wrong\">Beautiful\u003c/li>\r\n\u003cli id=\"jssc_q98_o4\" class=\"tre-opt-item opt-wrong\">Run\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q99.\u003c/span> What is the correct synonym of 'Gyan' (knowledge) among these English words?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q99_o1\" class=\"tre-opt-item opt-wrong\">Ignorance\u003c/li>\r\n\u003cli id=\"jssc_q99_o2\" class=\"tre-opt-item opt-right\">Wisdom\u003c/li>\r\n\u003cli id=\"jssc_q99_o3\" class=\"tre-opt-item opt-wrong\">Confusion\u003c/li>\r\n\u003cli id=\"jssc_q99_o4\" class=\"tre-opt-item opt-wrong\">Doubt\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q100.\u003c/span> Find the next letter: Y, W, U, S, ___\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"jssc_q100_o1\" class=\"tre-opt-item opt-wrong\">R\u003c/li>\r\n\u003cli id=\"jssc_q100_o2\" class=\"tre-opt-item opt-right\">Q\u003c/li>\r\n\u003cli id=\"jssc_q100_o3\" class=\"tre-opt-item opt-wrong\">P\u003c/li>\r\n\u003cli id=\"jssc_q100_o4\" class=\"tre-opt-item opt-wrong\">O\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003c/section>\r\n\u003c/div>","image":"https://api.resumesathi.com/courses_image/jssc-jilcce-inter-level-recruitment-2026.webp","identifier":{"@type":"PropertyValue","name":"ResumeSathi","value":"16"},"datePosted":"2026-07-20","validFrom":"2026-07-20","validThrough":"2026-08-19","employmentType":"FULL_TIME","industry":"State PSC","hiringOrganization":{"@type":"Organization","name":"State PSC - Government Jobs","sameAs":"https://www.resumesathi.com/jobs/"},"jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressCountry":"IN"}},"directApply":false}b:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$17"}}],"$L18"]
+19:I[88609,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/06pj_k8chkpe5.js","/_next/static/chunks/16ymsuy-x3uv9.js"],"default"]
+1a:Tdc70,<div class="post-content">
+<p>Jharkhand Staff Selection Commission (JSSC) has released the notification for <strong>JILCCE Inter Level Combined Recruitment 2026</strong> for 326 posts. Candidates interested in this Jharkhand JSSC JILCCE Inter Level Recruitment can apply online from 20 July 2026 to 19 August 2026.&nbsp;</p>
+<h2>Important Dates</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td>Application Begin</td>
+<td><strong>20/07/2026</strong></td>
+</tr>
+<tr>
+<td>Last Date for Apply Online</td>
+<td><strong>19/08/2026</strong></td>
+</tr>
+<tr>
+<td>Pay Exam Fee Last Date</td>
+<td><strong>19/08/2026</strong></td>
+</tr>
+<tr>
+<td>Correction Date</td>
+<td><strong>21-23 August 2026</strong></td>
+</tr>
+<tr>
+<td>JSSC JILCCE Exam Date</td>
+<td><strong>As per Schedule</strong></td>
+</tr>
+<tr>
+<td>Admit Card Available</td>
+<td><strong>Before Exam</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Application Fee</h2>
+<ul>
+<li>General / OBC / Other State : 100/-</li>
+<li>SC / ST : 50/-</li>
+<li>Pay the Exam Fee Through Online or Offline Fee Mode Only</li>
+</ul>
+<h2>Age Limit</h2>
+<ul>
+<li>Minimum Age : 18 Years</li>
+<li>Maximum Age : 35 Years</li>
+<li>Age Relaxation Extra as per JSSC JILCCE Inter Level Examination Rules Advt. No. 03/2026</li>
+</ul>
+<h2>Vacancy Details Total : 326 Post</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<thead>
+<tr>
+<th>Post Name</th>
+<th>Total Post</th>
+<th>JSSC JILCCE Inter Level Eligibility</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>JILCCE Inter Level</td>
+<td>326</td>
+<td>10+2 Intermediate Passed From Any Recognized Board in India.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Department Wise Vacancy Details</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<thead>
+<tr>
+<th>Post Name</th>
+<th>Department</th>
+<th>Total Post</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Health Supervisor</td>
+<td>Directorate of Health Services</td>
+<td>137</td>
+</tr>
+<tr>
+<td>Junior Regional Investigator</td>
+<td>Planning and Development Department (Directorate of Economics and Statistics)</td>
+<td>27</td>
+</tr>
+<tr>
+<td>Multipurpose Health Worker</td>
+<td>Department of Health, Medical Education, and Family Welfare</td>
+<td>62</td>
+</tr>
+<tr>
+<td>Field Assistant / Medical Assistant</td>
+<td>Urban Development and Housing Department</td>
+<td>27</td>
+</tr>
+<tr>
+<td>Insect Collector</td>
+<td>Directorate of Health Services</td>
+<td>32</td>
+</tr>
+<tr>
+<td>Fisheries Technical Assistant</td>
+<td>Department of Agriculture, Animal Husbandry, and Cooperation - Fisheries Division</td>
+<td>41</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>How to Fill Jharkhand JSSC JILCCE Inter Level Online Form 2026</h2>
+<ul>
+<li>Keep Your Documents Ready in Advance for Eligibility Proof, ID Proof, Address Proof and Basic Details.</li>
+<li>Scan Copies of Photo, Signature and ID Proof in the Prescribed Format.</li>
+<li>Application Fee Payment Is Mandatory without payment form is Incomplete.</li>
+</ul>
+<h2>Some Useful Important Links</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td><strong>Apply Online</strong></td>
+<td><a title="Apply Now" href="https://jssc.jharkhand.gov.in/" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+<tr>
+<td><strong>Download Notification</strong></td>
+<td><a title="Download Notification" href="https://jssc.jharkhand.gov.in/sites/default/files/Brochure%20JILCCE-2026.pdf" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+<tr>
+<td><strong>Signature Resizer, PDF Compress, Age Calculator and More Tools</strong></td>
+<td><a title="https://www.resumesathi.com/tools/" href="https://www.resumesathi.com/tools/" target="_blank" rel="noopener">View Tools</a></td>
+</tr>
+<tr>
+<td><strong>Official Website</strong></td>
+<td><a title="JSSC Official Website" href="https://jssc.jharkhand.gov.in/" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote><strong>Note: </strong>Candidates are advised to always cross-check dates, fee details, and eligibility criteria from the official JSSC website before applying, as the schedule may change based on official updates.</blockquote>
+<h2>Jharkhand JSSC JILCCE Inter Level Preparation Tips 2026</h2>
+<ul>
+<li>Read Jharkhand Specific like GK State History, Geography, Culture, Tribal Affairs and Current Affairs.</li>
+<li>Practice Basic Arithmetic and Reasoning Daily.</li>
+<li>Revise Hindi and English Language Grammar, Comprehension and Vocabulary.</li>
+<li>Parctice Previous Year JSSC Papers.</li>
+</ul>
+<h2>Frequently Asked Questions</h2>
+<section class="tre-faq-list"><details class="tre-faq-item">
+<summary>What is the last date to apply for JSSC JILCCE Inter Level Recruitment 2026?</summary>
+<p>The last date to apply online is 19 August 2026, and the fee payment deadline is also 19 August 2026.</p>
+</details><details class="tre-faq-item">
+<summary>How many total vacancies are there in JSSC JILCCE Inter Level Recruitment 2026?</summary>
+<p>A total of 326 posts have been announced across Health Supervisor, Junior Regional Investigator, Multipurpose Health Worker, Field Assistant/Medical Assistant, Insect Collector and Fisheries Technical Assistant categories.</p>
+</details><details class="tre-faq-item">
+<summary>What is the application fee for this recruitment?</summary>
+<p>General, OBC and Other State candidates need to pay Rs. 100/-, while SC and ST candidates pay Rs. 50/-.</p>
+</details><details class="tre-faq-item">
+<summary>What is the age limit for JSSC JILCCE Inter Level 2026?</summary>
+<p>Candidates must be between 18 and 35 years of age, with age relaxation applicable as per JSSC rules.</p>
+</details><details class="tre-faq-item">
+<summary>What is the minimum qualification required for JILCCE Inter Level posts?</summary>
+<p>Candidates need to have passed 10+2 (Intermediate) from any recognized board in India.</p>
+</details><details class="tre-faq-item">
+<summary>When is the correction window for this recruitment?</summary>
+<p>The correction window is open from 21 to 23 August 2026 for candidates who need to make changes to their submitted application.</p>
+</details><details class="tre-faq-item">
+<summary>Which department has the highest number of vacancies in this recruitment?</summary>
+<p>The Directorate of Health Services has the highest number of vacancies through the Health Supervisor post, with 137 openings.</p>
+</details></section>
+<section class="tre-quiz-wrap">
+<h3 class="tre-quiz-header">JSSC JILCCE Inter Level - Practice Questions (Jharkhand GK, Health/Stats Awareness, Arithmetic, Reasoning)</h3>
+<p class="tre-quiz-sub">100 Objective Questions</p>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q1.</span> What is the capital of Jharkhand?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q1_o1" class="tre-opt-item opt-wrong">Dhanbad</li>
+<li id="jssc_q1_o2" class="tre-opt-item opt-right">Ranchi</li>
+<li id="jssc_q1_o3" class="tre-opt-item opt-wrong">Jamshedpur</li>
+<li id="jssc_q1_o4" class="tre-opt-item opt-wrong">Bokaro</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q2.</span> In which year was Jharkhand carved out as a separate state?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q2_o1" class="tre-opt-item opt-wrong">1998</li>
+<li id="jssc_q2_o2" class="tre-opt-item opt-right">2000</li>
+<li id="jssc_q2_o3" class="tre-opt-item opt-wrong">2002</li>
+<li id="jssc_q2_o4" class="tre-opt-item opt-wrong">2005</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q3.</span> Jharkhand was formed by separating territory from which state?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q3_o1" class="tre-opt-item opt-right">Bihar</li>
+<li id="jssc_q3_o2" class="tre-opt-item opt-wrong">Odisha</li>
+<li id="jssc_q3_o3" class="tre-opt-item opt-wrong">West Bengal</li>
+<li id="jssc_q3_o4" class="tre-opt-item opt-wrong">Chhattisgarh</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q4.</span> Which river is closely associated with Jharkhand's industrial belt around Jamshedpur?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q4_o1" class="tre-opt-item opt-right">Subarnarekha</li>
+<li id="jssc_q4_o2" class="tre-opt-item opt-wrong">Ganga</li>
+<li id="jssc_q4_o3" class="tre-opt-item opt-wrong">Yamuna</li>
+<li id="jssc_q4_o4" class="tre-opt-item opt-wrong">Godavari</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q5.</span> Which city in Jharkhand is known as the 'Steel City of India'?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q5_o1" class="tre-opt-item opt-wrong">Ranchi</li>
+<li id="jssc_q5_o2" class="tre-opt-item opt-right">Jamshedpur</li>
+<li id="jssc_q5_o3" class="tre-opt-item opt-wrong">Dhanbad</li>
+<li id="jssc_q5_o4" class="tre-opt-item opt-wrong">Bokaro</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q6.</span> Which city is known as the 'Coal Capital of India' and is located in Jharkhand?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q6_o1" class="tre-opt-item opt-wrong">Ranchi</li>
+<li id="jssc_q6_o2" class="tre-opt-item opt-wrong">Jamshedpur</li>
+<li id="jssc_q6_o3" class="tre-opt-item opt-right">Dhanbad</li>
+<li id="jssc_q6_o4" class="tre-opt-item opt-wrong">Deoghar</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q7.</span> Which famous waterfall is located near Ranchi?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q7_o1" class="tre-opt-item opt-right">Dassam Falls</li>
+<li id="jssc_q7_o2" class="tre-opt-item opt-wrong">Jog Falls</li>
+<li id="jssc_q7_o3" class="tre-opt-item opt-wrong">Athirappilly Falls</li>
+<li id="jssc_q7_o4" class="tre-opt-item opt-wrong">Hogenakkal Falls</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q8.</span> Which is the state animal of Jharkhand?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q8_o1" class="tre-opt-item opt-wrong">Tiger</li>
+<li id="jssc_q8_o2" class="tre-opt-item opt-right">Elephant</li>
+<li id="jssc_q8_o3" class="tre-opt-item opt-wrong">Deer</li>
+<li id="jssc_q8_o4" class="tre-opt-item opt-wrong">Leopard</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q9.</span> Which tribal community is one of the largest in Jharkhand?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q9_o1" class="tre-opt-item opt-wrong">Bhil</li>
+<li id="jssc_q9_o2" class="tre-opt-item opt-right">Santhal</li>
+<li id="jssc_q9_o3" class="tre-opt-item opt-wrong">Gond</li>
+<li id="jssc_q9_o4" class="tre-opt-item opt-wrong">Naga</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q10.</span> Who was the first Chief Minister of Jharkhand?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q10_o1" class="tre-opt-item opt-wrong">Arjun Munda</li>
+<li id="jssc_q10_o2" class="tre-opt-item opt-right">Babulal Marandi</li>
+<li id="jssc_q10_o3" class="tre-opt-item opt-wrong">Shibu Soren</li>
+<li id="jssc_q10_o4" class="tre-opt-item opt-wrong">Hemant Soren</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q11.</span> Which famous temple town in Jharkhand is a major pilgrimage site?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q11_o1" class="tre-opt-item opt-right">Deoghar</li>
+<li id="jssc_q11_o2" class="tre-opt-item opt-wrong">Hazaribagh</li>
+<li id="jssc_q11_o3" class="tre-opt-item opt-wrong">Giridih</li>
+<li id="jssc_q11_o4" class="tre-opt-item opt-wrong">Chatra</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q12.</span> What is the state bird of Jharkhand?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q12_o1" class="tre-opt-item opt-wrong">Peacock</li>
+<li id="jssc_q12_o2" class="tre-opt-item opt-right">Koel</li>
+<li id="jssc_q12_o3" class="tre-opt-item opt-wrong">Asian Koel</li>
+<li id="jssc_q12_o4" class="tre-opt-item opt-wrong">Myna</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q13.</span> Which is the state tree of Jharkhand?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q13_o1" class="tre-opt-item opt-right">Sal</li>
+<li id="jssc_q13_o2" class="tre-opt-item opt-wrong">Peepal</li>
+<li id="jssc_q13_o3" class="tre-opt-item opt-wrong">Mango</li>
+<li id="jssc_q13_o4" class="tre-opt-item opt-wrong">Neem</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q14.</span> Which famous dance form is traditionally associated with Jharkhand's tribal culture?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q14_o1" class="tre-opt-item opt-wrong">Bharatanatyam</li>
+<li id="jssc_q14_o2" class="tre-opt-item opt-right">Chhau Dance</li>
+<li id="jssc_q14_o3" class="tre-opt-item opt-wrong">Kathak</li>
+<li id="jssc_q14_o4" class="tre-opt-item opt-wrong">Odissi</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q15.</span> Jharkhand is rich in which natural resource, giving it major industrial importance?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q15_o1" class="tre-opt-item opt-wrong">Petroleum</li>
+<li id="jssc_q15_o2" class="tre-opt-item opt-right">Minerals like Coal and Iron Ore</li>
+<li id="jssc_q15_o3" class="tre-opt-item opt-wrong">Fisheries</li>
+<li id="jssc_q15_o4" class="tre-opt-item opt-wrong">Spices</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q16.</span> Which is the highest peak in Jharkhand?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q16_o1" class="tre-opt-item opt-right">Parasnath Hill</li>
+<li id="jssc_q16_o2" class="tre-opt-item opt-wrong">Netarhat</li>
+<li id="jssc_q16_o3" class="tre-opt-item opt-wrong">Trikuta Hill</li>
+<li id="jssc_q16_o4" class="tre-opt-item opt-wrong">Rajmahal Hills</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q17.</span> Which national park is located in Jharkhand?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q17_o1" class="tre-opt-item opt-right">Betla National Park</li>
+<li id="jssc_q17_o2" class="tre-opt-item opt-wrong">Kaziranga National Park</li>
+<li id="jssc_q17_o3" class="tre-opt-item opt-wrong">Gir National Park</li>
+<li id="jssc_q17_o4" class="tre-opt-item opt-wrong">Bandipur National Park</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q18.</span> Jharkhand shares its border with how many Indian states (approximately)?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q18_o1" class="tre-opt-item opt-wrong">4</li>
+<li id="jssc_q18_o2" class="tre-opt-item opt-right">5</li>
+<li id="jssc_q18_o3" class="tre-opt-item opt-wrong">6</li>
+<li id="jssc_q18_o4" class="tre-opt-item opt-wrong">7</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q19.</span> Which festival is a major harvest festival celebrated by tribal communities in Jharkhand?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q19_o1" class="tre-opt-item opt-right">Sarhul</li>
+<li id="jssc_q19_o2" class="tre-opt-item opt-wrong">Onam</li>
+<li id="jssc_q19_o3" class="tre-opt-item opt-wrong">Baisakhi</li>
+<li id="jssc_q19_o4" class="tre-opt-item opt-wrong">Pongal</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q20.</span> Which industrial town in Jharkhand is home to Tata Steel's main plant?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q20_o1" class="tre-opt-item opt-wrong">Bokaro</li>
+<li id="jssc_q20_o2" class="tre-opt-item opt-right">Jamshedpur</li>
+<li id="jssc_q20_o3" class="tre-opt-item opt-wrong">Ranchi</li>
+<li id="jssc_q20_o4" class="tre-opt-item opt-wrong">Dhanbad</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q21.</span> What does JSSC stand for?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q21_o1" class="tre-opt-item opt-right">Jharkhand Staff Selection Commission</li>
+<li id="jssc_q21_o2" class="tre-opt-item opt-wrong">Jharkhand State Service Commission</li>
+<li id="jssc_q21_o3" class="tre-opt-item opt-wrong">Jharkhand Subordinate Services Commission</li>
+<li id="jssc_q21_o4" class="tre-opt-item opt-wrong">Jharkhand Skill Selection Council</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q22.</span> Which is a major hill station located in Jharkhand?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q22_o1" class="tre-opt-item opt-right">Netarhat</li>
+<li id="jssc_q22_o2" class="tre-opt-item opt-wrong">Mahabaleshwar</li>
+<li id="jssc_q22_o3" class="tre-opt-item opt-wrong">Lonavala</li>
+<li id="jssc_q22_o4" class="tre-opt-item opt-wrong">Coonoor</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q23.</span> Jharkhand's economy is significantly dependent on which sector?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q23_o1" class="tre-opt-item opt-wrong">Fisheries</li>
+<li id="jssc_q23_o2" class="tre-opt-item opt-right">Mining and Mineral-based Industries</li>
+<li id="jssc_q23_o3" class="tre-opt-item opt-wrong">Tourism Only</li>
+<li id="jssc_q23_o4" class="tre-opt-item opt-wrong">IT Services</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q24.</span> Which is the administrative division just below district level in Jharkhand?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q24_o1" class="tre-opt-item opt-wrong">Tehsil</li>
+<li id="jssc_q24_o2" class="tre-opt-item opt-right">Block</li>
+<li id="jssc_q24_o3" class="tre-opt-item opt-wrong">Taluka</li>
+<li id="jssc_q24_o4" class="tre-opt-item opt-wrong">Mandal</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q25.</span> Which language, besides Hindi, is widely spoken among tribal communities in Jharkhand?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q25_o1" class="tre-opt-item opt-right">Santhali</li>
+<li id="jssc_q25_o2" class="tre-opt-item opt-wrong">Punjabi</li>
+<li id="jssc_q25_o3" class="tre-opt-item opt-wrong">Marathi</li>
+<li id="jssc_q25_o4" class="tre-opt-item opt-wrong">Malayalam</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q26.</span> Which department is generally responsible for public health services at the district level?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q26_o1" class="tre-opt-item opt-right">Directorate of Health Services</li>
+<li id="jssc_q26_o2" class="tre-opt-item opt-wrong">Directorate of Education</li>
+<li id="jssc_q26_o3" class="tre-opt-item opt-wrong">Directorate of Agriculture</li>
+<li id="jssc_q26_o4" class="tre-opt-item opt-wrong">Directorate of Transport</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q27.</span> What is the primary role of a Health Supervisor in the public health system?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q27_o1" class="tre-opt-item opt-right">Overseeing health workers and monitoring health programs at the field level</li>
+<li id="jssc_q27_o2" class="tre-opt-item opt-wrong">Teaching in schools</li>
+<li id="jssc_q27_o3" class="tre-opt-item opt-wrong">Managing court cases</li>
+<li id="jssc_q27_o4" class="tre-opt-item opt-wrong">Running a police station</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q28.</span> What does the term 'Multipurpose Health Worker' generally refer to?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q28_o1" class="tre-opt-item opt-right">A worker trained to handle multiple basic health service tasks in a community</li>
+<li id="jssc_q28_o2" class="tre-opt-item opt-wrong">A doctor specializing in surgery</li>
+<li id="jssc_q28_o3" class="tre-opt-item opt-wrong">A hospital administrator only</li>
+<li id="jssc_q28_o4" class="tre-opt-item opt-wrong">A pharmaceutical sales representative</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q29.</span> Which government body is typically responsible for conducting statistical surveys at the state level?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q29_o1" class="tre-opt-item opt-right">Directorate of Economics and Statistics</li>
+<li id="jssc_q29_o2" class="tre-opt-item opt-wrong">Directorate of Education</li>
+<li id="jssc_q29_o3" class="tre-opt-item opt-wrong">Directorate of Sports</li>
+<li id="jssc_q29_o4" class="tre-opt-item opt-wrong">Directorate of Tourism</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q30.</span> What is the general role of a Junior Regional Investigator in a statistics department?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q30_o1" class="tre-opt-item opt-right">Collecting and compiling field-level statistical data</li>
+<li id="jssc_q30_o2" class="tre-opt-item opt-wrong">Performing surgeries</li>
+<li id="jssc_q30_o3" class="tre-opt-item opt-wrong">Teaching mathematics</li>
+<li id="jssc_q30_o4" class="tre-opt-item opt-wrong">Managing traffic</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q31.</span> Which of these best describes 'Field Assistant' work in a welfare or health scheme?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q31_o1" class="tre-opt-item opt-right">Assisting with ground-level implementation and data collection for schemes</li>
+<li id="jssc_q31_o2" class="tre-opt-item opt-wrong">Running a private business</li>
+<li id="jssc_q31_o3" class="tre-opt-item opt-wrong">Conducting court trials</li>
+<li id="jssc_q31_o4" class="tre-opt-item opt-wrong">Piloting aircraft</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q32.</span> What is the primary duty associated with an 'Insect Collector' post in a health/vector-control context?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q32_o1" class="tre-opt-item opt-right">Collecting and studying disease-carrying insects like mosquitoes for vector control</li>
+<li id="jssc_q32_o2" class="tre-opt-item opt-wrong">Studying birds</li>
+<li id="jssc_q32_o3" class="tre-opt-item opt-wrong">Managing forest wildlife</li>
+<li id="jssc_q32_o4" class="tre-opt-item opt-wrong">Conducting soil testing</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q33.</span> Which department typically oversees fisheries-related technical posts in state governments?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q33_o1" class="tre-opt-item opt-right">Department of Agriculture, Animal Husbandry and Cooperation - Fisheries Division</li>
+<li id="jssc_q33_o2" class="tre-opt-item opt-wrong">Department of Education</li>
+<li id="jssc_q33_o3" class="tre-opt-item opt-wrong">Department of Home Affairs</li>
+<li id="jssc_q33_o4" class="tre-opt-item opt-wrong">Department of Finance</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q34.</span> What is a key function of the Urban Development and Housing Department in most states?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q34_o1" class="tre-opt-item opt-right">Planning and managing urban infrastructure and housing schemes</li>
+<li id="jssc_q34_o2" class="tre-opt-item opt-wrong">Running hospitals only</li>
+<li id="jssc_q34_o3" class="tre-opt-item opt-wrong">Conducting elections</li>
+<li id="jssc_q34_o4" class="tre-opt-item opt-wrong">Managing forests</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q35.</span> Which of these is a common responsibility under Medical Assistant roles at the community level?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q35_o1" class="tre-opt-item opt-right">Assisting healthcare delivery and basic patient care support</li>
+<li id="jssc_q35_o2" class="tre-opt-item opt-wrong">Teaching engineering</li>
+<li id="jssc_q35_o3" class="tre-opt-item opt-wrong">Managing bank accounts</li>
+<li id="jssc_q35_o4" class="tre-opt-item opt-wrong">Conducting legal trials</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q36.</span> What is vector control primarily aimed at preventing?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q36_o1" class="tre-opt-item opt-right">Diseases spread by insects like mosquitoes (e.g., malaria, dengue)</li>
+<li id="jssc_q36_o2" class="tre-opt-item opt-wrong">Traffic accidents</li>
+<li id="jssc_q36_o3" class="tre-opt-item opt-wrong">Crop damage from weather</li>
+<li id="jssc_q36_o4" class="tre-opt-item opt-wrong">Water pollution only</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q37.</span> Which of these is generally a duty of a Health Supervisor regarding Anganwadi/health centres?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q37_o1" class="tre-opt-item opt-right">Monitoring service delivery and record-keeping at centres</li>
+<li id="jssc_q37_o2" class="tre-opt-item opt-wrong">Constructing buildings</li>
+<li id="jssc_q37_o3" class="tre-opt-item opt-wrong">Running courts</li>
+<li id="jssc_q37_o4" class="tre-opt-item opt-wrong">Managing power plants</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q38.</span> What does the abbreviation 'PHC' commonly stand for in the Indian health system?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q38_o1" class="tre-opt-item opt-right">Primary Health Centre</li>
+<li id="jssc_q38_o2" class="tre-opt-item opt-wrong">Public Health Council</li>
+<li id="jssc_q38_o3" class="tre-opt-item opt-wrong">Provincial Health Committee</li>
+<li id="jssc_q38_o4" class="tre-opt-item opt-wrong">Personal Health Card</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q39.</span> Which of these best fits the general role of statistical data collectors at the block/district level?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q39_o1" class="tre-opt-item opt-right">Gathering demographic, economic and social data for government planning</li>
+<li id="jssc_q39_o2" class="tre-opt-item opt-wrong">Providing legal advice</li>
+<li id="jssc_q39_o3" class="tre-opt-item opt-wrong">Repairing vehicles</li>
+<li id="jssc_q39_o4" class="tre-opt-item opt-wrong">Selling agricultural produce</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q40.</span> What is the general purpose of family welfare programs run by health departments?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q40_o1" class="tre-opt-item opt-right">Promoting maternal and child health, and population welfare</li>
+<li id="jssc_q40_o2" class="tre-opt-item opt-wrong">Building roads</li>
+<li id="jssc_q40_o3" class="tre-opt-item opt-wrong">Running banks</li>
+<li id="jssc_q40_o4" class="tre-opt-item opt-wrong">Managing airports</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q41.</span> Which of these is typically part of an Insect Collector's fieldwork routine?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q41_o1" class="tre-opt-item opt-right">Surveying breeding sites of disease vectors</li>
+<li id="jssc_q41_o2" class="tre-opt-item opt-wrong">Grading exam papers</li>
+<li id="jssc_q41_o3" class="tre-opt-item opt-wrong">Auditing company accounts</li>
+<li id="jssc_q41_o4" class="tre-opt-item opt-wrong">Repairing machinery</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q42.</span> What is the primary aim of the Department of Health, Medical Education and Family Welfare?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q42_o1" class="tre-opt-item opt-right">Managing public health services, medical education and family welfare programs</li>
+<li id="jssc_q42_o2" class="tre-opt-item opt-wrong">Managing state highways</li>
+<li id="jssc_q42_o3" class="tre-opt-item opt-wrong">Running the postal service</li>
+<li id="jssc_q42_o4" class="tre-opt-item opt-wrong">Managing forest reserves</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q43.</span> Which of these describes the role of Economics and Statistics directorates in general administration?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q43_o1" class="tre-opt-item opt-right">Compiling data used for state planning and policy-making</li>
+<li id="jssc_q43_o2" class="tre-opt-item opt-wrong">Conducting criminal investigations</li>
+<li id="jssc_q43_o3" class="tre-opt-item opt-wrong">Managing school curriculums</li>
+<li id="jssc_q43_o4" class="tre-opt-item opt-wrong">Running railway operations</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q44.</span> What is a common qualification requirement seen for many JILCCE-type combined posts?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q44_o1" class="tre-opt-item opt-right">10+2 (Intermediate) pass from a recognized board</li>
+<li id="jssc_q44_o2" class="tre-opt-item opt-wrong">PhD in any subject</li>
+<li id="jssc_q44_o3" class="tre-opt-item opt-wrong">Postgraduate degree only</li>
+<li id="jssc_q44_o4" class="tre-opt-item opt-wrong">Diploma in aviation</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q45.</span> Which of these best represents the objective of 'Fisheries Technical Assistant' roles?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q45_o1" class="tre-opt-item opt-right">Supporting technical aspects of fisheries development and management</li>
+<li id="jssc_q45_o2" class="tre-opt-item opt-wrong">Managing urban traffic</li>
+<li id="jssc_q45_o3" class="tre-opt-item opt-wrong">Conducting court hearings</li>
+<li id="jssc_q45_o4" class="tre-opt-item opt-wrong">Running a school</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q46.</span> What is the general purpose of correction windows in recruitment application processes?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q46_o1" class="tre-opt-item opt-right">Allowing candidates to fix errors in their submitted application form</li>
+<li id="jssc_q46_o2" class="tre-opt-item opt-wrong">Extending the exam date indefinitely</li>
+<li id="jssc_q46_o3" class="tre-opt-item opt-wrong">Cancelling the recruitment</li>
+<li id="jssc_q46_o4" class="tre-opt-item opt-wrong">Reducing the vacancy count</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q47.</span> Which of these is typically NOT a function of a state Health Directorate?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q47_o1" class="tre-opt-item opt-wrong">Managing hospitals and health programs</li>
+<li id="jssc_q47_o2" class="tre-opt-item opt-wrong">Disease surveillance and control</li>
+<li id="jssc_q47_o3" class="tre-opt-item opt-right">Conducting national elections</li>
+<li id="jssc_q47_o4" class="tre-opt-item opt-wrong">Training health workers</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q48.</span> What does 'Combined Recruitment' generally mean in exams like JILCCE?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q48_o1" class="tre-opt-item opt-right">A single exam used to recruit for multiple different posts at once</li>
+<li id="jssc_q48_o2" class="tre-opt-item opt-wrong">Recruitment only for one post</li>
+<li id="jssc_q48_o3" class="tre-opt-item opt-wrong">A recruitment conducted jointly with a private company</li>
+<li id="jssc_q48_o4" class="tre-opt-item opt-wrong">A recruitment limited to one district</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q49.</span> Which of these is a common responsibility for Junior Regional Investigators regarding surveys?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q49_o1" class="tre-opt-item opt-right">Conducting household or field-level surveys for official statistics</li>
+<li id="jssc_q49_o2" class="tre-opt-item opt-wrong">Performing medical surgeries</li>
+<li id="jssc_q49_o3" class="tre-opt-item opt-wrong">Managing a railway station</li>
+<li id="jssc_q49_o4" class="tre-opt-item opt-wrong">Teaching in a university</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q50.</span> What is the general aim of government welfare departments handling social schemes?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q50_o1" class="tre-opt-item opt-right">Delivering welfare benefits and services to eligible citizens</li>
+<li id="jssc_q50_o2" class="tre-opt-item opt-wrong">Running private businesses</li>
+<li id="jssc_q50_o3" class="tre-opt-item opt-wrong">Managing stock markets</li>
+<li id="jssc_q50_o4" class="tre-opt-item opt-wrong">Conducting space missions</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q51.</span> What is 16% of 350?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q51_o1" class="tre-opt-item opt-wrong">52</li>
+<li id="jssc_q51_o2" class="tre-opt-item opt-wrong">54</li>
+<li id="jssc_q51_o3" class="tre-opt-item opt-right">56</li>
+<li id="jssc_q51_o4" class="tre-opt-item opt-wrong">58</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q52.</span> A trader buys goods for Rs. 700 and sells them for Rs. 840. What is the profit percentage?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q52_o1" class="tre-opt-item opt-wrong">15%</li>
+<li id="jssc_q52_o2" class="tre-opt-item opt-wrong">18%</li>
+<li id="jssc_q52_o3" class="tre-opt-item opt-right">20%</li>
+<li id="jssc_q52_o4" class="tre-opt-item opt-wrong">22%</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q53.</span> What is the average of 14, 22, 30, 38?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q53_o1" class="tre-opt-item opt-wrong">24</li>
+<li id="jssc_q53_o2" class="tre-opt-item opt-wrong">25</li>
+<li id="jssc_q53_o3" class="tre-opt-item opt-right">26</li>
+<li id="jssc_q53_o4" class="tre-opt-item opt-wrong">27</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q54.</span> A bike covers 150 km in 3 hours. What is its average speed?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q54_o1" class="tre-opt-item opt-wrong">45 km/h</li>
+<li id="jssc_q54_o2" class="tre-opt-item opt-wrong">48 km/h</li>
+<li id="jssc_q54_o3" class="tre-opt-item opt-right">50 km/h</li>
+<li id="jssc_q54_o4" class="tre-opt-item opt-wrong">52 km/h</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q55.</span> What is 11 x 8 - 6?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q55_o1" class="tre-opt-item opt-wrong">78</li>
+<li id="jssc_q55_o2" class="tre-opt-item opt-right">80</li>
+<li id="jssc_q55_o3" class="tre-opt-item opt-wrong">82</li>
+<li id="jssc_q55_o4" class="tre-opt-item opt-wrong">84</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q56.</span> If a price increased by 20% becomes Rs. 240, what was the original price?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q56_o1" class="tre-opt-item opt-wrong">Rs. 190</li>
+<li id="jssc_q56_o2" class="tre-opt-item opt-wrong">Rs. 195</li>
+<li id="jssc_q56_o3" class="tre-opt-item opt-right">Rs. 200</li>
+<li id="jssc_q56_o4" class="tre-opt-item opt-wrong">Rs. 205</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q57.</span> What is the simple interest on Rs. 3000 at 9% per annum for 2 years?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q57_o1" class="tre-opt-item opt-wrong">Rs. 500</li>
+<li id="jssc_q57_o2" class="tre-opt-item opt-wrong">Rs. 520</li>
+<li id="jssc_q57_o3" class="tre-opt-item opt-right">Rs. 540</li>
+<li id="jssc_q57_o4" class="tre-opt-item opt-wrong">Rs. 560</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q58.</span> What is the square root of 256?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q58_o1" class="tre-opt-item opt-wrong">14</li>
+<li id="jssc_q58_o2" class="tre-opt-item opt-wrong">15</li>
+<li id="jssc_q58_o3" class="tre-opt-item opt-right">16</li>
+<li id="jssc_q58_o4" class="tre-opt-item opt-wrong">17</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q59.</span> If 6 workers finish a task in 10 days, how many days will 4 workers take?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q59_o1" class="tre-opt-item opt-wrong">12 days</li>
+<li id="jssc_q59_o2" class="tre-opt-item opt-wrong">13 days</li>
+<li id="jssc_q59_o3" class="tre-opt-item opt-wrong">14 days</li>
+<li id="jssc_q59_o4" class="tre-opt-item opt-right">15 days</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q60.</span> What is the ratio of 45 to 135?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q60_o1" class="tre-opt-item opt-wrong">1:2</li>
+<li id="jssc_q60_o2" class="tre-opt-item opt-right">1:3</li>
+<li id="jssc_q60_o3" class="tre-opt-item opt-wrong">1:4</li>
+<li id="jssc_q60_o4" class="tre-opt-item opt-wrong">1:5</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q61.</span> What is 32% of 250?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q61_o1" class="tre-opt-item opt-wrong">76</li>
+<li id="jssc_q61_o2" class="tre-opt-item opt-wrong">78</li>
+<li id="jssc_q61_o3" class="tre-opt-item opt-right">80</li>
+<li id="jssc_q61_o4" class="tre-opt-item opt-wrong">82</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q62.</span> A shopkeeper sells an item at an 18% loss. If the cost price is Rs. 900, what is the selling price?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q62_o1" class="tre-opt-item opt-wrong">Rs. 730</li>
+<li id="jssc_q62_o2" class="tre-opt-item opt-right">Rs. 738</li>
+<li id="jssc_q62_o3" class="tre-opt-item opt-wrong">Rs. 740</li>
+<li id="jssc_q62_o4" class="tre-opt-item opt-wrong">Rs. 745</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q63.</span> What is the LCM of 7 and 10?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q63_o1" class="tre-opt-item opt-wrong">60</li>
+<li id="jssc_q63_o2" class="tre-opt-item opt-wrong">65</li>
+<li id="jssc_q63_o3" class="tre-opt-item opt-right">70</li>
+<li id="jssc_q63_o4" class="tre-opt-item opt-wrong">75</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q64.</span> What is the HCF of 32 and 48?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q64_o1" class="tre-opt-item opt-wrong">8</li>
+<li id="jssc_q64_o2" class="tre-opt-item opt-wrong">12</li>
+<li id="jssc_q64_o3" class="tre-opt-item opt-right">16</li>
+<li id="jssc_q64_o4" class="tre-opt-item opt-wrong">20</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q65.</span> If the perimeter of a square is 64 cm, what is the length of each side?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q65_o1" class="tre-opt-item opt-wrong">14 cm</li>
+<li id="jssc_q65_o2" class="tre-opt-item opt-wrong">15 cm</li>
+<li id="jssc_q65_o3" class="tre-opt-item opt-right">16 cm</li>
+<li id="jssc_q65_o4" class="tre-opt-item opt-wrong">17 cm</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q66.</span> What is 210 divided by 7, then multiplied by 4?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q66_o1" class="tre-opt-item opt-wrong">100</li>
+<li id="jssc_q66_o2" class="tre-opt-item opt-wrong">110</li>
+<li id="jssc_q66_o3" class="tre-opt-item opt-right">120</li>
+<li id="jssc_q66_o4" class="tre-opt-item opt-wrong">130</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q67.</span> A car travels at 55 km/h. How far will it travel in 3 hours?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q67_o1" class="tre-opt-item opt-wrong">155 km</li>
+<li id="jssc_q67_o2" class="tre-opt-item opt-wrong">160 km</li>
+<li id="jssc_q67_o3" class="tre-opt-item opt-right">165 km</li>
+<li id="jssc_q67_o4" class="tre-opt-item opt-wrong">170 km</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q68.</span> What is the compound interest on Rs. 5000 at 8% per annum for 1 year?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q68_o1" class="tre-opt-item opt-wrong">Rs. 350</li>
+<li id="jssc_q68_o2" class="tre-opt-item opt-wrong">Rs. 380</li>
+<li id="jssc_q68_o3" class="tre-opt-item opt-right">Rs. 400</li>
+<li id="jssc_q68_o4" class="tre-opt-item opt-wrong">Rs. 420</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q69.</span> If 5x - 5 = 30, what is the value of x?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q69_o1" class="tre-opt-item opt-wrong">6</li>
+<li id="jssc_q69_o2" class="tre-opt-item opt-right">7</li>
+<li id="jssc_q69_o3" class="tre-opt-item opt-wrong">8</li>
+<li id="jssc_q69_o4" class="tre-opt-item opt-wrong">9</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q70.</span> What is 4/5 expressed as a percentage?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q70_o1" class="tre-opt-item opt-wrong">70%</li>
+<li id="jssc_q70_o2" class="tre-opt-item opt-wrong">75%</li>
+<li id="jssc_q70_o3" class="tre-opt-item opt-right">80%</li>
+<li id="jssc_q70_o4" class="tre-opt-item opt-wrong">85%</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q71.</span> A rectangular field has a length of 25 m and width of 10 m. What is its area?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q71_o1" class="tre-opt-item opt-wrong">220 sq m</li>
+<li id="jssc_q71_o2" class="tre-opt-item opt-wrong">240 sq m</li>
+<li id="jssc_q71_o3" class="tre-opt-item opt-right">250 sq m</li>
+<li id="jssc_q71_o4" class="tre-opt-item opt-wrong">260 sq m</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q72.</span> If 3 kg of pulses cost Rs. 210, what is the cost of 7 kg?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q72_o1" class="tre-opt-item opt-wrong">Rs. 470</li>
+<li id="jssc_q72_o2" class="tre-opt-item opt-wrong">Rs. 480</li>
+<li id="jssc_q72_o3" class="tre-opt-item opt-right">Rs. 490</li>
+<li id="jssc_q72_o4" class="tre-opt-item opt-wrong">Rs. 500</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q73.</span> What comes next in the pattern: 4, 8, 16, 32, ___?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q73_o1" class="tre-opt-item opt-wrong">48</li>
+<li id="jssc_q73_o2" class="tre-opt-item opt-wrong">56</li>
+<li id="jssc_q73_o3" class="tre-opt-item opt-right">64</li>
+<li id="jssc_q73_o4" class="tre-opt-item opt-wrong">72</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q74.</span> What is 12 squared?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q74_o1" class="tre-opt-item opt-wrong">134</li>
+<li id="jssc_q74_o2" class="tre-opt-item opt-right">144</li>
+<li id="jssc_q74_o3" class="tre-opt-item opt-wrong">154</li>
+<li id="jssc_q74_o4" class="tre-opt-item opt-wrong">164</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q75.</span> If a tap fills a tank in 8 hours, what fraction is filled in 3 hours?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q75_o1" class="tre-opt-item opt-wrong">1/2</li>
+<li id="jssc_q75_o2" class="tre-opt-item opt-right">3/8</li>
+<li id="jssc_q75_o3" class="tre-opt-item opt-wrong">1/4</li>
+<li id="jssc_q75_o4" class="tre-opt-item opt-wrong">5/8</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q76.</span> Find the odd one out: 6, 14, 21, 28, 35</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q76_o1" class="tre-opt-item opt-right">6</li>
+<li id="jssc_q76_o2" class="tre-opt-item opt-wrong">14</li>
+<li id="jssc_q76_o3" class="tre-opt-item opt-wrong">21</li>
+<li id="jssc_q76_o4" class="tre-opt-item opt-wrong">35</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q77.</span> If STONE is coded as TUPOF, how is HOUSE coded?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q77_o1" class="tre-opt-item opt-right">IPVTF</li>
+<li id="jssc_q77_o2" class="tre-opt-item opt-wrong">IPVTF</li>
+<li id="jssc_q77_o3" class="tre-opt-item opt-wrong">IQVTF</li>
+<li id="jssc_q77_o4" class="tre-opt-item opt-wrong">IPWTF</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q78.</span> Complete the series: 3, 7, 13, 21, ___</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q78_o1" class="tre-opt-item opt-wrong">29</li>
+<li id="jssc_q78_o2" class="tre-opt-item opt-right">31</li>
+<li id="jssc_q78_o3" class="tre-opt-item opt-wrong">33</li>
+<li id="jssc_q78_o4" class="tre-opt-item opt-wrong">35</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q79.</span> R is S's sister. T is S's father. How is R related to T?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q79_o1" class="tre-opt-item opt-right">Daughter</li>
+<li id="jssc_q79_o2" class="tre-opt-item opt-wrong">Sister</li>
+<li id="jssc_q79_o3" class="tre-opt-item opt-wrong">Mother</li>
+<li id="jssc_q79_o4" class="tre-opt-item opt-wrong">Niece</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q80.</span> Complete the analogy: Teacher is to Student as Doctor is to ___?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q80_o1" class="tre-opt-item opt-wrong">Hospital</li>
+<li id="jssc_q80_o2" class="tre-opt-item opt-right">Patient</li>
+<li id="jssc_q80_o3" class="tre-opt-item opt-wrong">Medicine</li>
+<li id="jssc_q80_o4" class="tre-opt-item opt-wrong">Clinic</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q81.</span> If Tuesday falls on the 6th, what day falls on the 20th of the same month?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q81_o1" class="tre-opt-item opt-wrong">Monday</li>
+<li id="jssc_q81_o2" class="tre-opt-item opt-right">Tuesday</li>
+<li id="jssc_q81_o3" class="tre-opt-item opt-wrong">Wednesday</li>
+<li id="jssc_q81_o4" class="tre-opt-item opt-wrong">Thursday</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q82.</span> Choose the odd one: Rose, Lily, Jasmine, Carrot</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q82_o1" class="tre-opt-item opt-wrong">Rose</li>
+<li id="jssc_q82_o2" class="tre-opt-item opt-wrong">Lily</li>
+<li id="jssc_q82_o3" class="tre-opt-item opt-wrong">Jasmine</li>
+<li id="jssc_q82_o4" class="tre-opt-item opt-right">Carrot</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q83.</span> What is the antonym of 'Prasann' (happy) in Hindi?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q83_o1" class="tre-opt-item opt-wrong">Khush</li>
+<li id="jssc_q83_o2" class="tre-opt-item opt-right">Dukhi</li>
+<li id="jssc_q83_o3" class="tre-opt-item opt-wrong">Santusht</li>
+<li id="jssc_q83_o4" class="tre-opt-item opt-wrong">Utsahit</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q84.</span> Choose the correct synonym of 'Brave':</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q84_o1" class="tre-opt-item opt-wrong">Cowardly</li>
+<li id="jssc_q84_o2" class="tre-opt-item opt-right">Courageous</li>
+<li id="jssc_q84_o3" class="tre-opt-item opt-wrong">Weak</li>
+<li id="jssc_q84_o4" class="tre-opt-item opt-wrong">Timid</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q85.</span> Fill in the blank: They ___ playing football every evening.</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q85_o1" class="tre-opt-item opt-wrong">is</li>
+<li id="jssc_q85_o2" class="tre-opt-item opt-wrong">am</li>
+<li id="jssc_q85_o3" class="tre-opt-item opt-right">are</li>
+<li id="jssc_q85_o4" class="tre-opt-item opt-wrong">be</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q86.</span> What is a synonym of 'Vidya' (knowledge) in Hindi?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q86_o1" class="tre-opt-item opt-right">Gyan</li>
+<li id="jssc_q86_o2" class="tre-opt-item opt-wrong">Anjan</li>
+<li id="jssc_q86_o3" class="tre-opt-item opt-wrong">Murkh</li>
+<li id="jssc_q86_o4" class="tre-opt-item opt-wrong">Vinash</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q87.</span> Choose the correctly spelled word:</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q87_o1" class="tre-opt-item opt-wrong">Occurance</li>
+<li id="jssc_q87_o2" class="tre-opt-item opt-right">Occurrence</li>
+<li id="jssc_q87_o3" class="tre-opt-item opt-wrong">Occurrance</li>
+<li id="jssc_q87_o4" class="tre-opt-item opt-wrong">Ocurrence</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q88.</span> In the sentence 'Sita reads a book,' identify the object.</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q88_o1" class="tre-opt-item opt-wrong">Sita</li>
+<li id="jssc_q88_o2" class="tre-opt-item opt-wrong">Reads</li>
+<li id="jssc_q88_o3" class="tre-opt-item opt-right">A book</li>
+<li id="jssc_q88_o4" class="tre-opt-item opt-wrong">None</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q89.</span> What is the meaning of the Hindi idiom 'Nau Do Gyarah Hona'?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q89_o1" class="tre-opt-item opt-right">To run away suddenly</li>
+<li id="jssc_q89_o2" class="tre-opt-item opt-wrong">To become very rich</li>
+<li id="jssc_q89_o3" class="tre-opt-item opt-wrong">To fall ill</li>
+<li id="jssc_q89_o4" class="tre-opt-item opt-wrong">To win a competition</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q90.</span> Which is a proper noun?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q90_o1" class="tre-opt-item opt-wrong">Country</li>
+<li id="jssc_q90_o2" class="tre-opt-item opt-wrong">Ocean</li>
+<li id="jssc_q90_o3" class="tre-opt-item opt-right">India</li>
+<li id="jssc_q90_o4" class="tre-opt-item opt-wrong">Mountain</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q91.</span> What is the antonym of 'Sasta' (cheap) in Hindi?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q91_o1" class="tre-opt-item opt-right">Mehenga</li>
+<li id="jssc_q91_o2" class="tre-opt-item opt-wrong">Kam</li>
+<li id="jssc_q91_o3" class="tre-opt-item opt-wrong">Chhota</li>
+<li id="jssc_q91_o4" class="tre-opt-item opt-wrong">Halka</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q92.</span> Choose the correct plural form of 'Mouse' (animal):</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q92_o1" class="tre-opt-item opt-wrong">Mouses</li>
+<li id="jssc_q92_o2" class="tre-opt-item opt-right">Mice</li>
+<li id="jssc_q92_o3" class="tre-opt-item opt-wrong">Mices</li>
+<li id="jssc_q92_o4" class="tre-opt-item opt-wrong">Mouse</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q93.</span> What does 'Sangya' mean in Hindi grammar?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q93_o1" class="tre-opt-item opt-wrong">Verb</li>
+<li id="jssc_q93_o2" class="tre-opt-item opt-right">Noun</li>
+<li id="jssc_q93_o3" class="tre-opt-item opt-wrong">Adjective</li>
+<li id="jssc_q93_o4" class="tre-opt-item opt-wrong">Pronoun</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q94.</span> Antonym of 'Difficult' is:</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q94_o1" class="tre-opt-item opt-wrong">Hard</li>
+<li id="jssc_q94_o2" class="tre-opt-item opt-right">Easy</li>
+<li id="jssc_q94_o3" class="tre-opt-item opt-wrong">Tough</li>
+<li id="jssc_q94_o4" class="tre-opt-item opt-wrong">Complex</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q95.</span> What is the meaning of the Hindi idiom 'Haath Tang Hona'?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q95_o1" class="tre-opt-item opt-right">To be short of money</li>
+<li id="jssc_q95_o2" class="tre-opt-item opt-wrong">To be very strong</li>
+<li id="jssc_q95_o3" class="tre-opt-item opt-wrong">To be very tall</li>
+<li id="jssc_q95_o4" class="tre-opt-item opt-wrong">To be angry</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q96.</span> Choose the correct article: '___ university offers many courses.'</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q96_o1" class="tre-opt-item opt-right">A</li>
+<li id="jssc_q96_o2" class="tre-opt-item opt-wrong">An</li>
+<li id="jssc_q96_o3" class="tre-opt-item opt-wrong">The</li>
+<li id="jssc_q96_o4" class="tre-opt-item opt-wrong">No article needed</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q97.</span> What is the gender of the Hindi word 'Nadi' (river)?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q97_o1" class="tre-opt-item opt-wrong">Masculine</li>
+<li id="jssc_q97_o2" class="tre-opt-item opt-right">Feminine</li>
+<li id="jssc_q97_o3" class="tre-opt-item opt-wrong">Neuter</li>
+<li id="jssc_q97_o4" class="tre-opt-item opt-wrong">None</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q98.</span> Which word is a preposition?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q98_o1" class="tre-opt-item opt-wrong">Quickly</li>
+<li id="jssc_q98_o2" class="tre-opt-item opt-right">Under</li>
+<li id="jssc_q98_o3" class="tre-opt-item opt-wrong">Beautiful</li>
+<li id="jssc_q98_o4" class="tre-opt-item opt-wrong">Run</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q99.</span> What is the correct synonym of 'Gyan' (knowledge) among these English words?</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q99_o1" class="tre-opt-item opt-wrong">Ignorance</li>
+<li id="jssc_q99_o2" class="tre-opt-item opt-right">Wisdom</li>
+<li id="jssc_q99_o3" class="tre-opt-item opt-wrong">Confusion</li>
+<li id="jssc_q99_o4" class="tre-opt-item opt-wrong">Doubt</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q100.</span> Find the next letter: Y, W, U, S, ___</p>
+<ul class="tre-quiz-options">
+<li id="jssc_q100_o1" class="tre-opt-item opt-wrong">R</li>
+<li id="jssc_q100_o2" class="tre-opt-item opt-right">Q</li>
+<li id="jssc_q100_o3" class="tre-opt-item opt-wrong">P</li>
+<li id="jssc_q100_o4" class="tre-opt-item opt-wrong">O</li>
+</ul>
+</article>
+</section>
+</div>18:["$","$L19",null,{"article":{"id":16,"title":"JSSC JILCCE Inter Level Recruitment 2026 - Apply Online for 326 Posts","slug":"jssc-jilcce-inter-level-recruitment-2026","description":"Jharkhand JSSC JILCCE Inter Level Recruitment 2026 notification out for 326 posts. Check department wise vacancy, eligibility, age limit, fee and apply online from 20 July to 19 August 2026.","company":null,"location":null,"employment_type":null,"salary":null,"status":1,"created_at":"2026-07-20T09:14:49.000000Z","updated_at":"2026-08-02T16:35:49.000000Z","job_type_id":null,"department_id":null,"is_active":1,"featured":0,"trending":0,"urgent":0,"homepage":0,"deleted_at":null,"hero_image":"courses_image/jssc-jilcce-inter-level-recruitment-2026.webp","created_by":1,"topic_name":"JSSC JILCCE Inter Level Recruitment 2026 - Apply Online for 326 Posts","url_name":"jssc-jilcce-inter-level-recruitment-2026","meta_title":"JSSC JILCCE Inter Level Recruitment 2026 - Apply Online for 326 Posts","meta_description":"Jharkhand JSSC JILCCE Inter Level Recruitment 2026 notification out for 326 posts. Check department wise vacancy, eligibility, age limit, fee and apply online from 20 July to 19 August 2026.","meta_keyword":"JSSC JILCCE Inter Level 2026, Jharkhand JSSC Recruitment, JILCCE Combined Recruitment, JSSC 10+2 Level Online Form, Jharkhand Health Supervisor Vacancy 2026","canonical_tag":"courses/state-psc/jssc-jilcce-inter-level-recruitment-2026","course_type":10,"pageview":0,"application_begin":"2026-07-20","last_date_for_apply":"2026-08-19","user":{"id":1,"first_name":"Hariom","last_name":"Prajapati","email":"hariomprajapati9029@gmail.com","mobile":"8840860841","birth_date":"08/01/1999","age":"23","gender":"male","profile_image":"Hariom.jpg","background_image":null,"is_active":1,"created_at":"2021-09-12T13:19:51.000000Z","updated_at":"2026-07-12T10:04:13.000000Z"},"course_category":{"id":10,"course_name":"State PSC","course_url":"state-psc","course_image":"courses/Emblem_of_India_(navy_blue).svg","description":"State-level Public Service Commission (WBPSC, UPPSC, BPSC etc.) recruitment notifications.","created_at":"2026-07-18T18:41:29.000000Z","updated_at":"2026-07-18T18:41:29.000000Z","deleted_at":null,"created_by":1},"contents":[{"id":12,"content":"$1a","course_id":16,"created_at":"2026-07-20T09:14:49.000000Z","updated_at":"2026-08-02T16:35:49.000000Z"}]},"slug":"jssc-jilcce-inter-level-recruitment-2026"}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1b:I[27201,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"IconMark"]
+e:null
+16:[["$","title","0",{"children":"JSSC JILCCE Inter Level Recruitment 2026 - Apply Online for 326 Posts | ResumeSathi"}],["$","meta","1",{"name":"description","content":"Jharkhand JSSC JILCCE Inter Level Recruitment 2026 notification out for 326 posts. Check department wise vacancy, eligibility, age limit, fee and apply online from 20 July to 19 August 2026."}],["$","meta","2",{"name":"keywords","content":"jobs, career opportunities, hiring, apply now, government jobs"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://www.resumesathi.com/jobs/jssc-jilcce-inter-level-recruitment-2026/"}],["$","meta","5",{"property":"og:title","content":"JSSC JILCCE Inter Level Recruitment 2026 - Apply Online for 326 Posts | ResumeSathi"}],["$","meta","6",{"property":"og:description","content":"Jharkhand JSSC JILCCE Inter Level Recruitment 2026 notification out for 326 posts. Check department wise vacancy, eligibility, age limit, fee and apply online from 20 July to 19 August 2026."}],["$","meta","7",{"property":"og:url","content":"https://www.resumesathi.com/jobs/jssc-jilcce-inter-level-recruitment-2026/"}],["$","meta","8",{"property":"og:site_name","content":"ResumeSathi"}],["$","meta","9",{"property":"og:image","content":"https://api.resumesathi.com/courses_image/jssc-jilcce-inter-level-recruitment-2026.webp"}],["$","meta","10",{"property":"og:image:alt","content":"JSSC JILCCE Inter Level Recruitment 2026 - Apply Online for 326 Posts"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"JSSC JILCCE Inter Level Recruitment 2026 - Apply Online for 326 Posts | ResumeSathi"}],["$","meta","14",{"name":"twitter:description","content":"Jharkhand JSSC JILCCE Inter Level Recruitment 2026 notification out for 326 posts. Check department wise vacancy, eligibility, age limit, fee and apply online from 20 July to 19 August 2026."}],["$","meta","15",{"name":"twitter:image","content":"https://api.resumesathi.com/courses_image/jssc-jilcce-inter-level-recruitment-2026.webp"}],["$","link","16",{"rel":"shortcut icon","href":"/front-assets/images/logo/favicon.png"}],["$","link","17",{"rel":"icon","href":"/front-assets/images/logo/favicon.png"}],["$","link","18",{"rel":"apple-touch-icon","href":"/front-assets/images/logo/favicon.png"}],["$","link","19",{"rel":"apple-touch-icon-precomposed","href":"/front-assets/images/logo/favicon.png"}],["$","$L1b","20",{}]]

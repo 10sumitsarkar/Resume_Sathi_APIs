@@ -1,0 +1,406 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+3:I[37457,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+4:I[44134,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/0dge8h81efw6t.js"],"default"]
+5:I[22016,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/0dge8h81efw6t.js"],""]
+6:I[59708,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+7:I[32666,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+8:I[92825,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"ClientSegmentRoot"]
+9:I[39040,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/06pj_k8chkpe5.js"],"default"]
+c:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"ViewportBoundary"]
+13:I[68027,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default",1]
+:HL["/_next/static/chunks/36s5nf8n-vj81.css","style"]
+:HL["/front-assets/css/bootstrap.min.css","style"]
+:HL["/front-assets/css/style.css","style"]
+:HL["/front-assets/css/responsive.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap","style",{"crossOrigin":"anonymous"}]
+0:{"P":null,"c":["","jobs","rrb-technician-cen-02-2026-recruitment",""],"q":"","i":false,"f":[[["",{"children":["jobs",{"children":[["slug","rrb-technician-cen-02-2026-recruitment","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/3_bezyotg8f3w.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0b5j8te8ufv_z.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"data-scroll-behavior":"smooth","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preload","href":"/front-assets/css/bootstrap.min.css","as":"style"}],["$","link",null,{"rel":"preload","href":"/front-assets/css/style.css","as":"style"}],["$","link",null,{"rel":"preload","href":"/front-assets/css/responsive.css","as":"style"}],["$","link",null,{"rel":"preload","href":"https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap","as":"style","crossOrigin":"anonymous"}],["$","link",null,{"rel":"stylesheet","href":"/front-assets/css/bootstrap.min.css"}],["$","link",null,{"rel":"stylesheet","href":"/front-assets/css/style.css"}],["$","link",null,{"rel":"stylesheet","href":"/front-assets/css/responsive.css"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"}]]}],["$","body",null,{"suppressHydrationWarning":true,"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ResumeSathi\",\"url\":\"https://www.resumesathi.com\",\"logo\":\"https://www.resumesathi.com/front-assets/images/logo/logo.svg\",\"sameAs\":[\"https://www.facebook.com\",\"https://www.linkedin.com\",\"https://www.instagram.com\"],\"description\":\"ResumeSathi helps job seekers create ATS-friendly resumes, cover letters, and career documents for free.\"}"}}],["$","main",null,{"id":"main-content","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","$L4",null,{}],["$","section",null,{"className":"page-404","children":["$","div",null,{"className":"container","children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"col-sm-12","children":["$","div",null,{"className":"col-sm-10 offset-sm-1 text-center","children":[["$","div",null,{"className":"four-zero-four-bg","children":["$","h1",null,{"className":"text-center","children":"404"}]}],["$","div",null,{"className":"contant-box-404","children":[["$","h3",null,{"className":"h2","children":"Looks like you are lost"}],["$","p",null,{"children":"The page you are looking for is not available."}],["$","$L5",null,{"prefetch":false,"href":"/","className":"link-404","aria-label":"Go to Home Page","children":"Go to Home"}]]}]]}]}]}]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{}],["$","$L7",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/06pj_k8chkpe5.js","async":true,"nonce":"$undefined"}]],["$","$L8",null,{"Component":"$9","slots":{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]},"serverProvidedParams":{"params":{},"promises":["$@a"]}}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$Lb",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/36s5nf8n-vj81.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/16ymsuy-x3uv9.js","async":true,"nonce":"$undefined"}]],["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],{},null,false,null]},null,false,"$@f"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$L11"}],["$","div",null,{"hidden":true,"children":"$L12"}],null]}],false]],"m":"$undefined","G":["$13",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"keVm6Da3qnRC_mqGccBX1"}
+15:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"MetadataBoundary"]
+14:[]
+f:"$W14"
+12:["$","$L15",null,{"children":["$","$d",null,{"name":"Next.Metadata","children":"$L16"}]}]
+a:"$0:f:0:1:1:children:0:props:children:1:props:serverProvidedParams:params"
+17:T6417,{"@context":"https://schema.org/","@type":"JobPosting","title":"RRB Technician CEN 02/2026 Recruitment (6557 Post)","description":"\u003cdiv class=\"post-content\">\r\n\u003cp>Railway Recruitment Board (RRB) is conducting recruitment for \u003cstrong>Technician Grade-I Signal and Technician Grade-III\u003c/strong> posts under CEN No. 02/2026, with 6557 vacancies on offer. Applications open on 30 June 2026 and close on 29 July 2026.\u003c/p>\r\n\u003ch2>Important Dates\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Application Begin\u003c/td>\r\n\u003ctd>\u003cstrong>30/06/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Last Date for Apply Online\u003c/td>\r\n\u003ctd>\u003cstrong>29/07/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Last Date Pay Exam Fee\u003c/td>\r\n\u003ctd>\u003cstrong>29/07/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Exam Date\u003c/td>\r\n\u003ctd>\u003cstrong>As per Schedule\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Exam City Intimation\u003c/td>\r\n\u003ctd>\u003cstrong>10 Days Before Exam\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Admit Card Available\u003c/td>\r\n\u003ctd>\u003cstrong>4 Days Before Exam\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>Application Fee\u003c/h2>\r\n\u003cul>\r\n\u003cli>General / OBC / EWS : 500/-\u003c/li>\r\n\u003cli>SC / ST : 250/-\u003c/li>\r\n\u003cli>PH (Divyang) : 250/-\u003c/li>\r\n\u003cli>Partial Refund Applies Once a Candidate Has Appeared for the Stage I Exam - UR/OBC/EWS Get Rs. 400/- Back, While SC/ST/PH/Female Candidates Get Rs. 250/- Back\u003c/li>\r\n\u003cli>Fee Can Be Paid via E Challan (Cash) or Online Through Debit Card, Credit Card or Net Banking\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Age Limit as on 01/07/2026\u003c/h2>\r\n\u003cul>\r\n\u003cli>Minimum Age : 18 Years\u003c/li>\r\n\u003cli>Technician Grade-III : Up to 30 Years\u003c/li>\r\n\u003cli>Technician Grade-I Signal : Up to 33 Years\u003c/li>\r\n\u003cli>Standard Age Relaxation Applies as per RRB Technician CEN 02/2026 Rules\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Vacancy Details Total : 6557 Post\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003cthead>\r\n\u003ctr>\r\n\u003cth>Post Name\u003c/th>\r\n\u003cth>Total Post\u003c/th>\r\n\u003cth>Railway RRB Technician Eligibility\u003c/th>\r\n\u003c/tr>\r\n\u003c/thead>\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Technician Grade-I Signal\u003c/td>\r\n\u003ctd>323\u003c/td>\r\n\u003ctd>\r\n\u003cul>\r\n\u003cli>B.Sc in Physics / Electronics / Computer Science / IT / Instrumentation\u003c/li>\r\n\u003cli>OR B.Sc With a Combination Involving Any of the Above Subjects\u003c/li>\r\n\u003cli>OR BE / B.Tech / 3-Year Engineering Diploma in a Related Stream\u003c/li>\r\n\u003cli>Full Eligibility Details in the Official Notification\u003c/li>\r\n\u003c/ul>\r\n\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Technician Grade-III (Open Line)\u003c/td>\r\n\u003ctd>6234\u003c/td>\r\n\u003ctd>\r\n\u003cul>\r\n\u003cli>Class 10th Pass\u003c/li>\r\n\u003cli>ITI Certificate (NCVT / SCVT) in a Related Trade or Branch\u003c/li>\r\n\u003cli>Full Eligibility Details in the Official Notification\u003c/li>\r\n\u003c/ul>\r\n\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>How to Fill RRB Technician CEN 02/2026 Online Form\u003c/h2>\r\n\u003cul>\r\n\u003cli>Gather Your Documents in Advance like Educational Certificates, ITI Certificate (for Grade-III), ID Proof and Address Proof.\u003c/li>\r\n\u003cli>Keep Scanned Copies of Your Photo, Signature and ID Proof Ready.\u003c/li>\r\n\u003cli>Without Paying the Application Fee, Your Form Won't Be Treated as Complete.\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Some Useful Important Links\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Apply Online\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"Apply Now\" href=\"https://rrbapply.gov.in/#/auth/home\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Download Notification\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"Click here\" href=\"https://www.sarkariresult.com/wp-content/uploads/2026/06/SarkariResult-RRB_Technician_Detailed_CEN_02_20262.pdf\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Signature Resizer, PDF Compress, Age Calculator and More Tools\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"https://www.resumesathi.com/tools/\" href=\"https://www.resumesathi.com/tools/\" target=\"_blank\" rel=\"noopener\">View Tools\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Official Website\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"RRB Official Website\" href=\"https://indianrailways.gov.in/\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003cblockquote>\u003cstrong>Note: \u003c/strong>Candidates are advised to always cross-check dates, fee details, and eligibility criteria from the official RRB website before applying, as the schedule may change based on official updates.\u003c/blockquote>\r\n\u003ch2>RRB Technician Preparation Tips 2026\u003c/h2>\r\n\u003cul>\r\n\u003cli>Build a Strong Base in General Science and General Awareness First..\u003c/li>\r\n\u003cli>Practice Mathematics and Reasoning Every Day With a Timer Running.\u003c/li>\r\n\u003cli>Grade-I Signal Aspirants Should Revisit Their Core Subjects (Physics, Electronics, Instrumentation) Alongside General Topics.\u003c/li>\r\n\u003cli>Grade-III Candidates Should Brush Up on Their ITI Trade Fundamentals, Since Trade-Specific Questions Do Appear.\u003c/li>\r\n\u003cli>Practice&nbsp; Few Previous Year RRB Technician or ALP Papers.\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Frequently Asked Questions\u003c/h2>\r\n\u003csection class=\"tre-faq-list\">\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>What is the last date to apply for RRB Technician CEN 02/2026?\u003c/summary>\r\n\u003cp>The last date to apply online is 29 July 2026, and the fee payment deadline is also 29 July 2026.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>How many total vacancies are there in RRB Technician CEN 02/2026?\u003c/summary>\r\n\u003cp>A total of 6557 posts have been announced, with 323 for Technician Grade-I Signal and 6234 for Technician Grade-III (Open Line).\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>What is the application fee for General category candidates?\u003c/summary>\r\n\u003cp>General, OBC and EWS candidates need to pay Rs. 500/-, while SC, ST and PH (Divyang) candidates pay Rs. 250/-.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>Is the application fee refundable?\u003c/summary>\r\n\u003cp>Yes, a partial refund applies once a candidate has appeared for the Stage I exam - UR/OBC/EWS get Rs. 400/- back, while SC/ST/PH/Female candidates get Rs. 250/- back.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>What is the age limit for Technician Grade-III and Grade-I Signal posts?\u003c/summary>\r\n\u003cp>The minimum age is 18 years for both posts. Grade-III has a maximum age of 30 years, while Grade-I Signal goes up to 33 years, as on 01 July 2026.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>What is the minimum qualification for Technician Grade-III (Open Line)?\u003c/summary>\r\n\u003cp>Candidates need a Class 10th pass certificate along with an ITI Certificate (NCVT/SCVT) in a related trade or branch.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>When will the exam city and admit card be available?\u003c/summary>\r\n\u003cp>The exam city intimation will be available 10 days before the exam, and the admit card will be released 4 days before the exam.\u003c/p>\r\n\u003c/details>\u003c/section>\r\n\u003csection class=\"tre-quiz-wrap\">\r\n\u003ch3 class=\"tre-quiz-header\">RRB Technician CEN 02/2026 - Exam Oriented Practice Questions\u003c/h3>\r\n\u003cp class=\"tre-quiz-sub\">Recruitment Rules, Technical &amp; Trade-Specific Concepts\u003c/p>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q1.\u003c/span> A candidate has already appeared for the Stage I exam under CEN 02/2026. If they belong to the General category, what refund can they expect?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">No refund is given once the exam is attempted\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Rs. 400/- refund, since UR/OBC/EWS candidates get this amount back after appearing\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Full fee of Rs. 500/- is refunded\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Rs. 250/- refund, same as SC/ST candidates\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q2.\u003c/span> Which qualification pathway is valid for Technician Grade-I Signal?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Class 10th pass with ITI certificate only\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">B.Sc in Physics/Electronics/Computer Science/IT/Instrumentation, or BE/B.Tech/Diploma in a related stream\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Any graduate degree regardless of subject\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Only a Diploma in Civil Engineering\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q3.\u003c/span> For Technician Grade-III (Open Line), what combination of qualifications is required?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-right\">Class 10th pass along with an ITI Certificate (NCVT/SCVT) in a related trade\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">A Bachelor's degree in any engineering stream\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Only a Class 12th pass certificate\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">A diploma in Instrumentation only, no ITI needed\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q4.\u003c/span> How many days before the exam is the admit card typically released for RRB Technician CEN 02/2026?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">10 days before\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">4 days before\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">On the day of the exam\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">15 days before\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q5.\u003c/span> What is the maximum age limit for Technician Grade-I Signal as on 01/07/2026?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">30 years\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">33 years\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">35 years\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">28 years\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q6.\u003c/span> In a signalling circuit, which component is primarily responsible for controlling current flow in one direction only?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Resistor\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Diode\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Capacitor\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Inductor\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q7.\u003c/span> What does the term \"rectification\" refer to in electronics, a concept relevant to Signal Technician trade knowledge?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Converting DC into AC\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Converting AC into DC\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Amplifying a weak signal\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Reducing voltage in a circuit\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q8.\u003c/span> An ITI Fitter trade candidate is asked which measuring tool gives the most precise reading for small linear dimensions. Which is correct?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Steel ruler\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Vernier caliper\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Measuring tape\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Try square\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q9.\u003c/span> Which trade under NCVT deals specifically with the maintenance and repair of electrical machines and wiring systems?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Fitter\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Electrician\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Turner\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Welder\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q10.\u003c/span> A candidate paid the exam fee through e-Challan. Which of these payment channels is also permitted as per this notification?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Cheque only\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Debit card, credit card, or net banking\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Cash deposit only at railway stations\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">UPI is the only accepted mode\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q11.\u003c/span> Which unit measures electrical resistance, a concept tested heavily in the Signal Technician technical paper?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Ampere\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Volt\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Ohm\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Watt\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q12.\u003c/span> As per the notification, what happens if a candidate fails to pay the application fee?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">The form is auto-approved after 24 hours\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">The form remains incomplete and is not treated as submitted\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">The candidate can pay later at the exam center\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">A late fee is automatically added\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q13.\u003c/span> A Turner trade candidate is working on a lathe machine. Which tool is used to hold and rotate the workpiece?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Vice\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Chuck\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Hacksaw\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">File\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q14.\u003c/span> Which gas combination is commonly used in the welding trade for cutting and joining metals, relevant to Grade-III technical trades?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Nitrogen and Hydrogen\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Oxygen and Acetylene\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Helium and Argon\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Carbon dioxide and Nitrogen\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q15.\u003c/span> A minimum age of 18 years applies to both Technician posts under this CEN. Why is this age calculated \"as on 01/07/2026\" specifically?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">It's the date the exam will be conducted\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">It's the reference date fixed by RRB for calculating age eligibility for this notification\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">It's the last date of fee payment\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">It has no significance, just a formality\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q16.\u003c/span> Which instrument would an Electrician trade candidate use to measure current flowing through a circuit?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Voltmeter\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Ammeter\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Barometer\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Thermometer\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q17.\u003c/span> What is the significance of the exam city intimation being sent 10 days before the exam?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">It confirms the candidate's final selection\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">It allows candidates to know their exam city in advance so they can plan travel and stay\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">It replaces the need for an admit card\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">It is only sent to SC/ST candidates\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q18.\u003c/span> In basic electronics relevant to the Signal Technician syllabus, what does a capacitor primarily do in a circuit?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Converts AC to DC\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Stores and releases electrical energy\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Generates a magnetic field only\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Amplifies sound signals\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q19.\u003c/span> A Grade-III candidate holds an ITI certificate from SCVT instead of NCVT. As per this notification, is this acceptable?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-right\">Yes, the notification accepts ITI Certificate from either NCVT or SCVT in a related trade\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">No, only NCVT certificates are valid\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Only if the candidate also has a diploma\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">SCVT certificates are valid only for Grade-I posts\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q20.\u003c/span> Which safety equipment is mandatory while carrying out welding or fitting work, a common technical/safety question in RRB trade papers?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Regular sunglasses\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Safety goggles and protective gloves\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">A raincoat\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Ordinary cotton gloves without insulation\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q21.\u003c/span> What is the relationship between voltage, current, and resistance according to Ohm's Law, a core concept for Signal Technician candidates?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Voltage = Current x Resistance squared\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Voltage = Current x Resistance\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Voltage = Current divided by Resistance\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Voltage has no relation to Resistance\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q22.\u003c/span> Which material property is most important when selecting cable insulation in railway signalling systems?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">High electrical conductivity\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">High resistance to electrical current (good insulating property)\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Magnetic property\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Low melting point\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q23.\u003c/span> If a Grade-III candidate's category is SC/ST, what application fee applies to them under this CEN?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Rs. 500/-\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Rs. 250/-\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">No fee at all\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Rs. 100/-\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q24.\u003c/span> In a Fitter/Machinist trade context, which tool is used to check whether a surface is perfectly flat?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Hacksaw\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Surface plate and spirit level\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Screwdriver\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Wrench\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q25.\u003c/span> A candidate has both a B.Sc in Electronics and a Diploma in Instrumentation. Which post are they most likely eligible for under this CEN?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli class=\"tre-opt-item opt-wrong\">Technician Grade-III only, since higher qualifications are not counted\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-right\">Technician Grade-I Signal, since this qualification matches its eligibility criteria\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Neither post, as this combination isn't recognized\u003c/li>\r\n\u003cli class=\"tre-opt-item opt-wrong\">Only clerical posts, not technical ones\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003c/section>\r\n\u003c/div>","image":"https://api.resumesathi.com/courses_image/rrb-technician-cen-02-2026-recruitment.webp","identifier":{"@type":"PropertyValue","name":"ResumeSathi","value":"23"},"datePosted":"2026-07-28","validFrom":"2026-06-30","validThrough":"2026-07-29","employmentType":"FULL_TIME","industry":"Railways","hiringOrganization":{"@type":"Organization","name":"Railways - Government Jobs","sameAs":"https://www.resumesathi.com/jobs/"},"jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressCountry":"IN"}},"directApply":false}b:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$17"}}],"$L18"]
+19:I[88609,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/06pj_k8chkpe5.js","/_next/static/chunks/16ymsuy-x3uv9.js"],"default"]
+1a:T4f96,<div class="post-content">
+<p>Railway Recruitment Board (RRB) is conducting recruitment for <strong>Technician Grade-I Signal and Technician Grade-III</strong> posts under CEN No. 02/2026, with 6557 vacancies on offer. Applications open on 30 June 2026 and close on 29 July 2026.</p>
+<h2>Important Dates</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td>Application Begin</td>
+<td><strong>30/06/2026</strong></td>
+</tr>
+<tr>
+<td>Last Date for Apply Online</td>
+<td><strong>29/07/2026</strong></td>
+</tr>
+<tr>
+<td>Last Date Pay Exam Fee</td>
+<td><strong>29/07/2026</strong></td>
+</tr>
+<tr>
+<td>Exam Date</td>
+<td><strong>As per Schedule</strong></td>
+</tr>
+<tr>
+<td>Exam City Intimation</td>
+<td><strong>10 Days Before Exam</strong></td>
+</tr>
+<tr>
+<td>Admit Card Available</td>
+<td><strong>4 Days Before Exam</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Application Fee</h2>
+<ul>
+<li>General / OBC / EWS : 500/-</li>
+<li>SC / ST : 250/-</li>
+<li>PH (Divyang) : 250/-</li>
+<li>Partial Refund Applies Once a Candidate Has Appeared for the Stage I Exam - UR/OBC/EWS Get Rs. 400/- Back, While SC/ST/PH/Female Candidates Get Rs. 250/- Back</li>
+<li>Fee Can Be Paid via E Challan (Cash) or Online Through Debit Card, Credit Card or Net Banking</li>
+</ul>
+<h2>Age Limit as on 01/07/2026</h2>
+<ul>
+<li>Minimum Age : 18 Years</li>
+<li>Technician Grade-III : Up to 30 Years</li>
+<li>Technician Grade-I Signal : Up to 33 Years</li>
+<li>Standard Age Relaxation Applies as per RRB Technician CEN 02/2026 Rules</li>
+</ul>
+<h2>Vacancy Details Total : 6557 Post</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<thead>
+<tr>
+<th>Post Name</th>
+<th>Total Post</th>
+<th>Railway RRB Technician Eligibility</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Technician Grade-I Signal</td>
+<td>323</td>
+<td>
+<ul>
+<li>B.Sc in Physics / Electronics / Computer Science / IT / Instrumentation</li>
+<li>OR B.Sc With a Combination Involving Any of the Above Subjects</li>
+<li>OR BE / B.Tech / 3-Year Engineering Diploma in a Related Stream</li>
+<li>Full Eligibility Details in the Official Notification</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Technician Grade-III (Open Line)</td>
+<td>6234</td>
+<td>
+<ul>
+<li>Class 10th Pass</li>
+<li>ITI Certificate (NCVT / SCVT) in a Related Trade or Branch</li>
+<li>Full Eligibility Details in the Official Notification</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>How to Fill RRB Technician CEN 02/2026 Online Form</h2>
+<ul>
+<li>Gather Your Documents in Advance like Educational Certificates, ITI Certificate (for Grade-III), ID Proof and Address Proof.</li>
+<li>Keep Scanned Copies of Your Photo, Signature and ID Proof Ready.</li>
+<li>Without Paying the Application Fee, Your Form Won't Be Treated as Complete.</li>
+</ul>
+<h2>Some Useful Important Links</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td><strong>Apply Online</strong></td>
+<td><a title="Apply Now" href="https://rrbapply.gov.in/#/auth/home" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+<tr>
+<td><strong>Download Notification</strong></td>
+<td><a title="Click here" href="https://www.sarkariresult.com/wp-content/uploads/2026/06/SarkariResult-RRB_Technician_Detailed_CEN_02_20262.pdf" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+<tr>
+<td><strong>Signature Resizer, PDF Compress, Age Calculator and More Tools</strong></td>
+<td><a title="https://www.resumesathi.com/tools/" href="https://www.resumesathi.com/tools/" target="_blank" rel="noopener">View Tools</a></td>
+</tr>
+<tr>
+<td><strong>Official Website</strong></td>
+<td><a title="RRB Official Website" href="https://indianrailways.gov.in/" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote><strong>Note: </strong>Candidates are advised to always cross-check dates, fee details, and eligibility criteria from the official RRB website before applying, as the schedule may change based on official updates.</blockquote>
+<h2>RRB Technician Preparation Tips 2026</h2>
+<ul>
+<li>Build a Strong Base in General Science and General Awareness First..</li>
+<li>Practice Mathematics and Reasoning Every Day With a Timer Running.</li>
+<li>Grade-I Signal Aspirants Should Revisit Their Core Subjects (Physics, Electronics, Instrumentation) Alongside General Topics.</li>
+<li>Grade-III Candidates Should Brush Up on Their ITI Trade Fundamentals, Since Trade-Specific Questions Do Appear.</li>
+<li>Practice&nbsp; Few Previous Year RRB Technician or ALP Papers.</li>
+</ul>
+<h2>Frequently Asked Questions</h2>
+<section class="tre-faq-list"><details class="tre-faq-item">
+<summary>What is the last date to apply for RRB Technician CEN 02/2026?</summary>
+<p>The last date to apply online is 29 July 2026, and the fee payment deadline is also 29 July 2026.</p>
+</details><details class="tre-faq-item">
+<summary>How many total vacancies are there in RRB Technician CEN 02/2026?</summary>
+<p>A total of 6557 posts have been announced, with 323 for Technician Grade-I Signal and 6234 for Technician Grade-III (Open Line).</p>
+</details><details class="tre-faq-item">
+<summary>What is the application fee for General category candidates?</summary>
+<p>General, OBC and EWS candidates need to pay Rs. 500/-, while SC, ST and PH (Divyang) candidates pay Rs. 250/-.</p>
+</details><details class="tre-faq-item">
+<summary>Is the application fee refundable?</summary>
+<p>Yes, a partial refund applies once a candidate has appeared for the Stage I exam - UR/OBC/EWS get Rs. 400/- back, while SC/ST/PH/Female candidates get Rs. 250/- back.</p>
+</details><details class="tre-faq-item">
+<summary>What is the age limit for Technician Grade-III and Grade-I Signal posts?</summary>
+<p>The minimum age is 18 years for both posts. Grade-III has a maximum age of 30 years, while Grade-I Signal goes up to 33 years, as on 01 July 2026.</p>
+</details><details class="tre-faq-item">
+<summary>What is the minimum qualification for Technician Grade-III (Open Line)?</summary>
+<p>Candidates need a Class 10th pass certificate along with an ITI Certificate (NCVT/SCVT) in a related trade or branch.</p>
+</details><details class="tre-faq-item">
+<summary>When will the exam city and admit card be available?</summary>
+<p>The exam city intimation will be available 10 days before the exam, and the admit card will be released 4 days before the exam.</p>
+</details></section>
+<section class="tre-quiz-wrap">
+<h3 class="tre-quiz-header">RRB Technician CEN 02/2026 - Exam Oriented Practice Questions</h3>
+<p class="tre-quiz-sub">Recruitment Rules, Technical &amp; Trade-Specific Concepts</p>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q1.</span> A candidate has already appeared for the Stage I exam under CEN 02/2026. If they belong to the General category, what refund can they expect?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">No refund is given once the exam is attempted</li>
+<li class="tre-opt-item opt-right">Rs. 400/- refund, since UR/OBC/EWS candidates get this amount back after appearing</li>
+<li class="tre-opt-item opt-wrong">Full fee of Rs. 500/- is refunded</li>
+<li class="tre-opt-item opt-wrong">Rs. 250/- refund, same as SC/ST candidates</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q2.</span> Which qualification pathway is valid for Technician Grade-I Signal?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Class 10th pass with ITI certificate only</li>
+<li class="tre-opt-item opt-right">B.Sc in Physics/Electronics/Computer Science/IT/Instrumentation, or BE/B.Tech/Diploma in a related stream</li>
+<li class="tre-opt-item opt-wrong">Any graduate degree regardless of subject</li>
+<li class="tre-opt-item opt-wrong">Only a Diploma in Civil Engineering</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q3.</span> For Technician Grade-III (Open Line), what combination of qualifications is required?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-right">Class 10th pass along with an ITI Certificate (NCVT/SCVT) in a related trade</li>
+<li class="tre-opt-item opt-wrong">A Bachelor's degree in any engineering stream</li>
+<li class="tre-opt-item opt-wrong">Only a Class 12th pass certificate</li>
+<li class="tre-opt-item opt-wrong">A diploma in Instrumentation only, no ITI needed</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q4.</span> How many days before the exam is the admit card typically released for RRB Technician CEN 02/2026?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">10 days before</li>
+<li class="tre-opt-item opt-right">4 days before</li>
+<li class="tre-opt-item opt-wrong">On the day of the exam</li>
+<li class="tre-opt-item opt-wrong">15 days before</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q5.</span> What is the maximum age limit for Technician Grade-I Signal as on 01/07/2026?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">30 years</li>
+<li class="tre-opt-item opt-right">33 years</li>
+<li class="tre-opt-item opt-wrong">35 years</li>
+<li class="tre-opt-item opt-wrong">28 years</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q6.</span> In a signalling circuit, which component is primarily responsible for controlling current flow in one direction only?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Resistor</li>
+<li class="tre-opt-item opt-right">Diode</li>
+<li class="tre-opt-item opt-wrong">Capacitor</li>
+<li class="tre-opt-item opt-wrong">Inductor</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q7.</span> What does the term "rectification" refer to in electronics, a concept relevant to Signal Technician trade knowledge?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Converting DC into AC</li>
+<li class="tre-opt-item opt-right">Converting AC into DC</li>
+<li class="tre-opt-item opt-wrong">Amplifying a weak signal</li>
+<li class="tre-opt-item opt-wrong">Reducing voltage in a circuit</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q8.</span> An ITI Fitter trade candidate is asked which measuring tool gives the most precise reading for small linear dimensions. Which is correct?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Steel ruler</li>
+<li class="tre-opt-item opt-right">Vernier caliper</li>
+<li class="tre-opt-item opt-wrong">Measuring tape</li>
+<li class="tre-opt-item opt-wrong">Try square</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q9.</span> Which trade under NCVT deals specifically with the maintenance and repair of electrical machines and wiring systems?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Fitter</li>
+<li class="tre-opt-item opt-right">Electrician</li>
+<li class="tre-opt-item opt-wrong">Turner</li>
+<li class="tre-opt-item opt-wrong">Welder</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q10.</span> A candidate paid the exam fee through e-Challan. Which of these payment channels is also permitted as per this notification?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Cheque only</li>
+<li class="tre-opt-item opt-right">Debit card, credit card, or net banking</li>
+<li class="tre-opt-item opt-wrong">Cash deposit only at railway stations</li>
+<li class="tre-opt-item opt-wrong">UPI is the only accepted mode</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q11.</span> Which unit measures electrical resistance, a concept tested heavily in the Signal Technician technical paper?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Ampere</li>
+<li class="tre-opt-item opt-wrong">Volt</li>
+<li class="tre-opt-item opt-right">Ohm</li>
+<li class="tre-opt-item opt-wrong">Watt</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q12.</span> As per the notification, what happens if a candidate fails to pay the application fee?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">The form is auto-approved after 24 hours</li>
+<li class="tre-opt-item opt-right">The form remains incomplete and is not treated as submitted</li>
+<li class="tre-opt-item opt-wrong">The candidate can pay later at the exam center</li>
+<li class="tre-opt-item opt-wrong">A late fee is automatically added</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q13.</span> A Turner trade candidate is working on a lathe machine. Which tool is used to hold and rotate the workpiece?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Vice</li>
+<li class="tre-opt-item opt-right">Chuck</li>
+<li class="tre-opt-item opt-wrong">Hacksaw</li>
+<li class="tre-opt-item opt-wrong">File</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q14.</span> Which gas combination is commonly used in the welding trade for cutting and joining metals, relevant to Grade-III technical trades?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Nitrogen and Hydrogen</li>
+<li class="tre-opt-item opt-right">Oxygen and Acetylene</li>
+<li class="tre-opt-item opt-wrong">Helium and Argon</li>
+<li class="tre-opt-item opt-wrong">Carbon dioxide and Nitrogen</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q15.</span> A minimum age of 18 years applies to both Technician posts under this CEN. Why is this age calculated "as on 01/07/2026" specifically?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">It's the date the exam will be conducted</li>
+<li class="tre-opt-item opt-right">It's the reference date fixed by RRB for calculating age eligibility for this notification</li>
+<li class="tre-opt-item opt-wrong">It's the last date of fee payment</li>
+<li class="tre-opt-item opt-wrong">It has no significance, just a formality</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q16.</span> Which instrument would an Electrician trade candidate use to measure current flowing through a circuit?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Voltmeter</li>
+<li class="tre-opt-item opt-right">Ammeter</li>
+<li class="tre-opt-item opt-wrong">Barometer</li>
+<li class="tre-opt-item opt-wrong">Thermometer</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q17.</span> What is the significance of the exam city intimation being sent 10 days before the exam?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">It confirms the candidate's final selection</li>
+<li class="tre-opt-item opt-right">It allows candidates to know their exam city in advance so they can plan travel and stay</li>
+<li class="tre-opt-item opt-wrong">It replaces the need for an admit card</li>
+<li class="tre-opt-item opt-wrong">It is only sent to SC/ST candidates</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q18.</span> In basic electronics relevant to the Signal Technician syllabus, what does a capacitor primarily do in a circuit?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Converts AC to DC</li>
+<li class="tre-opt-item opt-right">Stores and releases electrical energy</li>
+<li class="tre-opt-item opt-wrong">Generates a magnetic field only</li>
+<li class="tre-opt-item opt-wrong">Amplifies sound signals</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q19.</span> A Grade-III candidate holds an ITI certificate from SCVT instead of NCVT. As per this notification, is this acceptable?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-right">Yes, the notification accepts ITI Certificate from either NCVT or SCVT in a related trade</li>
+<li class="tre-opt-item opt-wrong">No, only NCVT certificates are valid</li>
+<li class="tre-opt-item opt-wrong">Only if the candidate also has a diploma</li>
+<li class="tre-opt-item opt-wrong">SCVT certificates are valid only for Grade-I posts</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q20.</span> Which safety equipment is mandatory while carrying out welding or fitting work, a common technical/safety question in RRB trade papers?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Regular sunglasses</li>
+<li class="tre-opt-item opt-right">Safety goggles and protective gloves</li>
+<li class="tre-opt-item opt-wrong">A raincoat</li>
+<li class="tre-opt-item opt-wrong">Ordinary cotton gloves without insulation</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q21.</span> What is the relationship between voltage, current, and resistance according to Ohm's Law, a core concept for Signal Technician candidates?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Voltage = Current x Resistance squared</li>
+<li class="tre-opt-item opt-right">Voltage = Current x Resistance</li>
+<li class="tre-opt-item opt-wrong">Voltage = Current divided by Resistance</li>
+<li class="tre-opt-item opt-wrong">Voltage has no relation to Resistance</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q22.</span> Which material property is most important when selecting cable insulation in railway signalling systems?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">High electrical conductivity</li>
+<li class="tre-opt-item opt-right">High resistance to electrical current (good insulating property)</li>
+<li class="tre-opt-item opt-wrong">Magnetic property</li>
+<li class="tre-opt-item opt-wrong">Low melting point</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q23.</span> If a Grade-III candidate's category is SC/ST, what application fee applies to them under this CEN?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Rs. 500/-</li>
+<li class="tre-opt-item opt-right">Rs. 250/-</li>
+<li class="tre-opt-item opt-wrong">No fee at all</li>
+<li class="tre-opt-item opt-wrong">Rs. 100/-</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q24.</span> In a Fitter/Machinist trade context, which tool is used to check whether a surface is perfectly flat?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Hacksaw</li>
+<li class="tre-opt-item opt-right">Surface plate and spirit level</li>
+<li class="tre-opt-item opt-wrong">Screwdriver</li>
+<li class="tre-opt-item opt-wrong">Wrench</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q25.</span> A candidate has both a B.Sc in Electronics and a Diploma in Instrumentation. Which post are they most likely eligible for under this CEN?</p>
+<ul class="tre-quiz-options">
+<li class="tre-opt-item opt-wrong">Technician Grade-III only, since higher qualifications are not counted</li>
+<li class="tre-opt-item opt-right">Technician Grade-I Signal, since this qualification matches its eligibility criteria</li>
+<li class="tre-opt-item opt-wrong">Neither post, as this combination isn't recognized</li>
+<li class="tre-opt-item opt-wrong">Only clerical posts, not technical ones</li>
+</ul>
+</article>
+</section>
+</div>18:["$","$L19",null,{"article":{"id":23,"title":"RRB Technician CEN 02/2026 Recruitment (6557 Post)","slug":"rrb-technician-cen-02-2026-recruitment","description":"Railway RRB Technician CEN 02/2026 notification out for 6557 posts (Grade-I Signal & Grade-III). Check eligibility, age limit, fee and apply online from 30 June to 29 July 2026.","company":null,"location":null,"employment_type":null,"salary":null,"status":1,"created_at":"2026-07-28T19:16:58.000000Z","updated_at":"2026-08-02T18:08:18.000000Z","job_type_id":null,"department_id":null,"is_active":1,"featured":0,"trending":0,"urgent":0,"homepage":0,"deleted_at":null,"hero_image":"courses_image/rrb-technician-cen-02-2026-recruitment.webp","created_by":1,"topic_name":"RRB Technician CEN 02/2026 Recruitment (6557 Post)","url_name":"rrb-technician-cen-02-2026-recruitment","meta_title":"RRB Technician CEN 02/2026 Recruitment (6557 Post)","meta_description":"Railway RRB Technician CEN 02/2026 notification out for 6557 posts (Grade-I Signal & Grade-III). Check eligibility, age limit, fee and apply online from 30 June to 29 July 2026.","meta_keyword":"RRB Technician CEN 02/2026, Railway Technician Recruitment 2026, RRB Technician Grade 1 Signal, RRB Technician Grade 3 Vacancy, Railway Technician Online Form 2026","canonical_tag":"courses/railways/rrb-technician-cen-02-2026-recruitment","course_type":9,"pageview":0,"application_begin":"2026-06-30","last_date_for_apply":"2026-07-29","user":{"id":1,"first_name":"Hariom","last_name":"Prajapati","email":"hariomprajapati9029@gmail.com","mobile":"8840860841","birth_date":"08/01/1999","age":"23","gender":"male","profile_image":"Hariom.jpg","background_image":null,"is_active":1,"created_at":"2021-09-12T13:19:51.000000Z","updated_at":"2026-07-12T10:04:13.000000Z"},"course_category":{"id":9,"course_name":"Railways","course_url":"railways","course_image":"courses/Indian-Railways.svg","description":"Latest railway job updates, recruitment notifications, exam details, and career opportunities in the railway","created_at":"2026-07-16T15:33:50.000000Z","updated_at":"2026-07-16T15:33:50.000000Z","deleted_at":null,"created_by":1},"contents":[{"id":19,"content":"$1a","course_id":23,"created_at":"2026-07-28T19:16:58.000000Z","updated_at":"2026-08-02T18:08:18.000000Z"}]},"slug":"rrb-technician-cen-02-2026-recruitment"}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1b:I[27201,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"IconMark"]
+e:null
+16:[["$","title","0",{"children":"RRB Technician CEN 02/2026 Recruitment (6557 Post) | ResumeSathi"}],["$","meta","1",{"name":"description","content":"Railway RRB Technician CEN 02/2026 notification out for 6557 posts (Grade-I Signal & Grade-III). Check eligibility, age limit, fee and apply online from 30 June to 29 July 2026."}],["$","meta","2",{"name":"keywords","content":"jobs, career opportunities, hiring, apply now, government jobs"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://www.resumesathi.com/jobs/rrb-technician-cen-02-2026-recruitment/"}],["$","meta","5",{"property":"og:title","content":"RRB Technician CEN 02/2026 Recruitment (6557 Post) | ResumeSathi"}],["$","meta","6",{"property":"og:description","content":"Railway RRB Technician CEN 02/2026 notification out for 6557 posts (Grade-I Signal & Grade-III). Check eligibility, age limit, fee and apply online from 30 June to 29 July 2026."}],["$","meta","7",{"property":"og:url","content":"https://www.resumesathi.com/jobs/rrb-technician-cen-02-2026-recruitment/"}],["$","meta","8",{"property":"og:site_name","content":"ResumeSathi"}],["$","meta","9",{"property":"og:image","content":"https://api.resumesathi.com/courses_image/rrb-technician-cen-02-2026-recruitment.webp"}],["$","meta","10",{"property":"og:image:alt","content":"RRB Technician CEN 02/2026 Recruitment (6557 Post)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"RRB Technician CEN 02/2026 Recruitment (6557 Post) | ResumeSathi"}],["$","meta","14",{"name":"twitter:description","content":"Railway RRB Technician CEN 02/2026 notification out for 6557 posts (Grade-I Signal & Grade-III). Check eligibility, age limit, fee and apply online from 30 June to 29 July 2026."}],["$","meta","15",{"name":"twitter:image","content":"https://api.resumesathi.com/courses_image/rrb-technician-cen-02-2026-recruitment.webp"}],["$","link","16",{"rel":"shortcut icon","href":"/front-assets/images/logo/favicon.png"}],["$","link","17",{"rel":"icon","href":"/front-assets/images/logo/favicon.png"}],["$","link","18",{"rel":"apple-touch-icon","href":"/front-assets/images/logo/favicon.png"}],["$","link","19",{"rel":"apple-touch-icon-precomposed","href":"/front-assets/images/logo/favicon.png"}],["$","$L1b","20",{}]]

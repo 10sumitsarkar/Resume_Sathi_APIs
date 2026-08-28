@@ -46,28 +46,31 @@
                     <div class="card-body">
                         <div class="row">
                             <div class="col-md-9 col">
-                                <h4 class="card-title">Web Development Sitemap</h4>
+                                <h4 class="card-title">Add Extra Sitemap URL</h4>
                             </div>
                         </div>
                         <p class="card-description">
-                            Create Sitemap Form
+                            Add only custom/static frontend URLs here. Blog and jobs are added automatically.
                         </p>
                         <br />
-                        <h4 class="card-title">Sitemap Detail</h4>
+                        <div class="rs-page-intro">
+                            <strong>Example:</strong> add <code>/tools/new-tool/</code> or <code>/about/</code>. Full URL is also allowed, but frontend path is recommended.
+                        </div>
+                        <h4 class="card-title">URL Detail</h4>
                         <div class="form-group row">
-                            <label for="URLName" class="col-sm-3 col-form-label">Sitemap Title<span
+                            <label for="URLName" class="col-sm-3 col-form-label">Frontend URL Path<span
                                     class="text-danger">*</span></label>
                             <div class="col-sm-9">
                                 <input type="text" class="form-control" id="URLName" name="slug" required
-                                    placeholder="URL Slug here...">
+                                    placeholder="/tools/new-tool/">
                             </div>
                         </div>
                         <div class="form-group row">
-                            <label for="URLName" class="col-sm-3 col-form-label">Sitemap Priority<span
+                            <label for="URLPriority" class="col-sm-3 col-form-label">Priority<span
                                     class="text-danger">*</span></label>
                             <div class="col-sm-9">
-                                <input type="text" class="form-control" id="URLName" name="priority" required
-                                    placeholder="URL priority here...">
+                                <input type="number" step="0.01" min="0" max="1" class="form-control" id="URLPriority" name="priority" required
+                                    placeholder="0.70">
                             </div>
                         </div>
                         <br>

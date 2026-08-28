@@ -47,6 +47,15 @@ class Course extends Model
         'homepage',
         'application_begin',
         'last_date_for_apply',
+        'has_admit_card',
+        'has_answer_key',
+        'has_result',
+    ];
+
+    protected $casts = [
+        'has_admit_card' => 'boolean',
+        'has_answer_key' => 'boolean',
+        'has_result' => 'boolean',
     ];
     // protected $dates = ['deleted_at'];
 

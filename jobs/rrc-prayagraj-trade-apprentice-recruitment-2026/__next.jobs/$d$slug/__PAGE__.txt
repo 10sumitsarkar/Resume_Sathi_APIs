@@ -1,0 +1,1039 @@
+1:"$Sreact.fragment"
+7:I[88609,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/06pj_k8chkpe5.js","/_next/static/chunks/16ymsuy-x3uv9.js"],"default"]
+9:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["/_next/static/chunks/36s5nf8n-vj81.css","style"]
+2:T1081a,{"@context":"https://schema.org/","@type":"JobPosting","title":"RRC Prayagraj Trade Apprentice Recruitment 2026 (1853 Post)","description":"\u003cdiv class=\"post-content\">\r\n\u003cp>North Central Railway (NCR) has released the notification for \u003cstrong>Various Trade Apprentices Recruitment 2026\u003c/strong> under Advt. No. RRC/NCR/Act. Apprentice 01/2026, for 1853 posts. Candidates interested in this Railway RRC Prayagraj Apprentice Recruitment can apply online from 08 July 2026 to 07 August 2026.\u003c/p>\r\n\u003ch2>Important Dates\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Application Begin\u003c/td>\r\n\u003ctd>\u003cstrong>08/07/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Last Date for Apply Online\u003c/td>\r\n\u003ctd>\u003cstrong>07/08/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Last Date Pay Exam Fee\u003c/td>\r\n\u003ctd>\u003cstrong>07/08/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Merit List\u003c/td>\r\n\u003ctd>\u003cstrong>As per Schedule\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>Application Fee\u003c/h2>\r\n\u003cul>\r\n\u003cli>General / OBC / EWS : 100/-\u003c/li>\r\n\u003cli>SC / ST : 0/-\u003c/li>\r\n\u003cli>All Category Female : 0/-\u003c/li>\r\n\u003cli>Pay the Exam Fee Through Debit Card, Credit Card or Net Banking Mode Only\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Age Limit as on 07/07/2026\u003c/h2>\r\n\u003cul>\r\n\u003cli>Minimum Age : 15 Years\u003c/li>\r\n\u003cli>Maximum Age : 24 Years\u003c/li>\r\n\u003cli>Age Relaxation Extra as per Railway NCR Prayagraj Apprentice Recruitment Rules\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Vacancy Details Total : 1853 Post\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003cthead>\r\n\u003ctr>\r\n\u003cth>Post Name\u003c/th>\r\n\u003cth>Total Post\u003c/th>\r\n\u003cth>Railway RRC Prayagraj Apprentice Eligibility\u003c/th>\r\n\u003c/tr>\r\n\u003c/thead>\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Various Trade Apprentice\u003c/td>\r\n\u003ctd>1853\u003c/td>\r\n\u003ctd>Class 10 High School Exam With Minimum 50% Marks and ITI / NCVT Certificate in Related Trade\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003cp>Trade / Division Wise Vacancy Details Are Given in the Official Notification.\u003c/p>\r\n\u003ch2>Selection Process\u003c/h2>\r\n\u003cul>\r\n\u003cli>Merit List Based on Class 10 and ITI Marks\u003c/li>\r\n\u003cli>Document Verification\u003c/li>\r\n\u003cli>Medical Examination (if Applicable as per Notification)\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>How to Fill Railway RRC NCR Prayagraj Apprentice Online Form 2026\u003c/h2>\r\n\u003cul>\r\n\u003cli>Keep Your Documents Ready like Class 10 Marksheet, ITI / NCVT Certificate, ID Proof and Address Proof.\u003c/li>\r\n\u003cli>Keep ready Scan Copies of Photo, Signature and ID Proof in the Prescribed Format.\u003c/li>\r\n\u003cli>Application Fee Payment Is Mandatory Without It Form Incomplete.\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Some Useful Important Links\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse; height: 72px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr style=\"height: 18px;\">\r\n\u003ctd style=\"height: 18px;\">\u003cstrong>Apply Online\u003c/strong>\u003c/td>\r\n\u003ctd style=\"height: 18px;\">\u003ca title=\"Apply Here\" href=\"https://examerp.com/\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr style=\"height: 18px;\">\r\n\u003ctd style=\"height: 18px;\">\u003cstrong>Download Notification\u003c/strong>\u003c/td>\r\n\u003ctd style=\"height: 18px;\">\u003ca title=\"Click Here\" href=\"https://rrcpryj.org/wp-content/uploads/2026/07/Notification-act-apprentice-2026.pdf\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr style=\"height: 18px;\">\r\n\u003ctd style=\"height: 18px;\">\u003cstrong>Signature Resizer, PDF Compress, Age Calculator and More Tools\u003c/strong>\u003c/td>\r\n\u003ctd style=\"height: 18px;\">\u003ca title=\"https://www.resumesathi.com/tools/\" href=\"https://www.resumesathi.com/tools/\" target=\"_blank\" rel=\"noopener\">View Tools\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr style=\"height: 18px;\">\r\n\u003ctd style=\"height: 18px;\">\u003cstrong>Official Website\u003c/strong>\u003c/td>\r\n\u003ctd style=\"height: 18px;\">\u003ca title=\"Indian Railway Official Website\" href=\"https://indianrailways.gov.in/\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003cblockquote>\u003cstrong>Note:\u003c/strong> Candidates are advised to always cross-check dates, fee details, and eligibility criteria from the official Indian Railway website before applying, as the schedule may change based on official updates.\u003c/blockquote>\r\n\u003ch2>RRC Prayagraj Apprentice Preparation Tips 2026\u003c/h2>\r\n\u003cul>\r\n\u003cli>Selection Is Merit-Based on Class 10 and ITI Marks so Focus on Maintaining Strong Academic Records.\u003c/li>\r\n\u003cli>Keep Your ITI / NCVT Trade Certificate and Marksheets Updated and Error-Free.\u003c/li>\r\n\u003cli>Keep All Original Documents and Photocopies Ready for the Document Verification Stage.\u003c/li>\r\n\u003cli>Apply Early Within the Window to Avoid Last-Minute Server Issues on the Application Portal.\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Frequently Asked Questions\u003c/h2>\r\n\u003csection class=\"tre-faq-list\">\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>What is the last date to apply for RRC Prayagraj Apprentice Recruitment 2026?\u003c/summary>\r\n\u003cp>The last date to apply online is 07 August 2026.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>How many total vacancies are there in this apprentice recruitment?\u003c/summary>\r\n\u003cp>A total of 1853 posts have been announced for Various Trade Apprentice positions.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>Is there an application fee for SC/ST and female candidates?\u003c/summary>\r\n\u003cp>No, SC/ST candidates and all category female candidates are exempted from the application fee.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>What is the minimum qualification required for RRC Prayagraj Apprentice posts?\u003c/summary>\r\n\u003cp>Candidates need a Class 10 pass certificate with minimum 50% marks along with an ITI/NCVT certificate in a related trade.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>Is there a written exam for this apprentice recruitment?\u003c/summary>\r\n\u003cp>No, selection is based on a merit list prepared from Class 10 and ITI marks, followed by document verification.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>What is the age limit for RRC Prayagraj Apprentice Recruitment 2026?\u003c/summary>\r\n\u003cp>Candidates must be between 15 and 24 years of age as on 07 July 2026, with age relaxation as per rules.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>Where can candidates check the trade-wise and division-wise vacancy breakup?\u003c/summary>\r\n\u003cp>The complete trade-wise and division-wise vacancy details are provided in the official notification released by RRC Prayagraj.\u003c/p>\r\n\u003c/details>\u003c/section>\r\n\u003csection class=\"tre-quiz-wrap\">\r\n\u003ch3 class=\"tre-quiz-header\">RRC Prayagraj Apprentice - General Knowledge Practice Questions\u003c/h3>\r\n\u003cp class=\"tre-quiz-sub\">100 Objective Questions\u003c/p>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q1.\u003c/span> In which year was Indian Railways established?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q1_o1\" class=\"tre-opt-item opt-wrong\">1843\u003c/li>\r\n\u003cli id=\"rrc_q1_o2\" class=\"tre-opt-item opt-right\">1853\u003c/li>\r\n\u003cli id=\"rrc_q1_o3\" class=\"tre-opt-item opt-wrong\">1863\u003c/li>\r\n\u003cli id=\"rrc_q1_o4\" class=\"tre-opt-item opt-wrong\">1873\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q2.\u003c/span> What is the headquarters of North Central Railway (NCR)?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q2_o1\" class=\"tre-opt-item opt-wrong\">Lucknow\u003c/li>\r\n\u003cli id=\"rrc_q2_o2\" class=\"tre-opt-item opt-right\">Allahabad (Prayagraj)\u003c/li>\r\n\u003cli id=\"rrc_q2_o3\" class=\"tre-opt-item opt-wrong\">Kanpur\u003c/li>\r\n\u003cli id=\"rrc_q2_o4\" class=\"tre-opt-item opt-wrong\">Agra\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q3.\u003c/span> Which is the longest railway platform in India?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q3_o1\" class=\"tre-opt-item opt-wrong\">Kharagpur\u003c/li>\r\n\u003cli id=\"rrc_q3_o2\" class=\"tre-opt-item opt-right\">Gorakhpur\u003c/li>\r\n\u003cli id=\"rrc_q3_o3\" class=\"tre-opt-item opt-wrong\">Hubli\u003c/li>\r\n\u003cli id=\"rrc_q3_o4\" class=\"tre-opt-item opt-wrong\">Kollam\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q4.\u003c/span> What is the name of India's first high-speed rail corridor project?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q4_o1\" class=\"tre-opt-item opt-wrong\">Vande Bharat\u003c/li>\r\n\u003cli id=\"rrc_q4_o2\" class=\"tre-opt-item opt-right\">Mumbai-Ahmedabad Bullet Train\u003c/li>\r\n\u003cli id=\"rrc_q4_o3\" class=\"tre-opt-item opt-wrong\">Delhi Metro\u003c/li>\r\n\u003cli id=\"rrc_q4_o4\" class=\"tre-opt-item opt-wrong\">Konkan Railway\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q5.\u003c/span> Which railway zone is headquartered at Prayagraj?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q5_o1\" class=\"tre-opt-item opt-wrong\">Central Railway\u003c/li>\r\n\u003cli id=\"rrc_q5_o2\" class=\"tre-opt-item opt-right\">North Central Railway\u003c/li>\r\n\u003cli id=\"rrc_q5_o3\" class=\"tre-opt-item opt-wrong\">Western Railway\u003c/li>\r\n\u003cli id=\"rrc_q5_o4\" class=\"tre-opt-item opt-wrong\">Southern Railway\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q6.\u003c/span> What does RRC stand for in railway recruitment?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q6_o1\" class=\"tre-opt-item opt-right\">Railway Recruitment Cell\u003c/li>\r\n\u003cli id=\"rrc_q6_o2\" class=\"tre-opt-item opt-wrong\">Railway Regional Committee\u003c/li>\r\n\u003cli id=\"rrc_q6_o3\" class=\"tre-opt-item opt-wrong\">Railway Rules Council\u003c/li>\r\n\u003cli id=\"rrc_q6_o4\" class=\"tre-opt-item opt-wrong\">Railway Recruitment Corporation\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q7.\u003c/span> Which train was India's first semi-high-speed train?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q7_o1\" class=\"tre-opt-item opt-wrong\">Rajdhani Express\u003c/li>\r\n\u003cli id=\"rrc_q7_o2\" class=\"tre-opt-item opt-right\">Gatimaan Express\u003c/li>\r\n\u003cli id=\"rrc_q7_o3\" class=\"tre-opt-item opt-wrong\">Shatabdi Express\u003c/li>\r\n\u003cli id=\"rrc_q7_o4\" class=\"tre-opt-item opt-wrong\">Duronto Express\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q8.\u003c/span> What is the full form of ITI?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q8_o1\" class=\"tre-opt-item opt-right\">Industrial Training Institute\u003c/li>\r\n\u003cli id=\"rrc_q8_o2\" class=\"tre-opt-item opt-wrong\">Indian Technical Institute\u003c/li>\r\n\u003cli id=\"rrc_q8_o3\" class=\"tre-opt-item opt-wrong\">Institute of Technical Innovation\u003c/li>\r\n\u003cli id=\"rrc_q8_o4\" class=\"tre-opt-item opt-wrong\">Indian Trade Institute\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q9.\u003c/span> Which body oversees ITI courses and certification (NCVT) in India?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q9_o1\" class=\"tre-opt-item opt-wrong\">UGC\u003c/li>\r\n\u003cli id=\"rrc_q9_o2\" class=\"tre-opt-item opt-right\">Directorate General of Training\u003c/li>\r\n\u003cli id=\"rrc_q9_o3\" class=\"tre-opt-item opt-wrong\">AICTE\u003c/li>\r\n\u003cli id=\"rrc_q9_o4\" class=\"tre-opt-item opt-wrong\">NCERT\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q10.\u003c/span> What is the maximum speed of the Vande Bharat Express?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q10_o1\" class=\"tre-opt-item opt-wrong\">130 km/h\u003c/li>\r\n\u003cli id=\"rrc_q10_o2\" class=\"tre-opt-item opt-wrong\">160 km/h\u003c/li>\r\n\u003cli id=\"rrc_q10_o3\" class=\"tre-opt-item opt-right\">180 km/h\u003c/li>\r\n\u003cli id=\"rrc_q10_o4\" class=\"tre-opt-item opt-wrong\">200 km/h\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q11.\u003c/span> Which is the oldest railway workshop in India?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q11_o1\" class=\"tre-opt-item opt-right\">Jamalpur Workshop\u003c/li>\r\n\u003cli id=\"rrc_q11_o2\" class=\"tre-opt-item opt-wrong\">Kanchrapara Workshop\u003c/li>\r\n\u003cli id=\"rrc_q11_o3\" class=\"tre-opt-item opt-wrong\">Kharagpur Workshop\u003c/li>\r\n\u003cli id=\"rrc_q11_o4\" class=\"tre-opt-item opt-wrong\">Golden Rock Workshop\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q12.\u003c/span> What is the name given to apprentices trained under the Apprentices Act, 1961?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q12_o1\" class=\"tre-opt-item opt-right\">Trade Apprentice\u003c/li>\r\n\u003cli id=\"rrc_q12_o2\" class=\"tre-opt-item opt-wrong\">Diploma Trainee\u003c/li>\r\n\u003cli id=\"rrc_q12_o3\" class=\"tre-opt-item opt-wrong\">Skill Worker\u003c/li>\r\n\u003cli id=\"rrc_q12_o4\" class=\"tre-opt-item opt-wrong\">Contract Worker\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q13.\u003c/span> Which ministry governs Indian Railways?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q13_o1\" class=\"tre-opt-item opt-wrong\">Ministry of Road Transport\u003c/li>\r\n\u003cli id=\"rrc_q13_o2\" class=\"tre-opt-item opt-right\">Ministry of Railways\u003c/li>\r\n\u003cli id=\"rrc_q13_o3\" class=\"tre-opt-item opt-wrong\">Ministry of Commerce\u003c/li>\r\n\u003cli id=\"rrc_q13_o4\" class=\"tre-opt-item opt-wrong\">Ministry of Labour\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q14.\u003c/span> What is the name of India's longest railway route (in terms of distance)?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q14_o1\" class=\"tre-opt-item opt-wrong\">Vivek Express\u003c/li>\r\n\u003cli id=\"rrc_q14_o2\" class=\"tre-opt-item opt-wrong\">Himsagar Express\u003c/li>\r\n\u003cli id=\"rrc_q14_o3\" class=\"tre-opt-item opt-wrong\">Dibrugarh-Kanyakumari Vivek Express\u003c/li>\r\n\u003cli id=\"rrc_q14_o4\" class=\"tre-opt-item opt-right\">Both B and C\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q15.\u003c/span> Under the Apprentices Act, what is the primary purpose of an apprenticeship?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q15_o1\" class=\"tre-opt-item opt-wrong\">Permanent employment\u003c/li>\r\n\u003cli id=\"rrc_q15_o2\" class=\"tre-opt-item opt-right\">Practical skill training in a trade\u003c/li>\r\n\u003cli id=\"rrc_q15_o3\" class=\"tre-opt-item opt-wrong\">Only classroom study\u003c/li>\r\n\u003cli id=\"rrc_q15_o4\" class=\"tre-opt-item opt-wrong\">Promotion to officer rank\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q16.\u003c/span> Which is the first electrified railway zone in India?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q16_o1\" class=\"tre-opt-item opt-wrong\">Eastern Railway\u003c/li>\r\n\u003cli id=\"rrc_q16_o2\" class=\"tre-opt-item opt-right\">Central Railway\u003c/li>\r\n\u003cli id=\"rrc_q16_o3\" class=\"tre-opt-item opt-wrong\">Western Railway\u003c/li>\r\n\u003cli id=\"rrc_q16_o4\" class=\"tre-opt-item opt-wrong\">Northern Railway\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q17.\u003c/span> What is Indian Railways' logo colloquially called?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q17_o1\" class=\"tre-opt-item opt-right\">Wheel and wings\u003c/li>\r\n\u003cli id=\"rrc_q17_o2\" class=\"tre-opt-item opt-wrong\">Ashoka Chakra\u003c/li>\r\n\u003cli id=\"rrc_q17_o3\" class=\"tre-opt-item opt-wrong\">Rail Neer\u003c/li>\r\n\u003cli id=\"rrc_q17_o4\" class=\"tre-opt-item opt-wrong\">None of these\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q18.\u003c/span> Which trade is commonly associated with 'Fitter' in ITI courses?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q18_o1\" class=\"tre-opt-item opt-wrong\">Electrical maintenance\u003c/li>\r\n\u003cli id=\"rrc_q18_o2\" class=\"tre-opt-item opt-right\">Mechanical assembly and repair work\u003c/li>\r\n\u003cli id=\"rrc_q18_o3\" class=\"tre-opt-item opt-wrong\">Computer operations\u003c/li>\r\n\u003cli id=\"rrc_q18_o4\" class=\"tre-opt-item opt-wrong\">Civil construction\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q19.\u003c/span> What is the retention period for Class 10 marksheets usually required during document verification?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q19_o1\" class=\"tre-opt-item opt-wrong\">Not required at all\u003c/li>\r\n\u003cli id=\"rrc_q19_o2\" class=\"tre-opt-item opt-right\">Original copy needed for verification\u003c/li>\r\n\u003cli id=\"rrc_q19_o3\" class=\"tre-opt-item opt-wrong\">Only photocopy needed\u003c/li>\r\n\u003cli id=\"rrc_q19_o4\" class=\"tre-opt-item opt-wrong\">Not applicable for apprentices\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q20.\u003c/span> Which of these is NOT a common ITI trade?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q20_o1\" class=\"tre-opt-item opt-wrong\">Electrician\u003c/li>\r\n\u003cli id=\"rrc_q20_o2\" class=\"tre-opt-item opt-wrong\">Welder\u003c/li>\r\n\u003cli id=\"rrc_q20_o3\" class=\"tre-opt-item opt-right\">Company Secretary\u003c/li>\r\n\u003cli id=\"rrc_q20_o4\" class=\"tre-opt-item opt-wrong\">Turner\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q21.\u003c/span> What does NCVT stand for?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q21_o1\" class=\"tre-opt-item opt-right\">National Council for Vocational Training\u003c/li>\r\n\u003cli id=\"rrc_q21_o2\" class=\"tre-opt-item opt-wrong\">National Council of Vocational Trades\u003c/li>\r\n\u003cli id=\"rrc_q21_o3\" class=\"tre-opt-item opt-wrong\">National Committee for Vocational Training\u003c/li>\r\n\u003cli id=\"rrc_q21_o4\" class=\"tre-opt-item opt-wrong\">National Center for Vocational Testing\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q22.\u003c/span> Indian Railways is divided into how many zones (as of recent reorganization)?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q22_o1\" class=\"tre-opt-item opt-wrong\">15\u003c/li>\r\n\u003cli id=\"rrc_q22_o2\" class=\"tre-opt-item opt-wrong\">17\u003c/li>\r\n\u003cli id=\"rrc_q22_o3\" class=\"tre-opt-item opt-right\">18\u003c/li>\r\n\u003cli id=\"rrc_q22_o4\" class=\"tre-opt-item opt-wrong\">20\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q23.\u003c/span> Which of these is a common apprentice trade under Railways?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q23_o1\" class=\"tre-opt-item opt-wrong\">Wireman\u003c/li>\r\n\u003cli id=\"rrc_q23_o2\" class=\"tre-opt-item opt-wrong\">Painter\u003c/li>\r\n\u003cli id=\"rrc_q23_o3\" class=\"tre-opt-item opt-wrong\">Carpenter\u003c/li>\r\n\u003cli id=\"rrc_q23_o4\" class=\"tre-opt-item opt-right\">All of the above\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q24.\u003c/span> What is the usual duration of an ITI course in most trades?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q24_o1\" class=\"tre-opt-item opt-wrong\">6 months\u003c/li>\r\n\u003cli id=\"rrc_q24_o2\" class=\"tre-opt-item opt-right\">1 to 2 years\u003c/li>\r\n\u003cli id=\"rrc_q24_o3\" class=\"tre-opt-item opt-wrong\">4 years\u003c/li>\r\n\u003cli id=\"rrc_q24_o4\" class=\"tre-opt-item opt-wrong\">5 years\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q25.\u003c/span> Which document is essential for verifying trade qualification during apprentice recruitment?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q25_o1\" class=\"tre-opt-item opt-wrong\">Domicile Certificate only\u003c/li>\r\n\u003cli id=\"rrc_q25_o2\" class=\"tre-opt-item opt-right\">ITI / NCVT Certificate\u003c/li>\r\n\u003cli id=\"rrc_q25_o3\" class=\"tre-opt-item opt-wrong\">Passport\u003c/li>\r\n\u003cli id=\"rrc_q25_o4\" class=\"tre-opt-item opt-wrong\">Driving License\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q26.\u003c/span> What is the unit of electric current?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q26_o1\" class=\"tre-opt-item opt-wrong\">Volt\u003c/li>\r\n\u003cli id=\"rrc_q26_o2\" class=\"tre-opt-item opt-right\">Ampere\u003c/li>\r\n\u003cli id=\"rrc_q26_o3\" class=\"tre-opt-item opt-wrong\">Ohm\u003c/li>\r\n\u003cli id=\"rrc_q26_o4\" class=\"tre-opt-item opt-wrong\">Watt\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q27.\u003c/span> Which gas is most abundant in the Earth's atmosphere?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q27_o1\" class=\"tre-opt-item opt-wrong\">Oxygen\u003c/li>\r\n\u003cli id=\"rrc_q27_o2\" class=\"tre-opt-item opt-wrong\">Carbon Dioxide\u003c/li>\r\n\u003cli id=\"rrc_q27_o3\" class=\"tre-opt-item opt-right\">Nitrogen\u003c/li>\r\n\u003cli id=\"rrc_q27_o4\" class=\"tre-opt-item opt-wrong\">Hydrogen\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q28.\u003c/span> What is the boiling point of water at sea level in Celsius?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q28_o1\" class=\"tre-opt-item opt-wrong\">90\u003c/li>\r\n\u003cli id=\"rrc_q28_o2\" class=\"tre-opt-item opt-right\">100\u003c/li>\r\n\u003cli id=\"rrc_q28_o3\" class=\"tre-opt-item opt-wrong\">110\u003c/li>\r\n\u003cli id=\"rrc_q28_o4\" class=\"tre-opt-item opt-wrong\">120\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q29.\u003c/span> Which part of the plant conducts photosynthesis mainly?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q29_o1\" class=\"tre-opt-item opt-wrong\">Root\u003c/li>\r\n\u003cli id=\"rrc_q29_o2\" class=\"tre-opt-item opt-wrong\">Stem\u003c/li>\r\n\u003cli id=\"rrc_q29_o3\" class=\"tre-opt-item opt-right\">Leaf\u003c/li>\r\n\u003cli id=\"rrc_q29_o4\" class=\"tre-opt-item opt-wrong\">Flower\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q30.\u003c/span> What is the SI unit of force?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q30_o1\" class=\"tre-opt-item opt-wrong\">Joule\u003c/li>\r\n\u003cli id=\"rrc_q30_o2\" class=\"tre-opt-item opt-right\">Newton\u003c/li>\r\n\u003cli id=\"rrc_q30_o3\" class=\"tre-opt-item opt-wrong\">Pascal\u003c/li>\r\n\u003cli id=\"rrc_q30_o4\" class=\"tre-opt-item opt-wrong\">Watt\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q31.\u003c/span> Which metal is liquid at room temperature?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q31_o1\" class=\"tre-opt-item opt-wrong\">Iron\u003c/li>\r\n\u003cli id=\"rrc_q31_o2\" class=\"tre-opt-item opt-right\">Mercury\u003c/li>\r\n\u003cli id=\"rrc_q31_o3\" class=\"tre-opt-item opt-wrong\">Aluminium\u003c/li>\r\n\u003cli id=\"rrc_q31_o4\" class=\"tre-opt-item opt-wrong\">Copper\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q32.\u003c/span> What is the process of solid turning directly into gas called?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q32_o1\" class=\"tre-opt-item opt-wrong\">Evaporation\u003c/li>\r\n\u003cli id=\"rrc_q32_o2\" class=\"tre-opt-item opt-wrong\">Condensation\u003c/li>\r\n\u003cli id=\"rrc_q32_o3\" class=\"tre-opt-item opt-right\">Sublimation\u003c/li>\r\n\u003cli id=\"rrc_q32_o4\" class=\"tre-opt-item opt-wrong\">Melting\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q33.\u003c/span> Which organ in the human body produces bile?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q33_o1\" class=\"tre-opt-item opt-wrong\">Kidney\u003c/li>\r\n\u003cli id=\"rrc_q33_o2\" class=\"tre-opt-item opt-right\">Liver\u003c/li>\r\n\u003cli id=\"rrc_q33_o3\" class=\"tre-opt-item opt-wrong\">Pancreas\u003c/li>\r\n\u003cli id=\"rrc_q33_o4\" class=\"tre-opt-item opt-wrong\">Stomach\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q34.\u003c/span> What type of energy does a moving object have?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q34_o1\" class=\"tre-opt-item opt-wrong\">Potential Energy\u003c/li>\r\n\u003cli id=\"rrc_q34_o2\" class=\"tre-opt-item opt-right\">Kinetic Energy\u003c/li>\r\n\u003cli id=\"rrc_q34_o3\" class=\"tre-opt-item opt-wrong\">Chemical Energy\u003c/li>\r\n\u003cli id=\"rrc_q34_o4\" class=\"tre-opt-item opt-wrong\">Thermal Energy\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q35.\u003c/span> Which of these is a renewable source of energy?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q35_o1\" class=\"tre-opt-item opt-wrong\">Coal\u003c/li>\r\n\u003cli id=\"rrc_q35_o2\" class=\"tre-opt-item opt-wrong\">Petroleum\u003c/li>\r\n\u003cli id=\"rrc_q35_o3\" class=\"tre-opt-item opt-right\">Solar Energy\u003c/li>\r\n\u003cli id=\"rrc_q35_o4\" class=\"tre-opt-item opt-wrong\">Natural Gas\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q36.\u003c/span> What is the chemical symbol for Sodium?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q36_o1\" class=\"tre-opt-item opt-wrong\">So\u003c/li>\r\n\u003cli id=\"rrc_q36_o2\" class=\"tre-opt-item opt-right\">Na\u003c/li>\r\n\u003cli id=\"rrc_q36_o3\" class=\"tre-opt-item opt-wrong\">S\u003c/li>\r\n\u003cli id=\"rrc_q36_o4\" class=\"tre-opt-item opt-wrong\">Sd\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q37.\u003c/span> Which instrument is used to measure atmospheric pressure?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q37_o1\" class=\"tre-opt-item opt-wrong\">Thermometer\u003c/li>\r\n\u003cli id=\"rrc_q37_o2\" class=\"tre-opt-item opt-right\">Barometer\u003c/li>\r\n\u003cli id=\"rrc_q37_o3\" class=\"tre-opt-item opt-wrong\">Hygrometer\u003c/li>\r\n\u003cli id=\"rrc_q37_o4\" class=\"tre-opt-item opt-wrong\">Anemometer\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q38.\u003c/span> What is the main function of red blood cells?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q38_o1\" class=\"tre-opt-item opt-wrong\">Fight infection\u003c/li>\r\n\u003cli id=\"rrc_q38_o2\" class=\"tre-opt-item opt-right\">Carry oxygen\u003c/li>\r\n\u003cli id=\"rrc_q38_o3\" class=\"tre-opt-item opt-wrong\">Clot blood\u003c/li>\r\n\u003cli id=\"rrc_q38_o4\" class=\"tre-opt-item opt-wrong\">Digest food\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q39.\u003c/span> Which law states that every action has an equal and opposite reaction?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q39_o1\" class=\"tre-opt-item opt-wrong\">Newton's First Law\u003c/li>\r\n\u003cli id=\"rrc_q39_o2\" class=\"tre-opt-item opt-wrong\">Newton's Second Law\u003c/li>\r\n\u003cli id=\"rrc_q39_o3\" class=\"tre-opt-item opt-right\">Newton's Third Law\u003c/li>\r\n\u003cli id=\"rrc_q39_o4\" class=\"tre-opt-item opt-wrong\">Law of Gravitation\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q40.\u003c/span> What is the powerhouse of the cell called?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q40_o1\" class=\"tre-opt-item opt-wrong\">Nucleus\u003c/li>\r\n\u003cli id=\"rrc_q40_o2\" class=\"tre-opt-item opt-right\">Mitochondria\u003c/li>\r\n\u003cli id=\"rrc_q40_o3\" class=\"tre-opt-item opt-wrong\">Ribosome\u003c/li>\r\n\u003cli id=\"rrc_q40_o4\" class=\"tre-opt-item opt-wrong\">Golgi Body\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q41.\u003c/span> Which gas do plants absorb from the atmosphere during photosynthesis?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q41_o1\" class=\"tre-opt-item opt-wrong\">Oxygen\u003c/li>\r\n\u003cli id=\"rrc_q41_o2\" class=\"tre-opt-item opt-wrong\">Nitrogen\u003c/li>\r\n\u003cli id=\"rrc_q41_o3\" class=\"tre-opt-item opt-right\">Carbon Dioxide\u003c/li>\r\n\u003cli id=\"rrc_q41_o4\" class=\"tre-opt-item opt-wrong\">Hydrogen\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q42.\u003c/span> What is the freezing point of water in Celsius?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q42_o1\" class=\"tre-opt-item opt-right\">0\u003c/li>\r\n\u003cli id=\"rrc_q42_o2\" class=\"tre-opt-item opt-wrong\">10\u003c/li>\r\n\u003cli id=\"rrc_q42_o3\" class=\"tre-opt-item opt-wrong\">-10\u003c/li>\r\n\u003cli id=\"rrc_q42_o4\" class=\"tre-opt-item opt-wrong\">32\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q43.\u003c/span> Which vitamin deficiency causes night blindness?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q43_o1\" class=\"tre-opt-item opt-wrong\">Vitamin B\u003c/li>\r\n\u003cli id=\"rrc_q43_o2\" class=\"tre-opt-item opt-right\">Vitamin A\u003c/li>\r\n\u003cli id=\"rrc_q43_o3\" class=\"tre-opt-item opt-wrong\">Vitamin C\u003c/li>\r\n\u003cli id=\"rrc_q43_o4\" class=\"tre-opt-item opt-wrong\">Vitamin D\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q44.\u003c/span> What is the study of heredity called?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q44_o1\" class=\"tre-opt-item opt-wrong\">Botany\u003c/li>\r\n\u003cli id=\"rrc_q44_o2\" class=\"tre-opt-item opt-right\">Genetics\u003c/li>\r\n\u003cli id=\"rrc_q44_o3\" class=\"tre-opt-item opt-wrong\">Zoology\u003c/li>\r\n\u003cli id=\"rrc_q44_o4\" class=\"tre-opt-item opt-wrong\">Ecology\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q45.\u003c/span> Which of these is a good conductor of electricity?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q45_o1\" class=\"tre-opt-item opt-wrong\">Rubber\u003c/li>\r\n\u003cli id=\"rrc_q45_o2\" class=\"tre-opt-item opt-right\">Copper\u003c/li>\r\n\u003cli id=\"rrc_q45_o3\" class=\"tre-opt-item opt-wrong\">Wood\u003c/li>\r\n\u003cli id=\"rrc_q45_o4\" class=\"tre-opt-item opt-wrong\">Plastic\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q46.\u003c/span> What is the unit used to measure sound intensity?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q46_o1\" class=\"tre-opt-item opt-wrong\">Hertz\u003c/li>\r\n\u003cli id=\"rrc_q46_o2\" class=\"tre-opt-item opt-right\">Decibel\u003c/li>\r\n\u003cli id=\"rrc_q46_o3\" class=\"tre-opt-item opt-wrong\">Watt\u003c/li>\r\n\u003cli id=\"rrc_q46_o4\" class=\"tre-opt-item opt-wrong\">Candela\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q47.\u003c/span> Which blood group is known as the universal donor?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q47_o1\" class=\"tre-opt-item opt-wrong\">A\u003c/li>\r\n\u003cli id=\"rrc_q47_o2\" class=\"tre-opt-item opt-wrong\">B\u003c/li>\r\n\u003cli id=\"rrc_q47_o3\" class=\"tre-opt-item opt-wrong\">AB\u003c/li>\r\n\u003cli id=\"rrc_q47_o4\" class=\"tre-opt-item opt-right\">O Negative\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q48.\u003c/span> What is the main component of natural gas?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q48_o1\" class=\"tre-opt-item opt-right\">Methane\u003c/li>\r\n\u003cli id=\"rrc_q48_o2\" class=\"tre-opt-item opt-wrong\">Ethane\u003c/li>\r\n\u003cli id=\"rrc_q48_o3\" class=\"tre-opt-item opt-wrong\">Propane\u003c/li>\r\n\u003cli id=\"rrc_q48_o4\" class=\"tre-opt-item opt-wrong\">Butane\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q49.\u003c/span> Which part of the eye controls the amount of light entering?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q49_o1\" class=\"tre-opt-item opt-wrong\">Retina\u003c/li>\r\n\u003cli id=\"rrc_q49_o2\" class=\"tre-opt-item opt-wrong\">Cornea\u003c/li>\r\n\u003cli id=\"rrc_q49_o3\" class=\"tre-opt-item opt-right\">Iris\u003c/li>\r\n\u003cli id=\"rrc_q49_o4\" class=\"tre-opt-item opt-wrong\">Lens\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q50.\u003c/span> What is the process by which plants lose water through leaves called?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q50_o1\" class=\"tre-opt-item opt-wrong\">Respiration\u003c/li>\r\n\u003cli id=\"rrc_q50_o2\" class=\"tre-opt-item opt-right\">Transpiration\u003c/li>\r\n\u003cli id=\"rrc_q50_o3\" class=\"tre-opt-item opt-wrong\">Photosynthesis\u003c/li>\r\n\u003cli id=\"rrc_q50_o4\" class=\"tre-opt-item opt-wrong\">Excretion\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q51.\u003c/span> Who is considered the Father of the Indian Constitution?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q51_o1\" class=\"tre-opt-item opt-wrong\">Mahatma Gandhi\u003c/li>\r\n\u003cli id=\"rrc_q51_o2\" class=\"tre-opt-item opt-right\">Dr. B.R. Ambedkar\u003c/li>\r\n\u003cli id=\"rrc_q51_o3\" class=\"tre-opt-item opt-wrong\">Jawaharlal Nehru\u003c/li>\r\n\u003cli id=\"rrc_q51_o4\" class=\"tre-opt-item opt-wrong\">Sardar Patel\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q52.\u003c/span> Which is the largest state in India by area?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q52_o1\" class=\"tre-opt-item opt-wrong\">Madhya Pradesh\u003c/li>\r\n\u003cli id=\"rrc_q52_o2\" class=\"tre-opt-item opt-right\">Rajasthan\u003c/li>\r\n\u003cli id=\"rrc_q52_o3\" class=\"tre-opt-item opt-wrong\">Maharashtra\u003c/li>\r\n\u003cli id=\"rrc_q52_o4\" class=\"tre-opt-item opt-wrong\">Uttar Pradesh\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q53.\u003c/span> What is the currency of Japan?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q53_o1\" class=\"tre-opt-item opt-wrong\">Yuan\u003c/li>\r\n\u003cli id=\"rrc_q53_o2\" class=\"tre-opt-item opt-right\">Yen\u003c/li>\r\n\u003cli id=\"rrc_q53_o3\" class=\"tre-opt-item opt-wrong\">Won\u003c/li>\r\n\u003cli id=\"rrc_q53_o4\" class=\"tre-opt-item opt-wrong\">Ringgit\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q54.\u003c/span> Which is the smallest continent by area?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q54_o1\" class=\"tre-opt-item opt-wrong\">Europe\u003c/li>\r\n\u003cli id=\"rrc_q54_o2\" class=\"tre-opt-item opt-right\">Australia\u003c/li>\r\n\u003cli id=\"rrc_q54_o3\" class=\"tre-opt-item opt-wrong\">Antarctica\u003c/li>\r\n\u003cli id=\"rrc_q54_o4\" class=\"tre-opt-item opt-wrong\">South America\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q55.\u003c/span> Who was the first woman Prime Minister of India?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q55_o1\" class=\"tre-opt-item opt-wrong\">Sonia Gandhi\u003c/li>\r\n\u003cli id=\"rrc_q55_o2\" class=\"tre-opt-item opt-right\">Indira Gandhi\u003c/li>\r\n\u003cli id=\"rrc_q55_o3\" class=\"tre-opt-item opt-wrong\">Pratibha Patil\u003c/li>\r\n\u003cli id=\"rrc_q55_o4\" class=\"tre-opt-item opt-wrong\">Sushma Swaraj\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q56.\u003c/span> Which Indian state is known as the 'Spice Garden of India'?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q56_o1\" class=\"tre-opt-item opt-right\">Kerala\u003c/li>\r\n\u003cli id=\"rrc_q56_o2\" class=\"tre-opt-item opt-wrong\">Karnataka\u003c/li>\r\n\u003cli id=\"rrc_q56_o3\" class=\"tre-opt-item opt-wrong\">Tamil Nadu\u003c/li>\r\n\u003cli id=\"rrc_q56_o4\" class=\"tre-opt-item opt-wrong\">Goa\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q57.\u003c/span> What is the national sport of India (traditionally referenced)?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q57_o1\" class=\"tre-opt-item opt-wrong\">Cricket\u003c/li>\r\n\u003cli id=\"rrc_q57_o2\" class=\"tre-opt-item opt-right\">Hockey\u003c/li>\r\n\u003cli id=\"rrc_q57_o3\" class=\"tre-opt-item opt-wrong\">Football\u003c/li>\r\n\u003cli id=\"rrc_q57_o4\" class=\"tre-opt-item opt-wrong\">Kabaddi\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q58.\u003c/span> Which is the longest river in the world?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q58_o1\" class=\"tre-opt-item opt-wrong\">Amazon\u003c/li>\r\n\u003cli id=\"rrc_q58_o2\" class=\"tre-opt-item opt-right\">Nile\u003c/li>\r\n\u003cli id=\"rrc_q58_o3\" class=\"tre-opt-item opt-wrong\">Ganga\u003c/li>\r\n\u003cli id=\"rrc_q58_o4\" class=\"tre-opt-item opt-wrong\">Yangtze\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q59.\u003c/span> Who wrote the national anthem of India?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q59_o1\" class=\"tre-opt-item opt-wrong\">Bankim Chandra Chatterjee\u003c/li>\r\n\u003cli id=\"rrc_q59_o2\" class=\"tre-opt-item opt-right\">Rabindranath Tagore\u003c/li>\r\n\u003cli id=\"rrc_q59_o3\" class=\"tre-opt-item opt-wrong\">Sarojini Naidu\u003c/li>\r\n\u003cli id=\"rrc_q59_o4\" class=\"tre-opt-item opt-wrong\">Subhas Chandra Bose\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q60.\u003c/span> Which is the highest civilian award in India?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q60_o1\" class=\"tre-opt-item opt-wrong\">Padma Vibhushan\u003c/li>\r\n\u003cli id=\"rrc_q60_o2\" class=\"tre-opt-item opt-right\">Bharat Ratna\u003c/li>\r\n\u003cli id=\"rrc_q60_o3\" class=\"tre-opt-item opt-wrong\">Padma Shri\u003c/li>\r\n\u003cli id=\"rrc_q60_o4\" class=\"tre-opt-item opt-wrong\">Ashoka Chakra\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q61.\u003c/span> What is the capital of Uttar Pradesh?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q61_o1\" class=\"tre-opt-item opt-wrong\">Kanpur\u003c/li>\r\n\u003cli id=\"rrc_q61_o2\" class=\"tre-opt-item opt-right\">Lucknow\u003c/li>\r\n\u003cli id=\"rrc_q61_o3\" class=\"tre-opt-item opt-wrong\">Agra\u003c/li>\r\n\u003cli id=\"rrc_q61_o4\" class=\"tre-opt-item opt-wrong\">Varanasi\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q62.\u003c/span> Which planet is known as the Red Planet?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q62_o1\" class=\"tre-opt-item opt-wrong\">Venus\u003c/li>\r\n\u003cli id=\"rrc_q62_o2\" class=\"tre-opt-item opt-right\">Mars\u003c/li>\r\n\u003cli id=\"rrc_q62_o3\" class=\"tre-opt-item opt-wrong\">Jupiter\u003c/li>\r\n\u003cli id=\"rrc_q62_o4\" class=\"tre-opt-item opt-wrong\">Saturn\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q63.\u003c/span> Who is known as the 'Missile Man of India'?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q63_o1\" class=\"tre-opt-item opt-wrong\">Homi Bhabha\u003c/li>\r\n\u003cli id=\"rrc_q63_o2\" class=\"tre-opt-item opt-right\">A.P.J. Abdul Kalam\u003c/li>\r\n\u003cli id=\"rrc_q63_o3\" class=\"tre-opt-item opt-wrong\">Vikram Sarabhai\u003c/li>\r\n\u003cli id=\"rrc_q63_o4\" class=\"tre-opt-item opt-wrong\">C.V. Raman\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q64.\u003c/span> Which is the largest desert in India?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q64_o1\" class=\"tre-opt-item opt-right\">Thar Desert\u003c/li>\r\n\u003cli id=\"rrc_q64_o2\" class=\"tre-opt-item opt-wrong\">Rann of Kutch\u003c/li>\r\n\u003cli id=\"rrc_q64_o3\" class=\"tre-opt-item opt-wrong\">Cold Desert\u003c/li>\r\n\u003cli id=\"rrc_q64_o4\" class=\"tre-opt-item opt-wrong\">Sahara Desert\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q65.\u003c/span> What is the full form of GST in India?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q65_o1\" class=\"tre-opt-item opt-wrong\">General Sales Tax\u003c/li>\r\n\u003cli id=\"rrc_q65_o2\" class=\"tre-opt-item opt-right\">Goods and Services Tax\u003c/li>\r\n\u003cli id=\"rrc_q65_o3\" class=\"tre-opt-item opt-wrong\">Government Service Tax\u003c/li>\r\n\u003cli id=\"rrc_q65_o4\" class=\"tre-opt-item opt-wrong\">General Service Trade\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q66.\u003c/span> Which organization conducts the Indian Railway recruitment exams broadly?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q66_o1\" class=\"tre-opt-item opt-wrong\">UPSC\u003c/li>\r\n\u003cli id=\"rrc_q66_o2\" class=\"tre-opt-item opt-wrong\">SSC\u003c/li>\r\n\u003cli id=\"rrc_q66_o3\" class=\"tre-opt-item opt-right\">RRB / RRC\u003c/li>\r\n\u003cli id=\"rrc_q66_o4\" class=\"tre-opt-item opt-wrong\">IBPS\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q67.\u003c/span> Who was the first President of independent India?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q67_o1\" class=\"tre-opt-item opt-wrong\">Jawaharlal Nehru\u003c/li>\r\n\u003cli id=\"rrc_q67_o2\" class=\"tre-opt-item opt-right\">Dr. Rajendra Prasad\u003c/li>\r\n\u003cli id=\"rrc_q67_o3\" class=\"tre-opt-item opt-wrong\">Dr. S. Radhakrishnan\u003c/li>\r\n\u003cli id=\"rrc_q67_o4\" class=\"tre-opt-item opt-wrong\">Zakir Hussain\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q68.\u003c/span> Which festival is known as the 'Festival of Lights' in India?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q68_o1\" class=\"tre-opt-item opt-wrong\">Holi\u003c/li>\r\n\u003cli id=\"rrc_q68_o2\" class=\"tre-opt-item opt-right\">Diwali\u003c/li>\r\n\u003cli id=\"rrc_q68_o3\" class=\"tre-opt-item opt-wrong\">Eid\u003c/li>\r\n\u003cli id=\"rrc_q68_o4\" class=\"tre-opt-item opt-wrong\">Baisakhi\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q69.\u003c/span> What is the national animal of India?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q69_o1\" class=\"tre-opt-item opt-wrong\">Lion\u003c/li>\r\n\u003cli id=\"rrc_q69_o2\" class=\"tre-opt-item opt-right\">Tiger\u003c/li>\r\n\u003cli id=\"rrc_q69_o3\" class=\"tre-opt-item opt-wrong\">Elephant\u003c/li>\r\n\u003cli id=\"rrc_q69_o4\" class=\"tre-opt-item opt-wrong\">Leopard\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q70.\u003c/span> Which Indian city is known as the 'Silicon Valley of India'?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q70_o1\" class=\"tre-opt-item opt-wrong\">Chennai\u003c/li>\r\n\u003cli id=\"rrc_q70_o2\" class=\"tre-opt-item opt-right\">Bengaluru\u003c/li>\r\n\u003cli id=\"rrc_q70_o3\" class=\"tre-opt-item opt-wrong\">Hyderabad\u003c/li>\r\n\u003cli id=\"rrc_q70_o4\" class=\"tre-opt-item opt-wrong\">Pune\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q71.\u003c/span> What is the full form of UPSC?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q71_o1\" class=\"tre-opt-item opt-right\">Union Public Service Commission\u003c/li>\r\n\u003cli id=\"rrc_q71_o2\" class=\"tre-opt-item opt-wrong\">United Public Service Council\u003c/li>\r\n\u003cli id=\"rrc_q71_o3\" class=\"tre-opt-item opt-wrong\">Union Personnel Service Commission\u003c/li>\r\n\u003cli id=\"rrc_q71_o4\" class=\"tre-opt-item opt-wrong\">United Provincial Service Commission\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q72.\u003c/span> Which is the smallest state in India by area?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q72_o1\" class=\"tre-opt-item opt-wrong\">Sikkim\u003c/li>\r\n\u003cli id=\"rrc_q72_o2\" class=\"tre-opt-item opt-right\">Goa\u003c/li>\r\n\u003cli id=\"rrc_q72_o3\" class=\"tre-opt-item opt-wrong\">Tripura\u003c/li>\r\n\u003cli id=\"rrc_q72_o4\" class=\"tre-opt-item opt-wrong\">Nagaland\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q73.\u003c/span> Who is the author of the book 'Discovery of India'?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q73_o1\" class=\"tre-opt-item opt-wrong\">Mahatma Gandhi\u003c/li>\r\n\u003cli id=\"rrc_q73_o2\" class=\"tre-opt-item opt-right\">Jawaharlal Nehru\u003c/li>\r\n\u003cli id=\"rrc_q73_o3\" class=\"tre-opt-item opt-wrong\">Rabindranath Tagore\u003c/li>\r\n\u003cli id=\"rrc_q73_o4\" class=\"tre-opt-item opt-wrong\">Sarojini Naidu\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q74.\u003c/span> Which river is known as the 'Sorrow of Bengal'?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q74_o1\" class=\"tre-opt-item opt-right\">Damodar\u003c/li>\r\n\u003cli id=\"rrc_q74_o2\" class=\"tre-opt-item opt-wrong\">Hooghly\u003c/li>\r\n\u003cli id=\"rrc_q74_o3\" class=\"tre-opt-item opt-wrong\">Brahmaputra\u003c/li>\r\n\u003cli id=\"rrc_q74_o4\" class=\"tre-opt-item opt-wrong\">Teesta\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q75.\u003c/span> What is the term for a government's yearly financial statement?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q75_o1\" class=\"tre-opt-item opt-wrong\">Census\u003c/li>\r\n\u003cli id=\"rrc_q75_o2\" class=\"tre-opt-item opt-right\">Budget\u003c/li>\r\n\u003cli id=\"rrc_q75_o3\" class=\"tre-opt-item opt-wrong\">Survey\u003c/li>\r\n\u003cli id=\"rrc_q75_o4\" class=\"tre-opt-item opt-wrong\">Manifesto\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q76.\u003c/span> Find the next number in the series: 2, 4, 6, 8, ___\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q76_o1\" class=\"tre-opt-item opt-wrong\">9\u003c/li>\r\n\u003cli id=\"rrc_q76_o2\" class=\"tre-opt-item opt-right\">10\u003c/li>\r\n\u003cli id=\"rrc_q76_o3\" class=\"tre-opt-item opt-wrong\">12\u003c/li>\r\n\u003cli id=\"rrc_q76_o4\" class=\"tre-opt-item opt-wrong\">14\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q77.\u003c/span> If A=1, B=2, C=3, what does D stand for?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q77_o1\" class=\"tre-opt-item opt-wrong\">3\u003c/li>\r\n\u003cli id=\"rrc_q77_o2\" class=\"tre-opt-item opt-right\">4\u003c/li>\r\n\u003cli id=\"rrc_q77_o3\" class=\"tre-opt-item opt-wrong\">5\u003c/li>\r\n\u003cli id=\"rrc_q77_o4\" class=\"tre-opt-item opt-wrong\">6\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q78.\u003c/span> Complete the series: 3, 6, 9, 12, ___\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q78_o1\" class=\"tre-opt-item opt-wrong\">14\u003c/li>\r\n\u003cli id=\"rrc_q78_o2\" class=\"tre-opt-item opt-right\">15\u003c/li>\r\n\u003cli id=\"rrc_q78_o3\" class=\"tre-opt-item opt-wrong\">16\u003c/li>\r\n\u003cli id=\"rrc_q78_o4\" class=\"tre-opt-item opt-wrong\">18\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q79.\u003c/span> If today is Monday, what day will it be after 3 days?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q79_o1\" class=\"tre-opt-item opt-wrong\">Wednesday\u003c/li>\r\n\u003cli id=\"rrc_q79_o2\" class=\"tre-opt-item opt-right\">Thursday\u003c/li>\r\n\u003cli id=\"rrc_q79_o3\" class=\"tre-opt-item opt-wrong\">Friday\u003c/li>\r\n\u003cli id=\"rrc_q79_o4\" class=\"tre-opt-item opt-wrong\">Saturday\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q80.\u003c/span> Find the odd one out: Apple, Banana, Carrot, Mango\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q80_o1\" class=\"tre-opt-item opt-wrong\">Apple\u003c/li>\r\n\u003cli id=\"rrc_q80_o2\" class=\"tre-opt-item opt-wrong\">Banana\u003c/li>\r\n\u003cli id=\"rrc_q80_o3\" class=\"tre-opt-item opt-right\">Carrot\u003c/li>\r\n\u003cli id=\"rrc_q80_o4\" class=\"tre-opt-item opt-wrong\">Mango\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q81.\u003c/span> What comes next: 1, 4, 9, 16, ___\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q81_o1\" class=\"tre-opt-item opt-wrong\">20\u003c/li>\r\n\u003cli id=\"rrc_q81_o2\" class=\"tre-opt-item opt-wrong\">24\u003c/li>\r\n\u003cli id=\"rrc_q81_o3\" class=\"tre-opt-item opt-right\">25\u003c/li>\r\n\u003cli id=\"rrc_q81_o4\" class=\"tre-opt-item opt-wrong\">30\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q82.\u003c/span> If CAT is coded as DBU, how is DOG coded?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q82_o1\" class=\"tre-opt-item opt-right\">EPH\u003c/li>\r\n\u003cli id=\"rrc_q82_o2\" class=\"tre-opt-item opt-wrong\">EPI\u003c/li>\r\n\u003cli id=\"rrc_q82_o3\" class=\"tre-opt-item opt-wrong\">EQH\u003c/li>\r\n\u003cli id=\"rrc_q82_o4\" class=\"tre-opt-item opt-wrong\">FPI\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q83.\u003c/span> Which number is the odd one out: 2, 3, 5, 8, 11\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q83_o1\" class=\"tre-opt-item opt-wrong\">2\u003c/li>\r\n\u003cli id=\"rrc_q83_o2\" class=\"tre-opt-item opt-wrong\">3\u003c/li>\r\n\u003cli id=\"rrc_q83_o3\" class=\"tre-opt-item opt-right\">8\u003c/li>\r\n\u003cli id=\"rrc_q83_o4\" class=\"tre-opt-item opt-wrong\">11\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q84.\u003c/span> Find the missing number: 5, 10, 20, 40, ___\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q84_o1\" class=\"tre-opt-item opt-wrong\">50\u003c/li>\r\n\u003cli id=\"rrc_q84_o2\" class=\"tre-opt-item opt-wrong\">60\u003c/li>\r\n\u003cli id=\"rrc_q84_o3\" class=\"tre-opt-item opt-wrong\">70\u003c/li>\r\n\u003cli id=\"rrc_q84_o4\" class=\"tre-opt-item opt-right\">80\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q85.\u003c/span> A man is facing east. He turns 90 degrees clockwise. Which direction is he facing now?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q85_o1\" class=\"tre-opt-item opt-wrong\">North\u003c/li>\r\n\u003cli id=\"rrc_q85_o2\" class=\"tre-opt-item opt-right\">South\u003c/li>\r\n\u003cli id=\"rrc_q85_o3\" class=\"tre-opt-item opt-wrong\">East\u003c/li>\r\n\u003cli id=\"rrc_q85_o4\" class=\"tre-opt-item opt-wrong\">West\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q86.\u003c/span> Which word does not belong: Rose, Lotus, Sunflower, Table\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q86_o1\" class=\"tre-opt-item opt-wrong\">Rose\u003c/li>\r\n\u003cli id=\"rrc_q86_o2\" class=\"tre-opt-item opt-wrong\">Lotus\u003c/li>\r\n\u003cli id=\"rrc_q86_o3\" class=\"tre-opt-item opt-wrong\">Sunflower\u003c/li>\r\n\u003cli id=\"rrc_q86_o4\" class=\"tre-opt-item opt-right\">Table\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q87.\u003c/span> Complete the pattern: A, C, E, G, ___\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q87_o1\" class=\"tre-opt-item opt-wrong\">H\u003c/li>\r\n\u003cli id=\"rrc_q87_o2\" class=\"tre-opt-item opt-right\">I\u003c/li>\r\n\u003cli id=\"rrc_q87_o3\" class=\"tre-opt-item opt-wrong\">J\u003c/li>\r\n\u003cli id=\"rrc_q87_o4\" class=\"tre-opt-item opt-wrong\">K\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q88.\u003c/span> If 5 workers can build a wall in 10 days, how many days will 10 workers take?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q88_o1\" class=\"tre-opt-item opt-right\">5 days\u003c/li>\r\n\u003cli id=\"rrc_q88_o2\" class=\"tre-opt-item opt-wrong\">10 days\u003c/li>\r\n\u003cli id=\"rrc_q88_o3\" class=\"tre-opt-item opt-wrong\">20 days\u003c/li>\r\n\u003cli id=\"rrc_q88_o4\" class=\"tre-opt-item opt-wrong\">15 days\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q89.\u003c/span> Find the odd one out: Circle, Square, Triangle, Red\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q89_o1\" class=\"tre-opt-item opt-wrong\">Circle\u003c/li>\r\n\u003cli id=\"rrc_q89_o2\" class=\"tre-opt-item opt-wrong\">Square\u003c/li>\r\n\u003cli id=\"rrc_q89_o3\" class=\"tre-opt-item opt-wrong\">Triangle\u003c/li>\r\n\u003cli id=\"rrc_q89_o4\" class=\"tre-opt-item opt-right\">Red\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q90.\u003c/span> What is the next term: 100, 90, 80, 70, ___\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q90_o1\" class=\"tre-opt-item opt-wrong\">50\u003c/li>\r\n\u003cli id=\"rrc_q90_o2\" class=\"tre-opt-item opt-right\">60\u003c/li>\r\n\u003cli id=\"rrc_q90_o3\" class=\"tre-opt-item opt-wrong\">65\u003c/li>\r\n\u003cli id=\"rrc_q90_o4\" class=\"tre-opt-item opt-wrong\">75\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q91.\u003c/span> If South-East becomes North on rotating a map 135 degrees, in which direction is West originally?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q91_o1\" class=\"tre-opt-item opt-right\">Requires diagram - a common reasoning question type\u003c/li>\r\n\u003cli id=\"rrc_q91_o2\" class=\"tre-opt-item opt-wrong\">N/A\u003c/li>\r\n\u003cli id=\"rrc_q91_o3\" class=\"tre-opt-item opt-wrong\">N/A\u003c/li>\r\n\u003cli id=\"rrc_q91_o4\" class=\"tre-opt-item opt-wrong\">N/A\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q92.\u003c/span> Which number should replace the question mark: 7, 14, 21, ?, 35\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q92_o1\" class=\"tre-opt-item opt-wrong\">24\u003c/li>\r\n\u003cli id=\"rrc_q92_o2\" class=\"tre-opt-item opt-right\">28\u003c/li>\r\n\u003cli id=\"rrc_q92_o3\" class=\"tre-opt-item opt-wrong\">30\u003c/li>\r\n\u003cli id=\"rrc_q92_o4\" class=\"tre-opt-item opt-wrong\">32\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q93.\u003c/span> Find the odd pair: (2,4), (3,9), (4,16), (5,20)\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q93_o1\" class=\"tre-opt-item opt-wrong\">(2,4)\u003c/li>\r\n\u003cli id=\"rrc_q93_o2\" class=\"tre-opt-item opt-wrong\">(3,9)\u003c/li>\r\n\u003cli id=\"rrc_q93_o3\" class=\"tre-opt-item opt-wrong\">(4,16)\u003c/li>\r\n\u003cli id=\"rrc_q93_o4\" class=\"tre-opt-item opt-right\">(5,20)\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q94.\u003c/span> If in a certain code, BOOK is written as CPPL, how is PEN written?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q94_o1\" class=\"tre-opt-item opt-right\">QFO\u003c/li>\r\n\u003cli id=\"rrc_q94_o2\" class=\"tre-opt-item opt-wrong\">QFN\u003c/li>\r\n\u003cli id=\"rrc_q94_o3\" class=\"tre-opt-item opt-wrong\">QEO\u003c/li>\r\n\u003cli id=\"rrc_q94_o4\" class=\"tre-opt-item opt-wrong\">PFO\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q95.\u003c/span> Choose the number that does not fit: 4, 9, 16, 23, 25\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q95_o1\" class=\"tre-opt-item opt-wrong\">9\u003c/li>\r\n\u003cli id=\"rrc_q95_o2\" class=\"tre-opt-item opt-wrong\">16\u003c/li>\r\n\u003cli id=\"rrc_q95_o3\" class=\"tre-opt-item opt-right\">23\u003c/li>\r\n\u003cli id=\"rrc_q95_o4\" class=\"tre-opt-item opt-wrong\">25\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q96.\u003c/span> A clock shows 3:15. What is the angle between the hour and minute hands (approx)?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q96_o1\" class=\"tre-opt-item opt-wrong\">0 degrees\u003c/li>\r\n\u003cli id=\"rrc_q96_o2\" class=\"tre-opt-item opt-right\">7.5 degrees\u003c/li>\r\n\u003cli id=\"rrc_q96_o3\" class=\"tre-opt-item opt-wrong\">30 degrees\u003c/li>\r\n\u003cli id=\"rrc_q96_o4\" class=\"tre-opt-item opt-wrong\">90 degrees\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q97.\u003c/span> Which shape has the most sides among these: Pentagon, Hexagon, Triangle, Square\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q97_o1\" class=\"tre-opt-item opt-wrong\">Pentagon\u003c/li>\r\n\u003cli id=\"rrc_q97_o2\" class=\"tre-opt-item opt-right\">Hexagon\u003c/li>\r\n\u003cli id=\"rrc_q97_o3\" class=\"tre-opt-item opt-wrong\">Triangle\u003c/li>\r\n\u003cli id=\"rrc_q97_o4\" class=\"tre-opt-item opt-wrong\">Square\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q98.\u003c/span> Find the next letter: Z, X, V, T, ___\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q98_o1\" class=\"tre-opt-item opt-wrong\">S\u003c/li>\r\n\u003cli id=\"rrc_q98_o2\" class=\"tre-opt-item opt-right\">R\u003c/li>\r\n\u003cli id=\"rrc_q98_o3\" class=\"tre-opt-item opt-wrong\">Q\u003c/li>\r\n\u003cli id=\"rrc_q98_o4\" class=\"tre-opt-item opt-wrong\">P\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q99.\u003c/span> If a train travels 60 km in 1 hour, how far will it travel in 2.5 hours at the same speed?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q99_o1\" class=\"tre-opt-item opt-wrong\">120 km\u003c/li>\r\n\u003cli id=\"rrc_q99_o2\" class=\"tre-opt-item opt-right\">150 km\u003c/li>\r\n\u003cli id=\"rrc_q99_o3\" class=\"tre-opt-item opt-wrong\">180 km\u003c/li>\r\n\u003cli id=\"rrc_q99_o4\" class=\"tre-opt-item opt-wrong\">100 km\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q100.\u003c/span> Which number comes next: 1, 1, 2, 3, 5, 8, ___\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrc_q100_o1\" class=\"tre-opt-item opt-wrong\">10\u003c/li>\r\n\u003cli id=\"rrc_q100_o2\" class=\"tre-opt-item opt-wrong\">11\u003c/li>\r\n\u003cli id=\"rrc_q100_o3\" class=\"tre-opt-item opt-wrong\">12\u003c/li>\r\n\u003cli id=\"rrc_q100_o4\" class=\"tre-opt-item opt-right\">13\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003c/section>\r\n\u003c/div>","image":"https://api.resumesathi.com/courses_image/RRC%20Prayagraj%20Trade%20Apprentice%20Recruitment%202026%20-%20Apply%20for%201853%20Post.png","identifier":{"@type":"PropertyValue","name":"ResumeSathi","value":"19"},"datePosted":"2026-07-22","validFrom":"2026-07-08","validThrough":"2026-08-07","employmentType":"FULL_TIME","industry":"Railways","hiringOrganization":{"@type":"Organization","name":"Railways - Government Jobs","sameAs":"https://www.resumesathi.com/jobs/"},"jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressCountry":"IN"}},"directApply":false}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4","$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"keVm6Da3qnRC_mqGccBX1"}
+8:Tcfa4,<div class="post-content">
+<p>North Central Railway (NCR) has released the notification for <strong>Various Trade Apprentices Recruitment 2026</strong> under Advt. No. RRC/NCR/Act. Apprentice 01/2026, for 1853 posts. Candidates interested in this Railway RRC Prayagraj Apprentice Recruitment can apply online from 08 July 2026 to 07 August 2026.</p>
+<h2>Important Dates</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td>Application Begin</td>
+<td><strong>08/07/2026</strong></td>
+</tr>
+<tr>
+<td>Last Date for Apply Online</td>
+<td><strong>07/08/2026</strong></td>
+</tr>
+<tr>
+<td>Last Date Pay Exam Fee</td>
+<td><strong>07/08/2026</strong></td>
+</tr>
+<tr>
+<td>Merit List</td>
+<td><strong>As per Schedule</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Application Fee</h2>
+<ul>
+<li>General / OBC / EWS : 100/-</li>
+<li>SC / ST : 0/-</li>
+<li>All Category Female : 0/-</li>
+<li>Pay the Exam Fee Through Debit Card, Credit Card or Net Banking Mode Only</li>
+</ul>
+<h2>Age Limit as on 07/07/2026</h2>
+<ul>
+<li>Minimum Age : 15 Years</li>
+<li>Maximum Age : 24 Years</li>
+<li>Age Relaxation Extra as per Railway NCR Prayagraj Apprentice Recruitment Rules</li>
+</ul>
+<h2>Vacancy Details Total : 1853 Post</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<thead>
+<tr>
+<th>Post Name</th>
+<th>Total Post</th>
+<th>Railway RRC Prayagraj Apprentice Eligibility</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Various Trade Apprentice</td>
+<td>1853</td>
+<td>Class 10 High School Exam With Minimum 50% Marks and ITI / NCVT Certificate in Related Trade</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Trade / Division Wise Vacancy Details Are Given in the Official Notification.</p>
+<h2>Selection Process</h2>
+<ul>
+<li>Merit List Based on Class 10 and ITI Marks</li>
+<li>Document Verification</li>
+<li>Medical Examination (if Applicable as per Notification)</li>
+</ul>
+<h2>How to Fill Railway RRC NCR Prayagraj Apprentice Online Form 2026</h2>
+<ul>
+<li>Keep Your Documents Ready like Class 10 Marksheet, ITI / NCVT Certificate, ID Proof and Address Proof.</li>
+<li>Keep ready Scan Copies of Photo, Signature and ID Proof in the Prescribed Format.</li>
+<li>Application Fee Payment Is Mandatory Without It Form Incomplete.</li>
+</ul>
+<h2>Some Useful Important Links</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse; height: 72px;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr style="height: 18px;">
+<td style="height: 18px;"><strong>Apply Online</strong></td>
+<td style="height: 18px;"><a title="Apply Here" href="https://examerp.com/" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px;"><strong>Download Notification</strong></td>
+<td style="height: 18px;"><a title="Click Here" href="https://rrcpryj.org/wp-content/uploads/2026/07/Notification-act-apprentice-2026.pdf" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px;"><strong>Signature Resizer, PDF Compress, Age Calculator and More Tools</strong></td>
+<td style="height: 18px;"><a title="https://www.resumesathi.com/tools/" href="https://www.resumesathi.com/tools/" target="_blank" rel="noopener">View Tools</a></td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px;"><strong>Official Website</strong></td>
+<td style="height: 18px;"><a title="Indian Railway Official Website" href="https://indianrailways.gov.in/" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote><strong>Note:</strong> Candidates are advised to always cross-check dates, fee details, and eligibility criteria from the official Indian Railway website before applying, as the schedule may change based on official updates.</blockquote>
+<h2>RRC Prayagraj Apprentice Preparation Tips 2026</h2>
+<ul>
+<li>Selection Is Merit-Based on Class 10 and ITI Marks so Focus on Maintaining Strong Academic Records.</li>
+<li>Keep Your ITI / NCVT Trade Certificate and Marksheets Updated and Error-Free.</li>
+<li>Keep All Original Documents and Photocopies Ready for the Document Verification Stage.</li>
+<li>Apply Early Within the Window to Avoid Last-Minute Server Issues on the Application Portal.</li>
+</ul>
+<h2>Frequently Asked Questions</h2>
+<section class="tre-faq-list"><details class="tre-faq-item">
+<summary>What is the last date to apply for RRC Prayagraj Apprentice Recruitment 2026?</summary>
+<p>The last date to apply online is 07 August 2026.</p>
+</details><details class="tre-faq-item">
+<summary>How many total vacancies are there in this apprentice recruitment?</summary>
+<p>A total of 1853 posts have been announced for Various Trade Apprentice positions.</p>
+</details><details class="tre-faq-item">
+<summary>Is there an application fee for SC/ST and female candidates?</summary>
+<p>No, SC/ST candidates and all category female candidates are exempted from the application fee.</p>
+</details><details class="tre-faq-item">
+<summary>What is the minimum qualification required for RRC Prayagraj Apprentice posts?</summary>
+<p>Candidates need a Class 10 pass certificate with minimum 50% marks along with an ITI/NCVT certificate in a related trade.</p>
+</details><details class="tre-faq-item">
+<summary>Is there a written exam for this apprentice recruitment?</summary>
+<p>No, selection is based on a merit list prepared from Class 10 and ITI marks, followed by document verification.</p>
+</details><details class="tre-faq-item">
+<summary>What is the age limit for RRC Prayagraj Apprentice Recruitment 2026?</summary>
+<p>Candidates must be between 15 and 24 years of age as on 07 July 2026, with age relaxation as per rules.</p>
+</details><details class="tre-faq-item">
+<summary>Where can candidates check the trade-wise and division-wise vacancy breakup?</summary>
+<p>The complete trade-wise and division-wise vacancy details are provided in the official notification released by RRC Prayagraj.</p>
+</details></section>
+<section class="tre-quiz-wrap">
+<h3 class="tre-quiz-header">RRC Prayagraj Apprentice - General Knowledge Practice Questions</h3>
+<p class="tre-quiz-sub">100 Objective Questions</p>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q1.</span> In which year was Indian Railways established?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q1_o1" class="tre-opt-item opt-wrong">1843</li>
+<li id="rrc_q1_o2" class="tre-opt-item opt-right">1853</li>
+<li id="rrc_q1_o3" class="tre-opt-item opt-wrong">1863</li>
+<li id="rrc_q1_o4" class="tre-opt-item opt-wrong">1873</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q2.</span> What is the headquarters of North Central Railway (NCR)?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q2_o1" class="tre-opt-item opt-wrong">Lucknow</li>
+<li id="rrc_q2_o2" class="tre-opt-item opt-right">Allahabad (Prayagraj)</li>
+<li id="rrc_q2_o3" class="tre-opt-item opt-wrong">Kanpur</li>
+<li id="rrc_q2_o4" class="tre-opt-item opt-wrong">Agra</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q3.</span> Which is the longest railway platform in India?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q3_o1" class="tre-opt-item opt-wrong">Kharagpur</li>
+<li id="rrc_q3_o2" class="tre-opt-item opt-right">Gorakhpur</li>
+<li id="rrc_q3_o3" class="tre-opt-item opt-wrong">Hubli</li>
+<li id="rrc_q3_o4" class="tre-opt-item opt-wrong">Kollam</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q4.</span> What is the name of India's first high-speed rail corridor project?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q4_o1" class="tre-opt-item opt-wrong">Vande Bharat</li>
+<li id="rrc_q4_o2" class="tre-opt-item opt-right">Mumbai-Ahmedabad Bullet Train</li>
+<li id="rrc_q4_o3" class="tre-opt-item opt-wrong">Delhi Metro</li>
+<li id="rrc_q4_o4" class="tre-opt-item opt-wrong">Konkan Railway</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q5.</span> Which railway zone is headquartered at Prayagraj?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q5_o1" class="tre-opt-item opt-wrong">Central Railway</li>
+<li id="rrc_q5_o2" class="tre-opt-item opt-right">North Central Railway</li>
+<li id="rrc_q5_o3" class="tre-opt-item opt-wrong">Western Railway</li>
+<li id="rrc_q5_o4" class="tre-opt-item opt-wrong">Southern Railway</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q6.</span> What does RRC stand for in railway recruitment?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q6_o1" class="tre-opt-item opt-right">Railway Recruitment Cell</li>
+<li id="rrc_q6_o2" class="tre-opt-item opt-wrong">Railway Regional Committee</li>
+<li id="rrc_q6_o3" class="tre-opt-item opt-wrong">Railway Rules Council</li>
+<li id="rrc_q6_o4" class="tre-opt-item opt-wrong">Railway Recruitment Corporation</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q7.</span> Which train was India's first semi-high-speed train?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q7_o1" class="tre-opt-item opt-wrong">Rajdhani Express</li>
+<li id="rrc_q7_o2" class="tre-opt-item opt-right">Gatimaan Express</li>
+<li id="rrc_q7_o3" class="tre-opt-item opt-wrong">Shatabdi Express</li>
+<li id="rrc_q7_o4" class="tre-opt-item opt-wrong">Duronto Express</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q8.</span> What is the full form of ITI?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q8_o1" class="tre-opt-item opt-right">Industrial Training Institute</li>
+<li id="rrc_q8_o2" class="tre-opt-item opt-wrong">Indian Technical Institute</li>
+<li id="rrc_q8_o3" class="tre-opt-item opt-wrong">Institute of Technical Innovation</li>
+<li id="rrc_q8_o4" class="tre-opt-item opt-wrong">Indian Trade Institute</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q9.</span> Which body oversees ITI courses and certification (NCVT) in India?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q9_o1" class="tre-opt-item opt-wrong">UGC</li>
+<li id="rrc_q9_o2" class="tre-opt-item opt-right">Directorate General of Training</li>
+<li id="rrc_q9_o3" class="tre-opt-item opt-wrong">AICTE</li>
+<li id="rrc_q9_o4" class="tre-opt-item opt-wrong">NCERT</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q10.</span> What is the maximum speed of the Vande Bharat Express?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q10_o1" class="tre-opt-item opt-wrong">130 km/h</li>
+<li id="rrc_q10_o2" class="tre-opt-item opt-wrong">160 km/h</li>
+<li id="rrc_q10_o3" class="tre-opt-item opt-right">180 km/h</li>
+<li id="rrc_q10_o4" class="tre-opt-item opt-wrong">200 km/h</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q11.</span> Which is the oldest railway workshop in India?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q11_o1" class="tre-opt-item opt-right">Jamalpur Workshop</li>
+<li id="rrc_q11_o2" class="tre-opt-item opt-wrong">Kanchrapara Workshop</li>
+<li id="rrc_q11_o3" class="tre-opt-item opt-wrong">Kharagpur Workshop</li>
+<li id="rrc_q11_o4" class="tre-opt-item opt-wrong">Golden Rock Workshop</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q12.</span> What is the name given to apprentices trained under the Apprentices Act, 1961?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q12_o1" class="tre-opt-item opt-right">Trade Apprentice</li>
+<li id="rrc_q12_o2" class="tre-opt-item opt-wrong">Diploma Trainee</li>
+<li id="rrc_q12_o3" class="tre-opt-item opt-wrong">Skill Worker</li>
+<li id="rrc_q12_o4" class="tre-opt-item opt-wrong">Contract Worker</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q13.</span> Which ministry governs Indian Railways?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q13_o1" class="tre-opt-item opt-wrong">Ministry of Road Transport</li>
+<li id="rrc_q13_o2" class="tre-opt-item opt-right">Ministry of Railways</li>
+<li id="rrc_q13_o3" class="tre-opt-item opt-wrong">Ministry of Commerce</li>
+<li id="rrc_q13_o4" class="tre-opt-item opt-wrong">Ministry of Labour</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q14.</span> What is the name of India's longest railway route (in terms of distance)?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q14_o1" class="tre-opt-item opt-wrong">Vivek Express</li>
+<li id="rrc_q14_o2" class="tre-opt-item opt-wrong">Himsagar Express</li>
+<li id="rrc_q14_o3" class="tre-opt-item opt-wrong">Dibrugarh-Kanyakumari Vivek Express</li>
+<li id="rrc_q14_o4" class="tre-opt-item opt-right">Both B and C</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q15.</span> Under the Apprentices Act, what is the primary purpose of an apprenticeship?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q15_o1" class="tre-opt-item opt-wrong">Permanent employment</li>
+<li id="rrc_q15_o2" class="tre-opt-item opt-right">Practical skill training in a trade</li>
+<li id="rrc_q15_o3" class="tre-opt-item opt-wrong">Only classroom study</li>
+<li id="rrc_q15_o4" class="tre-opt-item opt-wrong">Promotion to officer rank</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q16.</span> Which is the first electrified railway zone in India?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q16_o1" class="tre-opt-item opt-wrong">Eastern Railway</li>
+<li id="rrc_q16_o2" class="tre-opt-item opt-right">Central Railway</li>
+<li id="rrc_q16_o3" class="tre-opt-item opt-wrong">Western Railway</li>
+<li id="rrc_q16_o4" class="tre-opt-item opt-wrong">Northern Railway</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q17.</span> What is Indian Railways' logo colloquially called?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q17_o1" class="tre-opt-item opt-right">Wheel and wings</li>
+<li id="rrc_q17_o2" class="tre-opt-item opt-wrong">Ashoka Chakra</li>
+<li id="rrc_q17_o3" class="tre-opt-item opt-wrong">Rail Neer</li>
+<li id="rrc_q17_o4" class="tre-opt-item opt-wrong">None of these</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q18.</span> Which trade is commonly associated with 'Fitter' in ITI courses?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q18_o1" class="tre-opt-item opt-wrong">Electrical maintenance</li>
+<li id="rrc_q18_o2" class="tre-opt-item opt-right">Mechanical assembly and repair work</li>
+<li id="rrc_q18_o3" class="tre-opt-item opt-wrong">Computer operations</li>
+<li id="rrc_q18_o4" class="tre-opt-item opt-wrong">Civil construction</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q19.</span> What is the retention period for Class 10 marksheets usually required during document verification?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q19_o1" class="tre-opt-item opt-wrong">Not required at all</li>
+<li id="rrc_q19_o2" class="tre-opt-item opt-right">Original copy needed for verification</li>
+<li id="rrc_q19_o3" class="tre-opt-item opt-wrong">Only photocopy needed</li>
+<li id="rrc_q19_o4" class="tre-opt-item opt-wrong">Not applicable for apprentices</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q20.</span> Which of these is NOT a common ITI trade?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q20_o1" class="tre-opt-item opt-wrong">Electrician</li>
+<li id="rrc_q20_o2" class="tre-opt-item opt-wrong">Welder</li>
+<li id="rrc_q20_o3" class="tre-opt-item opt-right">Company Secretary</li>
+<li id="rrc_q20_o4" class="tre-opt-item opt-wrong">Turner</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q21.</span> What does NCVT stand for?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q21_o1" class="tre-opt-item opt-right">National Council for Vocational Training</li>
+<li id="rrc_q21_o2" class="tre-opt-item opt-wrong">National Council of Vocational Trades</li>
+<li id="rrc_q21_o3" class="tre-opt-item opt-wrong">National Committee for Vocational Training</li>
+<li id="rrc_q21_o4" class="tre-opt-item opt-wrong">National Center for Vocational Testing</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q22.</span> Indian Railways is divided into how many zones (as of recent reorganization)?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q22_o1" class="tre-opt-item opt-wrong">15</li>
+<li id="rrc_q22_o2" class="tre-opt-item opt-wrong">17</li>
+<li id="rrc_q22_o3" class="tre-opt-item opt-right">18</li>
+<li id="rrc_q22_o4" class="tre-opt-item opt-wrong">20</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q23.</span> Which of these is a common apprentice trade under Railways?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q23_o1" class="tre-opt-item opt-wrong">Wireman</li>
+<li id="rrc_q23_o2" class="tre-opt-item opt-wrong">Painter</li>
+<li id="rrc_q23_o3" class="tre-opt-item opt-wrong">Carpenter</li>
+<li id="rrc_q23_o4" class="tre-opt-item opt-right">All of the above</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q24.</span> What is the usual duration of an ITI course in most trades?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q24_o1" class="tre-opt-item opt-wrong">6 months</li>
+<li id="rrc_q24_o2" class="tre-opt-item opt-right">1 to 2 years</li>
+<li id="rrc_q24_o3" class="tre-opt-item opt-wrong">4 years</li>
+<li id="rrc_q24_o4" class="tre-opt-item opt-wrong">5 years</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q25.</span> Which document is essential for verifying trade qualification during apprentice recruitment?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q25_o1" class="tre-opt-item opt-wrong">Domicile Certificate only</li>
+<li id="rrc_q25_o2" class="tre-opt-item opt-right">ITI / NCVT Certificate</li>
+<li id="rrc_q25_o3" class="tre-opt-item opt-wrong">Passport</li>
+<li id="rrc_q25_o4" class="tre-opt-item opt-wrong">Driving License</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q26.</span> What is the unit of electric current?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q26_o1" class="tre-opt-item opt-wrong">Volt</li>
+<li id="rrc_q26_o2" class="tre-opt-item opt-right">Ampere</li>
+<li id="rrc_q26_o3" class="tre-opt-item opt-wrong">Ohm</li>
+<li id="rrc_q26_o4" class="tre-opt-item opt-wrong">Watt</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q27.</span> Which gas is most abundant in the Earth's atmosphere?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q27_o1" class="tre-opt-item opt-wrong">Oxygen</li>
+<li id="rrc_q27_o2" class="tre-opt-item opt-wrong">Carbon Dioxide</li>
+<li id="rrc_q27_o3" class="tre-opt-item opt-right">Nitrogen</li>
+<li id="rrc_q27_o4" class="tre-opt-item opt-wrong">Hydrogen</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q28.</span> What is the boiling point of water at sea level in Celsius?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q28_o1" class="tre-opt-item opt-wrong">90</li>
+<li id="rrc_q28_o2" class="tre-opt-item opt-right">100</li>
+<li id="rrc_q28_o3" class="tre-opt-item opt-wrong">110</li>
+<li id="rrc_q28_o4" class="tre-opt-item opt-wrong">120</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q29.</span> Which part of the plant conducts photosynthesis mainly?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q29_o1" class="tre-opt-item opt-wrong">Root</li>
+<li id="rrc_q29_o2" class="tre-opt-item opt-wrong">Stem</li>
+<li id="rrc_q29_o3" class="tre-opt-item opt-right">Leaf</li>
+<li id="rrc_q29_o4" class="tre-opt-item opt-wrong">Flower</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q30.</span> What is the SI unit of force?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q30_o1" class="tre-opt-item opt-wrong">Joule</li>
+<li id="rrc_q30_o2" class="tre-opt-item opt-right">Newton</li>
+<li id="rrc_q30_o3" class="tre-opt-item opt-wrong">Pascal</li>
+<li id="rrc_q30_o4" class="tre-opt-item opt-wrong">Watt</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q31.</span> Which metal is liquid at room temperature?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q31_o1" class="tre-opt-item opt-wrong">Iron</li>
+<li id="rrc_q31_o2" class="tre-opt-item opt-right">Mercury</li>
+<li id="rrc_q31_o3" class="tre-opt-item opt-wrong">Aluminium</li>
+<li id="rrc_q31_o4" class="tre-opt-item opt-wrong">Copper</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q32.</span> What is the process of solid turning directly into gas called?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q32_o1" class="tre-opt-item opt-wrong">Evaporation</li>
+<li id="rrc_q32_o2" class="tre-opt-item opt-wrong">Condensation</li>
+<li id="rrc_q32_o3" class="tre-opt-item opt-right">Sublimation</li>
+<li id="rrc_q32_o4" class="tre-opt-item opt-wrong">Melting</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q33.</span> Which organ in the human body produces bile?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q33_o1" class="tre-opt-item opt-wrong">Kidney</li>
+<li id="rrc_q33_o2" class="tre-opt-item opt-right">Liver</li>
+<li id="rrc_q33_o3" class="tre-opt-item opt-wrong">Pancreas</li>
+<li id="rrc_q33_o4" class="tre-opt-item opt-wrong">Stomach</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q34.</span> What type of energy does a moving object have?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q34_o1" class="tre-opt-item opt-wrong">Potential Energy</li>
+<li id="rrc_q34_o2" class="tre-opt-item opt-right">Kinetic Energy</li>
+<li id="rrc_q34_o3" class="tre-opt-item opt-wrong">Chemical Energy</li>
+<li id="rrc_q34_o4" class="tre-opt-item opt-wrong">Thermal Energy</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q35.</span> Which of these is a renewable source of energy?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q35_o1" class="tre-opt-item opt-wrong">Coal</li>
+<li id="rrc_q35_o2" class="tre-opt-item opt-wrong">Petroleum</li>
+<li id="rrc_q35_o3" class="tre-opt-item opt-right">Solar Energy</li>
+<li id="rrc_q35_o4" class="tre-opt-item opt-wrong">Natural Gas</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q36.</span> What is the chemical symbol for Sodium?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q36_o1" class="tre-opt-item opt-wrong">So</li>
+<li id="rrc_q36_o2" class="tre-opt-item opt-right">Na</li>
+<li id="rrc_q36_o3" class="tre-opt-item opt-wrong">S</li>
+<li id="rrc_q36_o4" class="tre-opt-item opt-wrong">Sd</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q37.</span> Which instrument is used to measure atmospheric pressure?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q37_o1" class="tre-opt-item opt-wrong">Thermometer</li>
+<li id="rrc_q37_o2" class="tre-opt-item opt-right">Barometer</li>
+<li id="rrc_q37_o3" class="tre-opt-item opt-wrong">Hygrometer</li>
+<li id="rrc_q37_o4" class="tre-opt-item opt-wrong">Anemometer</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q38.</span> What is the main function of red blood cells?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q38_o1" class="tre-opt-item opt-wrong">Fight infection</li>
+<li id="rrc_q38_o2" class="tre-opt-item opt-right">Carry oxygen</li>
+<li id="rrc_q38_o3" class="tre-opt-item opt-wrong">Clot blood</li>
+<li id="rrc_q38_o4" class="tre-opt-item opt-wrong">Digest food</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q39.</span> Which law states that every action has an equal and opposite reaction?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q39_o1" class="tre-opt-item opt-wrong">Newton's First Law</li>
+<li id="rrc_q39_o2" class="tre-opt-item opt-wrong">Newton's Second Law</li>
+<li id="rrc_q39_o3" class="tre-opt-item opt-right">Newton's Third Law</li>
+<li id="rrc_q39_o4" class="tre-opt-item opt-wrong">Law of Gravitation</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q40.</span> What is the powerhouse of the cell called?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q40_o1" class="tre-opt-item opt-wrong">Nucleus</li>
+<li id="rrc_q40_o2" class="tre-opt-item opt-right">Mitochondria</li>
+<li id="rrc_q40_o3" class="tre-opt-item opt-wrong">Ribosome</li>
+<li id="rrc_q40_o4" class="tre-opt-item opt-wrong">Golgi Body</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q41.</span> Which gas do plants absorb from the atmosphere during photosynthesis?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q41_o1" class="tre-opt-item opt-wrong">Oxygen</li>
+<li id="rrc_q41_o2" class="tre-opt-item opt-wrong">Nitrogen</li>
+<li id="rrc_q41_o3" class="tre-opt-item opt-right">Carbon Dioxide</li>
+<li id="rrc_q41_o4" class="tre-opt-item opt-wrong">Hydrogen</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q42.</span> What is the freezing point of water in Celsius?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q42_o1" class="tre-opt-item opt-right">0</li>
+<li id="rrc_q42_o2" class="tre-opt-item opt-wrong">10</li>
+<li id="rrc_q42_o3" class="tre-opt-item opt-wrong">-10</li>
+<li id="rrc_q42_o4" class="tre-opt-item opt-wrong">32</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q43.</span> Which vitamin deficiency causes night blindness?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q43_o1" class="tre-opt-item opt-wrong">Vitamin B</li>
+<li id="rrc_q43_o2" class="tre-opt-item opt-right">Vitamin A</li>
+<li id="rrc_q43_o3" class="tre-opt-item opt-wrong">Vitamin C</li>
+<li id="rrc_q43_o4" class="tre-opt-item opt-wrong">Vitamin D</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q44.</span> What is the study of heredity called?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q44_o1" class="tre-opt-item opt-wrong">Botany</li>
+<li id="rrc_q44_o2" class="tre-opt-item opt-right">Genetics</li>
+<li id="rrc_q44_o3" class="tre-opt-item opt-wrong">Zoology</li>
+<li id="rrc_q44_o4" class="tre-opt-item opt-wrong">Ecology</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q45.</span> Which of these is a good conductor of electricity?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q45_o1" class="tre-opt-item opt-wrong">Rubber</li>
+<li id="rrc_q45_o2" class="tre-opt-item opt-right">Copper</li>
+<li id="rrc_q45_o3" class="tre-opt-item opt-wrong">Wood</li>
+<li id="rrc_q45_o4" class="tre-opt-item opt-wrong">Plastic</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q46.</span> What is the unit used to measure sound intensity?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q46_o1" class="tre-opt-item opt-wrong">Hertz</li>
+<li id="rrc_q46_o2" class="tre-opt-item opt-right">Decibel</li>
+<li id="rrc_q46_o3" class="tre-opt-item opt-wrong">Watt</li>
+<li id="rrc_q46_o4" class="tre-opt-item opt-wrong">Candela</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q47.</span> Which blood group is known as the universal donor?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q47_o1" class="tre-opt-item opt-wrong">A</li>
+<li id="rrc_q47_o2" class="tre-opt-item opt-wrong">B</li>
+<li id="rrc_q47_o3" class="tre-opt-item opt-wrong">AB</li>
+<li id="rrc_q47_o4" class="tre-opt-item opt-right">O Negative</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q48.</span> What is the main component of natural gas?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q48_o1" class="tre-opt-item opt-right">Methane</li>
+<li id="rrc_q48_o2" class="tre-opt-item opt-wrong">Ethane</li>
+<li id="rrc_q48_o3" class="tre-opt-item opt-wrong">Propane</li>
+<li id="rrc_q48_o4" class="tre-opt-item opt-wrong">Butane</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q49.</span> Which part of the eye controls the amount of light entering?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q49_o1" class="tre-opt-item opt-wrong">Retina</li>
+<li id="rrc_q49_o2" class="tre-opt-item opt-wrong">Cornea</li>
+<li id="rrc_q49_o3" class="tre-opt-item opt-right">Iris</li>
+<li id="rrc_q49_o4" class="tre-opt-item opt-wrong">Lens</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q50.</span> What is the process by which plants lose water through leaves called?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q50_o1" class="tre-opt-item opt-wrong">Respiration</li>
+<li id="rrc_q50_o2" class="tre-opt-item opt-right">Transpiration</li>
+<li id="rrc_q50_o3" class="tre-opt-item opt-wrong">Photosynthesis</li>
+<li id="rrc_q50_o4" class="tre-opt-item opt-wrong">Excretion</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q51.</span> Who is considered the Father of the Indian Constitution?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q51_o1" class="tre-opt-item opt-wrong">Mahatma Gandhi</li>
+<li id="rrc_q51_o2" class="tre-opt-item opt-right">Dr. B.R. Ambedkar</li>
+<li id="rrc_q51_o3" class="tre-opt-item opt-wrong">Jawaharlal Nehru</li>
+<li id="rrc_q51_o4" class="tre-opt-item opt-wrong">Sardar Patel</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q52.</span> Which is the largest state in India by area?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q52_o1" class="tre-opt-item opt-wrong">Madhya Pradesh</li>
+<li id="rrc_q52_o2" class="tre-opt-item opt-right">Rajasthan</li>
+<li id="rrc_q52_o3" class="tre-opt-item opt-wrong">Maharashtra</li>
+<li id="rrc_q52_o4" class="tre-opt-item opt-wrong">Uttar Pradesh</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q53.</span> What is the currency of Japan?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q53_o1" class="tre-opt-item opt-wrong">Yuan</li>
+<li id="rrc_q53_o2" class="tre-opt-item opt-right">Yen</li>
+<li id="rrc_q53_o3" class="tre-opt-item opt-wrong">Won</li>
+<li id="rrc_q53_o4" class="tre-opt-item opt-wrong">Ringgit</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q54.</span> Which is the smallest continent by area?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q54_o1" class="tre-opt-item opt-wrong">Europe</li>
+<li id="rrc_q54_o2" class="tre-opt-item opt-right">Australia</li>
+<li id="rrc_q54_o3" class="tre-opt-item opt-wrong">Antarctica</li>
+<li id="rrc_q54_o4" class="tre-opt-item opt-wrong">South America</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q55.</span> Who was the first woman Prime Minister of India?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q55_o1" class="tre-opt-item opt-wrong">Sonia Gandhi</li>
+<li id="rrc_q55_o2" class="tre-opt-item opt-right">Indira Gandhi</li>
+<li id="rrc_q55_o3" class="tre-opt-item opt-wrong">Pratibha Patil</li>
+<li id="rrc_q55_o4" class="tre-opt-item opt-wrong">Sushma Swaraj</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q56.</span> Which Indian state is known as the 'Spice Garden of India'?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q56_o1" class="tre-opt-item opt-right">Kerala</li>
+<li id="rrc_q56_o2" class="tre-opt-item opt-wrong">Karnataka</li>
+<li id="rrc_q56_o3" class="tre-opt-item opt-wrong">Tamil Nadu</li>
+<li id="rrc_q56_o4" class="tre-opt-item opt-wrong">Goa</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q57.</span> What is the national sport of India (traditionally referenced)?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q57_o1" class="tre-opt-item opt-wrong">Cricket</li>
+<li id="rrc_q57_o2" class="tre-opt-item opt-right">Hockey</li>
+<li id="rrc_q57_o3" class="tre-opt-item opt-wrong">Football</li>
+<li id="rrc_q57_o4" class="tre-opt-item opt-wrong">Kabaddi</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q58.</span> Which is the longest river in the world?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q58_o1" class="tre-opt-item opt-wrong">Amazon</li>
+<li id="rrc_q58_o2" class="tre-opt-item opt-right">Nile</li>
+<li id="rrc_q58_o3" class="tre-opt-item opt-wrong">Ganga</li>
+<li id="rrc_q58_o4" class="tre-opt-item opt-wrong">Yangtze</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q59.</span> Who wrote the national anthem of India?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q59_o1" class="tre-opt-item opt-wrong">Bankim Chandra Chatterjee</li>
+<li id="rrc_q59_o2" class="tre-opt-item opt-right">Rabindranath Tagore</li>
+<li id="rrc_q59_o3" class="tre-opt-item opt-wrong">Sarojini Naidu</li>
+<li id="rrc_q59_o4" class="tre-opt-item opt-wrong">Subhas Chandra Bose</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q60.</span> Which is the highest civilian award in India?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q60_o1" class="tre-opt-item opt-wrong">Padma Vibhushan</li>
+<li id="rrc_q60_o2" class="tre-opt-item opt-right">Bharat Ratna</li>
+<li id="rrc_q60_o3" class="tre-opt-item opt-wrong">Padma Shri</li>
+<li id="rrc_q60_o4" class="tre-opt-item opt-wrong">Ashoka Chakra</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q61.</span> What is the capital of Uttar Pradesh?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q61_o1" class="tre-opt-item opt-wrong">Kanpur</li>
+<li id="rrc_q61_o2" class="tre-opt-item opt-right">Lucknow</li>
+<li id="rrc_q61_o3" class="tre-opt-item opt-wrong">Agra</li>
+<li id="rrc_q61_o4" class="tre-opt-item opt-wrong">Varanasi</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q62.</span> Which planet is known as the Red Planet?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q62_o1" class="tre-opt-item opt-wrong">Venus</li>
+<li id="rrc_q62_o2" class="tre-opt-item opt-right">Mars</li>
+<li id="rrc_q62_o3" class="tre-opt-item opt-wrong">Jupiter</li>
+<li id="rrc_q62_o4" class="tre-opt-item opt-wrong">Saturn</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q63.</span> Who is known as the 'Missile Man of India'?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q63_o1" class="tre-opt-item opt-wrong">Homi Bhabha</li>
+<li id="rrc_q63_o2" class="tre-opt-item opt-right">A.P.J. Abdul Kalam</li>
+<li id="rrc_q63_o3" class="tre-opt-item opt-wrong">Vikram Sarabhai</li>
+<li id="rrc_q63_o4" class="tre-opt-item opt-wrong">C.V. Raman</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q64.</span> Which is the largest desert in India?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q64_o1" class="tre-opt-item opt-right">Thar Desert</li>
+<li id="rrc_q64_o2" class="tre-opt-item opt-wrong">Rann of Kutch</li>
+<li id="rrc_q64_o3" class="tre-opt-item opt-wrong">Cold Desert</li>
+<li id="rrc_q64_o4" class="tre-opt-item opt-wrong">Sahara Desert</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q65.</span> What is the full form of GST in India?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q65_o1" class="tre-opt-item opt-wrong">General Sales Tax</li>
+<li id="rrc_q65_o2" class="tre-opt-item opt-right">Goods and Services Tax</li>
+<li id="rrc_q65_o3" class="tre-opt-item opt-wrong">Government Service Tax</li>
+<li id="rrc_q65_o4" class="tre-opt-item opt-wrong">General Service Trade</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q66.</span> Which organization conducts the Indian Railway recruitment exams broadly?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q66_o1" class="tre-opt-item opt-wrong">UPSC</li>
+<li id="rrc_q66_o2" class="tre-opt-item opt-wrong">SSC</li>
+<li id="rrc_q66_o3" class="tre-opt-item opt-right">RRB / RRC</li>
+<li id="rrc_q66_o4" class="tre-opt-item opt-wrong">IBPS</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q67.</span> Who was the first President of independent India?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q67_o1" class="tre-opt-item opt-wrong">Jawaharlal Nehru</li>
+<li id="rrc_q67_o2" class="tre-opt-item opt-right">Dr. Rajendra Prasad</li>
+<li id="rrc_q67_o3" class="tre-opt-item opt-wrong">Dr. S. Radhakrishnan</li>
+<li id="rrc_q67_o4" class="tre-opt-item opt-wrong">Zakir Hussain</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q68.</span> Which festival is known as the 'Festival of Lights' in India?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q68_o1" class="tre-opt-item opt-wrong">Holi</li>
+<li id="rrc_q68_o2" class="tre-opt-item opt-right">Diwali</li>
+<li id="rrc_q68_o3" class="tre-opt-item opt-wrong">Eid</li>
+<li id="rrc_q68_o4" class="tre-opt-item opt-wrong">Baisakhi</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q69.</span> What is the national animal of India?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q69_o1" class="tre-opt-item opt-wrong">Lion</li>
+<li id="rrc_q69_o2" class="tre-opt-item opt-right">Tiger</li>
+<li id="rrc_q69_o3" class="tre-opt-item opt-wrong">Elephant</li>
+<li id="rrc_q69_o4" class="tre-opt-item opt-wrong">Leopard</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q70.</span> Which Indian city is known as the 'Silicon Valley of India'?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q70_o1" class="tre-opt-item opt-wrong">Chennai</li>
+<li id="rrc_q70_o2" class="tre-opt-item opt-right">Bengaluru</li>
+<li id="rrc_q70_o3" class="tre-opt-item opt-wrong">Hyderabad</li>
+<li id="rrc_q70_o4" class="tre-opt-item opt-wrong">Pune</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q71.</span> What is the full form of UPSC?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q71_o1" class="tre-opt-item opt-right">Union Public Service Commission</li>
+<li id="rrc_q71_o2" class="tre-opt-item opt-wrong">United Public Service Council</li>
+<li id="rrc_q71_o3" class="tre-opt-item opt-wrong">Union Personnel Service Commission</li>
+<li id="rrc_q71_o4" class="tre-opt-item opt-wrong">United Provincial Service Commission</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q72.</span> Which is the smallest state in India by area?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q72_o1" class="tre-opt-item opt-wrong">Sikkim</li>
+<li id="rrc_q72_o2" class="tre-opt-item opt-right">Goa</li>
+<li id="rrc_q72_o3" class="tre-opt-item opt-wrong">Tripura</li>
+<li id="rrc_q72_o4" class="tre-opt-item opt-wrong">Nagaland</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q73.</span> Who is the author of the book 'Discovery of India'?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q73_o1" class="tre-opt-item opt-wrong">Mahatma Gandhi</li>
+<li id="rrc_q73_o2" class="tre-opt-item opt-right">Jawaharlal Nehru</li>
+<li id="rrc_q73_o3" class="tre-opt-item opt-wrong">Rabindranath Tagore</li>
+<li id="rrc_q73_o4" class="tre-opt-item opt-wrong">Sarojini Naidu</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q74.</span> Which river is known as the 'Sorrow of Bengal'?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q74_o1" class="tre-opt-item opt-right">Damodar</li>
+<li id="rrc_q74_o2" class="tre-opt-item opt-wrong">Hooghly</li>
+<li id="rrc_q74_o3" class="tre-opt-item opt-wrong">Brahmaputra</li>
+<li id="rrc_q74_o4" class="tre-opt-item opt-wrong">Teesta</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q75.</span> What is the term for a government's yearly financial statement?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q75_o1" class="tre-opt-item opt-wrong">Census</li>
+<li id="rrc_q75_o2" class="tre-opt-item opt-right">Budget</li>
+<li id="rrc_q75_o3" class="tre-opt-item opt-wrong">Survey</li>
+<li id="rrc_q75_o4" class="tre-opt-item opt-wrong">Manifesto</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q76.</span> Find the next number in the series: 2, 4, 6, 8, ___</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q76_o1" class="tre-opt-item opt-wrong">9</li>
+<li id="rrc_q76_o2" class="tre-opt-item opt-right">10</li>
+<li id="rrc_q76_o3" class="tre-opt-item opt-wrong">12</li>
+<li id="rrc_q76_o4" class="tre-opt-item opt-wrong">14</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q77.</span> If A=1, B=2, C=3, what does D stand for?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q77_o1" class="tre-opt-item opt-wrong">3</li>
+<li id="rrc_q77_o2" class="tre-opt-item opt-right">4</li>
+<li id="rrc_q77_o3" class="tre-opt-item opt-wrong">5</li>
+<li id="rrc_q77_o4" class="tre-opt-item opt-wrong">6</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q78.</span> Complete the series: 3, 6, 9, 12, ___</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q78_o1" class="tre-opt-item opt-wrong">14</li>
+<li id="rrc_q78_o2" class="tre-opt-item opt-right">15</li>
+<li id="rrc_q78_o3" class="tre-opt-item opt-wrong">16</li>
+<li id="rrc_q78_o4" class="tre-opt-item opt-wrong">18</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q79.</span> If today is Monday, what day will it be after 3 days?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q79_o1" class="tre-opt-item opt-wrong">Wednesday</li>
+<li id="rrc_q79_o2" class="tre-opt-item opt-right">Thursday</li>
+<li id="rrc_q79_o3" class="tre-opt-item opt-wrong">Friday</li>
+<li id="rrc_q79_o4" class="tre-opt-item opt-wrong">Saturday</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q80.</span> Find the odd one out: Apple, Banana, Carrot, Mango</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q80_o1" class="tre-opt-item opt-wrong">Apple</li>
+<li id="rrc_q80_o2" class="tre-opt-item opt-wrong">Banana</li>
+<li id="rrc_q80_o3" class="tre-opt-item opt-right">Carrot</li>
+<li id="rrc_q80_o4" class="tre-opt-item opt-wrong">Mango</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q81.</span> What comes next: 1, 4, 9, 16, ___</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q81_o1" class="tre-opt-item opt-wrong">20</li>
+<li id="rrc_q81_o2" class="tre-opt-item opt-wrong">24</li>
+<li id="rrc_q81_o3" class="tre-opt-item opt-right">25</li>
+<li id="rrc_q81_o4" class="tre-opt-item opt-wrong">30</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q82.</span> If CAT is coded as DBU, how is DOG coded?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q82_o1" class="tre-opt-item opt-right">EPH</li>
+<li id="rrc_q82_o2" class="tre-opt-item opt-wrong">EPI</li>
+<li id="rrc_q82_o3" class="tre-opt-item opt-wrong">EQH</li>
+<li id="rrc_q82_o4" class="tre-opt-item opt-wrong">FPI</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q83.</span> Which number is the odd one out: 2, 3, 5, 8, 11</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q83_o1" class="tre-opt-item opt-wrong">2</li>
+<li id="rrc_q83_o2" class="tre-opt-item opt-wrong">3</li>
+<li id="rrc_q83_o3" class="tre-opt-item opt-right">8</li>
+<li id="rrc_q83_o4" class="tre-opt-item opt-wrong">11</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q84.</span> Find the missing number: 5, 10, 20, 40, ___</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q84_o1" class="tre-opt-item opt-wrong">50</li>
+<li id="rrc_q84_o2" class="tre-opt-item opt-wrong">60</li>
+<li id="rrc_q84_o3" class="tre-opt-item opt-wrong">70</li>
+<li id="rrc_q84_o4" class="tre-opt-item opt-right">80</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q85.</span> A man is facing east. He turns 90 degrees clockwise. Which direction is he facing now?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q85_o1" class="tre-opt-item opt-wrong">North</li>
+<li id="rrc_q85_o2" class="tre-opt-item opt-right">South</li>
+<li id="rrc_q85_o3" class="tre-opt-item opt-wrong">East</li>
+<li id="rrc_q85_o4" class="tre-opt-item opt-wrong">West</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q86.</span> Which word does not belong: Rose, Lotus, Sunflower, Table</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q86_o1" class="tre-opt-item opt-wrong">Rose</li>
+<li id="rrc_q86_o2" class="tre-opt-item opt-wrong">Lotus</li>
+<li id="rrc_q86_o3" class="tre-opt-item opt-wrong">Sunflower</li>
+<li id="rrc_q86_o4" class="tre-opt-item opt-right">Table</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q87.</span> Complete the pattern: A, C, E, G, ___</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q87_o1" class="tre-opt-item opt-wrong">H</li>
+<li id="rrc_q87_o2" class="tre-opt-item opt-right">I</li>
+<li id="rrc_q87_o3" class="tre-opt-item opt-wrong">J</li>
+<li id="rrc_q87_o4" class="tre-opt-item opt-wrong">K</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q88.</span> If 5 workers can build a wall in 10 days, how many days will 10 workers take?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q88_o1" class="tre-opt-item opt-right">5 days</li>
+<li id="rrc_q88_o2" class="tre-opt-item opt-wrong">10 days</li>
+<li id="rrc_q88_o3" class="tre-opt-item opt-wrong">20 days</li>
+<li id="rrc_q88_o4" class="tre-opt-item opt-wrong">15 days</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q89.</span> Find the odd one out: Circle, Square, Triangle, Red</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q89_o1" class="tre-opt-item opt-wrong">Circle</li>
+<li id="rrc_q89_o2" class="tre-opt-item opt-wrong">Square</li>
+<li id="rrc_q89_o3" class="tre-opt-item opt-wrong">Triangle</li>
+<li id="rrc_q89_o4" class="tre-opt-item opt-right">Red</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q90.</span> What is the next term: 100, 90, 80, 70, ___</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q90_o1" class="tre-opt-item opt-wrong">50</li>
+<li id="rrc_q90_o2" class="tre-opt-item opt-right">60</li>
+<li id="rrc_q90_o3" class="tre-opt-item opt-wrong">65</li>
+<li id="rrc_q90_o4" class="tre-opt-item opt-wrong">75</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q91.</span> If South-East becomes North on rotating a map 135 degrees, in which direction is West originally?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q91_o1" class="tre-opt-item opt-right">Requires diagram - a common reasoning question type</li>
+<li id="rrc_q91_o2" class="tre-opt-item opt-wrong">N/A</li>
+<li id="rrc_q91_o3" class="tre-opt-item opt-wrong">N/A</li>
+<li id="rrc_q91_o4" class="tre-opt-item opt-wrong">N/A</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q92.</span> Which number should replace the question mark: 7, 14, 21, ?, 35</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q92_o1" class="tre-opt-item opt-wrong">24</li>
+<li id="rrc_q92_o2" class="tre-opt-item opt-right">28</li>
+<li id="rrc_q92_o3" class="tre-opt-item opt-wrong">30</li>
+<li id="rrc_q92_o4" class="tre-opt-item opt-wrong">32</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q93.</span> Find the odd pair: (2,4), (3,9), (4,16), (5,20)</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q93_o1" class="tre-opt-item opt-wrong">(2,4)</li>
+<li id="rrc_q93_o2" class="tre-opt-item opt-wrong">(3,9)</li>
+<li id="rrc_q93_o3" class="tre-opt-item opt-wrong">(4,16)</li>
+<li id="rrc_q93_o4" class="tre-opt-item opt-right">(5,20)</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q94.</span> If in a certain code, BOOK is written as CPPL, how is PEN written?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q94_o1" class="tre-opt-item opt-right">QFO</li>
+<li id="rrc_q94_o2" class="tre-opt-item opt-wrong">QFN</li>
+<li id="rrc_q94_o3" class="tre-opt-item opt-wrong">QEO</li>
+<li id="rrc_q94_o4" class="tre-opt-item opt-wrong">PFO</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q95.</span> Choose the number that does not fit: 4, 9, 16, 23, 25</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q95_o1" class="tre-opt-item opt-wrong">9</li>
+<li id="rrc_q95_o2" class="tre-opt-item opt-wrong">16</li>
+<li id="rrc_q95_o3" class="tre-opt-item opt-right">23</li>
+<li id="rrc_q95_o4" class="tre-opt-item opt-wrong">25</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q96.</span> A clock shows 3:15. What is the angle between the hour and minute hands (approx)?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q96_o1" class="tre-opt-item opt-wrong">0 degrees</li>
+<li id="rrc_q96_o2" class="tre-opt-item opt-right">7.5 degrees</li>
+<li id="rrc_q96_o3" class="tre-opt-item opt-wrong">30 degrees</li>
+<li id="rrc_q96_o4" class="tre-opt-item opt-wrong">90 degrees</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q97.</span> Which shape has the most sides among these: Pentagon, Hexagon, Triangle, Square</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q97_o1" class="tre-opt-item opt-wrong">Pentagon</li>
+<li id="rrc_q97_o2" class="tre-opt-item opt-right">Hexagon</li>
+<li id="rrc_q97_o3" class="tre-opt-item opt-wrong">Triangle</li>
+<li id="rrc_q97_o4" class="tre-opt-item opt-wrong">Square</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q98.</span> Find the next letter: Z, X, V, T, ___</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q98_o1" class="tre-opt-item opt-wrong">S</li>
+<li id="rrc_q98_o2" class="tre-opt-item opt-right">R</li>
+<li id="rrc_q98_o3" class="tre-opt-item opt-wrong">Q</li>
+<li id="rrc_q98_o4" class="tre-opt-item opt-wrong">P</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q99.</span> If a train travels 60 km in 1 hour, how far will it travel in 2.5 hours at the same speed?</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q99_o1" class="tre-opt-item opt-wrong">120 km</li>
+<li id="rrc_q99_o2" class="tre-opt-item opt-right">150 km</li>
+<li id="rrc_q99_o3" class="tre-opt-item opt-wrong">180 km</li>
+<li id="rrc_q99_o4" class="tre-opt-item opt-wrong">100 km</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q100.</span> Which number comes next: 1, 1, 2, 3, 5, 8, ___</p>
+<ul class="tre-quiz-options">
+<li id="rrc_q100_o1" class="tre-opt-item opt-wrong">10</li>
+<li id="rrc_q100_o2" class="tre-opt-item opt-wrong">11</li>
+<li id="rrc_q100_o3" class="tre-opt-item opt-wrong">12</li>
+<li id="rrc_q100_o4" class="tre-opt-item opt-right">13</li>
+</ul>
+</article>
+</section>
+</div>3:["$","$L7",null,{"article":{"id":19,"title":"RRC Prayagraj Trade Apprentice Recruitment 2026 (1853 Post)","slug":"rrc-prayagraj-trade-apprentice-recruitment-2026","description":"NCR Railway RRC Prayagraj Various Trade Apprentice Recruitment 2026 notification out for 1853 posts. Check eligibility, age limit, fee and apply online from 08 July to 07 August 2026.","company":null,"location":null,"employment_type":null,"salary":null,"status":1,"created_at":"2026-07-22T07:43:25.000000Z","updated_at":"2026-07-30T09:59:23.000000Z","job_type_id":null,"department_id":null,"is_active":1,"featured":0,"trending":0,"urgent":0,"homepage":0,"deleted_at":null,"hero_image":"courses_image/RRC Prayagraj Trade Apprentice Recruitment 2026 - Apply for 1853 Post.png","created_by":1,"topic_name":"RRC Prayagraj Trade Apprentice Recruitment 2026 (1853 Post)","url_name":"rrc-prayagraj-trade-apprentice-recruitment-2026","meta_title":"RRC Prayagraj Trade Apprentice Recruitment 2026 (1853 Post)","meta_description":"NCR Railway RRC Prayagraj Various Trade Apprentice Recruitment 2026 notification out for 1853 posts. Check eligibility, age limit, fee and apply online from 08 July to 07 August 2026.","meta_keyword":"RRC Prayagraj Apprentice 2026, NCR Railway Apprentice Recruitment, Railway Trade Apprentice Vacancy, RRC NCR Act Apprentice, Indian Railway Apprentice Online Form 2026","canonical_tag":"courses/railways/rrc-prayagraj-trade-apprentice-recruitment-2026","course_type":9,"pageview":0,"application_begin":"2026-07-08","last_date_for_apply":"2026-08-07","user":{"id":1,"first_name":"Hariom","last_name":"Prajapati","email":"hariomprajapati9029@gmail.com","mobile":"8840860841","birth_date":"08/01/1999","age":"23","gender":"male","profile_image":"Hariom.jpg","background_image":null,"is_active":1,"created_at":"2021-09-12T13:19:51.000000Z","updated_at":"2026-07-12T10:04:13.000000Z"},"course_category":{"id":9,"course_name":"Railways","course_url":"railways","course_image":"courses/Indian-Railways.svg","description":"Latest railway job updates, recruitment notifications, exam details, and career opportunities in the railway","created_at":"2026-07-16T15:33:50.000000Z","updated_at":"2026-07-16T15:33:50.000000Z","deleted_at":null,"created_by":1},"contents":[{"id":15,"content":"$8","course_id":19,"created_at":"2026-07-22T07:43:25.000000Z","updated_at":"2026-07-30T09:59:23.000000Z"}]},"slug":"rrc-prayagraj-trade-apprentice-recruitment-2026"}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/36s5nf8n-vj81.css","precedence":"next"}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/16ymsuy-x3uv9.js","async":true}]
+6:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

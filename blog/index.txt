@@ -1,0 +1,394 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+3:I[37457,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+4:I[44134,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/0dge8h81efw6t.js"],"default"]
+5:I[22016,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/0dge8h81efw6t.js"],""]
+6:I[59708,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+7:I[32666,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+8:I[92825,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"ClientSegmentRoot"]
+9:I[1429,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/0oa3ilh4tyqfb.js"],"default"]
+b:I[42772,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/0oa3ilh4tyqfb.js","/_next/static/chunks/25obbct1vvho7.js"],"default"]
+12:I[68027,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default",1]
+:HL["/_next/static/chunks/19r02t9galfzp.css","style"]
+:HL["/front-assets/css/bootstrap.min.css","style"]
+:HL["/front-assets/css/style.css","style"]
+:HL["/front-assets/css/responsive.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap","style",{"crossOrigin":"anonymous"}]
+c:T1b95,<p>I get asked this a lot &mdash; "which resume template should I actually use?" And honestly, there's no single right answer. It depends on what job you're going for, how much you want to show off visually, and whether the company you're applying to even bothers reading past the ATS screening. One template that a lot of people gravitate toward lately has a dark header, a round profile photo up top, skill bars running down the side, and a two-column body underneath it. That's the one I want to talk about here.</p>
+<p>If you've seen it before and wondered whether it's worth using, or you're just trying to figure out if it fits your field, this should clear things up.</p>
+<h3>Breaking Down the Layout</h3>
+<p>The template is really just two zones stitched together. Nothing fancy, but it's laid out in a way that makes sense once you see it in front of you.</p>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
+<th>Section</th>
+<th>Where It Sits</th>
+<th>What Goes In It</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Header</td>
+<td>Full-width, top</td>
+<td>Name, designation, location, phone, email, website</td>
+</tr>
+<tr>
+<td>Left Sidebar</td>
+<td>Left column</td>
+<td>Skills with progress bars, Languages, Social Links, Hobbies</td>
+</tr>
+<tr>
+<td>Main Content</td>
+<td>Right column</td>
+<td>Profile Summary, Work Experience, Internships, Education, Certifications</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>What I like about this setup is that it gives you room to include the extra stuff &mdash; languages, hobbies, social links &mdash; without it feeling like you're cramming things into a corner just to fit them in.</p>
+<h3>What Actually Sets It Apart</h3>
+<p>A few small design choices make this template stand out from the usual plain-text resume:</p>
+<ul>
+<li>Skill bars next to each listed skill &mdash; instead of just naming a skill, you can show roughly how good you are at it (Intermediate, Proficient, Advanced, that sort of thing)</li>
+<li>A dotted timeline running through Work Experience, Internships, and Certifications, so it reads a bit like a story instead of a list</li>
+<li>One accent color used consistently across headers and icons &mdash; small detail, but it makes the resume look put-together rather than thrown together</li>
+<li>A proper spot for social links, which honestly gets left out of a lot of templates even though recruiters do check LinkedIn and GitHub</li>
+</ul>
+<h3>Who Should Actually Go For This One</h3>
+<p>Not every template works for every job, and this one's no exception. Some fields respond well to a bit of visual flair, others really don't.</p>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
+<th>Candidate Type</th>
+<th>Good Fit?</th>
+<th>Why</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Retail / Sales Professionals</td>
+<td>Yes</td>
+<td>The skill bars make your strengths easy to scan at a glance</td>
+</tr>
+<tr>
+<td>Freshers / Students</td>
+<td>Yes</td>
+<td>Internships and education actually get proper visibility instead of being buried</td>
+</tr>
+<tr>
+<td>Designers / Creative Roles</td>
+<td>Yes</td>
+<td>The layout itself doubles as a small demonstration of design sense</td>
+</tr>
+<tr>
+<td>Corporate / Finance Roles</td>
+<td>Not really</td>
+<td>These industries usually expect something more conservative and text-heavy</td>
+</tr>
+<tr>
+<td>Senior Management Roles</td>
+<td>Not really</td>
+<td>Timeline-style templates tend to read as junior to mid-level</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Now, About ATS &mdash; Will It Even Get Read?</h3>
+<p>This is the part people worry about most, and fair enough. A resume can look great and still get chewed up by an applicant tracking system if it's not built carefully.</p>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
+<th>Element</th>
+<th>ATS-Safe?</th>
+<th>Note</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Two-column layout</td>
+<td>Mostly</td>
+<td>Older ATS software can occasionally scramble the reading order</td>
+</tr>
+<tr>
+<td>Skill progress bars</td>
+<td>Somewhat risky</td>
+<td>Type out the actual skill level in words too, don't rely on the bar alone</td>
+</tr>
+<tr>
+<td>Icons for contact info</td>
+<td>Usually fine</td>
+<td>Just make sure the text sits right next to the icon, not inside it</td>
+</tr>
+<tr>
+<td>Profile photo</td>
+<td>Depends</td>
+<td>Normal practice in India, but some international recruiters prefer no photo at all</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>If the company you're applying to is a large corporate setup, it doesn't hurt to keep a plainer, single-column resume on standby too. Better safe than filtered out before a human even looks at it.</p>
+<h3>A Few Things Worth Doing (and Avoiding)</h3>
+<p>Some of this is common sense, but it's easy to overlook once you're deep in template customization mode:</p>
+<ul>
+<li>Keep the skills section tight &mdash; only what's actually relevant to the role you're applying for</li>
+<li>Add real numbers to your work experience wherever you can, even something like "grew monthly sales by 10%" changes how a line reads</li>
+<li>Stick to professional social links only, this isn't the place for a personal Instagram</li>
+<li>Don't try to fit every section you can think of, a resume with too much going on stops being readable</li>
+<li>Don't guess at your skill bar levels just to look good, recruiters notice inconsistency between what you claim and how you answer in an interview</li>
+<li>Keep certification and work dates in one consistent format throughout</li>
+</ul>
+<h3>Timeline Template vs a Plain One &mdash; Side by Side</h3>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
+<th>Factor</th>
+<th>Timeline Template</th>
+<th>Simple/Minimal Template</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Visual Appeal</td>
+<td>High</td>
+<td>Lower</td>
+</tr>
+<tr>
+<td>ATS Safety</td>
+<td>Medium</td>
+<td>High</td>
+</tr>
+<tr>
+<td>Best For</td>
+<td>Retail, creative, entry-level roles</td>
+<td>Corporate, government, traditional industries</td>
+</tr>
+<tr>
+<td>Customization Options</td>
+<td>High &mdash; colors, bars, icons</td>
+<td>Limited</td>
+</tr>
+<tr>
+<td>Recruiter Scan Time</td>
+<td>Fast, guided by visuals</td>
+<td>Fast, but plainer</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h3>Where I'd Land On This</h3>
+<p>If you're in retail, sales, design, or you're a fresher still building out your work history, this template genuinely does a good job of making a thin resume look complete and a strong one look even better. But if you're eyeing a corporate or finance role, or applying somewhere known for being conservative about hiring formats, I'd lean toward something simpler instead.</p>
+<p>At the end of the day, the best template isn't the one that looks the most polished on screen &mdash; it's the one that gets your actual experience across clearly, without getting in its own way.</p>
+<p>Building your resume with templates like this one? Check out the other resume-related posts on the channel for more guidance.</p>d:T192a,<p>Have you ever felt that everyone else is moving forward in their career while you still feel confused about your future? This feeling is more common than you might think, whether you're a fresher or someone with five years of experience. A successful career doesn't require a perfect plan. It requires making small, consistent decisions in the right direction. In this post, we'll look at practical ways to make better career decisions.</p>
+<h2>Why career confusion happens</h2>
+<p>Most people feel stuck in their careers because of these:</p>
+<ul>
+<li>They don't know their actual strengths.</li>
+<li>They choose safe option and ignore the actual interest.</li>
+<li>Family or society pressure&nbsp;ends up driving major decisions.</li>
+<li>They stop upgrading skills after getting a job.</li>
+</ul>
+<p>If any of these points sound familiar, you're not alone. Many people face the same challenges.</p>
+<h2>5 practice steps for career planning</h2>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
+<th>Step</th>
+<th>What to Do</th>
+<th>Time Needed</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. Self-Assessment</td>
+<td>Write down your skills, interests, and values, then analyze them honestly</td>
+<td>1-2 weeks</td>
+</tr>
+<tr>
+<td>2. Market Research</td>
+<td>Check the demand and growth potential of your target field</td>
+<td>1 week</td>
+</tr>
+<tr>
+<td>3. Skill Gap Analysis</td>
+<td>Compare your current skills against what the role actually requires</td>
+<td>3-4 days</td>
+</tr>
+<tr>
+<td>4. Build an Action Plan</td>
+<td>Plan courses, certifications, or projects to close the gap</td>
+<td>1 week</td>
+</tr>
+<tr>
+<td>5. Execute and Review</td>
+<td>Track progress every few months and adjust course</td>
+<td>Ongoing</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>This process not work perfectly in first try because career growth is rarely a straight line.</p>
+<h2>Key Skills Across Different Career Fields</h2>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Core Technical Skills</th>
+<th>Essential Soft Skills</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Software Development</td>
+<td>Coding, Debugging, System Design</td>
+<td>Problem-solving, Patience</td>
+</tr>
+<tr>
+<td>Digital Marketing</td>
+<td>SEO, Content, Analytics Tools</td>
+<td>Creativity, Communication</td>
+</tr>
+<tr>
+<td>Design (UI/UX)</td>
+<td>Wireframing, Figma, Prototyping</td>
+<td>Empathy, Attention to detail</td>
+</tr>
+<tr>
+<td>Sales &amp; Business Dev</td>
+<td>CRM Tools, Negotiation</td>
+<td>Confidence, Listening skills</td>
+</tr>
+<tr>
+<td>Government/Sarkari Jobs</td>
+<td>Subject Knowledge, Exam Strategy</td>
+<td>Discipline, Consistency</td>
+</tr>
+<tr>
+<td>Teaching/EdTech</td>
+<td>Subject Expertise, Digital Tools</td>
+<td>Patience, Explaining skills</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Technical skills are important, but strong communication, teamwork, and problem solving skills often help people grow faster in their careers.</p>
+<h2>Common Resume and Interview Mistakes</h2>
+<p>A lot of candidates lose out on good opportunities because of small, avoidable mistakes.</p>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
+<th>Mistake</th>
+<th>What It Causes</th>
+<th>Fix</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sending the same generic resume everywhere</td>
+<td>Recruiters don't see relevance to the role</td>
+<td>Customize your resume for each job</td>
+</tr>
+<tr>
+<td>ATS-unfriendly formatting</td>
+<td>Resume gets rejected by the system before a human sees it</td>
+<td>Use a simple, clean, ATS-friendly format</td>
+</tr>
+<tr>
+<td>Giving memorized, rehearsed answers</td>
+<td>Comes across as inauthentic</td>
+<td>Share real examples and personal stories</td>
+</tr>
+<tr>
+<td>Not following up after interviews</td>
+<td>Recruiter simply forgets you</td>
+<td>Send a short, polite thank-you email</td>
+</tr>
+<tr>
+<td>Avoiding salary discussions</td>
+<td>You end up accepting a lower package</td>
+<td>Do market research and negotiate confidently</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Looking for an ATS-friendly resume? Try our free ATS Resume Checker and Resume Builder. <a title="Create ATS Friendly Resume" href="https://www.resumesathi.com/" target="_blank" rel="noopener">Click here</a></p>
+<h2>The Most Underrated Career Skill</h2>
+<ul>
+<li>Share work-related updates or insights on LinkedIn regularly</li>
+<li>Leave thoughtful comments on posts from people in your industry</li>
+<li>Join alumni groups and professional communities</li>
+<li>Attend events or webinars, even the online ones</li>
+<li>Stay in touch with colleagues and classmates</li>
+</ul>
+<h2>A Realistic Career Growth Timeline</h2>
+<p>Many people expect quick results, but career growth usually takes time.</p>
+<div class="table-responsive">
+<table>
+<thead>
+<tr>
+<th>Time Period</th>
+<th>What to Expect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0-1 Year</td>
+<td>In learning phase, focus on building a solid foundation</td>
+</tr>
+<tr>
+<td>1-3 Years</td>
+<td>Skills sharpen and confidence starts building</td>
+</tr>
+<tr>
+<td>3-5 Years</td>
+<td>Specialization and leadership opportunities start opening up</td>
+</tr>
+<tr>
+<td>5+ Years</td>
+<td>Clear direction and stability in your career path</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Do's and Don'ts to Keep in Mind</h2>
+<div>
+<div>Do:<br />
+<ul>
+<li>Learn at least one new skill or concept every month</li>
+<li>Keep your portfolio or resume updated</li>
+<li>Actively seek feedback and act on it</li>
+<li>Treat financial planning as part of career planning</li>
+</ul>
+</div>
+<div>Don't:<br />
+<ul>
+<li>Fall into the comparison trap</li>
+<li>Don't choose a job based only on salary also choose accordign to career growth opportunity.</li>
+<li>Stop learning once you land a job</li>
+<li>Don't ignor burnout,break is also important.</li>
+</ul>
+</div>
+</div>
+<h2>Final Thoughts</h2>
+<p>Your career is not a race. Everyone grows at their own pace. It's a continuous journey where every step teaches you something new. Don't compare your joourney with another because every one have different mindset and starting point.</p>
+<blockquote><strong>Found this useful?</strong> Check out more career-related posts on the channel, and feel free to share your thoughts or questions in the comments &mdash; genuine queries always get a reply.</blockquote>0:{"P":null,"c":["","blog",""],"q":"","i":false,"f":[[["",{"children":["blog",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/3_bezyotg8f3w.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0b5j8te8ufv_z.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"data-scroll-behavior":"smooth","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preload","href":"/front-assets/css/bootstrap.min.css","as":"style"}],["$","link",null,{"rel":"preload","href":"/front-assets/css/style.css","as":"style"}],["$","link",null,{"rel":"preload","href":"/front-assets/css/responsive.css","as":"style"}],["$","link",null,{"rel":"preload","href":"https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap","as":"style","crossOrigin":"anonymous"}],["$","link",null,{"rel":"stylesheet","href":"/front-assets/css/bootstrap.min.css"}],["$","link",null,{"rel":"stylesheet","href":"/front-assets/css/style.css"}],["$","link",null,{"rel":"stylesheet","href":"/front-assets/css/responsive.css"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"}]]}],["$","body",null,{"suppressHydrationWarning":true,"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ResumeSathi\",\"url\":\"https://www.resumesathi.com\",\"logo\":\"https://www.resumesathi.com/front-assets/images/logo/logo.svg\",\"sameAs\":[\"https://www.facebook.com\",\"https://www.linkedin.com\",\"https://www.instagram.com\"],\"description\":\"ResumeSathi helps job seekers create ATS-friendly resumes, cover letters, and career documents for free.\"}"}}],["$","main",null,{"id":"main-content","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","$L4",null,{}],["$","section",null,{"className":"page-404","children":["$","div",null,{"className":"container","children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"col-sm-12","children":["$","div",null,{"className":"col-sm-10 offset-sm-1 text-center","children":[["$","div",null,{"className":"four-zero-four-bg","children":["$","h1",null,{"className":"text-center","children":"404"}]}],["$","div",null,{"className":"contant-box-404","children":[["$","h3",null,{"className":"h2","children":"Looks like you are lost"}],["$","p",null,{"children":"The page you are looking for is not available."}],["$","$L5",null,{"prefetch":false,"href":"/","className":"link-404","aria-label":"Go to Home Page","children":"Go to Home"}]]}]]}]}]}]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{}],["$","$L7",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/0oa3ilh4tyqfb.js","async":true,"nonce":"$undefined"}]],["$","$L8",null,{"Component":"$9","slots":{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]},"serverProvidedParams":{"params":{},"promises":["$@a"]}}]]}],{"children":[["$","$1","c",{"children":[["$","$Lb",null,{"initialArticles":[{"id":27,"article_type":1,"article_title":"Test","url_name":"test","meta_title":"Test","meta_description":"Test","meta_keyword":"Test","canonical_tag":"articles/web-articles/test","language_id":null,"hero_image":"articles_image/file_1786623944.png","pageview":0,"created_by":1,"created_at":"2026-08-13T12:24:35.000000Z","is_draft":0,"is_active":1,"status":1,"updated_at":"2026-08-13T12:26:20.000000Z","deleted_at":null,"user":{"id":1,"first_name":"Hariom","last_name":"Prajapati","email":"hariomprajapati9029@gmail.com","mobile":"8840860841","birth_date":"08/01/1999","age":"23","gender":"male","profile_image":"Hariom.jpg","background_image":null,"is_active":1,"created_at":"2021-09-12T13:19:51.000000Z","updated_at":"2026-07-12T10:04:13.000000Z"},"category":{"id":1,"article_name":"Career Advice","url_name":"web-articles","article_description":"Expert tips for career growth, job search, and professional success.","created_at":"2021-09-12T17:33:33.000000Z","updated_at":"2026-07-16T15:18:01.000000Z"},"contents":[{"id":27,"article_id":27,"content":"<p>Test &nbsp;<img src=\"../../attachments/file_1786623922.png\" alt=\"\" width=\"1365\" height=\"635\" /></p>","created_at":"2026-08-13T12:24:35.000000Z","updated_at":"2026-08-13T12:26:20.000000Z"}]},{"id":26,"article_type":2,"article_title":"Timeline Resume Template: Is It Right for Your Job Search?","url_name":"timeline-resume-template-guide","meta_title":"Timeline Resume Template: Is It Right for Your Job Search?","meta_description":"A breakdown of the Timeline resume template — its layout, who it suits best, ATS compatibility, and tips before you use it.","meta_keyword":"timeline resume template, resume template guide, ats friendly resume template, best resume template for freshers, resume template for retail jobs, two column resume template, resume design tips, resume template comparison, free resume template india, resume format for sales jobs","canonical_tag":"articles/resume-tips/timeline-resume-template-guide","language_id":null,"hero_image":"articles_image/file_1786429773.png","pageview":0,"created_by":1,"created_at":"2026-07-19T07:07:05.000000Z","is_draft":0,"is_active":1,"status":1,"updated_at":"2026-08-13T10:27:14.000000Z","deleted_at":null,"user":{"id":1,"first_name":"Hariom","last_name":"Prajapati","email":"hariomprajapati9029@gmail.com","mobile":"8840860841","birth_date":"08/01/1999","age":"23","gender":"male","profile_image":"Hariom.jpg","background_image":null,"is_active":1,"created_at":"2021-09-12T13:19:51.000000Z","updated_at":"2026-07-12T10:04:13.000000Z"},"category":{"id":2,"article_name":"Resume Tips","url_name":"resume-tips","article_description":"Expert tips and useful guidance to help you create a professional, ATS-friendly resume and improve your chances of getting hired.","created_at":"2026-08-13T03:37:18.000000Z","updated_at":"2026-08-13T03:37:18.000000Z"},"contents":[{"id":26,"article_id":26,"content":"$c","created_at":"2026-07-19T07:07:05.000000Z","updated_at":"2026-08-13T10:27:14.000000Z"}]},{"id":25,"article_type":1,"article_title":"How to Make the Right Career Decisions","url_name":"how-to-plan-your-career","meta_title":"How to Make the Right Career Decisions","meta_description":"Confused about your career path? Get practical career advice on planning, resumes, networking, and realistic growth timelines to move forward with clarity.","meta_keyword":"Meta Keywords (comma separated):  career advice, career planning tips, how to choose a career, career growth tips, career advice for 20s, resume mistakes to avoid, networking tips for career growth, career decision making guide, career advice 2026, job interview tips","canonical_tag":"articles/web-articles/how-to-plan-your-career","language_id":null,"hero_image":"articles_image/file_1784886895.webp","pageview":0,"created_by":1,"created_at":"2026-07-17T16:19:52.000000Z","is_draft":0,"is_active":1,"status":1,"updated_at":"2026-08-13T10:04:19.000000Z","deleted_at":null,"user":{"id":1,"first_name":"Hariom","last_name":"Prajapati","email":"hariomprajapati9029@gmail.com","mobile":"8840860841","birth_date":"08/01/1999","age":"23","gender":"male","profile_image":"Hariom.jpg","background_image":null,"is_active":1,"created_at":"2021-09-12T13:19:51.000000Z","updated_at":"2026-07-12T10:04:13.000000Z"},"category":{"id":1,"article_name":"Career Advice","url_name":"web-articles","article_description":"Expert tips for career growth, job search, and professional success.","created_at":"2021-09-12T17:33:33.000000Z","updated_at":"2026-07-16T15:18:01.000000Z"},"contents":[{"id":25,"article_id":25,"content":"$d","created_at":"2026-07-17T16:19:52.000000Z","updated_at":"2026-08-01T08:08:32.000000Z"}]}],"initialCategories":[{"id":1,"article_name":"Career Advice","url_name":"web-articles","article_description":"Expert tips for career growth, job search, and professional success.","created_at":"2021-09-12T17:33:33.000000Z","updated_at":"2026-07-16T15:18:01.000000Z"},{"id":2,"article_name":"Resume Tips","url_name":"resume-tips","article_description":"Expert tips and useful guidance to help you create a professional, ATS-friendly resume and improve your chances of getting hired.","created_at":"2026-08-13T03:37:18.000000Z","updated_at":"2026-08-13T03:37:18.000000Z"}]}],["$Le","$Lf"],"$L10"]}],{},null,false,null]},null,false,null]},null,false,null],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"keVm6Da3qnRC_mqGccBX1"}
+13:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"OutletBoundary"]
+14:"$Sreact.suspense"
+16:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"ViewportBoundary"]
+18:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"MetadataBoundary"]
+e:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/19r02t9galfzp.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+f:["$","script","script-0",{"src":"/_next/static/chunks/25obbct1vvho7.js","async":true,"nonce":"$undefined"}]
+10:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+11:["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","div",null,{"hidden":true,"children":["$","$L18",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":"$L19"}]}]}],null]}]
+a:"$0:f:0:1:1:children:0:props:children:1:props:serverProvidedParams:params"
+17:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1a:I[27201,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"IconMark"]
+15:null
+19:[["$","title","0",{"children":"Career Blog with Resume and Interview Tips | ResumeSathi"}],["$","meta","1",{"name":"description","content":"Explore expert blog articles on resumes, interviews, career growth, and job search strategies."}],["$","meta","2",{"name":"keywords","content":"resume tips, career advice, interview tips, job search, professional growth"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://www.resumesathi.com/blog/"}],["$","meta","5",{"property":"og:title","content":"Career Blog with Resume and Interview Tips - ResumeSathi"}],["$","meta","6",{"property":"og:description","content":"Explore expert blog articles on resumes, interviews, career growth, and job search strategies."}],["$","meta","7",{"property":"og:url","content":"https://www.resumesathi.com/blog/"}],["$","meta","8",{"property":"og:site_name","content":"ResumeSathi"}],["$","meta","9",{"property":"og:image","content":"https://www.resumesathi.com/front-assets/images/og/blog-og.png"}],["$","meta","10",{"property":"og:image:width","content":"1200"}],["$","meta","11",{"property":"og:image:height","content":"630"}],["$","meta","12",{"property":"og:image:alt","content":"ResumeSathi Blog"}],["$","meta","13",{"property":"og:type","content":"website"}],["$","meta","14",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","15",{"name":"twitter:title","content":"Career Blog with Resume and Interview Tips - ResumeSathi"}],["$","meta","16",{"name":"twitter:description","content":"Explore expert blog articles on resumes, interviews, career growth, and job search strategies."}],["$","meta","17",{"name":"twitter:image","content":"https://www.resumesathi.com/front-assets/images/og/blog-og.png"}],["$","link","18",{"rel":"shortcut icon","href":"/front-assets/images/logo/favicon.png"}],["$","link","19",{"rel":"icon","href":"/front-assets/images/logo/favicon.png"}],["$","link","20",{"rel":"apple-touch-icon","href":"/front-assets/images/logo/favicon.png"}],["$","link","21",{"rel":"apple-touch-icon-precomposed","href":"/front-assets/images/logo/favicon.png"}],["$","$L1a","22",{}]]

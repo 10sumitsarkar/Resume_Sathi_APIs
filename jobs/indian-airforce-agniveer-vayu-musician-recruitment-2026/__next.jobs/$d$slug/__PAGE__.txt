@@ -1,0 +1,128 @@
+1:"$Sreact.fragment"
+7:I[88609,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/06pj_k8chkpe5.js","/_next/static/chunks/16ymsuy-x3uv9.js"],"default"]
+9:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+:HL["/_next/static/chunks/36s5nf8n-vj81.css","style"]
+2:T1b37,{"@context":"https://schema.org/","@type":"JobPosting","title":"Indian Airforce Agniveer Vayu Musician Rally Recruitment 2026 (Intake 01/2027)","description":"\u003cdiv class=\"post-content\">\r\n\u003cp>Indian Air Force is conducting an \u003cstrong>Agniveer Vayu Musician Rally Recruitment 2026\u003c/strong> for Intake 01/2027, and the advertisement for the same has been released. Eligible candidates can submit their online application between 20/07/2026 and 02/08/2026.\u003c/p>\r\n\u003ch2>Important Dates\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Application Begin\u003c/td>\r\n\u003ctd>\u003cstrong>20/07/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Last Date for Apply Online\u003c/td>\r\n\u003ctd>\u003cstrong>02/08/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Pay Exam Fee Last Date\u003c/td>\r\n\u003ctd>\u003cstrong>02/08/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Exam Date\u003c/td>\r\n\u003ctd>\u003cstrong>As per Schedule\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Admit Card Available\u003c/td>\r\n\u003ctd>\u003cstrong>Before Exam\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>Application Fee\u003c/h2>\r\n\u003cul>\r\n\u003cli>General / OBC / EWS : 100/-\u003c/li>\r\n\u003cli>SC / ST : 100/-\u003c/li>\r\n\u003cli>Pay the Exam Fee Through Debit Card / Credit Card / Net Banking\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Age Limit\u003c/h2>\r\n\u003cul>\r\n\u003cli>Candidate Age Between 01/01/2005 to 01/07/2006\u003c/li>\r\n\u003cli>Age as per Indian Air Force Agniveer Musician Intake 01/2027 Exam Rules (\u003cspan style=\"color: #212121; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; background-color: #fefefe;\">Read the Notification for more details\u003c/span>)\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Vacancy Details : Intake 01/2027\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003cthead>\r\n\u003ctr>\r\n\u003cth>Post Name\u003c/th>\r\n\u003cth>Indian Air Force Agniveer Vayu Musician Eligibility\u003c/th>\r\n\u003c/tr>\r\n\u003c/thead>\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Agniveer Vayu Musician Intake 01/2027 Batch\u003c/td>\r\n\u003ctd>\r\n\u003cul>\r\n\u003cli>Male / Female Candidates Eligible (All India)\u003c/li>\r\n\u003cli>Class 10th High School Exam From Any Recognized Board in India\u003c/li>\r\n\u003cli>Music Ability Required (For Details Read the Notification)\u003c/li>\r\n\u003c/ul>\r\n\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>Physical Standards\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Height\u003c/td>\r\n\u003ctd>Male : 162 CMS | Female : 152 CMS\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Running (1.6 KM)\u003c/td>\r\n\u003ctd>Male : 7 Minutes | Female : 8 Minutes\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>How to Fill Indian Airforce Musician Intake 01/2027 Online Form 2026\u003c/h2>\r\n\u003cul>\r\n\u003cli>Photo Requirement : Upload a Recent Passport Size Colour Photo, File Size Between 10 KB and 50 KB, Plain Light Background, No Head Cover (Except for Sikh Candidates). Candidate Must Hold a Black Slate Showing Their Name and Photo Date, Written Clearly in White Chalk in Capital Letters.\u003c/li>\r\n\u003cli>Keep Your Documents Ready for Eligibility Proof, ID Proof, Address Proof and Basic Details.\u003c/li>\r\n\u003cli>Scan Copies of Photo, Signature and ID Proof in the Prescribed Format.\u003c/li>\r\n\u003cli>Application Fee Payment Is Mandatory, the Form Stays Incomplete Without It.\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Some Useful Important Links\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Apply Online\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"Apply Now\" href=\"https://agnipathvayu.cdac.in/adolsregcycle7/candidate/login\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Download Notification\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"Download Notification\" href=\"https://iafrecruitment.edcil.co.in/agniveervayu/pdffiles/Musician%20%20Rally%2001%20of%202027.pdf\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Signature Resizer, PDF Compress, Age Calculator and More Tools\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"https://www.resumesathi.com/tools/\" href=\"https://www.resumesathi.com/tools/\" target=\"_blank\" rel=\"noopener\">View Tools\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Official Website\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"Indian Airforce Official Website\" href=\"https://indianairforce.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003cblockquote>\u003cstrong>Note:\u003c/strong> Candidates are advised to always cross-check dates, fee details, and eligibility criteria from the official Indian Air Force website before applying, as the schedule may change based on official updates.\u003c/blockquote>\r\n\u003ch2>Indian Airforce Agniveer Vayu Musician Preparation Tips 2026\u003c/h2>\r\n\u003cul>\r\n\u003cli>Practice Your Musical Instrument or Vocal Skill Daily.\u003c/li>\r\n\u003cli>Focus on English, General Knowledge and Reasoning (Revise NCERT Class 10 Books) for written test.\u003c/li>\r\n\u003cli>Start Running 1.6 KM in Under 7 Minutes (Male) / 8 Minutes (Female) for practice.\u003c/li>\r\n\u003cli>Maintain a Healthy Diet and Sleep Schedule Before the Physical Test to Avoid Injury or Fatigue.\u003c/li>\r\n\u003cli>Keep All Documents and Photo (as per Instructions).\u003c/li>\r\n\u003c/ul>\r\n\u003c/div>","image":"https://api.resumesathi.com/courses_image/indian-airforce-agniveer-vayu-musician-recruitment-2026.webp","identifier":{"@type":"PropertyValue","name":"ResumeSathi","value":"10"},"datePosted":"2026-07-20","validFrom":"2026-07-20","validThrough":"2026-08-02","employmentType":"FULL_TIME","industry":"Defence","hiringOrganization":{"@type":"Organization","name":"Defence - Government Jobs","sameAs":"https://www.resumesathi.com/jobs/"},"jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressCountry":"IN"}},"directApply":false}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"],["$L4","$L5"],"$L6"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"keVm6Da3qnRC_mqGccBX1"}
+8:T1347,<div class="post-content">
+<p>Indian Air Force is conducting an <strong>Agniveer Vayu Musician Rally Recruitment 2026</strong> for Intake 01/2027, and the advertisement for the same has been released. Eligible candidates can submit their online application between 20/07/2026 and 02/08/2026.</p>
+<h2>Important Dates</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td>Application Begin</td>
+<td><strong>20/07/2026</strong></td>
+</tr>
+<tr>
+<td>Last Date for Apply Online</td>
+<td><strong>02/08/2026</strong></td>
+</tr>
+<tr>
+<td>Pay Exam Fee Last Date</td>
+<td><strong>02/08/2026</strong></td>
+</tr>
+<tr>
+<td>Exam Date</td>
+<td><strong>As per Schedule</strong></td>
+</tr>
+<tr>
+<td>Admit Card Available</td>
+<td><strong>Before Exam</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Application Fee</h2>
+<ul>
+<li>General / OBC / EWS : 100/-</li>
+<li>SC / ST : 100/-</li>
+<li>Pay the Exam Fee Through Debit Card / Credit Card / Net Banking</li>
+</ul>
+<h2>Age Limit</h2>
+<ul>
+<li>Candidate Age Between 01/01/2005 to 01/07/2006</li>
+<li>Age as per Indian Air Force Agniveer Musician Intake 01/2027 Exam Rules (<span style="color: #212121; font-family: Georgia, 'Times New Roman', serif; font-size: 15px; background-color: #fefefe;">Read the Notification for more details</span>)</li>
+</ul>
+<h2>Vacancy Details : Intake 01/2027</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<thead>
+<tr>
+<th>Post Name</th>
+<th>Indian Air Force Agniveer Vayu Musician Eligibility</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Agniveer Vayu Musician Intake 01/2027 Batch</td>
+<td>
+<ul>
+<li>Male / Female Candidates Eligible (All India)</li>
+<li>Class 10th High School Exam From Any Recognized Board in India</li>
+<li>Music Ability Required (For Details Read the Notification)</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Physical Standards</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td>Height</td>
+<td>Male : 162 CMS | Female : 152 CMS</td>
+</tr>
+<tr>
+<td>Running (1.6 KM)</td>
+<td>Male : 7 Minutes | Female : 8 Minutes</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>How to Fill Indian Airforce Musician Intake 01/2027 Online Form 2026</h2>
+<ul>
+<li>Photo Requirement : Upload a Recent Passport Size Colour Photo, File Size Between 10 KB and 50 KB, Plain Light Background, No Head Cover (Except for Sikh Candidates). Candidate Must Hold a Black Slate Showing Their Name and Photo Date, Written Clearly in White Chalk in Capital Letters.</li>
+<li>Keep Your Documents Ready for Eligibility Proof, ID Proof, Address Proof and Basic Details.</li>
+<li>Scan Copies of Photo, Signature and ID Proof in the Prescribed Format.</li>
+<li>Application Fee Payment Is Mandatory, the Form Stays Incomplete Without It.</li>
+</ul>
+<h2>Some Useful Important Links</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td><strong>Apply Online</strong></td>
+<td><a title="Apply Now" href="https://agnipathvayu.cdac.in/adolsregcycle7/candidate/login" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+<tr>
+<td><strong>Download Notification</strong></td>
+<td><a title="Download Notification" href="https://iafrecruitment.edcil.co.in/agniveervayu/pdffiles/Musician%20%20Rally%2001%20of%202027.pdf" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+<tr>
+<td><strong>Signature Resizer, PDF Compress, Age Calculator and More Tools</strong></td>
+<td><a title="https://www.resumesathi.com/tools/" href="https://www.resumesathi.com/tools/" target="_blank" rel="noopener">View Tools</a></td>
+</tr>
+<tr>
+<td><strong>Official Website</strong></td>
+<td><a title="Indian Airforce Official Website" href="https://indianairforce.nic.in/" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote><strong>Note:</strong> Candidates are advised to always cross-check dates, fee details, and eligibility criteria from the official Indian Air Force website before applying, as the schedule may change based on official updates.</blockquote>
+<h2>Indian Airforce Agniveer Vayu Musician Preparation Tips 2026</h2>
+<ul>
+<li>Practice Your Musical Instrument or Vocal Skill Daily.</li>
+<li>Focus on English, General Knowledge and Reasoning (Revise NCERT Class 10 Books) for written test.</li>
+<li>Start Running 1.6 KM in Under 7 Minutes (Male) / 8 Minutes (Female) for practice.</li>
+<li>Maintain a Healthy Diet and Sleep Schedule Before the Physical Test to Avoid Injury or Fatigue.</li>
+<li>Keep All Documents and Photo (as per Instructions).</li>
+</ul>
+</div>3:["$","$L7",null,{"article":{"id":10,"title":"Indian Airforce Agniveer Vayu Musician Rally Recruitment 2026 (Intake 01/2027)","slug":"indian-airforce-agniveer-vayu-musician-recruitment-2026","description":"Indian Air Force Agniveer Vayu Musician Rally Recruitment 2026 notification out for Intake 01/2027. Apply online from 20/07/2026 to 02/08/2026. Check eligibility, age limit, physical standards and how to apply.","company":null,"location":null,"employment_type":null,"salary":null,"status":1,"created_at":"2026-07-20T06:16:58.000000Z","updated_at":"2026-08-02T16:41:02.000000Z","job_type_id":null,"department_id":null,"is_active":1,"featured":0,"trending":0,"urgent":0,"homepage":0,"deleted_at":null,"hero_image":"courses_image/indian-airforce-agniveer-vayu-musician-recruitment-2026.webp","created_by":1,"topic_name":"Indian Airforce Agniveer Vayu Musician Rally Recruitment 2026 (Intake 01/2027)","url_name":"indian-airforce-agniveer-vayu-musician-recruitment-2026","meta_title":"Indian Airforce Agniveer Vayu Musician Rally Recruitment 2026 (Intake 01/2027)","meta_description":"Indian Air Force Agniveer Vayu Musician Rally Recruitment 2026 notification out for Intake 01/2027. Apply online from 20/07/2026 to 02/08/2026. Check eligibility, age limit, physical standards and how to apply.","meta_keyword":"Indian Airforce Agniveer Vayu Musician 2026, Air Force Musician Rally Recruitment, Agniveer Vayu Intake 01/2027, IAF Musician Online Form 2026, Air Force Agniveer Rally","canonical_tag":"courses/defence/indian-airforce-agniveer-vayu-musician-recruitment-2026","course_type":12,"pageview":0,"application_begin":"2026-07-20","last_date_for_apply":"2026-08-02","user":{"id":1,"first_name":"Hariom","last_name":"Prajapati","email":"hariomprajapati9029@gmail.com","mobile":"8840860841","birth_date":"08/01/1999","age":"23","gender":"male","profile_image":"Hariom.jpg","background_image":null,"is_active":1,"created_at":"2021-09-12T13:19:51.000000Z","updated_at":"2026-07-12T10:04:13.000000Z"},"course_category":{"id":12,"course_name":"Defence","course_url":"defence","course_image":"courses/62967shield_109323.svg","description":"Recruitment notifications from Indian Army, Navy, Air Force and other central defence forces, including Agniveer intake.","created_at":"2026-07-20T06:49:07.000000Z","updated_at":"2026-07-20T06:49:07.000000Z","deleted_at":null,"created_by":1},"contents":[{"id":10,"content":"$8","course_id":10,"created_at":"2026-07-20T06:16:58.000000Z","updated_at":"2026-08-02T16:41:02.000000Z"}]},"slug":"indian-airforce-agniveer-vayu-musician-recruitment-2026"}]
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/36s5nf8n-vj81.css","precedence":"next"}]
+5:["$","script","script-0",{"src":"/_next/static/chunks/16ymsuy-x3uv9.js","async":true}]
+6:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

@@ -1,0 +1,1 @@
+window.RESUME_SATHI_CONFIG = window.RESUME_SATHI_CONFIG || {};

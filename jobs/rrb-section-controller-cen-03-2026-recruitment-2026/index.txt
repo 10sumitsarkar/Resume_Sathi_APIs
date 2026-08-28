@@ -1,0 +1,135 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+3:I[37457,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+4:I[44134,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/0dge8h81efw6t.js"],"default"]
+5:I[22016,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/0dge8h81efw6t.js"],""]
+6:I[59708,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+7:I[32666,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+8:I[92825,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"ClientSegmentRoot"]
+9:I[39040,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/06pj_k8chkpe5.js"],"default"]
+c:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+13:I[68027,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default",1]
+:HL["/_next/static/chunks/36s5nf8n-vj81.css","style"]
+:HL["/front-assets/css/bootstrap.min.css","style"]
+:HL["/front-assets/css/style.css","style"]
+:HL["/front-assets/css/responsive.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap","style",{"crossOrigin":"anonymous"}]
+0:{"P":null,"c":["","jobs","rrb-section-controller-cen-03-2026-recruitment-2026",""],"q":"","i":false,"f":[[["",{"children":["jobs",{"children":[["slug","rrb-section-controller-cen-03-2026-recruitment-2026","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/3_bezyotg8f3w.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0b5j8te8ufv_z.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"data-scroll-behavior":"smooth","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preload","href":"/front-assets/css/bootstrap.min.css","as":"style"}],["$","link",null,{"rel":"preload","href":"/front-assets/css/style.css","as":"style"}],["$","link",null,{"rel":"preload","href":"/front-assets/css/responsive.css","as":"style"}],["$","link",null,{"rel":"preload","href":"https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap","as":"style","crossOrigin":"anonymous"}],["$","link",null,{"rel":"stylesheet","href":"/front-assets/css/bootstrap.min.css"}],["$","link",null,{"rel":"stylesheet","href":"/front-assets/css/style.css"}],["$","link",null,{"rel":"stylesheet","href":"/front-assets/css/responsive.css"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"}]]}],["$","body",null,{"suppressHydrationWarning":true,"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ResumeSathi\",\"url\":\"https://www.resumesathi.com\",\"logo\":\"https://www.resumesathi.com/front-assets/images/logo/logo.svg\",\"sameAs\":[\"https://www.facebook.com\",\"https://www.linkedin.com\",\"https://www.instagram.com\"],\"description\":\"ResumeSathi helps job seekers create ATS-friendly resumes, cover letters, and career documents for free.\"}"}}],["$","main",null,{"id":"main-content","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","$L4",null,{}],["$","section",null,{"className":"page-404","children":["$","div",null,{"className":"container","children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"col-sm-12","children":["$","div",null,{"className":"col-sm-10 offset-sm-1 text-center","children":[["$","div",null,{"className":"four-zero-four-bg","children":["$","h1",null,{"className":"text-center","children":"404"}]}],["$","div",null,{"className":"contant-box-404","children":[["$","h3",null,{"className":"h2","children":"Looks like you are lost"}],["$","p",null,{"children":"The page you are looking for is not available."}],["$","$L5",null,{"prefetch":false,"href":"/","className":"link-404","aria-label":"Go to Home Page","children":"Go to Home"}]]}]]}]}]}]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{}],["$","$L7",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/06pj_k8chkpe5.js","async":true,"nonce":"$undefined"}]],["$","$L8",null,{"Component":"$9","slots":{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]},"serverProvidedParams":{"params":{},"promises":["$@a"]}}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$Lb",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/36s5nf8n-vj81.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/16ymsuy-x3uv9.js","async":true,"nonce":"$undefined"}]],["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],{},null,false,null]},null,false,"$@f"]},null,false,null]},null,false,null],["$","$1","h",{"children":["$L10","$L11","$L12",null]}],false]],"m":"$undefined","G":["$13",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"keVm6Da3qnRC_mqGccBX1"}
+15:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"ViewportBoundary"]
+17:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"MetadataBoundary"]
+14:[]
+f:"$W14"
+10:null
+11:["$","$L15",null,{"children":"$L16"}]
+12:["$","div",null,{"hidden":true,"children":["$","$L17",null,{"children":["$","$d",null,{"name":"Next.Metadata","children":"$L18"}]}]}]
+a:"$0:f:0:1:1:children:0:props:children:1:props:serverProvidedParams:params"
+19:T188b,{"@context":"https://schema.org/","@type":"JobPosting","title":"RRB Section Controller CEN 03/2026 Recruitment 2026","description":"\u003cdiv class=\"post-content\">\r\n\u003cp>Railway Recruitment Board (RRB) has released a fresh notification for the post of \u003cstrong>Section Controller\u003c/strong> under Centralised Employment Notification No. \u003cstrong>CEN 03/2026\u003c/strong>. Those candidates who have been enrolled with RRB Section Controller CEN 03/2026 exam can apply online from 15/07/2026 to 14/08/2026.\u003c/p>\r\n\u003ch2>Important Dates\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Application Begins\u003c/td>\r\n\u003ctd>\u003cstrong>15/07/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Last Date for Apply Online\u003c/td>\r\n\u003ctd>\u003cstrong>14/08/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Pay Exam Fee Last Date\u003c/td>\r\n\u003ctd>\u003cstrong>16/08/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Correction Date\u003c/td>\r\n\u003ctd>\u003cstrong>17-26 August 2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>RRB Section Controller Exam Date\u003c/td>\r\n\u003ctd>\u003cstrong>As per Schedule\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Admit Card Available\u003c/td>\r\n\u003ctd>\u003cstrong>Before Exam\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>Application Fee\u003c/h2>\r\n\u003cul>\r\n\u003cli>General / OBC / EWS : 500/-\u003c/li>\r\n\u003cli>SC / ST / Female &nbsp;: 250/-\u003c/li>\r\n\u003cli>PH (Divyang) : 250/-\u003c/li>\r\n\u003cli>After Appear the Stage I Exam\u003c/li>\r\n\u003cli>UR / OBC / EWS Fee Refund : 400/-\u003c/li>\r\n\u003cli>SC / ST / PH / Female Refund : 250/-\u003c/li>\r\n\u003cli>Pay the Examination Fee Through E Challan or Net Banking\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Age Limit as on 01/07/2026\u003c/h2>\r\n\u003cul>\r\n\u003cli>Maximum Age : 33 Years\u003c/li>\r\n\u003cli>Age Relaxation Extra as per Railway RRB Section Controller CEN 03/2026 Recruitment Rules\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Vacancy Details Total : 119 Post\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003cthead>\r\n\u003ctr>\r\n\u003cth>Post Name\u003c/th>\r\n\u003cth>Total Post\u003c/th>\r\n\u003cth>RRB Section Controller Exam Eligibility\u003c/th>\r\n\u003c/tr>\r\n\u003c/thead>\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Railway RRB Section Controller Post\u003c/td>\r\n\u003ctd>119\u003c/td>\r\n\u003ctd>Bachelor Degree in Any Stream from Any Recognized University in India. More Eligibility Details Read the Notification.\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>How to Fill Railway RRB Section Controller Recruitment Online Form 2026\u003c/h2>\r\n\u003cul>\r\n\u003cli>Railway RRB Section Controller Recruitment CEN 03/2026 For Various Post Candidates Can Apply Between 15/07/2026 to 14/08/2026.\u003c/li>\r\n\u003cli>Candidate Read the Notification Before Apply the Recruitment Application Form in Railway RRB Section Controller Recruitment 2026.\u003c/li>\r\n\u003cli>Kindly Check and Collect the All Document - Eligibility, ID Proof, Address Details, Basic Details.\u003c/li>\r\n\u003cli>Kindly Ready Scan Document Related to Recruitment Form - Photo, Sign, ID Proof, Etc.\u003c/li>\r\n\u003cli>Before Submit the Application Form Must Check the Preview and All Column Carefully.\u003c/li>\r\n\u003cli>If Candidate Required to Pay the Application Fee Must Submit Fee Your Form Is Not Completed.\u003c/li>\r\n\u003cli>Take a Print Out of Final Submitted Form.\u003c/li>\r\n\u003c/ul>\r\n\u003cp>Interested Candidates Can Read the Full Notification Before Apply Online.\u003c/p>\r\n\u003ch2>Some Useful Important Links\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Apply Online\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"https://www.rrbapply.gov.in/#/auth/home\" href=\"https://www.rrbapply.gov.in/#/auth/home\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Download Notification\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"https://doc.sarkariresults.org.in/SarkariResult.COM_CEN03_2026.pdf\" href=\"https://doc.sarkariresults.org.in/SarkariResult.COM_CEN03_2026.pdf\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Signature Resizer, PDF Compress, Age Calculator and More Tools\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"https://www.resumesathi.com/tools/\" href=\"https://www.resumesathi.com/tools/\" target=\"_blank\" rel=\"noopener\">View Tools\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>RRB Official Website\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"https://rrb.indianrailways.gov.in/\" href=\"https://rrb.indianrailways.gov.in/\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003cblockquote>Note: Candidates are advised to always cross-check dates, fee details, and eligibility criteria from the official RRB website before applying, as the schedule may change based on official updates.\u003c/blockquote>\r\n\u003c/div>","image":"https://api.resumesathi.com/courses_image/RRB%20Section%20Controller%20Recruitment.webp","identifier":{"@type":"PropertyValue","name":"ResumeSathi","value":"6"},"datePosted":"2026-07-16","validFrom":"2026-07-15","validThrough":"2026-08-14","employmentType":"FULL_TIME","industry":"Railways","hiringOrganization":{"@type":"Organization","name":"Railways - Government Jobs","sameAs":"https://www.resumesathi.com/jobs/"},"jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressCountry":"IN"}},"directApply":false}b:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$19"}}],"$L1a"]
+1b:I[88609,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/06pj_k8chkpe5.js","/_next/static/chunks/16ymsuy-x3uv9.js"],"default"]
+1c:T113e,<div class="post-content">
+<p>Railway Recruitment Board (RRB) has released a fresh notification for the post of <strong>Section Controller</strong> under Centralised Employment Notification No. <strong>CEN 03/2026</strong>. Those candidates who have been enrolled with RRB Section Controller CEN 03/2026 exam can apply online from 15/07/2026 to 14/08/2026.</p>
+<h2>Important Dates</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td>Application Begins</td>
+<td><strong>15/07/2026</strong></td>
+</tr>
+<tr>
+<td>Last Date for Apply Online</td>
+<td><strong>14/08/2026</strong></td>
+</tr>
+<tr>
+<td>Pay Exam Fee Last Date</td>
+<td><strong>16/08/2026</strong></td>
+</tr>
+<tr>
+<td>Correction Date</td>
+<td><strong>17-26 August 2026</strong></td>
+</tr>
+<tr>
+<td>RRB Section Controller Exam Date</td>
+<td><strong>As per Schedule</strong></td>
+</tr>
+<tr>
+<td>Admit Card Available</td>
+<td><strong>Before Exam</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Application Fee</h2>
+<ul>
+<li>General / OBC / EWS : 500/-</li>
+<li>SC / ST / Female &nbsp;: 250/-</li>
+<li>PH (Divyang) : 250/-</li>
+<li>After Appear the Stage I Exam</li>
+<li>UR / OBC / EWS Fee Refund : 400/-</li>
+<li>SC / ST / PH / Female Refund : 250/-</li>
+<li>Pay the Examination Fee Through E Challan or Net Banking</li>
+</ul>
+<h2>Age Limit as on 01/07/2026</h2>
+<ul>
+<li>Maximum Age : 33 Years</li>
+<li>Age Relaxation Extra as per Railway RRB Section Controller CEN 03/2026 Recruitment Rules</li>
+</ul>
+<h2>Vacancy Details Total : 119 Post</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<thead>
+<tr>
+<th>Post Name</th>
+<th>Total Post</th>
+<th>RRB Section Controller Exam Eligibility</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Railway RRB Section Controller Post</td>
+<td>119</td>
+<td>Bachelor Degree in Any Stream from Any Recognized University in India. More Eligibility Details Read the Notification.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>How to Fill Railway RRB Section Controller Recruitment Online Form 2026</h2>
+<ul>
+<li>Railway RRB Section Controller Recruitment CEN 03/2026 For Various Post Candidates Can Apply Between 15/07/2026 to 14/08/2026.</li>
+<li>Candidate Read the Notification Before Apply the Recruitment Application Form in Railway RRB Section Controller Recruitment 2026.</li>
+<li>Kindly Check and Collect the All Document - Eligibility, ID Proof, Address Details, Basic Details.</li>
+<li>Kindly Ready Scan Document Related to Recruitment Form - Photo, Sign, ID Proof, Etc.</li>
+<li>Before Submit the Application Form Must Check the Preview and All Column Carefully.</li>
+<li>If Candidate Required to Pay the Application Fee Must Submit Fee Your Form Is Not Completed.</li>
+<li>Take a Print Out of Final Submitted Form.</li>
+</ul>
+<p>Interested Candidates Can Read the Full Notification Before Apply Online.</p>
+<h2>Some Useful Important Links</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td><strong>Apply Online</strong></td>
+<td><a title="https://www.rrbapply.gov.in/#/auth/home" href="https://www.rrbapply.gov.in/#/auth/home" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+<tr>
+<td><strong>Download Notification</strong></td>
+<td><a title="https://doc.sarkariresults.org.in/SarkariResult.COM_CEN03_2026.pdf" href="https://doc.sarkariresults.org.in/SarkariResult.COM_CEN03_2026.pdf" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+<tr>
+<td><strong>Signature Resizer, PDF Compress, Age Calculator and More Tools</strong></td>
+<td><a title="https://www.resumesathi.com/tools/" href="https://www.resumesathi.com/tools/" target="_blank" rel="noopener">View Tools</a></td>
+</tr>
+<tr>
+<td><strong>RRB Official Website</strong></td>
+<td><a title="https://rrb.indianrailways.gov.in/" href="https://rrb.indianrailways.gov.in/" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote>Note: Candidates are advised to always cross-check dates, fee details, and eligibility criteria from the official RRB website before applying, as the schedule may change based on official updates.</blockquote>
+</div>1a:["$","$L1b",null,{"article":{"id":6,"title":"RRB Section Controller CEN 03/2026 Recruitment 2026","slug":"rrb-section-controller-cen-03-2026-recruitment-2026","description":"Railway Recruitment Board has invited online applications for the Section Controller post under RRB Advt No. CEN 03/2026. Interested and eligible candidates can apply online between 15 July 2026 and 14 August 2026. Read the notification carefully before applying and check all eligibility conditions, post information, selection procedure, age limit and other details mentioned below.","company":null,"location":null,"employment_type":null,"salary":null,"status":1,"created_at":"2026-07-16T15:34:10.000000Z","updated_at":"2026-07-18T19:46:35.000000Z","job_type_id":null,"department_id":null,"is_active":1,"featured":0,"trending":0,"urgent":0,"homepage":0,"deleted_at":null,"hero_image":"courses_image/RRB Section Controller Recruitment.webp","created_by":1,"topic_name":"RRB Section Controller CEN 03/2026 Recruitment 2026","url_name":"rrb-section-controller-cen-03-2026-recruitment-2026","meta_title":"RRB Section Controller CEN 03/2026 Recruitment 2026","meta_description":"Get complete details of RRB Section Controller CEN 03/2026 Recruitment 2026, including eligibility, vacancies, selection process, syllabus, salary, application dates, and more.","meta_keyword":"RRB Section Controller Recruitment 2026, RRB CEN 03/2026, Section Controller Vacancy 2026, Railway Recruitment 2026, RRB Section Controller Notification, RRB Jobs 2026, Indian Railways Recruitment, Railway Vacancy 2026, RRB Eligibility, RRB Selection Process, RRB Syllabus, Government Jobs 2026","canonical_tag":"courses/railways/rrb-section-controller-cen-03-2026-recruitment-2026","course_type":9,"pageview":0,"application_begin":"2026-07-15","last_date_for_apply":"2026-08-14","user":{"id":1,"first_name":"Hariom","last_name":"Prajapati","email":"hariomprajapati9029@gmail.com","mobile":"8840860841","birth_date":"08/01/1999","age":"23","gender":"male","profile_image":"Hariom.jpg","background_image":null,"is_active":1,"created_at":"2021-09-12T13:19:51.000000Z","updated_at":"2026-07-12T10:04:13.000000Z"},"course_category":{"id":9,"course_name":"Railways","course_url":"railways","course_image":"courses/Indian-Railways.svg","description":"Latest railway job updates, recruitment notifications, exam details, and career opportunities in the railway","created_at":"2026-07-16T15:33:50.000000Z","updated_at":"2026-07-16T15:33:50.000000Z","deleted_at":null,"created_by":1},"contents":[{"id":6,"content":"$1c","course_id":6,"created_at":"2026-07-16T15:34:10.000000Z","updated_at":"2026-07-18T19:46:35.000000Z"}]},"slug":"rrb-section-controller-cen-03-2026-recruitment-2026"}]
+16:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1d:I[27201,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"IconMark"]
+e:null
+18:[["$","title","0",{"children":"RRB Section Controller CEN 03/2026 Recruitment 2026 | ResumeSathi"}],["$","meta","1",{"name":"description","content":"Get complete details of RRB Section Controller CEN 03/2026 Recruitment 2026, including eligibility, vacancies, selection process, syllabus, salary, application dates, and more."}],["$","meta","2",{"name":"keywords","content":"jobs, career opportunities, hiring, apply now, government jobs"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://www.resumesathi.com/jobs/rrb-section-controller-cen-03-2026-recruitment-2026/"}],["$","meta","5",{"property":"og:title","content":"RRB Section Controller CEN 03/2026 Recruitment 2026 | ResumeSathi"}],["$","meta","6",{"property":"og:description","content":"Get complete details of RRB Section Controller CEN 03/2026 Recruitment 2026, including eligibility, vacancies, selection process, syllabus, salary, application dates, and more."}],["$","meta","7",{"property":"og:url","content":"https://www.resumesathi.com/jobs/rrb-section-controller-cen-03-2026-recruitment-2026/"}],["$","meta","8",{"property":"og:site_name","content":"ResumeSathi"}],["$","meta","9",{"property":"og:image","content":"https://api.resumesathi.com/courses_image/RRB%20Section%20Controller%20Recruitment.webp"}],["$","meta","10",{"property":"og:image:alt","content":"RRB Section Controller CEN 03/2026 Recruitment 2026"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"RRB Section Controller CEN 03/2026 Recruitment 2026 | ResumeSathi"}],["$","meta","14",{"name":"twitter:description","content":"Get complete details of RRB Section Controller CEN 03/2026 Recruitment 2026, including eligibility, vacancies, selection process, syllabus, salary, application dates, and more."}],["$","meta","15",{"name":"twitter:image","content":"https://api.resumesathi.com/courses_image/RRB%20Section%20Controller%20Recruitment.webp"}],["$","link","16",{"rel":"shortcut icon","href":"/front-assets/images/logo/favicon.png"}],["$","link","17",{"rel":"icon","href":"/front-assets/images/logo/favicon.png"}],["$","link","18",{"rel":"apple-touch-icon","href":"/front-assets/images/logo/favicon.png"}],["$","link","19",{"rel":"apple-touch-icon-precomposed","href":"/front-assets/images/logo/favicon.png"}],["$","$L1d","20",{}]]

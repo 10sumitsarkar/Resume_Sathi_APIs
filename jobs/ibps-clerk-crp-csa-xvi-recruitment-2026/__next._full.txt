@@ -1,0 +1,437 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+3:I[37457,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+4:I[44134,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/0dge8h81efw6t.js"],"default"]
+5:I[22016,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/0dge8h81efw6t.js"],""]
+6:I[59708,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+7:I[32666,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+8:I[92825,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"ClientSegmentRoot"]
+9:I[39040,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/06pj_k8chkpe5.js"],"default"]
+c:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"ViewportBoundary"]
+13:I[68027,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default",1]
+:HL["/_next/static/chunks/36s5nf8n-vj81.css","style"]
+:HL["/front-assets/css/bootstrap.min.css","style"]
+:HL["/front-assets/css/style.css","style"]
+:HL["/front-assets/css/responsive.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap","style",{"crossOrigin":"anonymous"}]
+0:{"P":null,"c":["","jobs","ibps-clerk-crp-csa-xvi-recruitment-2026",""],"q":"","i":false,"f":[[["",{"children":["jobs",{"children":[["slug","ibps-clerk-crp-csa-xvi-recruitment-2026","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/3_bezyotg8f3w.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0b5j8te8ufv_z.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"data-scroll-behavior":"smooth","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preload","href":"/front-assets/css/bootstrap.min.css","as":"style"}],["$","link",null,{"rel":"preload","href":"/front-assets/css/style.css","as":"style"}],["$","link",null,{"rel":"preload","href":"/front-assets/css/responsive.css","as":"style"}],["$","link",null,{"rel":"preload","href":"https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap","as":"style","crossOrigin":"anonymous"}],["$","link",null,{"rel":"stylesheet","href":"/front-assets/css/bootstrap.min.css"}],["$","link",null,{"rel":"stylesheet","href":"/front-assets/css/style.css"}],["$","link",null,{"rel":"stylesheet","href":"/front-assets/css/responsive.css"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"}]]}],["$","body",null,{"suppressHydrationWarning":true,"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ResumeSathi\",\"url\":\"https://www.resumesathi.com\",\"logo\":\"https://www.resumesathi.com/front-assets/images/logo/logo.svg\",\"sameAs\":[\"https://www.facebook.com\",\"https://www.linkedin.com\",\"https://www.instagram.com\"],\"description\":\"ResumeSathi helps job seekers create ATS-friendly resumes, cover letters, and career documents for free.\"}"}}],["$","main",null,{"id":"main-content","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","$L4",null,{}],["$","section",null,{"className":"page-404","children":["$","div",null,{"className":"container","children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"col-sm-12","children":["$","div",null,{"className":"col-sm-10 offset-sm-1 text-center","children":[["$","div",null,{"className":"four-zero-four-bg","children":["$","h1",null,{"className":"text-center","children":"404"}]}],["$","div",null,{"className":"contant-box-404","children":[["$","h3",null,{"className":"h2","children":"Looks like you are lost"}],["$","p",null,{"children":"The page you are looking for is not available."}],["$","$L5",null,{"prefetch":false,"href":"/","className":"link-404","aria-label":"Go to Home Page","children":"Go to Home"}]]}]]}]}]}]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{}],["$","$L7",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/06pj_k8chkpe5.js","async":true,"nonce":"$undefined"}]],["$","$L8",null,{"Component":"$9","slots":{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]},"serverProvidedParams":{"params":{},"promises":["$@a"]}}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$Lb",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/36s5nf8n-vj81.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/16ymsuy-x3uv9.js","async":true,"nonce":"$undefined"}]],["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],{},null,false,null]},null,false,"$@f"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$L11"}],["$","div",null,{"hidden":true,"children":"$L12"}],null]}],false]],"m":"$undefined","G":["$13",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"keVm6Da3qnRC_mqGccBX1"}
+15:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"MetadataBoundary"]
+14:[]
+f:"$W14"
+12:["$","$L15",null,{"children":["$","$d",null,{"name":"Next.Metadata","children":"$L16"}]}]
+a:"$0:f:0:1:1:children:0:props:children:1:props:serverProvidedParams:params"
+17:T7a0d,{"@context":"https://schema.org/","@type":"JobPosting","title":"IBPS Clerk CRP CSA-XVI Recruitment 2026 (11403 Post)","description":"\u003cdiv class=\"post-content\">\r\n\u003cp>IBPS has thrown open the 16th edition of its clerical recruitment drive - CRP CSA-XVI - with 11,403 indicative vacancies for the Customer Service Associate post (the role most people still call \"Clerk\") across 11 participating public sector banks. Online registration runs from 1 August to 21 August 2026, covering hiring for the 2027-28 vacancy cycle.\u003c/p>\r\n\u003cp>This is a state/UT-wise recruitment, meaning you can apply against vacancies in only one state or union territory, so it's worth checking where the opportunities actually sit before you register.\u003c/p>\r\n\u003ch2>Important Dates\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Short Notice Released\u003c/td>\r\n\u003ctd>\u003cstrong>27/07/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Detailed Notification / Application Begin\u003c/td>\r\n\u003ctd>\u003cstrong>01/08/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Last Date for Apply Online\u003c/td>\r\n\u003ctd>\u003cstrong>21/08/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Last Date Pay Exam Fee\u003c/td>\r\n\u003ctd>\u003cstrong>21/08/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Prelims Exam Date\u003c/td>\r\n\u003ctd>\u003cstrong>10 &amp; 11 October 2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Mains Exam Date\u003c/td>\r\n\u003ctd>\u003cstrong>27 December 2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Provisional Allotment\u003c/td>\r\n\u003ctd>\u003cstrong>March 2027\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>Application Fee\u003c/h2>\r\n\u003cul>\r\n\u003cli>General / OBC / EWS : 850/- (Inclusive of GST)\u003c/li>\r\n\u003cli>SC / ST / PwBD / ESM : 175/- (Inclusive of GST)\u003c/li>\r\n\u003cli>Fee Is Non-Refundable Once Paid\u003c/li>\r\n\u003cli>Pay Through Debit Card, Credit Card, Net Banking or UPI Only - Bank Transaction Charges, if Any, Are Borne by the Candidate\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Age Limit as on 01/08/2026\u003c/h2>\r\n\u003cul>\r\n\u003cli>Minimum Age : 20 Years\u003c/li>\r\n\u003cli>Maximum Age : 28 Years\u003c/li>\r\n\u003cli>Age Relaxation : SC/ST - 5 Years, OBC-NCL - 3 Years, PwBD - 10 Years, Ex-Servicemen - 5 Years (Cumulative With Only One Other Applicable Category)\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Vacancy Details Total : 11403 Post (Indicative)\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003cthead>\r\n\u003ctr>\r\n\u003cth>Post Name\u003c/th>\r\n\u003cth>Total Post\u003c/th>\r\n\u003cth>IBPS Clerk (CSA) Eligibility\u003c/th>\r\n\u003c/tr>\r\n\u003c/thead>\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Customer Service Associate (Clerk)\u003c/td>\r\n\u003ctd>11403 (Indicative, State-Wise)\u003c/td>\r\n\u003ctd>Graduation Degree in Any Discipline From a Government-Recognised University, Along With Computer Literacy and Proficiency in the Local Language of the Applied State/UT\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>State Wise Vacancy Details (Top States)\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003cthead>\r\n\u003ctr>\r\n\u003cth>State / UT\u003c/th>\r\n\u003cth>Total Post\u003c/th>\r\n\u003c/tr>\r\n\u003c/thead>\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Uttar Pradesh\u003c/td>\r\n\u003ctd>1731\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Karnataka\u003c/td>\r\n\u003ctd>1414\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Maharashtra\u003c/td>\r\n\u003ctd>1051\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>West Bengal\u003c/td>\r\n\u003ctd>946\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Other States / UTs\u003c/td>\r\n\u003ctd>As per Annexure-I of the Official Notification\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003cp>Note: Vacancies for Union Bank of India were not reported at the time this notification was released, so the final all-India total may change once those figures come in.\u003c/p>\r\n\u003ch2>Selection Process\u003c/h2>\r\n\u003cp>There's no interview at any stage of this recruitment - selection runs purely on your Prelims and Mains scores, followed by document verification. One thing that trips up a lot of first-time applicants: your Prelims marks don't carry forward into the final merit list. Prelims only decides who gets shortlisted for Mains; the Mains score alone determines your final rank.\u003c/p>\r\n\u003cul>\r\n\u003cli>Preliminary Examination - 100 Questions / 100 Marks / 60 Minutes, Split Into English (30Q), Numerical Ability (35Q) and Reasoning Ability (35Q), Each With a 20-Minute Sectional Time Limit\u003c/li>\r\n\u003cli>Main Examination - 160 Questions / 200 Marks / 125 Minutes, Covering General/Financial Awareness (40Q/50M), General English (40Q/40M), Reasoning Ability (40Q/60M) and Quantitative Aptitude (40Q/50M)\u003c/li>\r\n\u003cli>Document Verification for Candidates Provisionally Allotted a Bank\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Pay Scale\u003c/h2>\r\n\u003cp>Basic pay for the Customer Service Associate post starts at Rs. 24,050 and progresses to Rs. 64,480 over the course of increments. With allowances added in, the starting gross salary typically works out to around Rs. 40,000-42,000 a month, though this varies slightly by posting location.\u003c/p>\r\n\u003ch2>How to Fill IBPS Clerk CRP CSA-XVI Online Form 2026\u003c/h2>\r\n\u003cul>\r\n\u003cli>Visit ibps.in, Open the CRP CSA-XVI Section and Click \"New Registration\" to Generate Your Provisional Registration Number and Password.\u003c/li>\r\n\u003cli>Upload Your Photograph, Signature, Left Thumb Impression, Handwritten Declaration and 10th/SSLC Certificate as per the Format Specified in Annexure IV of the Notification.\u003c/li>\r\n\u003cli>Fill the Form Section by Section Using \"Save and Next,\" Since Saving Partway Through Lets You Come Back Without Losing Progress.\u003c/li>\r\n\u003cli>Pay the Fee Within the Same 01-21 August Window - a Saved but Unpaid Form Is Treated as an Invalid Application.\u003c/li>\r\n\u003cli>Double-Check That Your Payment Actually Went Through Before Closing the Tab - This Is a Common Point Where Applications Get Missed.\u003c/li>\r\n\u003cli>Print the Final Application Form and the Payment Receipt for Your Records.\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Some Useful Important Links\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Apply Online\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"Apply Online\" href=\"https://ibpsreg.ibps.in/\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Download Notification\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"Download Notification\" href=\"https://www.ibps.in/\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Signature Resizer, PDF Compress, Age Calculator and More Tools\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"https://www.resumesathi.com/tools/\" href=\"https://www.resumesathi.com/tools/\" target=\"_blank\" rel=\"noopener\">View Tools\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Official Website\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"IBPS Official Website\" href=\"https://www.ibps.in/\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003cblockquote>\u003cstrong>Note:\u003c/strong> Candidates are advised to always cross-check dates, fee details, and eligibility criteria from the official IBPS website before applying, as the schedule may change based on official updates.\u003c/blockquote>\r\n\u003ch2>IBPS Clerk CRP CSA-XVI Preparation Tips 2026\u003c/h2>\r\n\u003cul>\r\n\u003cli>Since Prelims Marks Don't Count Toward the Final Merit, Treat It as a Speed Test - Focus on Clearing Sectional Cutoffs Comfortably Rather Than Maximizing Your Score There.\u003c/li>\r\n\u003cli>Mains Is Where the Real Battle Happens - Quantitative Aptitude and Reasoning Together Carry 110 of the 200 Marks, So Prioritize Them in Your Daily Practice.\u003c/li>\r\n\u003cli>For General/Financial Awareness, Track Recent RBI Policy Changes, Repo Rate Movements and Major Banking Sector News From the Last 4-6 Months.\u003c/li>\r\n\u003cli>Work on Speed in English - With Only 35 Minutes for 40 Questions in Mains, Reading Comprehension Passages Need to Be Tackled Efficiently, Not Read Word by Word.\u003c/li>\r\n\u003cli>Practice Local Language Basics if It Isn't Your Mother Tongue, Since Proficiency in the State/UT's Local Language Is a Stated Eligibility Requirement.\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Frequently Asked Questions\u003c/h2>\r\n\u003csection class=\"tre-faq-list\">\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>What is the last date to apply for IBPS Clerk CRP CSA-XVI 2026?\u003c/summary>\r\n\u003cp>The last date to apply online, along with the fee payment deadline, is 21 August 2026.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>How many total vacancies are there in IBPS Clerk 2026?\u003c/summary>\r\n\u003cp>A total of 11,403 indicative vacancies have been announced across participating states and union territories, though this figure may change once Union Bank of India reports its numbers.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>Is there an interview in the IBPS Clerk selection process?\u003c/summary>\r\n\u003cp>No, there is no interview. Selection is based entirely on the Preliminary and Main Examination scores, followed by document verification.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>Do Prelims marks count toward the final selection?\u003c/summary>\r\n\u003cp>No, Prelims is only a qualifying stage to shortlist candidates for Mains. The final merit list is prepared solely on the basis of Mains marks.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>What is the application fee for IBPS Clerk 2026?\u003c/summary>\r\n\u003cp>General, OBC and EWS candidates need to pay Rs. 850/-, while SC, ST, PwBD and Ex-Servicemen candidates pay Rs. 175/-, both figures inclusive of GST.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>Can a candidate apply for vacancies in more than one state?\u003c/summary>\r\n\u003cp>No, recruitment under CRP CSA-XVI is conducted state/UT-wise, and a candidate can apply for vacancies in only one state or union territory.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>What is the age limit for IBPS Clerk CRP CSA-XVI 2026?\u003c/summary>\r\n\u003cp>Candidates must be between 20 and 28 years of age as on 01 August 2026, with standard age relaxation applicable for reserved categories.\u003c/p>\r\n\u003c/details>\u003c/section>\r\n\u003csection class=\"tre-quiz-wrap\">\r\n\u003ch3 class=\"tre-quiz-header\">IBPS Clerk CRP CSA-XVI - Practice Questions (Banking Awareness, Quant, Reasoning, English)\u003c/h3>\r\n\u003cp class=\"tre-quiz-sub\">25 Objective Questions\u003c/p>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q1.\u003c/span> The repo rate, a key tool used by RBI to control inflation, refers to the rate at which:\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"ibps_q1_o1\" class=\"tre-opt-item opt-right\">RBI lends short-term funds to commercial banks against securities\u003c/li>\r\n\u003cli id=\"ibps_q1_o2\" class=\"tre-opt-item opt-wrong\">Commercial banks lend to each other overnight\u003c/li>\r\n\u003cli id=\"ibps_q1_o3\" class=\"tre-opt-item opt-wrong\">RBI borrows money from commercial banks\u003c/li>\r\n\u003cli id=\"ibps_q1_o4\" class=\"tre-opt-item opt-wrong\">Banks lend to their retail customers\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q2.\u003c/span> Under the Basel III norms, what does 'CRAR' (Capital to Risk-weighted Assets Ratio) primarily measure for a bank?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"ibps_q2_o1\" class=\"tre-opt-item opt-right\">The bank's ability to absorb losses relative to its risk-weighted assets\u003c/li>\r\n\u003cli id=\"ibps_q2_o2\" class=\"tre-opt-item opt-wrong\">The bank's total deposit base\u003c/li>\r\n\u003cli id=\"ibps_q2_o3\" class=\"tre-opt-item opt-wrong\">The interest rate charged on loans\u003c/li>\r\n\u003cli id=\"ibps_q2_o4\" class=\"tre-opt-item opt-wrong\">The number of branches a bank operates\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q3.\u003c/span> If a cheque is post-dated, what does this mean for its validity at the time of presentation?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"ibps_q3_o1\" class=\"tre-opt-item opt-right\">It cannot be honoured by the bank before the date mentioned on it\u003c/li>\r\n\u003cli id=\"ibps_q3_o2\" class=\"tre-opt-item opt-wrong\">It becomes invalid immediately\u003c/li>\r\n\u003cli id=\"ibps_q3_o3\" class=\"tre-opt-item opt-wrong\">It can be cashed at any bank regardless of date\u003c/li>\r\n\u003cli id=\"ibps_q3_o4\" class=\"tre-opt-item opt-wrong\">It requires no signature verification\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q4.\u003c/span> Which instrument allows a bank customer to withdraw more money than their account balance, up to a sanctioned limit?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"ibps_q4_o1\" class=\"tre-opt-item opt-wrong\">Fixed Deposit\u003c/li>\r\n\u003cli id=\"ibps_q4_o2\" class=\"tre-opt-item opt-right\">Overdraft facility\u003c/li>\r\n\u003cli id=\"ibps_q4_o3\" class=\"tre-opt-item opt-wrong\">Recurring Deposit\u003c/li>\r\n\u003cli id=\"ibps_q4_o4\" class=\"tre-opt-item opt-wrong\">Demand Draft\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q5.\u003c/span> What is the primary function of the Cash Reserve Ratio (CRR) that commercial banks must maintain with RBI?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"ibps_q5_o1\" class=\"tre-opt-item opt-right\">A portion of deposits banks must keep with RBI in cash form, used as a monetary policy tool\u003c/li>\r\n\u003cli id=\"ibps_q5_o2\" class=\"tre-opt-item opt-wrong\">The interest rate on savings accounts\u003c/li>\r\n\u003cli id=\"ibps_q5_o3\" class=\"tre-opt-item opt-wrong\">The minimum balance a customer must maintain\u003c/li>\r\n\u003cli id=\"ibps_q5_o4\" class=\"tre-opt-item opt-wrong\">The fee charged for cheque book issuance\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q6.\u003c/span> A trader buys 15 kg of rice at Rs. 42 per kg and 25 kg at Rs. 38 per kg, then sells the entire mixture at Rs. 45 per kg. What is his overall profit?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"ibps_q6_o1\" class=\"tre-opt-item opt-wrong\">Rs. 250\u003c/li>\r\n\u003cli id=\"ibps_q6_o2\" class=\"tre-opt-item opt-right\">Rs. 260\u003c/li>\r\n\u003cli id=\"ibps_q6_o3\" class=\"tre-opt-item opt-wrong\">Rs. 270\u003c/li>\r\n\u003cli id=\"ibps_q6_o4\" class=\"tre-opt-item opt-wrong\">Rs. 280\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q7.\u003c/span> Five colleagues P, Q, R, S, T work in a bank across five different shifts (earliest to latest). Q works two shifts after P. R works immediately before S, who is not the last. T works the first shift. If P is not immediately after T, which shift does Q work?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"ibps_q7_o1\" class=\"tre-opt-item opt-wrong\">3rd\u003c/li>\r\n\u003cli id=\"ibps_q7_o2\" class=\"tre-opt-item opt-wrong\">4th\u003c/li>\r\n\u003cli id=\"ibps_q7_o3\" class=\"tre-opt-item opt-wrong\">5th\u003c/li>\r\n\u003cli id=\"ibps_q7_o4\" class=\"tre-opt-item opt-right\">Cannot be determined from the given information\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q8.\u003c/span> In a certain code, 'DEPOSIT' is written as 'CDOSRHR' by shifting each letter one step back except the fourth letter, which shifts back by two. How is 'ACCOUNT' likely written using the exact same rule?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"ibps_q8_o1\" class=\"tre-opt-item opt-wrong\">ZBBOTMS\u003c/li>\r\n\u003cli id=\"ibps_q8_o2\" class=\"tre-opt-item opt-wrong\">ZBBNTMS\u003c/li>\r\n\u003cli id=\"ibps_q8_o3\" class=\"tre-opt-item opt-wrong\">ZBBOSMS\u003c/li>\r\n\u003cli id=\"ibps_q8_o4\" class=\"tre-opt-item opt-right\">This requires clarifying which letter is the 'fourth' - cannot be definitively solved without the rule being unambiguous\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q9.\u003c/span> Choose the word that is most nearly OPPOSITE in meaning to 'Solvent' (in a financial context):\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"ibps_q9_o1\" class=\"tre-opt-item opt-wrong\">Liquid\u003c/li>\r\n\u003cli id=\"ibps_q9_o2\" class=\"tre-opt-item opt-right\">Insolvent\u003c/li>\r\n\u003cli id=\"ibps_q9_o3\" class=\"tre-opt-item opt-wrong\">Stable\u003c/li>\r\n\u003cli id=\"ibps_q9_o4\" class=\"tre-opt-item opt-wrong\">Profitable\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q10.\u003c/span> Identify the grammatically correct sentence for use in a formal banking communication:\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"ibps_q10_o1\" class=\"tre-opt-item opt-wrong\">Kindly revert back to us at your earliest convenience.\u003c/li>\r\n\u003cli id=\"ibps_q10_o2\" class=\"tre-opt-item opt-right\">Kindly revert to us at your earliest convenience.\u003c/li>\r\n\u003cli id=\"ibps_q10_o3\" class=\"tre-opt-item opt-wrong\">Kindly reverting to us at your earliest convenience.\u003c/li>\r\n\u003cli id=\"ibps_q10_o4\" class=\"tre-opt-item opt-wrong\">Kindly revert us back at your earliest convenience.\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q11.\u003c/span> A sum of Rs. 12,000 is invested at compound interest, compounded annually, and grows to Rs. 13,230 in 2 years. What is the annual rate of interest?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"ibps_q11_o1\" class=\"tre-opt-item opt-wrong\">4%\u003c/li>\r\n\u003cli id=\"ibps_q11_o2\" class=\"tre-opt-item opt-wrong\">4.5%\u003c/li>\r\n\u003cli id=\"ibps_q11_o3\" class=\"tre-opt-item opt-right\">5%\u003c/li>\r\n\u003cli id=\"ibps_q11_o4\" class=\"tre-opt-item opt-wrong\">5.5%\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q12.\u003c/span> If in a queue at a bank counter, Meera is 12th from the front and 18th from the back, and 4 more people join the queue behind Meera, what is the new total number of people in the queue?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"ibps_q12_o1\" class=\"tre-opt-item opt-wrong\">29\u003c/li>\r\n\u003cli id=\"ibps_q12_o2\" class=\"tre-opt-item opt-wrong\">33\u003c/li>\r\n\u003cli id=\"ibps_q12_o3\" class=\"tre-opt-item opt-right\">34\u003c/li>\r\n\u003cli id=\"ibps_q12_o4\" class=\"tre-opt-item opt-wrong\">37\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q13.\u003c/span> What does the term 'NPA' (Non-Performing Asset) specifically indicate about a bank loan?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"ibps_q13_o1\" class=\"tre-opt-item opt-right\">The borrower has stopped repaying principal or interest for a specified period, typically 90 days\u003c/li>\r\n\u003cli id=\"ibps_q13_o2\" class=\"tre-opt-item opt-wrong\">The loan has been fully repaid ahead of schedule\u003c/li>\r\n\u003cli id=\"ibps_q13_o3\" class=\"tre-opt-item opt-wrong\">The loan has just been sanctioned and disbursed\u003c/li>\r\n\u003cli id=\"ibps_q13_o4\" class=\"tre-opt-item opt-wrong\">The interest rate on the loan has been revised upward\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q14.\u003c/span> Which of these best describes a 'demand draft' as a banking instrument?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"ibps_q14_o1\" class=\"tre-opt-item opt-right\">A prepaid negotiable instrument issued by a bank, payable on demand at a specified branch\u003c/li>\r\n\u003cli id=\"ibps_q14_o2\" class=\"tre-opt-item opt-wrong\">A loan given without collateral\u003c/li>\r\n\u003cli id=\"ibps_q14_o3\" class=\"tre-opt-item opt-wrong\">A recurring monthly deposit scheme\u003c/li>\r\n\u003cli id=\"ibps_q14_o4\" class=\"tre-opt-item opt-wrong\">An insurance policy linked to a savings account\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q15.\u003c/span> A boat's speed in still water is 15 km/h and the speed of the current is 3 km/h. If it takes 4 hours to travel a certain distance downstream, how long will it take to cover the same distance upstream?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"ibps_q15_o1\" class=\"tre-opt-item opt-wrong\">5.2 hours\u003c/li>\r\n\u003cli id=\"ibps_q15_o2\" class=\"tre-opt-item opt-wrong\">5.5 hours\u003c/li>\r\n\u003cli id=\"ibps_q15_o3\" class=\"tre-opt-item opt-right\">6 hours\u003c/li>\r\n\u003cli id=\"ibps_q15_o4\" class=\"tre-opt-item opt-wrong\">6.4 hours\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q16.\u003c/span> Eight people sit around a circular table facing the centre, all bankers from different departments. A sits third to the right of B. C sits second to the left of A. D sits opposite B. If E sits immediately between C and D, who sits immediately to the left of E?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"ibps_q16_o1\" class=\"tre-opt-item opt-wrong\">C\u003c/li>\r\n\u003cli id=\"ibps_q16_o2\" class=\"tre-opt-item opt-wrong\">D\u003c/li>\r\n\u003cli id=\"ibps_q16_o3\" class=\"tre-opt-item opt-right\">Cannot be determined without knowing the exact seating direction convention used\u003c/li>\r\n\u003cli id=\"ibps_q16_o4\" class=\"tre-opt-item opt-wrong\">B\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q17.\u003c/span> Which of these is the correct expanded form of 'KYC' as used in banking compliance?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"ibps_q17_o1\" class=\"tre-opt-item opt-right\">Know Your Customer\u003c/li>\r\n\u003cli id=\"ibps_q17_o2\" class=\"tre-opt-item opt-wrong\">Keep Your Cash\u003c/li>\r\n\u003cli id=\"ibps_q17_o3\" class=\"tre-opt-item opt-wrong\">Key Yield Certificate\u003c/li>\r\n\u003cli id=\"ibps_q17_o4\" class=\"tre-opt-item opt-wrong\">Know Your Currency\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q18.\u003c/span> Choose the most appropriate synonym for 'Prudent' as it would be used to describe sound financial decision-making:\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"ibps_q18_o1\" class=\"tre-opt-item opt-wrong\">Reckless\u003c/li>\r\n\u003cli id=\"ibps_q18_o2\" class=\"tre-opt-item opt-right\">Judicious\u003c/li>\r\n\u003cli id=\"ibps_q18_o3\" class=\"tre-opt-item opt-wrong\">Impulsive\u003c/li>\r\n\u003cli id=\"ibps_q18_o4\" class=\"tre-opt-item opt-wrong\">Careless\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q19.\u003c/span> A man deposits Rs. 8,000 in a recurring deposit account at 8% per annum simple interest for 12 months. What is the total interest earned at maturity (using the standard RD interest formula)?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"ibps_q19_o1\" class=\"tre-opt-item opt-wrong\">Rs. 340\u003c/li>\r\n\u003cli id=\"ibps_q19_o2\" class=\"tre-opt-item opt-wrong\">Rs. 360\u003c/li>\r\n\u003cli id=\"ibps_q19_o3\" class=\"tre-opt-item opt-right\">Rs. 380\u003c/li>\r\n\u003cli id=\"ibps_q19_o4\" class=\"tre-opt-item opt-wrong\">Rs. 400\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q20.\u003c/span> In a certain banking exam seating arrangement, if the 3rd person from the left in a row of 40 candidates is exactly in the middle when counted from a specific point, what would be the total number of candidates if this pattern held for a row of 60 (using the same relative logic)?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"ibps_q20_o1\" class=\"tre-opt-item opt-right\">This question requires the original 'specific point' reference to solve definitively - it is intentionally ambiguous as written\u003c/li>\r\n\u003cli id=\"ibps_q20_o2\" class=\"tre-opt-item opt-wrong\">58\u003c/li>\r\n\u003cli id=\"ibps_q20_o3\" class=\"tre-opt-item opt-wrong\">59\u003c/li>\r\n\u003cli id=\"ibps_q20_o4\" class=\"tre-opt-item opt-wrong\">61\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q21.\u003c/span> What is the primary purpose of the 'Statutory Liquidity Ratio' (SLR) that banks must maintain?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"ibps_q21_o1\" class=\"tre-opt-item opt-right\">Ensuring banks hold a portion of deposits in approved liquid assets like government securities\u003c/li>\r\n\u003cli id=\"ibps_q21_o2\" class=\"tre-opt-item opt-wrong\">Setting the minimum wage for bank employees\u003c/li>\r\n\u003cli id=\"ibps_q21_o3\" class=\"tre-opt-item opt-wrong\">Determining foreign exchange rates\u003c/li>\r\n\u003cli id=\"ibps_q21_o4\" class=\"tre-opt-item opt-wrong\">Regulating stock market transactions\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q22.\u003c/span> If MONEY is coded numerically based on reverse alphabet position (Z=1, Y=2...A=26) and DEPOSIT needs the same coding, what would be the code for the letter 'D' in DEPOSIT?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"ibps_q22_o1\" class=\"tre-opt-item opt-wrong\">4\u003c/li>\r\n\u003cli id=\"ibps_q22_o2\" class=\"tre-opt-item opt-wrong\">22\u003c/li>\r\n\u003cli id=\"ibps_q22_o3\" class=\"tre-opt-item opt-right\">23\u003c/li>\r\n\u003cli id=\"ibps_q22_o4\" class=\"tre-opt-item opt-wrong\">26\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q23.\u003c/span> Which of these correctly completes the analogy: 'Cheque is to Bank as Prescription is to ___'?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"ibps_q23_o1\" class=\"tre-opt-item opt-wrong\">Hospital\u003c/li>\r\n\u003cli id=\"ibps_q23_o2\" class=\"tre-opt-item opt-right\">Pharmacy\u003c/li>\r\n\u003cli id=\"ibps_q23_o3\" class=\"tre-opt-item opt-wrong\">Doctor\u003c/li>\r\n\u003cli id=\"ibps_q23_o4\" class=\"tre-opt-item opt-wrong\">Patient\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q24.\u003c/span> A sum is divided between A and B such that A's share, invested at 8% simple interest, and B's share, invested at 10% simple interest, yield equal annual interest. If the total sum is Rs. 9000, what is A's share?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"ibps_q24_o1\" class=\"tre-opt-item opt-wrong\">Rs. 4500\u003c/li>\r\n\u003cli id=\"ibps_q24_o2\" class=\"tre-opt-item opt-right\">Rs. 5000\u003c/li>\r\n\u003cli id=\"ibps_q24_o3\" class=\"tre-opt-item opt-wrong\">Rs. 5500\u003c/li>\r\n\u003cli id=\"ibps_q24_o4\" class=\"tre-opt-item opt-wrong\">Rs. 6000\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q25.\u003c/span> Which of these best defines 'financial inclusion' as a policy objective often referenced in banking awareness sections?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"ibps_q25_o1\" class=\"tre-opt-item opt-right\">Ensuring access to formal banking and financial services for all sections of society, including underserved populations\u003c/li>\r\n\u003cli id=\"ibps_q25_o2\" class=\"tre-opt-item opt-wrong\">Restricting banking services to urban areas only\u003c/li>\r\n\u003cli id=\"ibps_q25_o3\" class=\"tre-opt-item opt-wrong\">Increasing interest rates for all account holders\u003c/li>\r\n\u003cli id=\"ibps_q25_o4\" class=\"tre-opt-item opt-wrong\">Reducing the number of bank branches nationwide\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003c/section>\r\n\u003c/div>","image":"https://api.resumesathi.com/courses_image/1000177787.png","identifier":{"@type":"PropertyValue","name":"ResumeSathi","value":"26"},"datePosted":"2026-08-05","validFrom":"2026-08-01","validThrough":"2026-08-21","employmentType":"FULL_TIME","industry":"Banking","hiringOrganization":{"@type":"Organization","name":"Banking - Government Jobs","sameAs":"https://www.resumesathi.com/jobs/"},"jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressCountry":"IN"}},"directApply":false}b:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$17"}}],"$L18"]
+19:I[88609,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/06pj_k8chkpe5.js","/_next/static/chunks/16ymsuy-x3uv9.js"],"default"]
+1a:T63a7,<div class="post-content">
+<p>IBPS has thrown open the 16th edition of its clerical recruitment drive - CRP CSA-XVI - with 11,403 indicative vacancies for the Customer Service Associate post (the role most people still call "Clerk") across 11 participating public sector banks. Online registration runs from 1 August to 21 August 2026, covering hiring for the 2027-28 vacancy cycle.</p>
+<p>This is a state/UT-wise recruitment, meaning you can apply against vacancies in only one state or union territory, so it's worth checking where the opportunities actually sit before you register.</p>
+<h2>Important Dates</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td>Short Notice Released</td>
+<td><strong>27/07/2026</strong></td>
+</tr>
+<tr>
+<td>Detailed Notification / Application Begin</td>
+<td><strong>01/08/2026</strong></td>
+</tr>
+<tr>
+<td>Last Date for Apply Online</td>
+<td><strong>21/08/2026</strong></td>
+</tr>
+<tr>
+<td>Last Date Pay Exam Fee</td>
+<td><strong>21/08/2026</strong></td>
+</tr>
+<tr>
+<td>Prelims Exam Date</td>
+<td><strong>10 &amp; 11 October 2026</strong></td>
+</tr>
+<tr>
+<td>Mains Exam Date</td>
+<td><strong>27 December 2026</strong></td>
+</tr>
+<tr>
+<td>Provisional Allotment</td>
+<td><strong>March 2027</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Application Fee</h2>
+<ul>
+<li>General / OBC / EWS : 850/- (Inclusive of GST)</li>
+<li>SC / ST / PwBD / ESM : 175/- (Inclusive of GST)</li>
+<li>Fee Is Non-Refundable Once Paid</li>
+<li>Pay Through Debit Card, Credit Card, Net Banking or UPI Only - Bank Transaction Charges, if Any, Are Borne by the Candidate</li>
+</ul>
+<h2>Age Limit as on 01/08/2026</h2>
+<ul>
+<li>Minimum Age : 20 Years</li>
+<li>Maximum Age : 28 Years</li>
+<li>Age Relaxation : SC/ST - 5 Years, OBC-NCL - 3 Years, PwBD - 10 Years, Ex-Servicemen - 5 Years (Cumulative With Only One Other Applicable Category)</li>
+</ul>
+<h2>Vacancy Details Total : 11403 Post (Indicative)</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<thead>
+<tr>
+<th>Post Name</th>
+<th>Total Post</th>
+<th>IBPS Clerk (CSA) Eligibility</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Customer Service Associate (Clerk)</td>
+<td>11403 (Indicative, State-Wise)</td>
+<td>Graduation Degree in Any Discipline From a Government-Recognised University, Along With Computer Literacy and Proficiency in the Local Language of the Applied State/UT</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>State Wise Vacancy Details (Top States)</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<thead>
+<tr>
+<th>State / UT</th>
+<th>Total Post</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Uttar Pradesh</td>
+<td>1731</td>
+</tr>
+<tr>
+<td>Karnataka</td>
+<td>1414</td>
+</tr>
+<tr>
+<td>Maharashtra</td>
+<td>1051</td>
+</tr>
+<tr>
+<td>West Bengal</td>
+<td>946</td>
+</tr>
+<tr>
+<td>Other States / UTs</td>
+<td>As per Annexure-I of the Official Notification</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Note: Vacancies for Union Bank of India were not reported at the time this notification was released, so the final all-India total may change once those figures come in.</p>
+<h2>Selection Process</h2>
+<p>There's no interview at any stage of this recruitment - selection runs purely on your Prelims and Mains scores, followed by document verification. One thing that trips up a lot of first-time applicants: your Prelims marks don't carry forward into the final merit list. Prelims only decides who gets shortlisted for Mains; the Mains score alone determines your final rank.</p>
+<ul>
+<li>Preliminary Examination - 100 Questions / 100 Marks / 60 Minutes, Split Into English (30Q), Numerical Ability (35Q) and Reasoning Ability (35Q), Each With a 20-Minute Sectional Time Limit</li>
+<li>Main Examination - 160 Questions / 200 Marks / 125 Minutes, Covering General/Financial Awareness (40Q/50M), General English (40Q/40M), Reasoning Ability (40Q/60M) and Quantitative Aptitude (40Q/50M)</li>
+<li>Document Verification for Candidates Provisionally Allotted a Bank</li>
+</ul>
+<h2>Pay Scale</h2>
+<p>Basic pay for the Customer Service Associate post starts at Rs. 24,050 and progresses to Rs. 64,480 over the course of increments. With allowances added in, the starting gross salary typically works out to around Rs. 40,000-42,000 a month, though this varies slightly by posting location.</p>
+<h2>How to Fill IBPS Clerk CRP CSA-XVI Online Form 2026</h2>
+<ul>
+<li>Visit ibps.in, Open the CRP CSA-XVI Section and Click "New Registration" to Generate Your Provisional Registration Number and Password.</li>
+<li>Upload Your Photograph, Signature, Left Thumb Impression, Handwritten Declaration and 10th/SSLC Certificate as per the Format Specified in Annexure IV of the Notification.</li>
+<li>Fill the Form Section by Section Using "Save and Next," Since Saving Partway Through Lets You Come Back Without Losing Progress.</li>
+<li>Pay the Fee Within the Same 01-21 August Window - a Saved but Unpaid Form Is Treated as an Invalid Application.</li>
+<li>Double-Check That Your Payment Actually Went Through Before Closing the Tab - This Is a Common Point Where Applications Get Missed.</li>
+<li>Print the Final Application Form and the Payment Receipt for Your Records.</li>
+</ul>
+<h2>Some Useful Important Links</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td><strong>Apply Online</strong></td>
+<td><a title="Apply Online" href="https://ibpsreg.ibps.in/" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+<tr>
+<td><strong>Download Notification</strong></td>
+<td><a title="Download Notification" href="https://www.ibps.in/" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+<tr>
+<td><strong>Signature Resizer, PDF Compress, Age Calculator and More Tools</strong></td>
+<td><a title="https://www.resumesathi.com/tools/" href="https://www.resumesathi.com/tools/" target="_blank" rel="noopener">View Tools</a></td>
+</tr>
+<tr>
+<td><strong>Official Website</strong></td>
+<td><a title="IBPS Official Website" href="https://www.ibps.in/" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote><strong>Note:</strong> Candidates are advised to always cross-check dates, fee details, and eligibility criteria from the official IBPS website before applying, as the schedule may change based on official updates.</blockquote>
+<h2>IBPS Clerk CRP CSA-XVI Preparation Tips 2026</h2>
+<ul>
+<li>Since Prelims Marks Don't Count Toward the Final Merit, Treat It as a Speed Test - Focus on Clearing Sectional Cutoffs Comfortably Rather Than Maximizing Your Score There.</li>
+<li>Mains Is Where the Real Battle Happens - Quantitative Aptitude and Reasoning Together Carry 110 of the 200 Marks, So Prioritize Them in Your Daily Practice.</li>
+<li>For General/Financial Awareness, Track Recent RBI Policy Changes, Repo Rate Movements and Major Banking Sector News From the Last 4-6 Months.</li>
+<li>Work on Speed in English - With Only 35 Minutes for 40 Questions in Mains, Reading Comprehension Passages Need to Be Tackled Efficiently, Not Read Word by Word.</li>
+<li>Practice Local Language Basics if It Isn't Your Mother Tongue, Since Proficiency in the State/UT's Local Language Is a Stated Eligibility Requirement.</li>
+</ul>
+<h2>Frequently Asked Questions</h2>
+<section class="tre-faq-list"><details class="tre-faq-item">
+<summary>What is the last date to apply for IBPS Clerk CRP CSA-XVI 2026?</summary>
+<p>The last date to apply online, along with the fee payment deadline, is 21 August 2026.</p>
+</details><details class="tre-faq-item">
+<summary>How many total vacancies are there in IBPS Clerk 2026?</summary>
+<p>A total of 11,403 indicative vacancies have been announced across participating states and union territories, though this figure may change once Union Bank of India reports its numbers.</p>
+</details><details class="tre-faq-item">
+<summary>Is there an interview in the IBPS Clerk selection process?</summary>
+<p>No, there is no interview. Selection is based entirely on the Preliminary and Main Examination scores, followed by document verification.</p>
+</details><details class="tre-faq-item">
+<summary>Do Prelims marks count toward the final selection?</summary>
+<p>No, Prelims is only a qualifying stage to shortlist candidates for Mains. The final merit list is prepared solely on the basis of Mains marks.</p>
+</details><details class="tre-faq-item">
+<summary>What is the application fee for IBPS Clerk 2026?</summary>
+<p>General, OBC and EWS candidates need to pay Rs. 850/-, while SC, ST, PwBD and Ex-Servicemen candidates pay Rs. 175/-, both figures inclusive of GST.</p>
+</details><details class="tre-faq-item">
+<summary>Can a candidate apply for vacancies in more than one state?</summary>
+<p>No, recruitment under CRP CSA-XVI is conducted state/UT-wise, and a candidate can apply for vacancies in only one state or union territory.</p>
+</details><details class="tre-faq-item">
+<summary>What is the age limit for IBPS Clerk CRP CSA-XVI 2026?</summary>
+<p>Candidates must be between 20 and 28 years of age as on 01 August 2026, with standard age relaxation applicable for reserved categories.</p>
+</details></section>
+<section class="tre-quiz-wrap">
+<h3 class="tre-quiz-header">IBPS Clerk CRP CSA-XVI - Practice Questions (Banking Awareness, Quant, Reasoning, English)</h3>
+<p class="tre-quiz-sub">25 Objective Questions</p>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q1.</span> The repo rate, a key tool used by RBI to control inflation, refers to the rate at which:</p>
+<ul class="tre-quiz-options">
+<li id="ibps_q1_o1" class="tre-opt-item opt-right">RBI lends short-term funds to commercial banks against securities</li>
+<li id="ibps_q1_o2" class="tre-opt-item opt-wrong">Commercial banks lend to each other overnight</li>
+<li id="ibps_q1_o3" class="tre-opt-item opt-wrong">RBI borrows money from commercial banks</li>
+<li id="ibps_q1_o4" class="tre-opt-item opt-wrong">Banks lend to their retail customers</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q2.</span> Under the Basel III norms, what does 'CRAR' (Capital to Risk-weighted Assets Ratio) primarily measure for a bank?</p>
+<ul class="tre-quiz-options">
+<li id="ibps_q2_o1" class="tre-opt-item opt-right">The bank's ability to absorb losses relative to its risk-weighted assets</li>
+<li id="ibps_q2_o2" class="tre-opt-item opt-wrong">The bank's total deposit base</li>
+<li id="ibps_q2_o3" class="tre-opt-item opt-wrong">The interest rate charged on loans</li>
+<li id="ibps_q2_o4" class="tre-opt-item opt-wrong">The number of branches a bank operates</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q3.</span> If a cheque is post-dated, what does this mean for its validity at the time of presentation?</p>
+<ul class="tre-quiz-options">
+<li id="ibps_q3_o1" class="tre-opt-item opt-right">It cannot be honoured by the bank before the date mentioned on it</li>
+<li id="ibps_q3_o2" class="tre-opt-item opt-wrong">It becomes invalid immediately</li>
+<li id="ibps_q3_o3" class="tre-opt-item opt-wrong">It can be cashed at any bank regardless of date</li>
+<li id="ibps_q3_o4" class="tre-opt-item opt-wrong">It requires no signature verification</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q4.</span> Which instrument allows a bank customer to withdraw more money than their account balance, up to a sanctioned limit?</p>
+<ul class="tre-quiz-options">
+<li id="ibps_q4_o1" class="tre-opt-item opt-wrong">Fixed Deposit</li>
+<li id="ibps_q4_o2" class="tre-opt-item opt-right">Overdraft facility</li>
+<li id="ibps_q4_o3" class="tre-opt-item opt-wrong">Recurring Deposit</li>
+<li id="ibps_q4_o4" class="tre-opt-item opt-wrong">Demand Draft</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q5.</span> What is the primary function of the Cash Reserve Ratio (CRR) that commercial banks must maintain with RBI?</p>
+<ul class="tre-quiz-options">
+<li id="ibps_q5_o1" class="tre-opt-item opt-right">A portion of deposits banks must keep with RBI in cash form, used as a monetary policy tool</li>
+<li id="ibps_q5_o2" class="tre-opt-item opt-wrong">The interest rate on savings accounts</li>
+<li id="ibps_q5_o3" class="tre-opt-item opt-wrong">The minimum balance a customer must maintain</li>
+<li id="ibps_q5_o4" class="tre-opt-item opt-wrong">The fee charged for cheque book issuance</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q6.</span> A trader buys 15 kg of rice at Rs. 42 per kg and 25 kg at Rs. 38 per kg, then sells the entire mixture at Rs. 45 per kg. What is his overall profit?</p>
+<ul class="tre-quiz-options">
+<li id="ibps_q6_o1" class="tre-opt-item opt-wrong">Rs. 250</li>
+<li id="ibps_q6_o2" class="tre-opt-item opt-right">Rs. 260</li>
+<li id="ibps_q6_o3" class="tre-opt-item opt-wrong">Rs. 270</li>
+<li id="ibps_q6_o4" class="tre-opt-item opt-wrong">Rs. 280</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q7.</span> Five colleagues P, Q, R, S, T work in a bank across five different shifts (earliest to latest). Q works two shifts after P. R works immediately before S, who is not the last. T works the first shift. If P is not immediately after T, which shift does Q work?</p>
+<ul class="tre-quiz-options">
+<li id="ibps_q7_o1" class="tre-opt-item opt-wrong">3rd</li>
+<li id="ibps_q7_o2" class="tre-opt-item opt-wrong">4th</li>
+<li id="ibps_q7_o3" class="tre-opt-item opt-wrong">5th</li>
+<li id="ibps_q7_o4" class="tre-opt-item opt-right">Cannot be determined from the given information</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q8.</span> In a certain code, 'DEPOSIT' is written as 'CDOSRHR' by shifting each letter one step back except the fourth letter, which shifts back by two. How is 'ACCOUNT' likely written using the exact same rule?</p>
+<ul class="tre-quiz-options">
+<li id="ibps_q8_o1" class="tre-opt-item opt-wrong">ZBBOTMS</li>
+<li id="ibps_q8_o2" class="tre-opt-item opt-wrong">ZBBNTMS</li>
+<li id="ibps_q8_o3" class="tre-opt-item opt-wrong">ZBBOSMS</li>
+<li id="ibps_q8_o4" class="tre-opt-item opt-right">This requires clarifying which letter is the 'fourth' - cannot be definitively solved without the rule being unambiguous</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q9.</span> Choose the word that is most nearly OPPOSITE in meaning to 'Solvent' (in a financial context):</p>
+<ul class="tre-quiz-options">
+<li id="ibps_q9_o1" class="tre-opt-item opt-wrong">Liquid</li>
+<li id="ibps_q9_o2" class="tre-opt-item opt-right">Insolvent</li>
+<li id="ibps_q9_o3" class="tre-opt-item opt-wrong">Stable</li>
+<li id="ibps_q9_o4" class="tre-opt-item opt-wrong">Profitable</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q10.</span> Identify the grammatically correct sentence for use in a formal banking communication:</p>
+<ul class="tre-quiz-options">
+<li id="ibps_q10_o1" class="tre-opt-item opt-wrong">Kindly revert back to us at your earliest convenience.</li>
+<li id="ibps_q10_o2" class="tre-opt-item opt-right">Kindly revert to us at your earliest convenience.</li>
+<li id="ibps_q10_o3" class="tre-opt-item opt-wrong">Kindly reverting to us at your earliest convenience.</li>
+<li id="ibps_q10_o4" class="tre-opt-item opt-wrong">Kindly revert us back at your earliest convenience.</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q11.</span> A sum of Rs. 12,000 is invested at compound interest, compounded annually, and grows to Rs. 13,230 in 2 years. What is the annual rate of interest?</p>
+<ul class="tre-quiz-options">
+<li id="ibps_q11_o1" class="tre-opt-item opt-wrong">4%</li>
+<li id="ibps_q11_o2" class="tre-opt-item opt-wrong">4.5%</li>
+<li id="ibps_q11_o3" class="tre-opt-item opt-right">5%</li>
+<li id="ibps_q11_o4" class="tre-opt-item opt-wrong">5.5%</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q12.</span> If in a queue at a bank counter, Meera is 12th from the front and 18th from the back, and 4 more people join the queue behind Meera, what is the new total number of people in the queue?</p>
+<ul class="tre-quiz-options">
+<li id="ibps_q12_o1" class="tre-opt-item opt-wrong">29</li>
+<li id="ibps_q12_o2" class="tre-opt-item opt-wrong">33</li>
+<li id="ibps_q12_o3" class="tre-opt-item opt-right">34</li>
+<li id="ibps_q12_o4" class="tre-opt-item opt-wrong">37</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q13.</span> What does the term 'NPA' (Non-Performing Asset) specifically indicate about a bank loan?</p>
+<ul class="tre-quiz-options">
+<li id="ibps_q13_o1" class="tre-opt-item opt-right">The borrower has stopped repaying principal or interest for a specified period, typically 90 days</li>
+<li id="ibps_q13_o2" class="tre-opt-item opt-wrong">The loan has been fully repaid ahead of schedule</li>
+<li id="ibps_q13_o3" class="tre-opt-item opt-wrong">The loan has just been sanctioned and disbursed</li>
+<li id="ibps_q13_o4" class="tre-opt-item opt-wrong">The interest rate on the loan has been revised upward</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q14.</span> Which of these best describes a 'demand draft' as a banking instrument?</p>
+<ul class="tre-quiz-options">
+<li id="ibps_q14_o1" class="tre-opt-item opt-right">A prepaid negotiable instrument issued by a bank, payable on demand at a specified branch</li>
+<li id="ibps_q14_o2" class="tre-opt-item opt-wrong">A loan given without collateral</li>
+<li id="ibps_q14_o3" class="tre-opt-item opt-wrong">A recurring monthly deposit scheme</li>
+<li id="ibps_q14_o4" class="tre-opt-item opt-wrong">An insurance policy linked to a savings account</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q15.</span> A boat's speed in still water is 15 km/h and the speed of the current is 3 km/h. If it takes 4 hours to travel a certain distance downstream, how long will it take to cover the same distance upstream?</p>
+<ul class="tre-quiz-options">
+<li id="ibps_q15_o1" class="tre-opt-item opt-wrong">5.2 hours</li>
+<li id="ibps_q15_o2" class="tre-opt-item opt-wrong">5.5 hours</li>
+<li id="ibps_q15_o3" class="tre-opt-item opt-right">6 hours</li>
+<li id="ibps_q15_o4" class="tre-opt-item opt-wrong">6.4 hours</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q16.</span> Eight people sit around a circular table facing the centre, all bankers from different departments. A sits third to the right of B. C sits second to the left of A. D sits opposite B. If E sits immediately between C and D, who sits immediately to the left of E?</p>
+<ul class="tre-quiz-options">
+<li id="ibps_q16_o1" class="tre-opt-item opt-wrong">C</li>
+<li id="ibps_q16_o2" class="tre-opt-item opt-wrong">D</li>
+<li id="ibps_q16_o3" class="tre-opt-item opt-right">Cannot be determined without knowing the exact seating direction convention used</li>
+<li id="ibps_q16_o4" class="tre-opt-item opt-wrong">B</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q17.</span> Which of these is the correct expanded form of 'KYC' as used in banking compliance?</p>
+<ul class="tre-quiz-options">
+<li id="ibps_q17_o1" class="tre-opt-item opt-right">Know Your Customer</li>
+<li id="ibps_q17_o2" class="tre-opt-item opt-wrong">Keep Your Cash</li>
+<li id="ibps_q17_o3" class="tre-opt-item opt-wrong">Key Yield Certificate</li>
+<li id="ibps_q17_o4" class="tre-opt-item opt-wrong">Know Your Currency</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q18.</span> Choose the most appropriate synonym for 'Prudent' as it would be used to describe sound financial decision-making:</p>
+<ul class="tre-quiz-options">
+<li id="ibps_q18_o1" class="tre-opt-item opt-wrong">Reckless</li>
+<li id="ibps_q18_o2" class="tre-opt-item opt-right">Judicious</li>
+<li id="ibps_q18_o3" class="tre-opt-item opt-wrong">Impulsive</li>
+<li id="ibps_q18_o4" class="tre-opt-item opt-wrong">Careless</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q19.</span> A man deposits Rs. 8,000 in a recurring deposit account at 8% per annum simple interest for 12 months. What is the total interest earned at maturity (using the standard RD interest formula)?</p>
+<ul class="tre-quiz-options">
+<li id="ibps_q19_o1" class="tre-opt-item opt-wrong">Rs. 340</li>
+<li id="ibps_q19_o2" class="tre-opt-item opt-wrong">Rs. 360</li>
+<li id="ibps_q19_o3" class="tre-opt-item opt-right">Rs. 380</li>
+<li id="ibps_q19_o4" class="tre-opt-item opt-wrong">Rs. 400</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q20.</span> In a certain banking exam seating arrangement, if the 3rd person from the left in a row of 40 candidates is exactly in the middle when counted from a specific point, what would be the total number of candidates if this pattern held for a row of 60 (using the same relative logic)?</p>
+<ul class="tre-quiz-options">
+<li id="ibps_q20_o1" class="tre-opt-item opt-right">This question requires the original 'specific point' reference to solve definitively - it is intentionally ambiguous as written</li>
+<li id="ibps_q20_o2" class="tre-opt-item opt-wrong">58</li>
+<li id="ibps_q20_o3" class="tre-opt-item opt-wrong">59</li>
+<li id="ibps_q20_o4" class="tre-opt-item opt-wrong">61</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q21.</span> What is the primary purpose of the 'Statutory Liquidity Ratio' (SLR) that banks must maintain?</p>
+<ul class="tre-quiz-options">
+<li id="ibps_q21_o1" class="tre-opt-item opt-right">Ensuring banks hold a portion of deposits in approved liquid assets like government securities</li>
+<li id="ibps_q21_o2" class="tre-opt-item opt-wrong">Setting the minimum wage for bank employees</li>
+<li id="ibps_q21_o3" class="tre-opt-item opt-wrong">Determining foreign exchange rates</li>
+<li id="ibps_q21_o4" class="tre-opt-item opt-wrong">Regulating stock market transactions</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q22.</span> If MONEY is coded numerically based on reverse alphabet position (Z=1, Y=2...A=26) and DEPOSIT needs the same coding, what would be the code for the letter 'D' in DEPOSIT?</p>
+<ul class="tre-quiz-options">
+<li id="ibps_q22_o1" class="tre-opt-item opt-wrong">4</li>
+<li id="ibps_q22_o2" class="tre-opt-item opt-wrong">22</li>
+<li id="ibps_q22_o3" class="tre-opt-item opt-right">23</li>
+<li id="ibps_q22_o4" class="tre-opt-item opt-wrong">26</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q23.</span> Which of these correctly completes the analogy: 'Cheque is to Bank as Prescription is to ___'?</p>
+<ul class="tre-quiz-options">
+<li id="ibps_q23_o1" class="tre-opt-item opt-wrong">Hospital</li>
+<li id="ibps_q23_o2" class="tre-opt-item opt-right">Pharmacy</li>
+<li id="ibps_q23_o3" class="tre-opt-item opt-wrong">Doctor</li>
+<li id="ibps_q23_o4" class="tre-opt-item opt-wrong">Patient</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q24.</span> A sum is divided between A and B such that A's share, invested at 8% simple interest, and B's share, invested at 10% simple interest, yield equal annual interest. If the total sum is Rs. 9000, what is A's share?</p>
+<ul class="tre-quiz-options">
+<li id="ibps_q24_o1" class="tre-opt-item opt-wrong">Rs. 4500</li>
+<li id="ibps_q24_o2" class="tre-opt-item opt-right">Rs. 5000</li>
+<li id="ibps_q24_o3" class="tre-opt-item opt-wrong">Rs. 5500</li>
+<li id="ibps_q24_o4" class="tre-opt-item opt-wrong">Rs. 6000</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q25.</span> Which of these best defines 'financial inclusion' as a policy objective often referenced in banking awareness sections?</p>
+<ul class="tre-quiz-options">
+<li id="ibps_q25_o1" class="tre-opt-item opt-right">Ensuring access to formal banking and financial services for all sections of society, including underserved populations</li>
+<li id="ibps_q25_o2" class="tre-opt-item opt-wrong">Restricting banking services to urban areas only</li>
+<li id="ibps_q25_o3" class="tre-opt-item opt-wrong">Increasing interest rates for all account holders</li>
+<li id="ibps_q25_o4" class="tre-opt-item opt-wrong">Reducing the number of bank branches nationwide</li>
+</ul>
+</article>
+</section>
+</div>18:["$","$L19",null,{"article":{"id":26,"title":"IBPS Clerk CRP CSA-XVI Recruitment 2026 (11403 Post)","slug":"ibps-clerk-crp-csa-xvi-recruitment-2026","description":"IBPS Clerk (CRP CSA-XVI) Recruitment 2026 notification out for 11,403 Customer Service Associate posts. Check eligibility, exam pattern, fee and apply online from 1 to 21 August 2026.","company":null,"location":null,"employment_type":null,"salary":null,"status":1,"created_at":"2026-08-05T08:09:25.000000Z","updated_at":"2026-08-13T04:36:29.000000Z","job_type_id":null,"department_id":null,"is_active":1,"featured":0,"trending":0,"urgent":0,"homepage":0,"deleted_at":null,"hero_image":"courses_image/1000177787.png","created_by":1,"topic_name":"IBPS Clerk CRP CSA-XVI Recruitment 2026 (11403 Post)","url_name":"ibps-clerk-crp-csa-xvi-recruitment-2026","meta_title":"IBPS Clerk CRP CSA-XVI Recruitment 2026 (11403 Post)","meta_description":"IBPS Clerk (CRP CSA-XVI) Recruitment 2026 notification out for 11,403 Customer Service Associate posts. Check eligibility, exam pattern, fee and apply online from 1 to 21 August 2026.","meta_keyword":"IBPS Clerk 2026, CRP CSA-XVI Recruitment, IBPS Customer Service Associate, IBPS Clerk Online Form 2026, Bank Clerk Vacancy 2026","canonical_tag":"courses/banking/ibps-clerk-crp-csa-xvi-recruitment-2026","course_type":16,"pageview":0,"application_begin":"2026-08-01","last_date_for_apply":"2026-08-21","user":{"id":1,"first_name":"Hariom","last_name":"Prajapati","email":"hariomprajapati9029@gmail.com","mobile":"8840860841","birth_date":"08/01/1999","age":"23","gender":"male","profile_image":"Hariom.jpg","background_image":null,"is_active":1,"created_at":"2021-09-12T13:19:51.000000Z","updated_at":"2026-07-12T10:04:13.000000Z"},"course_category":{"id":16,"course_name":"Banking","course_url":"banking","course_image":"","description":"Recruitment notifications from IBPS, SBI, RBI and other public sector banks for Clerk, PO and Officer posts.","created_at":"2026-08-05T08:22:22.000000Z","updated_at":"2026-08-05T08:24:12.000000Z","deleted_at":null,"created_by":1},"contents":[{"id":22,"content":"$1a","course_id":26,"created_at":"2026-08-05T08:09:25.000000Z","updated_at":"2026-08-13T04:36:29.000000Z"}]},"slug":"ibps-clerk-crp-csa-xvi-recruitment-2026"}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1b:I[27201,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"IconMark"]
+e:null
+16:[["$","title","0",{"children":"IBPS Clerk CRP CSA-XVI Recruitment 2026 (11403 Post) | ResumeSathi"}],["$","meta","1",{"name":"description","content":"IBPS Clerk (CRP CSA-XVI) Recruitment 2026 notification out for 11,403 Customer Service Associate posts. Check eligibility, exam pattern, fee and apply online from 1 to 21 August 2026."}],["$","meta","2",{"name":"keywords","content":"jobs, career opportunities, hiring, apply now, government jobs"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://www.resumesathi.com/jobs/ibps-clerk-crp-csa-xvi-recruitment-2026/"}],["$","meta","5",{"property":"og:title","content":"IBPS Clerk CRP CSA-XVI Recruitment 2026 (11403 Post) | ResumeSathi"}],["$","meta","6",{"property":"og:description","content":"IBPS Clerk (CRP CSA-XVI) Recruitment 2026 notification out for 11,403 Customer Service Associate posts. Check eligibility, exam pattern, fee and apply online from 1 to 21 August 2026."}],["$","meta","7",{"property":"og:url","content":"https://www.resumesathi.com/jobs/ibps-clerk-crp-csa-xvi-recruitment-2026/"}],["$","meta","8",{"property":"og:site_name","content":"ResumeSathi"}],["$","meta","9",{"property":"og:image","content":"https://api.resumesathi.com/courses_image/1000177787.png"}],["$","meta","10",{"property":"og:image:alt","content":"IBPS Clerk CRP CSA-XVI Recruitment 2026 (11403 Post)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"IBPS Clerk CRP CSA-XVI Recruitment 2026 (11403 Post) | ResumeSathi"}],["$","meta","14",{"name":"twitter:description","content":"IBPS Clerk (CRP CSA-XVI) Recruitment 2026 notification out for 11,403 Customer Service Associate posts. Check eligibility, exam pattern, fee and apply online from 1 to 21 August 2026."}],["$","meta","15",{"name":"twitter:image","content":"https://api.resumesathi.com/courses_image/1000177787.png"}],["$","link","16",{"rel":"shortcut icon","href":"/front-assets/images/logo/favicon.png"}],["$","link","17",{"rel":"icon","href":"/front-assets/images/logo/favicon.png"}],["$","link","18",{"rel":"apple-touch-icon","href":"/front-assets/images/logo/favicon.png"}],["$","link","19",{"rel":"apple-touch-icon-precomposed","href":"/front-assets/images/logo/favicon.png"}],["$","$L1b","20",{}]]

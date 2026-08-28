@@ -2,33 +2,11 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Article;
-use App\Models\Course;
-use App\Models\HtmlSymbol;
-use App\Models\ProgramingLanguage;
 use App\Models\Sitemap;
-use App\Models\Snipit;
-use App\Models\SnipitCategory;
 use Illuminate\Http\Request;
-use Modules\Movies\Entities\Category;
-use Modules\Movies\Entities\Movie;
 
 class SitemapController extends Controller
 {
-    public function index()
-    {
-        $customs = Sitemap::all();
-        $articles = Article::select('canonical_tag', 'updated_at')->where(['is_draft' => 0, "status" => 1, "is_active" => 1])->get();
-        $courses = Course::select('canonical_tag', 'updated_at')->where(['is_draft' => 0, "status" => 1, "is_active" => 1])->get();
-        $snipits = Snipit::select('canonical_tag', 'updated_at')->where(['is_draft' => 0, "status" => 1, "is_active" => 1])->get();
-        $movies = Movie::select('canonical_tag', 'updated_at')->where(['is_draft' => 0, "status" => 1, "is_active" => 1])->get();
-        $symbols = HtmlSymbol::select('canonical_tag', 'updated_at')->where('is_active', 1)->get();
-        $tutorials = ProgramingLanguage::select('url_name', 'updated_at')->get();
-        $snipit_categories = SnipitCategory::select('url_name', 'updated_at')->get();
-        $movie_categories = Category::select('url_name', 'updated_at')->get();  // movie categories
-        return response()->view('sitemap', compact('customs', 'articles', 'courses', 'snipits', 'movies', 'symbols', 'tutorials', 'snipit_categories', 'movie_categories'))->header('Content-Type', 'text/xml');
-    }
-
     public function sitemapUrls()
     {
         $urls = Sitemap::all();

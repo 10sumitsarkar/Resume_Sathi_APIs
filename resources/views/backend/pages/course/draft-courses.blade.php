@@ -1,10 +1,8 @@
-@extends('backend.layout.master')
+﻿@extends('backend.layout.master')
 @section('title', 'Draft-jobs')
-@section('custom-css')
-    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.1/css/dataTables.bootstrap4.min.css">
-@endsection
+
 @section('content')
-    <div class="content-wrapper">
+    <div class="content-wrapper rs-table-page">
         <div class="row grid-margin">
             <div class="col-sm-12">
                 @if (Session::get('success'))
@@ -31,20 +29,27 @@
                         </div>
                     </div>
                 @endif
-                <br>
             </div>
-            <div class="card w-100">
+            <div class="rs-page-head">
+                <div>
+                    <span>Jobs Management</span>
+                    <h1>Draft Jobs</h1>
+                    <p>Review unpublished job listings.</p>
+                </div>
+            </div>
+            <div class="card w-100 rs-table-card">
                 <div class="card-body">
-                    <p class="card-title">Draft Job Topics</p>
+                    <div class="rs-table-toolbar">
+                        <label class="rs-table-search"><i class="fa fa-search"></i><input type="search" id="tableSearch" placeholder="Search draft jobs"></label>
+                        <button type="button" class="btn rs-icon-btn" id="tableReset"><i class="fa fa-refresh"></i></button>
+                    </div>
                     <div class="row">
                         <div class="col-12">
                             <div class="table-responsive">
-                                <table id="example" class="display expandable-table table-bordered" style="width:100%">
+                                <table id="example" class="display expandable-table" style="width:100%">
                                     <thead>
                                         <tr>
-                                            <th>id</th>
                                             <th>Category</th>
-                                            <th>Created By</th>
                                             <th>Title</th>
                                             <th>Created At</th>
                                             <th>Action</th>
@@ -53,32 +58,20 @@
                                     <tbody>
                                         @foreach ($courses as $item)
                                             <tr>
-                                                <td>{{ $loop->iteration }}</td>
                                                 <td>{{ optional($item->course_category)->course_name ?? 'N/A' }}</td>
-                                                <td>{{ optional($item->user)->first_name . ' ' . optional($item->user)->last_name }}</td>
                                                 <td>{{ $item->title ?? $item->topic_name ?? 'Untitled' }}</td>
                                                 <td>{{ $item->created_at }}</td>
                                                 <td>
-                                                    <a href="{{ url((string) $item->canonical_tag) }}"><i
-                                                            class="fa fa-eye text-success"
-                                                            aria-hidden="true"></i></a>&nbsp;&nbsp;
                                                     <a href="{{ route('course-delete', ['id' => $item->id]) }}"
                                                         onclick="return confirm('Are you sure you want to delete this item?');"><i
-                                                            class="fa fa-trash text-danger"
+                                                            class="ti-trash text-danger"
                                                             aria-hidden="true"></i></a>&nbsp;&nbsp;
                                                     <a href="{{ route('save-course', ['id' => base64_encode($item->id)]) }}"><i
-                                                            class="fa fa-edit text-primary"
+                                                            class="ti-pencil-alt text-primary"
                                                             aria-hidden="true"></i></a>&nbsp;&nbsp;
                                                 </td>
                                             </tr>
                                         @endforeach
-                                        @if (count($courses) == 0)
-                                            <tr>
-                                                <td colspan="6" class="text-center">No data found
-                                                    <hr class="w-100">
-                                                </td>
-                                            </tr>
-                                        @endif
                                     </tbody>
                                 </table>
                             </div>
@@ -91,10 +84,19 @@
 @endsection
 @section('page-js')
     <script src="https://cdn.datatables.net/1.13.1/js/jquery.dataTables.min.js"></script>
-    <script src="https://cdn.datatables.net/1.13.1/js/dataTables.bootstrap4.min.js"></script>
     <script>
         $(document).ready(function() {
-            $('#example').DataTable();
+            $.fn.DataTable.ext.pager.numbers_length = 3;
+            var table = $('#example').DataTable({
+                dom: 'rt<"rs-table-bottom"ip>',
+                pageLength: 10,
+                pagingType: 'simple_numbers',
+                language: { info: 'Showing _START_ to _END_ of _TOTAL_ drafts', emptyTable: 'No draft jobs found' }
+            });
+            $('#tableSearch').on('keyup change', function() { table.search(this.value).draw(); });
+            $('#tableReset').on('click', function() { $('#tableSearch').val(''); table.search('').draw(); });
         });
     </script>
 @endsection
+
+

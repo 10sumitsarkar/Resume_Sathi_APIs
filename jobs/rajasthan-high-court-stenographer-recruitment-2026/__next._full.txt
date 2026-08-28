@@ -1,0 +1,221 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+3:I[37457,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+4:I[44134,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/0dge8h81efw6t.js"],"default"]
+5:I[22016,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/0dge8h81efw6t.js"],""]
+6:I[59708,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+7:I[32666,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+8:I[92825,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"ClientSegmentRoot"]
+9:I[39040,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/06pj_k8chkpe5.js"],"default"]
+c:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"ViewportBoundary"]
+13:I[68027,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default",1]
+:HL["/_next/static/chunks/36s5nf8n-vj81.css","style"]
+:HL["/front-assets/css/bootstrap.min.css","style"]
+:HL["/front-assets/css/style.css","style"]
+:HL["/front-assets/css/responsive.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap","style",{"crossOrigin":"anonymous"}]
+0:{"P":null,"c":["","jobs","rajasthan-high-court-stenographer-recruitment-2026",""],"q":"","i":false,"f":[[["",{"children":["jobs",{"children":[["slug","rajasthan-high-court-stenographer-recruitment-2026","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/3_bezyotg8f3w.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0b5j8te8ufv_z.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"data-scroll-behavior":"smooth","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preload","href":"/front-assets/css/bootstrap.min.css","as":"style"}],["$","link",null,{"rel":"preload","href":"/front-assets/css/style.css","as":"style"}],["$","link",null,{"rel":"preload","href":"/front-assets/css/responsive.css","as":"style"}],["$","link",null,{"rel":"preload","href":"https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap","as":"style","crossOrigin":"anonymous"}],["$","link",null,{"rel":"stylesheet","href":"/front-assets/css/bootstrap.min.css"}],["$","link",null,{"rel":"stylesheet","href":"/front-assets/css/style.css"}],["$","link",null,{"rel":"stylesheet","href":"/front-assets/css/responsive.css"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"}]]}],["$","body",null,{"suppressHydrationWarning":true,"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ResumeSathi\",\"url\":\"https://www.resumesathi.com\",\"logo\":\"https://www.resumesathi.com/front-assets/images/logo/logo.svg\",\"sameAs\":[\"https://www.facebook.com\",\"https://www.linkedin.com\",\"https://www.instagram.com\"],\"description\":\"ResumeSathi helps job seekers create ATS-friendly resumes, cover letters, and career documents for free.\"}"}}],["$","main",null,{"id":"main-content","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","$L4",null,{}],["$","section",null,{"className":"page-404","children":["$","div",null,{"className":"container","children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"col-sm-12","children":["$","div",null,{"className":"col-sm-10 offset-sm-1 text-center","children":[["$","div",null,{"className":"four-zero-four-bg","children":["$","h1",null,{"className":"text-center","children":"404"}]}],["$","div",null,{"className":"contant-box-404","children":[["$","h3",null,{"className":"h2","children":"Looks like you are lost"}],["$","p",null,{"children":"The page you are looking for is not available."}],["$","$L5",null,{"prefetch":false,"href":"/","className":"link-404","aria-label":"Go to Home Page","children":"Go to Home"}]]}]]}]}]}]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{}],["$","$L7",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/06pj_k8chkpe5.js","async":true,"nonce":"$undefined"}]],["$","$L8",null,{"Component":"$9","slots":{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]},"serverProvidedParams":{"params":{},"promises":["$@a"]}}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$Lb",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/36s5nf8n-vj81.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/16ymsuy-x3uv9.js","async":true,"nonce":"$undefined"}]],["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],{},null,false,null]},null,false,"$@f"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$L11"}],"$L12",null]}],false]],"m":"$undefined","G":["$13",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"keVm6Da3qnRC_mqGccBX1"}
+15:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"MetadataBoundary"]
+14:[]
+f:"$W14"
+12:["$","div",null,{"hidden":true,"children":["$","$L15",null,{"children":["$","$d",null,{"name":"Next.Metadata","children":"$L16"}]}]}]
+a:"$0:f:0:1:1:children:0:props:children:1:props:serverProvidedParams:params"
+17:T284c,{"@context":"https://schema.org/","@type":"JobPosting","title":"Rajasthan High Court Stenographer Recruitment 2026 (163 Posts)","description":"\u003cdiv class=\"post-content\">\r\n\u003cp>Rajasthan High Court (Jodhpur) released a notification for the post of \u003cstrong>Stenographer Grade-III (Hindi/English) and Stenographer Grade-II (Hindi)\u003c/strong>. Those Candidates who are interested in Rajasthan High Court Stenographer Recruitment 2026 can apply online from 22/07/2026 to 10/08/2026. Read the notification for post information, selection procedure, age limit, pay scale and all other information before applying.\u003c/p>\r\n\u003ch2>Important Dates\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Notification Release\u003c/td>\r\n\u003ctd>\u003cstrong>17/07/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Application Begins\u003c/td>\r\n\u003ctd>\u003cstrong>22/07/2026 (01:00 PM)\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Last Date for Apply\u003c/td>\r\n\u003ctd>\u003cstrong>10/08/2026 (05:00 PM)\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Exam Fee Last Date\u003c/td>\r\n\u003ctd>\u003cstrong>11/08/2026 (05:00 PM)\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Exam Date\u003c/td>\r\n\u003ctd>\u003cstrong>As per Schedule\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Admit Card Available\u003c/td>\r\n\u003ctd>\u003cstrong>Before Exam\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>Application Fee\u003c/h2>\r\n\u003cul>\r\n\u003cli>General / OBC-Creamy Layer / Other State : 750/-\u003c/li>\r\n\u003cli>OBC Non-Creamy Layer / MBC / EWS (Rajasthan) : 600/-\u003c/li>\r\n\u003cli>SC / ST : 450/-\u003c/li>\r\n\u003cli>Pay the Examination Fee Through Online Mode Only\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Age Limit as on 01/01/2027\u003c/h2>\r\n\u003cul>\r\n\u003cli>Minimum Age : 18 Years\u003c/li>\r\n\u003cli>Maximum Age : 40 Years\u003c/li>\r\n\u003cli>Age Relaxation Extra as per Rajasthan High Court Stenographer Recruitment Rules\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Vacancy Details Total : 163 Post\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003cthead>\r\n\u003ctr>\r\n\u003cth>Post Name\u003c/th>\r\n\u003cth>Total Post\u003c/th>\r\n\u003cth>Rajasthan High Court Stenographer Eligibility\u003c/th>\r\n\u003c/tr>\r\n\u003c/thead>\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Stenographer Grade-III (Hindi/English) - District Courts\u003c/td>\r\n\u003ctd>As per Notification\u003c/td>\r\n\u003ctd rowspan=\"2\">Class 12th Pass from Any Recognized Board with Computer Certificate (RSCIT or Equivalent) and Required Shorthand Speed. More Eligibility Details Read the Notification.\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Stenographer Grade-II (Hindi) - DLSA / Permanent Lok Adalat\u003c/td>\r\n\u003ctd>As per Notification\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>Rajasthan High Court Stenographer Category Wise Vacancy Details\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse; height: 162px;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003cthead>\r\n\u003ctr style=\"height: 18px;\">\r\n\u003cth style=\"height: 18px;\">Category\u003c/th>\r\n\u003cth style=\"height: 18px;\">Total Post\u003c/th>\r\n\u003c/tr>\r\n\u003c/thead>\r\n\u003ctbody>\r\n\u003ctr style=\"height: 18px;\">\r\n\u003ctd style=\"height: 18px;\">General\u003c/td>\r\n\u003ctd style=\"height: 18px;\">104\u003c/td>\r\n\u003c/tr>\r\n\u003ctr style=\"height: 18px;\">\r\n\u003ctd style=\"height: 18px;\">OBC\u003c/td>\r\n\u003ctd style=\"height: 18px;\">19\u003c/td>\r\n\u003c/tr>\r\n\u003ctr style=\"height: 18px;\">\r\n\u003ctd style=\"height: 18px;\">MBC\u003c/td>\r\n\u003ctd style=\"height: 18px;\">03\u003c/td>\r\n\u003c/tr>\r\n\u003ctr style=\"height: 18px;\">\r\n\u003ctd style=\"height: 18px;\">Sahariya\u003c/td>\r\n\u003ctd style=\"height: 18px;\">01\u003c/td>\r\n\u003c/tr>\r\n\u003ctr style=\"height: 18px;\">\r\n\u003ctd style=\"height: 18px;\">EWS\u003c/td>\r\n\u003ctd style=\"height: 18px;\">06\u003c/td>\r\n\u003c/tr>\r\n\u003ctr style=\"height: 18px;\">\r\n\u003ctd style=\"height: 18px;\">SC\u003c/td>\r\n\u003ctd style=\"height: 18px;\">14\u003c/td>\r\n\u003c/tr>\r\n\u003ctr style=\"height: 18px;\">\r\n\u003ctd style=\"height: 18px;\">ST\u003c/td>\r\n\u003ctd style=\"height: 18px;\">16\u003c/td>\r\n\u003c/tr>\r\n\u003ctr style=\"height: 18px;\">\r\n\u003ctd style=\"height: 18px;\">\u003cstrong>Total\u003c/strong>\u003c/td>\r\n\u003ctd style=\"height: 18px;\">\u003cstrong>163\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>Selection Process\u003c/h2>\r\n\u003cul>\r\n\u003cli>Shorthand Test\u003c/li>\r\n\u003cli>Computer Test\u003c/li>\r\n\u003cli>Document Verification\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Pay Scale\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Probationer Trainee Period (First 2 Years)\u003c/td>\r\n\u003ctd>\u003cstrong>Rs. 23,700/- Fixed Per Month\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Regular Pay Scale (Level L-10)\u003c/td>\r\n\u003ctd>\u003cstrong>Rs. 33,800 - Rs. 1,06,700/-\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>How to Fill Rajasthan High Court Stenographer Recruitment Online Form 2026\u003c/h2>\r\n\u003cul>\r\n\u003cli>Candidate Read the Notification Before Apply the Recruitment Application Form in Rajasthan High Court Stenographer Recruitment 2026.\u003c/li>\r\n\u003cli>Ready Scan Document: Photo, Sign, ID Proof, Etc.\u003c/li>\r\n\u003cli>Before Submit the Application Form Must Check the Preview and All Fields Carefully.\u003c/li>\r\n\u003cli>If Candidate Required to Pay the Application then Must pay Fee else your Form Is Not Completed.\u003c/li>\r\n\u003cli>Take a Print Out of Final Submitted Form for future use.\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Some Useful Important Links\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Apply Online\u003c/strong>\u003c/td>\r\n\u003ctd>Click Here (Active from 22/07/2026)\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Download Notification\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"Click Here\" href=\"https://hcraj.nic.in/hcraj/hcraj_admin/uploadfile/recruitment/steno2026178427448186.pdf\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Signature Resizer, PDF Compress, Age Calculator and More Tools\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"https://www.resumesathi.com/tools/\" href=\"https://www.resumesathi.com/tools/\" target=\"_blank\" rel=\"noopener\">View Tools\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Official Website\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"https://hcraj.nic.in/\" href=\"https://hcraj.nic.in/\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003cblockquote>\u003cstrong>Note: \u003c/strong>Candidates are advised to always cross-check dates, fee details, and eligibility criteria from the official Rajasthan High Court website before applying, as the schedule may change based on official updates.\u003c/blockquote>\r\n\u003ch2>Rajasthan High Court Stenographer Preparation Tips 2026\u003c/h2>\r\n\u003ch3>1. Shorthand (Most Important)\u003c/h3>\r\n\u003cul>\r\n\u003cli>Practice Daily: Start Slow from 40-50 WPM and Gradually Increase. Aim to Increase Speed by 5 WPM Every Week Until You Reach 80+.WPM&nbsp;\u003c/li>\r\n\u003cli>Transcription Matters Too: Writing Fast Is Not Enough, You Must Be Able to Transcribe It Back Into Accurate English Without Errors or using Backspace.\u003c/li>\r\n\u003cli>Dedicate a Minimum of 1-2 Hours Daily necause typing Built on Muscle Memory so taking a Break Causes Speed to Drop.\u003c/li>\r\n\u003c/ul>\r\n\u003ch3>2. English (Highest Weightage in the Written Exam)\u003c/h3>\r\n\u003cul>\r\n\u003cli>Grammar: Practice 10-15 Questions Daily on Tenses, Articles, Prepositions and Verb.\u003c/li>\r\n\u003cli>Vocabulary: Learn 10 New Words Daily With Their Synonyms and Antonyms.\u003c/li>\r\n\u003cli>Comprehension: Read 2-3 Passages a Week and Solve Questions on Them, This Also Improves Reading speed.\u003c/li>\r\n\u003c/ul>\r\n\u003ch3>3. Reasoning (A Speed Test)\u003c/h3>\r\n\u003cul>\r\n\u003cli>Series, Coding-Decoding, Analogy, Blood Relations (These Are All Pattern Based, So the More You Practice the Faster You Will Solve Them).\u003c/li>\r\n\u003cli>Practice With a Timer because Speed Matters in the Real Exam.\u003c/li>\r\n\u003c/ul>\r\n\u003ch3>4. General Awareness\u003c/h3>\r\n\u003cul>\r\n\u003cli>Current Affairs: Cover the Last 6 Months Current Affairs by Read Newspaper or a Current Affairs in daily basis for at least 30 to 60 Minutes.\u003c/li>\r\n\u003cli>Static GK: Revise History, Polity and Geography a Little Every Day.\u003c/li>\r\n\u003c/ul>\r\n\u003c/div>","image":"https://api.resumesathi.com/courses_image/Rajasthan%20High%20Court%20Stenographer%20Recruitment%202026%20-%20Apply%20Online%20163%20Posts.png","identifier":{"@type":"PropertyValue","name":"ResumeSathi","value":"9"},"datePosted":"2026-07-19","validFrom":"2026-07-22","validThrough":"2026-08-10","employmentType":"FULL_TIME","industry":"Judiciary","hiringOrganization":{"@type":"Organization","name":"Judiciary - Government Jobs","sameAs":"https://www.resumesathi.com/jobs/"},"jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressCountry":"IN"}},"directApply":false}b:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$17"}}],"$L18"]
+19:I[88609,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/06pj_k8chkpe5.js","/_next/static/chunks/16ymsuy-x3uv9.js"],"default"]
+1a:T1d2a,<div class="post-content">
+<p>Rajasthan High Court (Jodhpur) released a notification for the post of <strong>Stenographer Grade-III (Hindi/English) and Stenographer Grade-II (Hindi)</strong>. Those Candidates who are interested in Rajasthan High Court Stenographer Recruitment 2026 can apply online from 22/07/2026 to 10/08/2026. Read the notification for post information, selection procedure, age limit, pay scale and all other information before applying.</p>
+<h2>Important Dates</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td>Notification Release</td>
+<td><strong>17/07/2026</strong></td>
+</tr>
+<tr>
+<td>Application Begins</td>
+<td><strong>22/07/2026 (01:00 PM)</strong></td>
+</tr>
+<tr>
+<td>Last Date for Apply</td>
+<td><strong>10/08/2026 (05:00 PM)</strong></td>
+</tr>
+<tr>
+<td>Exam Fee Last Date</td>
+<td><strong>11/08/2026 (05:00 PM)</strong></td>
+</tr>
+<tr>
+<td>Exam Date</td>
+<td><strong>As per Schedule</strong></td>
+</tr>
+<tr>
+<td>Admit Card Available</td>
+<td><strong>Before Exam</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Application Fee</h2>
+<ul>
+<li>General / OBC-Creamy Layer / Other State : 750/-</li>
+<li>OBC Non-Creamy Layer / MBC / EWS (Rajasthan) : 600/-</li>
+<li>SC / ST : 450/-</li>
+<li>Pay the Examination Fee Through Online Mode Only</li>
+</ul>
+<h2>Age Limit as on 01/01/2027</h2>
+<ul>
+<li>Minimum Age : 18 Years</li>
+<li>Maximum Age : 40 Years</li>
+<li>Age Relaxation Extra as per Rajasthan High Court Stenographer Recruitment Rules</li>
+</ul>
+<h2>Vacancy Details Total : 163 Post</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<thead>
+<tr>
+<th>Post Name</th>
+<th>Total Post</th>
+<th>Rajasthan High Court Stenographer Eligibility</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Stenographer Grade-III (Hindi/English) - District Courts</td>
+<td>As per Notification</td>
+<td rowspan="2">Class 12th Pass from Any Recognized Board with Computer Certificate (RSCIT or Equivalent) and Required Shorthand Speed. More Eligibility Details Read the Notification.</td>
+</tr>
+<tr>
+<td>Stenographer Grade-II (Hindi) - DLSA / Permanent Lok Adalat</td>
+<td>As per Notification</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Rajasthan High Court Stenographer Category Wise Vacancy Details</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse; height: 162px;" border="1" cellspacing="0" cellpadding="8">
+<thead>
+<tr style="height: 18px;">
+<th style="height: 18px;">Category</th>
+<th style="height: 18px;">Total Post</th>
+</tr>
+</thead>
+<tbody>
+<tr style="height: 18px;">
+<td style="height: 18px;">General</td>
+<td style="height: 18px;">104</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px;">OBC</td>
+<td style="height: 18px;">19</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px;">MBC</td>
+<td style="height: 18px;">03</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px;">Sahariya</td>
+<td style="height: 18px;">01</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px;">EWS</td>
+<td style="height: 18px;">06</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px;">SC</td>
+<td style="height: 18px;">14</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px;">ST</td>
+<td style="height: 18px;">16</td>
+</tr>
+<tr style="height: 18px;">
+<td style="height: 18px;"><strong>Total</strong></td>
+<td style="height: 18px;"><strong>163</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Selection Process</h2>
+<ul>
+<li>Shorthand Test</li>
+<li>Computer Test</li>
+<li>Document Verification</li>
+</ul>
+<h2>Pay Scale</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td>Probationer Trainee Period (First 2 Years)</td>
+<td><strong>Rs. 23,700/- Fixed Per Month</strong></td>
+</tr>
+<tr>
+<td>Regular Pay Scale (Level L-10)</td>
+<td><strong>Rs. 33,800 - Rs. 1,06,700/-</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>How to Fill Rajasthan High Court Stenographer Recruitment Online Form 2026</h2>
+<ul>
+<li>Candidate Read the Notification Before Apply the Recruitment Application Form in Rajasthan High Court Stenographer Recruitment 2026.</li>
+<li>Ready Scan Document: Photo, Sign, ID Proof, Etc.</li>
+<li>Before Submit the Application Form Must Check the Preview and All Fields Carefully.</li>
+<li>If Candidate Required to Pay the Application then Must pay Fee else your Form Is Not Completed.</li>
+<li>Take a Print Out of Final Submitted Form for future use.</li>
+</ul>
+<h2>Some Useful Important Links</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td><strong>Apply Online</strong></td>
+<td>Click Here (Active from 22/07/2026)</td>
+</tr>
+<tr>
+<td><strong>Download Notification</strong></td>
+<td><a title="Click Here" href="https://hcraj.nic.in/hcraj/hcraj_admin/uploadfile/recruitment/steno2026178427448186.pdf" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+<tr>
+<td><strong>Signature Resizer, PDF Compress, Age Calculator and More Tools</strong></td>
+<td><a title="https://www.resumesathi.com/tools/" href="https://www.resumesathi.com/tools/" target="_blank" rel="noopener">View Tools</a></td>
+</tr>
+<tr>
+<td><strong>Official Website</strong></td>
+<td><a title="https://hcraj.nic.in/" href="https://hcraj.nic.in/" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote><strong>Note: </strong>Candidates are advised to always cross-check dates, fee details, and eligibility criteria from the official Rajasthan High Court website before applying, as the schedule may change based on official updates.</blockquote>
+<h2>Rajasthan High Court Stenographer Preparation Tips 2026</h2>
+<h3>1. Shorthand (Most Important)</h3>
+<ul>
+<li>Practice Daily: Start Slow from 40-50 WPM and Gradually Increase. Aim to Increase Speed by 5 WPM Every Week Until You Reach 80+.WPM&nbsp;</li>
+<li>Transcription Matters Too: Writing Fast Is Not Enough, You Must Be Able to Transcribe It Back Into Accurate English Without Errors or using Backspace.</li>
+<li>Dedicate a Minimum of 1-2 Hours Daily necause typing Built on Muscle Memory so taking a Break Causes Speed to Drop.</li>
+</ul>
+<h3>2. English (Highest Weightage in the Written Exam)</h3>
+<ul>
+<li>Grammar: Practice 10-15 Questions Daily on Tenses, Articles, Prepositions and Verb.</li>
+<li>Vocabulary: Learn 10 New Words Daily With Their Synonyms and Antonyms.</li>
+<li>Comprehension: Read 2-3 Passages a Week and Solve Questions on Them, This Also Improves Reading speed.</li>
+</ul>
+<h3>3. Reasoning (A Speed Test)</h3>
+<ul>
+<li>Series, Coding-Decoding, Analogy, Blood Relations (These Are All Pattern Based, So the More You Practice the Faster You Will Solve Them).</li>
+<li>Practice With a Timer because Speed Matters in the Real Exam.</li>
+</ul>
+<h3>4. General Awareness</h3>
+<ul>
+<li>Current Affairs: Cover the Last 6 Months Current Affairs by Read Newspaper or a Current Affairs in daily basis for at least 30 to 60 Minutes.</li>
+<li>Static GK: Revise History, Polity and Geography a Little Every Day.</li>
+</ul>
+</div>18:["$","$L19",null,{"article":{"id":9,"title":"Rajasthan High Court Stenographer Recruitment 2026 (163 Posts)","slug":"rajasthan-high-court-stenographer-recruitment-2026","description":"Rajasthan High Court Stenographer Recruitment 2026 notification out for 163 Grade-II & Grade-III posts. Check eligibility, age limit, fee, pay scale and apply online.","company":null,"location":null,"employment_type":null,"salary":null,"status":1,"created_at":"2026-07-19T13:23:08.000000Z","updated_at":"2026-07-19T15:12:46.000000Z","job_type_id":null,"department_id":null,"is_active":1,"featured":0,"trending":0,"urgent":0,"homepage":0,"deleted_at":null,"hero_image":"courses_image/Rajasthan High Court Stenographer Recruitment 2026 - Apply Online 163 Posts.png","created_by":1,"topic_name":"Rajasthan High Court Stenographer Recruitment 2026 (163 Posts)","url_name":"rajasthan-high-court-stenographer-recruitment-2026","meta_title":"Rajasthan High Court Stenographer Recruitment 2026 (163 Posts)","meta_description":"Rajasthan High Court Stenographer Recruitment 2026 notification out for 163 Grade-II & Grade-III posts. Check eligibility, age limit, fee, pay scale and apply online.","meta_keyword":"Rajasthan High Court Stenographer 2026, RHC Stenographer Recruitment, Rajasthan High Court Vacancy 2026, HCRAJ Stenographer Online Form, Rajasthan Stenographer Grade 2 3","canonical_tag":"courses/judiciary/rajasthan-high-court-stenographer-recruitment-2026","course_type":11,"pageview":0,"application_begin":"2026-07-22","last_date_for_apply":"2026-08-10","user":{"id":1,"first_name":"Hariom","last_name":"Prajapati","email":"hariomprajapati9029@gmail.com","mobile":"8840860841","birth_date":"08/01/1999","age":"23","gender":"male","profile_image":"Hariom.jpg","background_image":null,"is_active":1,"created_at":"2021-09-12T13:19:51.000000Z","updated_at":"2026-07-12T10:04:13.000000Z"},"course_category":{"id":11,"course_name":"Judiciary","course_url":"judiciary","course_image":"courses/game-icons_injustice.svg","description":"Recruitment notifications from High Courts, District Courts and other judicial bodies across India.","created_at":"2026-07-19T13:59:17.000000Z","updated_at":"2026-07-19T14:01:26.000000Z","deleted_at":null,"created_by":1},"contents":[{"id":9,"content":"$1a","course_id":9,"created_at":"2026-07-19T13:23:08.000000Z","updated_at":"2026-07-19T15:12:46.000000Z"}]},"slug":"rajasthan-high-court-stenographer-recruitment-2026"}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1b:I[27201,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"IconMark"]
+e:null
+16:[["$","title","0",{"children":"Rajasthan High Court Stenographer Recruitment 2026 (163 Posts) | ResumeSathi"}],["$","meta","1",{"name":"description","content":"Rajasthan High Court Stenographer Recruitment 2026 notification out for 163 Grade-II & Grade-III posts. Check eligibility, age limit, fee, pay scale and apply online."}],["$","meta","2",{"name":"keywords","content":"jobs, career opportunities, hiring, apply now, government jobs"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://www.resumesathi.com/jobs/rajasthan-high-court-stenographer-recruitment-2026/"}],["$","meta","5",{"property":"og:title","content":"Rajasthan High Court Stenographer Recruitment 2026 (163 Posts) | ResumeSathi"}],["$","meta","6",{"property":"og:description","content":"Rajasthan High Court Stenographer Recruitment 2026 notification out for 163 Grade-II & Grade-III posts. Check eligibility, age limit, fee, pay scale and apply online."}],["$","meta","7",{"property":"og:url","content":"https://www.resumesathi.com/jobs/rajasthan-high-court-stenographer-recruitment-2026/"}],["$","meta","8",{"property":"og:site_name","content":"ResumeSathi"}],["$","meta","9",{"property":"og:image","content":"https://api.resumesathi.com/courses_image/Rajasthan%20High%20Court%20Stenographer%20Recruitment%202026%20-%20Apply%20Online%20163%20Posts.png"}],["$","meta","10",{"property":"og:image:alt","content":"Rajasthan High Court Stenographer Recruitment 2026 (163 Posts)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"Rajasthan High Court Stenographer Recruitment 2026 (163 Posts) | ResumeSathi"}],["$","meta","14",{"name":"twitter:description","content":"Rajasthan High Court Stenographer Recruitment 2026 notification out for 163 Grade-II & Grade-III posts. Check eligibility, age limit, fee, pay scale and apply online."}],["$","meta","15",{"name":"twitter:image","content":"https://api.resumesathi.com/courses_image/Rajasthan%20High%20Court%20Stenographer%20Recruitment%202026%20-%20Apply%20Online%20163%20Posts.png"}],["$","link","16",{"rel":"shortcut icon","href":"/front-assets/images/logo/favicon.png"}],["$","link","17",{"rel":"icon","href":"/front-assets/images/logo/favicon.png"}],["$","link","18",{"rel":"apple-touch-icon","href":"/front-assets/images/logo/favicon.png"}],["$","link","19",{"rel":"apple-touch-icon-precomposed","href":"/front-assets/images/logo/favicon.png"}],["$","$L1b","20",{}]]

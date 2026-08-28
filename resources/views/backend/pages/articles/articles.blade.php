@@ -1,10 +1,8 @@
-@extends('backend.layout.master')
+﻿@extends('backend.layout.master')
 @section('title', 'Articles')
-@section('custom-css')
-    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.1/css/dataTables.bootstrap4.min.css">
-@endsection
+
 @section('content')
-    <div class="content-wrapper">
+    <div class="content-wrapper rs-table-page">
         <div class="row grid-margin">
             <div class="col-sm-12">
                 @if (Session::get('success'))
@@ -31,29 +29,40 @@
                         </div>
                     </div>
                 @endif
-                <br>
             </div>
 
-            <div class="card w-100">
+            <div class="rs-page-head">
+                <div>
+                    <span>Content Management</span>
+                    <h1>Articles</h1>
+                    <p>Manage article information, drafts, published content and SEO details.</p>
+                </div>
+                <a class="btn btn-primary" href="{{ route('create-article') }}"><i class="fa fa-plus"></i> Add Article</a>
+            </div>
+
+            <div class="card w-100 rs-table-card">
                 <div class="card-body">
-                    <div class="d-flex justify-content-between">
-                        <p class="card-title">Articles</p>
-                        <p class=""><a class="btn btn-primary" href="{{ route('create-article') }}"><i class="fa fa-plus"></i> Add New Article</a>
-                        </p>
+                    <div class="rs-table-toolbar">
+                        <label class="rs-table-search">
+                            <i class="fa fa-search"></i>
+                            <input type="search" id="tableSearch" placeholder="Name, category, author or title">
+                        </label>
+                        <select id="statusFilter">
+                            <option value="">All status</option>
+                            <option value="Active">Active</option>
+                            <option value="In-Active">Inactive</option>
+                        </select>
+                        <button type="button" class="btn rs-icon-btn" id="tableReset"><i class="fa fa-refresh"></i></button>
                     </div>
                     <div class="row">
                         <div class="col-12">
                             <div class="table-responsive">
-                                <table id="example" class="display expandable-table table-bordered" style="width:100%">
+                                <table id="example" class="display expandable-table" style="width:100%">
                                     <thead>
                                         <tr>
-                                            <th>id</th>
-                                            <th>Created By</th>
+                                            <th>Article</th>
                                             <th>Category</th>
                                             <th>Language</th>
-                                            <th>Title</th>
-                                            <th>Page View</th>
-                                            <th>Last Click</th>
                                             <th>Created At</th>
                                             <th>Status</th>
                                             <th>Action</th>
@@ -62,42 +71,40 @@
                                     <tbody>
                                         @foreach ($articles as $item)
                                             <tr>
-                                                <td>{{ $loop->iteration }}</td>
-                                                <td>{{ $item->user->first_name . ' ' . $item->user->last_name }}</td>
-                                                <td>{{ $item->article_category->article_name }}</td>
+                                                <td>
+                                                    <div class="rs-table-person">
+                                                        @if ($item->hero_image)
+                                                            <img src="{{ asset($item->hero_image) }}" alt="{{ $item->article_title ?: 'Article' }}">
+                                                        @else
+                                                            <span>{{ strtoupper(substr($item->article_title ?: 'A', 0, 2)) }}</span>
+                                                        @endif
+                                                        <div>
+                                                            <strong>{{ $item->article_title ?: 'Untitled article' }}</strong>
+                                                            <small>{{ $item->url_name ?: 'no-slug' }}</small>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                                <td>{{ optional($item->article_category)->article_name ?? 'N/A' }}</td>
                                                 <td>{{ $item->language ? $item->language->title : '--' }}</td>
-                                                <td>{{ $item->article_title }}</td>
-                                                <td>{{ $item->pageview }}</td>
-                                                <td>{{ $item->updated_at }}</td>
                                                 <td>{{ $item->created_at }}</td>
                                                 <td>
                                                     @if ($item->is_active)
-                                                        <label class="text-success">Active</label>
+                                                        <a class="rs-status-toggle active" href="{{ route('article-status', $item->id) }}">Active</a>
                                                     @else
-                                                        <label class="text-danger">In-Active</label>
+                                                        <a class="rs-status-toggle inactive" href="{{ route('article-status', $item->id) }}">In-Active</a>
                                                     @endif
                                                 </td>
                                                 <td>
-                                                    <a href="{{ url($item->canonical_tag) }}"><i
-                                                            class="fa fa-eye text-success"
-                                                            aria-hidden="true"></i></a>&nbsp;&nbsp;
                                                     <a href="{{ route('article-delete', $item->id) }}"
                                                         onclick="return confirm('Are you sure you want to delete this item?');"><i
-                                                            class="fa fa-trash text-danger"
-                                                            aria-hidden="true"></i></a>&nbsp;&nbsp;
+                                                            class="ti-trash text-danger"
+                                                            aria-hidden="true"></i></a>
                                                     <a href="{{ route('save-article', base64_encode($item->id)) }}"><i
-                                                            class="fa fa-edit text-primary"
-                                                            aria-hidden="true"></i></a>&nbsp;&nbsp;
+                                                            class="ti-pencil-alt text-primary"
+                                                            aria-hidden="true"></i></a>
                                                 </td>
                                             </tr>
                                         @endforeach
-                                        @if (count($articles) == 0)
-                                            <tr>
-                                                <td colspan="8" class="text-center">No data found
-                                                    <hr class="w-100">
-                                                </td>
-                                            </tr>
-                                        @endif
                                     </tbody>
                                 </table>
                             </div>
@@ -110,10 +117,32 @@
 @endsection
 @section('page-js')
     <script src="https://cdn.datatables.net/1.13.1/js/jquery.dataTables.min.js"></script>
-    <script src="https://cdn.datatables.net/1.13.1/js/dataTables.bootstrap4.min.js"></script>
     <script>
         $(document).ready(function() {
-            $('#example').DataTable();
+            $.fn.DataTable.ext.pager.numbers_length = 3;
+            var table = $('#example').DataTable({
+                dom: 'rt<"rs-table-bottom"ip>',
+                pageLength: 10,
+                pagingType: 'simple_numbers',
+                language: {
+                    lengthMenu: '_MENU_ per page',
+                    info: 'Showing _START_ to _END_ of _TOTAL_ articles',
+                    emptyTable: 'No articles found'
+                }
+            });
+            $('#tableSearch').on('keyup change', function() {
+                table.search(this.value).draw();
+            });
+            $('#statusFilter').on('change', function() {
+                table.column(4).search(this.value).draw();
+            });
+            $('#tableReset').on('click', function() {
+                $('#tableSearch').val('');
+                $('#statusFilter').val('');
+                table.search('').columns().search('').draw();
+            });
         });
     </script>
 @endsection
+
+

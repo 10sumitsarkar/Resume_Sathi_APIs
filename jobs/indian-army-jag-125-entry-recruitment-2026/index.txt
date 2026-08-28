@@ -1,0 +1,138 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+3:I[37457,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+4:I[44134,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/0dge8h81efw6t.js"],"default"]
+5:I[22016,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/0dge8h81efw6t.js"],""]
+6:I[59708,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+7:I[32666,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+8:I[92825,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"ClientSegmentRoot"]
+9:I[39040,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/06pj_k8chkpe5.js"],"default"]
+c:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"ViewportBoundary"]
+13:I[68027,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default",1]
+:HL["/_next/static/chunks/36s5nf8n-vj81.css","style"]
+:HL["/front-assets/css/bootstrap.min.css","style"]
+:HL["/front-assets/css/style.css","style"]
+:HL["/front-assets/css/responsive.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap","style",{"crossOrigin":"anonymous"}]
+0:{"P":null,"c":["","jobs","indian-army-jag-125-entry-recruitment-2026",""],"q":"","i":false,"f":[[["",{"children":["jobs",{"children":[["slug","indian-army-jag-125-entry-recruitment-2026","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/3_bezyotg8f3w.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0b5j8te8ufv_z.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"data-scroll-behavior":"smooth","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preload","href":"/front-assets/css/bootstrap.min.css","as":"style"}],["$","link",null,{"rel":"preload","href":"/front-assets/css/style.css","as":"style"}],["$","link",null,{"rel":"preload","href":"/front-assets/css/responsive.css","as":"style"}],["$","link",null,{"rel":"preload","href":"https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap","as":"style","crossOrigin":"anonymous"}],["$","link",null,{"rel":"stylesheet","href":"/front-assets/css/bootstrap.min.css"}],["$","link",null,{"rel":"stylesheet","href":"/front-assets/css/style.css"}],["$","link",null,{"rel":"stylesheet","href":"/front-assets/css/responsive.css"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"}]]}],["$","body",null,{"suppressHydrationWarning":true,"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ResumeSathi\",\"url\":\"https://www.resumesathi.com\",\"logo\":\"https://www.resumesathi.com/front-assets/images/logo/logo.svg\",\"sameAs\":[\"https://www.facebook.com\",\"https://www.linkedin.com\",\"https://www.instagram.com\"],\"description\":\"ResumeSathi helps job seekers create ATS-friendly resumes, cover letters, and career documents for free.\"}"}}],["$","main",null,{"id":"main-content","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","$L4",null,{}],["$","section",null,{"className":"page-404","children":["$","div",null,{"className":"container","children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"col-sm-12","children":["$","div",null,{"className":"col-sm-10 offset-sm-1 text-center","children":[["$","div",null,{"className":"four-zero-four-bg","children":["$","h1",null,{"className":"text-center","children":"404"}]}],["$","div",null,{"className":"contant-box-404","children":[["$","h3",null,{"className":"h2","children":"Looks like you are lost"}],["$","p",null,{"children":"The page you are looking for is not available."}],["$","$L5",null,{"prefetch":false,"href":"/","className":"link-404","aria-label":"Go to Home Page","children":"Go to Home"}]]}]]}]}]}]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{}],["$","$L7",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/06pj_k8chkpe5.js","async":true,"nonce":"$undefined"}]],["$","$L8",null,{"Component":"$9","slots":{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]},"serverProvidedParams":{"params":{},"promises":["$@a"]}}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$Lb",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/36s5nf8n-vj81.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/16ymsuy-x3uv9.js","async":true,"nonce":"$undefined"}]],["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],{},null,false,null]},null,false,"$@f"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$L11"}],["$","div",null,{"hidden":true,"children":"$L12"}],null]}],false]],"m":"$undefined","G":["$13",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"keVm6Da3qnRC_mqGccBX1"}
+15:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"MetadataBoundary"]
+14:[]
+f:"$W14"
+12:["$","$L15",null,{"children":["$","$d",null,{"name":"Next.Metadata","children":"$L16"}]}]
+a:"$0:f:0:1:1:children:0:props:children:1:props:serverProvidedParams:params"
+17:T1797,{"@context":"https://schema.org/","@type":"JobPosting","title":"Indian Army JAG 125th Entry 2026 Apply Online","description":"\u003cdiv class=\"post-content\">\r\n\u003cp>Indian Army has released the notification for \u003cstrong>Judge Advocate General (JAG) Branch 125th Entry 2026\u003c/strong>. Eligible law graduates who want to join the Indian Army through the JAG Entry scheme can apply online from 17 July 2026 to 17 August 2026.\u003c/p>\r\n\u003ch2>Important Dates\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Application Begin\u003c/td>\r\n\u003ctd>\u003cstrong>17/07/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Last Date for Apply Online\u003c/td>\r\n\u003ctd>\u003cstrong>17/08/2026 Up to 03:00 PM Only\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Last Date Complete Form\u003c/td>\r\n\u003ctd>\u003cstrong>17/08/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Exam Date\u003c/td>\r\n\u003ctd>\u003cstrong>As per Schedule\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Admit Card Available\u003c/td>\r\n\u003ctd>\u003cstrong>Before Exam\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>Application Fee\u003c/h2>\r\n\u003cul>\r\n\u003cli>General / OBC / EWS : 0/-\u003c/li>\r\n\u003cli>SC / ST / Female : 0/-\u003c/li>\r\n\u003cli>There Is No Application Fee for Any Category\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Age Limit as on 01/01/2027\u003c/h2>\r\n\u003cul>\r\n\u003cli>Minimum Age : 21 Years\u003c/li>\r\n\u003cli>Maximum Age : 27 Years\u003c/li>\r\n\u003cli>Age Relaxation (Check in the Official Notification)\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Vacancy Details Total : 10 Post\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003cthead>\r\n\u003ctr>\r\n\u003cth>Post Name\u003c/th>\r\n\u003cth>Total Post\u003c/th>\r\n\u003cth>Indian Army JAG 125th Entry Eligibility\u003c/th>\r\n\u003c/tr>\r\n\u003c/thead>\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>JAG Men\u003c/td>\r\n\u003ctd>05\u003c/td>\r\n\u003ctd rowspan=\"2\">\r\n\u003cul>\r\n\u003cli>Bachelor Degree in Law (LLB) With Minimum 55% Marks From a Recognized University\u003c/li>\r\n\u003cli>Candidate Must Be Registered With the Bar Council\u003c/li>\r\n\u003cli>Candidate Must Appear in the CLAT PG Exam 2026\u003c/li>\r\n\u003c/ul>\r\n\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>JAG Women\u003c/td>\r\n\u003ctd>05\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>How to Fill Indian Army JAG 125th Entry Online Form 2026\u003c/h2>\r\n\u003cul>\r\n\u003cli>Keep Your Documents Ready like Law Degree Marksheet, Bar Council Registration, ID Proof and Address Proof.\u003c/li>\r\n\u003cli>Keep Ready Scan Copies of Photo, Signature and ID Proof in the Prescribed Format.\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Some Useful Important Links\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Apply Online\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"Apply Now\" href=\"https://joinindianarmy.nic.in/Authentication.aspx\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Download Notification\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"Download Notification\" href=\"https://www.joinindianarmy.nic.in/writereaddata/Portal/NotificationPDF/Notification_for_JAG_Entry_Scheme_125th_Course_Apr_2027.pdf\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Signature Resizer, PDF Compress, Age Calculator and More Tools\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"https://www.resumesathi.com/tools/\" href=\"https://www.resumesathi.com/tools/\" target=\"_blank\" rel=\"noopener\">View Tools\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Official Website\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"Indian Army Official Website\" href=\"https://joinindianarmy.nic.in/index.htm\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003cblockquote>\u003cstrong>Note:\u003c/strong> Candidates are advised to always cross-check dates, eligibility criteria, and CLAT PG exam requirements from the official Indian Army website before applying, as the schedule may change based on official updates.\u003c/blockquote>\r\n\u003ch2>Indian Army JAG 125th Entry Preparation Tips 2026\u003c/h2>\r\n\u003cul>\r\n\u003cli>Focus on Legal Reasoning, Constitutional Law and Current Legal Affairs.\u003c/li>\r\n\u003cli>Revise LLB Subjects like Constitutional Law, Criminal Law and Contract Law.\u003c/li>\r\n\u003cli>Stay Updated on Recent Supreme Court and High Court Judgments.\u003c/li>\r\n\u003cli>Work on Physical Fitness because SSB Interview Rounds With Physical and Psychological Tests.\u003c/li>\r\n\u003cli>Practice Group Discussions and Mock Interviews to gain Confidence for the SSB Personality Assessment.\u003c/li>\r\n\u003c/ul>\r\n\u003c/div>","image":"https://api.resumesathi.com/courses_image/ChatGPT%20Image%20Jul%2020,%202026,%2012_48_36%20PM.png","identifier":{"@type":"PropertyValue","name":"ResumeSathi","value":"11"},"datePosted":"2026-07-20","validFrom":"2026-07-17","validThrough":"2026-08-17","employmentType":"FULL_TIME","industry":"Defence","hiringOrganization":{"@type":"Organization","name":"Defence - Government Jobs","sameAs":"https://www.resumesathi.com/jobs/"},"jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressCountry":"IN"}},"directApply":false}b:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$17"}}],"$L18"]
+19:I[88609,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/06pj_k8chkpe5.js","/_next/static/chunks/16ymsuy-x3uv9.js"],"default"]
+1a:T1031,<div class="post-content">
+<p>Indian Army has released the notification for <strong>Judge Advocate General (JAG) Branch 125th Entry 2026</strong>. Eligible law graduates who want to join the Indian Army through the JAG Entry scheme can apply online from 17 July 2026 to 17 August 2026.</p>
+<h2>Important Dates</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td>Application Begin</td>
+<td><strong>17/07/2026</strong></td>
+</tr>
+<tr>
+<td>Last Date for Apply Online</td>
+<td><strong>17/08/2026 Up to 03:00 PM Only</strong></td>
+</tr>
+<tr>
+<td>Last Date Complete Form</td>
+<td><strong>17/08/2026</strong></td>
+</tr>
+<tr>
+<td>Exam Date</td>
+<td><strong>As per Schedule</strong></td>
+</tr>
+<tr>
+<td>Admit Card Available</td>
+<td><strong>Before Exam</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Application Fee</h2>
+<ul>
+<li>General / OBC / EWS : 0/-</li>
+<li>SC / ST / Female : 0/-</li>
+<li>There Is No Application Fee for Any Category</li>
+</ul>
+<h2>Age Limit as on 01/01/2027</h2>
+<ul>
+<li>Minimum Age : 21 Years</li>
+<li>Maximum Age : 27 Years</li>
+<li>Age Relaxation (Check in the Official Notification)</li>
+</ul>
+<h2>Vacancy Details Total : 10 Post</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<thead>
+<tr>
+<th>Post Name</th>
+<th>Total Post</th>
+<th>Indian Army JAG 125th Entry Eligibility</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>JAG Men</td>
+<td>05</td>
+<td rowspan="2">
+<ul>
+<li>Bachelor Degree in Law (LLB) With Minimum 55% Marks From a Recognized University</li>
+<li>Candidate Must Be Registered With the Bar Council</li>
+<li>Candidate Must Appear in the CLAT PG Exam 2026</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>JAG Women</td>
+<td>05</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>How to Fill Indian Army JAG 125th Entry Online Form 2026</h2>
+<ul>
+<li>Keep Your Documents Ready like Law Degree Marksheet, Bar Council Registration, ID Proof and Address Proof.</li>
+<li>Keep Ready Scan Copies of Photo, Signature and ID Proof in the Prescribed Format.</li>
+</ul>
+<h2>Some Useful Important Links</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td><strong>Apply Online</strong></td>
+<td><a title="Apply Now" href="https://joinindianarmy.nic.in/Authentication.aspx" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+<tr>
+<td><strong>Download Notification</strong></td>
+<td><a title="Download Notification" href="https://www.joinindianarmy.nic.in/writereaddata/Portal/NotificationPDF/Notification_for_JAG_Entry_Scheme_125th_Course_Apr_2027.pdf" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+<tr>
+<td><strong>Signature Resizer, PDF Compress, Age Calculator and More Tools</strong></td>
+<td><a title="https://www.resumesathi.com/tools/" href="https://www.resumesathi.com/tools/" target="_blank" rel="noopener">View Tools</a></td>
+</tr>
+<tr>
+<td><strong>Official Website</strong></td>
+<td><a title="Indian Army Official Website" href="https://joinindianarmy.nic.in/index.htm" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote><strong>Note:</strong> Candidates are advised to always cross-check dates, eligibility criteria, and CLAT PG exam requirements from the official Indian Army website before applying, as the schedule may change based on official updates.</blockquote>
+<h2>Indian Army JAG 125th Entry Preparation Tips 2026</h2>
+<ul>
+<li>Focus on Legal Reasoning, Constitutional Law and Current Legal Affairs.</li>
+<li>Revise LLB Subjects like Constitutional Law, Criminal Law and Contract Law.</li>
+<li>Stay Updated on Recent Supreme Court and High Court Judgments.</li>
+<li>Work on Physical Fitness because SSB Interview Rounds With Physical and Psychological Tests.</li>
+<li>Practice Group Discussions and Mock Interviews to gain Confidence for the SSB Personality Assessment.</li>
+</ul>
+</div>18:["$","$L19",null,{"article":{"id":11,"title":"Indian Army JAG 125th Entry 2026 Apply Online","slug":"indian-army-jag-125-entry-recruitment-2026","description":"Indian Army JAG 125th Entry 2026 notification out for Law Graduates. Apply online from 17 July to 17 August 2026 for JAG Men & Women posts. No application fee, CLAT PG Exam 2026 compulsory.","company":null,"location":null,"employment_type":null,"salary":null,"status":1,"created_at":"2026-07-20T07:02:20.000000Z","updated_at":"2026-07-20T09:14:35.000000Z","job_type_id":null,"department_id":null,"is_active":1,"featured":0,"trending":0,"urgent":0,"homepage":0,"deleted_at":null,"hero_image":"courses_image/ChatGPT Image Jul 20, 2026, 12_48_36 PM.png","created_by":1,"topic_name":"Indian Army JAG 125th Entry 2026 Apply Online","url_name":"indian-army-jag-125-entry-recruitment-2026","meta_title":"Indian Army JAG 125th Entry 2026 Apply Online","meta_description":"Indian Army JAG 125th Entry 2026 notification out for Law Graduates. Apply online from 17 July to 17 August 2026 for JAG Men & Women posts. No application fee, CLAT PG Exam 2026 compulsory.","meta_keyword":"Indian Army JAG 125th Entry 2026, Army JAG Recruitment, Judge Advocate General Entry, Army Law Graduate Entry 2026, CLAT PG Army JAG","canonical_tag":"courses/defence/indian-army-jag-125-entry-recruitment-2026","course_type":12,"pageview":0,"application_begin":"2026-07-17","last_date_for_apply":"2026-08-17","user":{"id":1,"first_name":"Hariom","last_name":"Prajapati","email":"hariomprajapati9029@gmail.com","mobile":"8840860841","birth_date":"08/01/1999","age":"23","gender":"male","profile_image":"Hariom.jpg","background_image":null,"is_active":1,"created_at":"2021-09-12T13:19:51.000000Z","updated_at":"2026-07-12T10:04:13.000000Z"},"course_category":{"id":12,"course_name":"Defence","course_url":"defence","course_image":"courses/62967shield_109323.svg","description":"Recruitment notifications from Indian Army, Navy, Air Force and other central defence forces, including Agniveer intake.","created_at":"2026-07-20T06:49:07.000000Z","updated_at":"2026-07-20T06:49:07.000000Z","deleted_at":null,"created_by":1},"contents":[{"id":11,"content":"$1a","course_id":11,"created_at":"2026-07-20T07:02:20.000000Z","updated_at":"2026-07-20T09:14:35.000000Z"}]},"slug":"indian-army-jag-125-entry-recruitment-2026"}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1b:I[27201,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"IconMark"]
+e:null
+16:[["$","title","0",{"children":"Indian Army JAG 125th Entry 2026 Apply Online | ResumeSathi"}],["$","meta","1",{"name":"description","content":"Indian Army JAG 125th Entry 2026 notification out for Law Graduates. Apply online from 17 July to 17 August 2026 for JAG Men & Women posts. No application fee, CLAT PG Exam 2026 compulsory."}],["$","meta","2",{"name":"keywords","content":"jobs, career opportunities, hiring, apply now, government jobs"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://www.resumesathi.com/jobs/indian-army-jag-125-entry-recruitment-2026/"}],["$","meta","5",{"property":"og:title","content":"Indian Army JAG 125th Entry 2026 Apply Online | ResumeSathi"}],["$","meta","6",{"property":"og:description","content":"Indian Army JAG 125th Entry 2026 notification out for Law Graduates. Apply online from 17 July to 17 August 2026 for JAG Men & Women posts. No application fee, CLAT PG Exam 2026 compulsory."}],["$","meta","7",{"property":"og:url","content":"https://www.resumesathi.com/jobs/indian-army-jag-125-entry-recruitment-2026/"}],["$","meta","8",{"property":"og:site_name","content":"ResumeSathi"}],["$","meta","9",{"property":"og:image","content":"https://api.resumesathi.com/courses_image/ChatGPT%20Image%20Jul%2020,%202026,%2012_48_36%20PM.png"}],["$","meta","10",{"property":"og:image:alt","content":"Indian Army JAG 125th Entry 2026 Apply Online"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"Indian Army JAG 125th Entry 2026 Apply Online | ResumeSathi"}],["$","meta","14",{"name":"twitter:description","content":"Indian Army JAG 125th Entry 2026 notification out for Law Graduates. Apply online from 17 July to 17 August 2026 for JAG Men & Women posts. No application fee, CLAT PG Exam 2026 compulsory."}],["$","meta","15",{"name":"twitter:image","content":"https://api.resumesathi.com/courses_image/ChatGPT%20Image%20Jul%2020,%202026,%2012_48_36%20PM.png"}],["$","link","16",{"rel":"shortcut icon","href":"/front-assets/images/logo/favicon.png"}],["$","link","17",{"rel":"icon","href":"/front-assets/images/logo/favicon.png"}],["$","link","18",{"rel":"apple-touch-icon","href":"/front-assets/images/logo/favicon.png"}],["$","link","19",{"rel":"apple-touch-icon-precomposed","href":"/front-assets/images/logo/favicon.png"}],["$","$L1b","20",{}]]

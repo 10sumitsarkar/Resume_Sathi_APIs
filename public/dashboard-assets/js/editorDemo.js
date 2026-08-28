@@ -51,6 +51,13 @@
 
             content_css: [],
             setup: function (editor) {
+                editor.on('init change keyup setcontent', function () {
+                    var textarea = document.getElementById('tinyMceExample');
+                    if (textarea) {
+                        textarea.dataset.editorReady = '1';
+                        textarea.value = editor.getContent();
+                    }
+                });
                 // Step 2: Define a custom button in the toolbar
                 editor.ui.registry.addButton('customButton', {
                     text: 'Example',

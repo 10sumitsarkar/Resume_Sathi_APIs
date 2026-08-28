@@ -9,7 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="index, follow">
-    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}" alt="ResumeSathi Logo">
+    <link rel="shortcut icon" type="image/png" href="{{ asset('front-assets/images/logos/favicon.png') }}">
     <title>@yield('title') | ResumeSathi</title>
     <meta name="description" content="@yield('description')">
     <meta name="keywords" content="@yield('keywords')">
@@ -18,8 +18,8 @@
     {{-- OG meta tags start --}}
     <meta property="og:title" content="@yield('og-title')" />
     <meta property="og:description" content="@yield('og-description')" />
-    <meta property="og:type" content="website" />
-    <meta property="og:image" content="{{ asset('front-assets/images/logos/og-images.png') }}" />
+    <meta property="og:type" content="@yield('og-type', 'website')" />
+    <meta property="og:image" content="@yield('og-image', asset('front-assets/images/logos/og-images.png'))" />
     <meta property="og:url" content="@yield('og-url')" />
     {{-- OG meta tags end --}}
 
@@ -37,17 +37,17 @@
 
     {{-- Schema start --}}
     <script type="application/ld+json">
-        {
-          "@context": "https://schema.org",
-          "@type": "WebSite",
-          "name": "ResumeSathi",
-          "url": "@yield('og-url')",
-          "description": "@yield('description')",
-          "publisher": {
-            "@type": "WebPage",
-            "name": "ResumeSathi"
-          }
-        }
+        {!! json_encode([
+            '@context' => 'https://schema.org',
+            '@type' => 'WebSite',
+            'name' => 'ResumeSathi',
+            'url' => trim($__env->yieldContent('og-url')),
+            'description' => trim($__env->yieldContent('description')),
+            'publisher' => [
+                '@type' => 'Organization',
+                'name' => 'ResumeSathi',
+            ],
+        ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) !!}
         </script>
     {{-- Schema End --}}
 
@@ -73,9 +73,9 @@
 
     @yield('page-js')
 
-    <script src="{{ asset('front-assets/js/jquery.min.js') }}"></script>
-    <script src="{{ asset('front-assets/js/bootstrap.bundle.min.js') }}"></script>
-    <script src="{{ asset('front-assets/js/custom.min.js') }}"></script>
+    <script defer src="{{ asset('front-assets/js/jquery.min.js') }}"></script>
+    <script defer src="{{ asset('front-assets/js/bootstrap.bundle.min.js') }}"></script>
+    <script defer src="{{ asset('front-assets/js/custom.min.js') }}"></script>
 
     @yield('custom-script')
 

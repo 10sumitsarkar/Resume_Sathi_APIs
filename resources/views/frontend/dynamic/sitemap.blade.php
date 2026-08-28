@@ -8,8 +8,24 @@
         <priority>{{ $item['priority'] }}</priority>
     </url>
 @endforeach
+@foreach ($customUrls as $item)
+    @php
+        $path = trim((string) $item->slug);
+        $loc = \Illuminate\Support\Str::startsWith($path, ['http://', 'https://'])
+            ? $path
+            : $baseUrl . '/' . trim($path, '/') . '/';
+    @endphp
+    @if ($path)
+    <url>
+        <loc>{{ $loc }}</loc>
+        <lastmod>{{ ($item->updated_at ?: $item->created_at ?: now())->tz('UTC')->toAtomString() }}</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>{{ $item->priority ?: '0.7' }}</priority>
+    </url>
+    @endif
+@endforeach
 @foreach ($articles as $article)
-    @php $slug = \Illuminate\Support\Str::slug(collect(explode('/', $article->url_name ?: $article->canonical_tag))->filter()->last()); @endphp
+    @php $slug = $slugger($article); @endphp
     @if ($slug)
     <url>
         <loc>{{ $baseUrl }}/blog/{{ $slug }}/</loc>
@@ -20,7 +36,7 @@
     @endif
 @endforeach
 @foreach ($jobs as $job)
-    @php $slug = \Illuminate\Support\Str::slug(collect(explode('/', $job->url_name ?: $job->canonical_tag))->filter()->last()); @endphp
+    @php $slug = $slugger($job); @endphp
     @if ($slug)
     <url>
         <loc>{{ $baseUrl }}/jobs/{{ $slug }}/</loc>

@@ -1,0 +1,1097 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+3:I[37457,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+4:I[44134,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/0dge8h81efw6t.js"],"default"]
+5:I[22016,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/0dge8h81efw6t.js"],""]
+6:I[59708,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+7:I[32666,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default"]
+8:I[92825,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"ClientSegmentRoot"]
+9:I[39040,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/06pj_k8chkpe5.js"],"default"]
+c:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"ViewportBoundary"]
+13:I[68027,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"default",1]
+:HL["/_next/static/chunks/36s5nf8n-vj81.css","style"]
+:HL["/front-assets/css/bootstrap.min.css","style"]
+:HL["/front-assets/css/style.css","style"]
+:HL["/front-assets/css/responsive.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap","style",{"crossOrigin":"anonymous"}]
+0:{"P":null,"c":["","jobs","rrb-je-junior-engineer-cen-04-2026",""],"q":"","i":false,"f":[[["",{"children":["jobs",{"children":[["slug","rrb-je-junior-engineer-cen-04-2026","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/3_bezyotg8f3w.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0b5j8te8ufv_z.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"data-scroll-behavior":"smooth","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","link",null,{"rel":"preload","href":"/front-assets/css/bootstrap.min.css","as":"style"}],["$","link",null,{"rel":"preload","href":"/front-assets/css/style.css","as":"style"}],["$","link",null,{"rel":"preload","href":"/front-assets/css/responsive.css","as":"style"}],["$","link",null,{"rel":"preload","href":"https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap","as":"style","crossOrigin":"anonymous"}],["$","link",null,{"rel":"stylesheet","href":"/front-assets/css/bootstrap.min.css"}],["$","link",null,{"rel":"stylesheet","href":"/front-assets/css/style.css"}],["$","link",null,{"rel":"stylesheet","href":"/front-assets/css/responsive.css"}],["$","link",null,{"rel":"stylesheet","href":"https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"}]]}],["$","body",null,{"suppressHydrationWarning":true,"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Organization\",\"name\":\"ResumeSathi\",\"url\":\"https://www.resumesathi.com\",\"logo\":\"https://www.resumesathi.com/front-assets/images/logo/logo.svg\",\"sameAs\":[\"https://www.facebook.com\",\"https://www.linkedin.com\",\"https://www.instagram.com\"],\"description\":\"ResumeSathi helps job seekers create ATS-friendly resumes, cover letters, and career documents for free.\"}"}}],["$","main",null,{"id":"main-content","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","$L4",null,{}],["$","section",null,{"className":"page-404","children":["$","div",null,{"className":"container","children":["$","div",null,{"className":"row","children":["$","div",null,{"className":"col-sm-12","children":["$","div",null,{"className":"col-sm-10 offset-sm-1 text-center","children":[["$","div",null,{"className":"four-zero-four-bg","children":["$","h1",null,{"className":"text-center","children":"404"}]}],["$","div",null,{"className":"contant-box-404","children":[["$","h3",null,{"className":"h2","children":"Looks like you are lost"}],["$","p",null,{"children":"The page you are looking for is not available."}],["$","$L5",null,{"prefetch":false,"href":"/","className":"link-404","aria-label":"Go to Home Page","children":"Go to Home"}]]}]]}]}]}]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L6",null,{}],["$","$L7",null,{}]]}]]}]]}],{"children":[["$","$1","c",{"children":[[["$","script","script-0",{"src":"/_next/static/chunks/06pj_k8chkpe5.js","async":true,"nonce":"$undefined"}]],["$","$L8",null,{"Component":"$9","slots":{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]},"serverProvidedParams":{"params":{},"promises":["$@a"]}}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$Lb",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/36s5nf8n-vj81.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/16ymsuy-x3uv9.js","async":true,"nonce":"$undefined"}]],["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],{},null,false,null]},null,false,"$@f"]},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$L10",null,{"children":"$L11"}],["$","div",null,{"hidden":true,"children":"$L12"}],null]}],false]],"m":"$undefined","G":["$13",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"keVm6Da3qnRC_mqGccBX1"}
+15:I[97367,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"MetadataBoundary"]
+14:[]
+f:"$W14"
+12:["$","$L15",null,{"children":["$","$d",null,{"name":"Next.Metadata","children":"$L16"}]}]
+a:"$0:f:0:1:1:children:0:props:children:1:props:serverProvidedParams:params"
+17:T111fb,{"@context":"https://schema.org/","@type":"JobPosting","title":"RRB JE Junior Engineer CEN 04/2026 Recruitment (4098 Post)","description":"\u003cdiv class=\"post-content\">\r\n\u003cp>Railway Recruitment Board (RRB) has released the notification for \u003cstrong>Junior Engineer (JE), Depot Material Superintendent and Chemical &amp; Metallurgical Assistant Recruitment 2026\u003c/strong> under CEN No. 04/2026. Candidates interested in this RRB JE Recruitment can apply online from 14 August 2026 to 13 September 2026.&nbsp;\u003c/p>\r\n\u003ch2>Important Dates\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Application Begin\u003c/td>\r\n\u003ctd>\u003cstrong>14/08/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Last Date for Apply Online\u003c/td>\r\n\u003ctd>\u003cstrong>13/09/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Last Date Pay Exam Fee\u003c/td>\r\n\u003ctd>\u003cstrong>13/09/2026\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Correction Date\u003c/td>\r\n\u003ctd>\u003cstrong>As per Schedule\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>RRB JE CEN 04/2026 Exam Date\u003c/td>\r\n\u003ctd>\u003cstrong>As per Schedule\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>Admit Card Available\u003c/td>\r\n\u003ctd>\u003cstrong>Before Exam\u003c/strong>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>Application Fee\u003c/h2>\r\n\u003cul>\r\n\u003cli>General / OBC / EWS : 500/-\u003c/li>\r\n\u003cli>SC / ST / PH : 250/-\u003c/li>\r\n\u003cli>All Category Female : 250/-\u003c/li>\r\n\u003cli>Refund Is Applicable After Candidates Appear for the Stage I Exam\u003c/li>\r\n\u003cli>General / OBC / EWS Fee Refund : Rs. 400/-\u003c/li>\r\n\u003cli>SC / ST / PH / Female Refund : Rs. 250/-\u003c/li>\r\n\u003cli>Pay the Exam Fee Through E Challan, Debit Card, Credit Card or Net Banking\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Age Limit as on 01/01/2027\u003c/h2>\r\n\u003cul>\r\n\u003cli>Minimum Age : 18 Years\u003c/li>\r\n\u003cli>Maximum Age : 33 Years\u003c/li>\r\n\u003cli>Age Relaxation Extra as per RRB JE Junior Engineer Recruitment Rules\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Vacancy Details Total : 4098 Post\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003cthead>\r\n\u003ctr>\r\n\u003cth>Post Name\u003c/th>\r\n\u003cth>Total Post\u003c/th>\r\n\u003cth>RRB JE Eligibility\u003c/th>\r\n\u003c/tr>\r\n\u003c/thead>\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Junior Engineer, Depot Material Superintendent and Chemical &amp; Metallurgical Assistant\u003c/td>\r\n\u003ctd>4098\u003c/td>\r\n\u003ctd>\r\n\u003cul>\r\n\u003cli>Diploma / Degree in Engineering From a Recognized Institute in the Relevant Discipline (as Applicable for the Post Applied For)\u003c/li>\r\n\u003cli>10+2 With Science Stream May Also Apply Where Applicable as per Post Requirement\u003c/li>\r\n\u003cli>More Eligibility Details Read the Notification\u003c/li>\r\n\u003c/ul>\r\n\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>Category Wise Vacancy Details\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003cthead>\r\n\u003ctr>\r\n\u003cth>Post Name\u003c/th>\r\n\u003cth>UR\u003c/th>\r\n\u003cth>OBC\u003c/th>\r\n\u003cth>EWS\u003c/th>\r\n\u003cth>SC\u003c/th>\r\n\u003cth>ST\u003c/th>\r\n\u003cth>Total\u003c/th>\r\n\u003c/tr>\r\n\u003c/thead>\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>Junior Engineer\u003c/td>\r\n\u003ctd>To Be Notified\u003c/td>\r\n\u003ctd>To Be Notified\u003c/td>\r\n\u003ctd>To Be Notified\u003c/td>\r\n\u003ctd>To Be Notified\u003c/td>\r\n\u003ctd>To Be Notified\u003c/td>\r\n\u003ctd>4098\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003ch2>How to Fill RRB JE Junior Engineer Online Form 2026\u003c/h2>\r\n\u003cul>\r\n\u003cli>Keep Your Documents Ready like&nbsp; Educational Certificates, ID Proof, Address Proof and Basic Details.\u003c/li>\r\n\u003cli>Keep ready Scan Copies of Photo, Signature and ID Proof&nbsp; in the Prescribed Format.\u003c/li>\r\n\u003cli>Application Fee Payment Is Mandatory.\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Some Useful Important Links\u003c/h2>\r\n\u003cdiv class=\"table-responsive\">\r\n\u003ctable style=\"width: 100%; border-collapse: collapse;\" border=\"1\" cellspacing=\"0\" cellpadding=\"8\">\r\n\u003ctbody>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Apply Online\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"Link Will Be Activated on 14/08/2026\" href=\"https://www.rrbapply.gov.in/#/auth/landing\" target=\"_blank\" rel=\"noopener\">Link Will Be Activated on 14/08/2026\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Download Notification\u003c/strong>\u003c/td>\r\n\u003ctd>Link Will Be Activated Soon\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Signature Resizer, PDF Compress, Age Calculator and More Tools\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"https://www.resumesathi.com/tools/\" href=\"https://www.resumesathi.com/tools/\" target=\"_blank\" rel=\"noopener\">View Tools\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003ctr>\r\n\u003ctd>\u003cstrong>Official Website\u003c/strong>\u003c/td>\r\n\u003ctd>\u003ca title=\"RRB Official Website\" href=\"https://www.rrbapply.gov.in/#/auth/landing\" target=\"_blank\" rel=\"noopener\">Click Here\u003c/a>\u003c/td>\r\n\u003c/tr>\r\n\u003c/tbody>\r\n\u003c/table>\r\n\u003c/div>\r\n\u003cblockquote>\u003cstrong>Note: \u003c/strong>Candidates are advised to always cross-check dates, fee details, and eligibility criteria from the official RRB website before applying, as the schedule may change based on official updates.\u003c/blockquote>\r\n\u003ch2>RRB JE Junior Engineer Preparation Tips 2026\u003c/h2>\r\n\u003cul>\r\n\u003cli>Cover General Awareness like Current Affairs, Static GK and Railway Related Topics.\u003c/li>\r\n\u003cli>Practice Mathematics Daily on the Topics of Percentage, Ratio, Time &amp; Work, Algebra and Geometry.\u003c/li>\r\n\u003cli>Revise General Intelligence &amp; Reasoning Through Puzzles, Series, Coding-Decoding and Analogy on a Regular Basis.\u003c/li>\r\n\u003cli>For Stage II, Focus on Your Core Engineering Discipline Subjects.\u003c/li>\r\n\u003cli>Check and try to solve previous Year RRB JE Papers to Understand the Exact Question Pattern and Difficulty Level.\u003c/li>\r\n\u003c/ul>\r\n\u003ch2>Frequently Asked Questions\u003c/h2>\r\n\u003csection class=\"tre-faq-list\">\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>What is the last date to apply for RRB JE CEN 04/2026?\u003c/summary>\r\n\u003cp>The last date to apply online is 13 September 2026, and the fee payment deadline is also 13 September 2026.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>How many total vacancies are there in RRB JE CEN 04/2026?\u003c/summary>\r\n\u003cp>A total of 4098 posts have been announced across Junior Engineer, Depot Material Superintendent and Chemical &amp; Metallurgical Assistant categories.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>What is the application fee for General category candidates?\u003c/summary>\r\n\u003cp>General, OBC and EWS candidates need to pay Rs. 500/-, while SC, ST, PH and all category female candidates pay Rs. 250/-.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>Is the application fee refundable in RRB JE CEN 04/2026?\u003c/summary>\r\n\u003cp>Yes, a refund applies once a candidate has appeared for the Stage I exam - General/OBC/EWS get Rs. 400/- back, while SC/ST/PH/Female candidates get Rs. 250/- back.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>What is the age limit for RRB JE CEN 04/2026?\u003c/summary>\r\n\u003cp>Candidates must be between 18 and 33 years of age as on 01 January 2027, with standard age relaxation applicable as per RRB rules.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>What is the minimum qualification required for RRB JE posts?\u003c/summary>\r\n\u003cp>Candidates generally need a Diploma or Degree in Engineering in the relevant discipline, though 10+2 with Science may also apply for certain posts as per the specific post requirement.\u003c/p>\r\n\u003c/details>\u003cdetails class=\"tre-faq-item\">\r\n\u003csummary>Where can candidates check the category-wise vacancy breakup for RRB JE?\u003c/summary>\r\n\u003cp>The category-wise (UR/OBC/EWS/SC/ST) vacancy numbers are yet to be notified and will be updated once released in the official notification.\u003c/p>\r\n\u003c/details>\u003c/section>\r\n\u003csection class=\"tre-quiz-wrap\">\r\n\u003ch3 class=\"tre-quiz-header\">RRB JE CEN 04/2026 - Practice Questions (Engineering GK, Maths, Reasoning, GA)\u003c/h3>\r\n\u003cp class=\"tre-quiz-sub\">100 Objective Questions\u003c/p>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q1.\u003c/span> What does the abbreviation 'RCC' stand for in civil engineering?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q1_o1\" class=\"tre-opt-item opt-right\">Reinforced Cement Concrete\u003c/li>\r\n\u003cli id=\"rrbje_q1_o2\" class=\"tre-opt-item opt-wrong\">Rigid Concrete Column\u003c/li>\r\n\u003cli id=\"rrbje_q1_o3\" class=\"tre-opt-item opt-wrong\">Reinforced Concrete Column\u003c/li>\r\n\u003cli id=\"rrbje_q1_o4\" class=\"tre-opt-item opt-wrong\">Rolled Cement Concrete\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q2.\u003c/span> Which material is commonly used for railway tracks?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q2_o1\" class=\"tre-opt-item opt-wrong\">Aluminium\u003c/li>\r\n\u003cli id=\"rrbje_q2_o2\" class=\"tre-opt-item opt-right\">Steel\u003c/li>\r\n\u003cli id=\"rrbje_q2_o3\" class=\"tre-opt-item opt-wrong\">Copper\u003c/li>\r\n\u003cli id=\"rrbje_q2_o4\" class=\"tre-opt-item opt-wrong\">Cast Iron\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q3.\u003c/span> What is the standard gauge width used for broad gauge railway tracks in India?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q3_o1\" class=\"tre-opt-item opt-wrong\">1.435 metres\u003c/li>\r\n\u003cli id=\"rrbje_q3_o2\" class=\"tre-opt-item opt-right\">1.676 metres\u003c/li>\r\n\u003cli id=\"rrbje_q3_o3\" class=\"tre-opt-item opt-wrong\">1.000 metres\u003c/li>\r\n\u003cli id=\"rrbje_q3_o4\" class=\"tre-opt-item opt-wrong\">0.762 metres\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q4.\u003c/span> Which type of current is generated by an AC generator?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q4_o1\" class=\"tre-opt-item opt-wrong\">Direct Current\u003c/li>\r\n\u003cli id=\"rrbje_q4_o2\" class=\"tre-opt-item opt-right\">Alternating Current\u003c/li>\r\n\u003cli id=\"rrbje_q4_o3\" class=\"tre-opt-item opt-wrong\">Static Current\u003c/li>\r\n\u003cli id=\"rrbje_q4_o4\" class=\"tre-opt-item opt-wrong\">Pulsed Current\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q5.\u003c/span> What is the unit used to measure electrical power?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q5_o1\" class=\"tre-opt-item opt-wrong\">Volt\u003c/li>\r\n\u003cli id=\"rrbje_q5_o2\" class=\"tre-opt-item opt-wrong\">Ampere\u003c/li>\r\n\u003cli id=\"rrbje_q5_o3\" class=\"tre-opt-item opt-right\">Watt\u003c/li>\r\n\u003cli id=\"rrbje_q5_o4\" class=\"tre-opt-item opt-wrong\">Ohm\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q6.\u003c/span> In mechanical engineering, what does 'RPM' stand for?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q6_o1\" class=\"tre-opt-item opt-wrong\">Rotations Per Minute\u003c/li>\r\n\u003cli id=\"rrbje_q6_o2\" class=\"tre-opt-item opt-right\">Revolutions Per Minute\u003c/li>\r\n\u003cli id=\"rrbje_q6_o3\" class=\"tre-opt-item opt-wrong\">Rate Per Minute\u003c/li>\r\n\u003cli id=\"rrbje_q6_o4\" class=\"tre-opt-item opt-wrong\">Ratio Per Minute\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q7.\u003c/span> Which type of bridge design uses a triangular framework?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q7_o1\" class=\"tre-opt-item opt-wrong\">Suspension Bridge\u003c/li>\r\n\u003cli id=\"rrbje_q7_o2\" class=\"tre-opt-item opt-right\">Truss Bridge\u003c/li>\r\n\u003cli id=\"rrbje_q7_o3\" class=\"tre-opt-item opt-wrong\">Arch Bridge\u003c/li>\r\n\u003cli id=\"rrbje_q7_o4\" class=\"tre-opt-item opt-wrong\">Beam Bridge\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q8.\u003c/span> What is the primary raw material used to produce cement?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q8_o1\" class=\"tre-opt-item opt-wrong\">Sand\u003c/li>\r\n\u003cli id=\"rrbje_q8_o2\" class=\"tre-opt-item opt-right\">Limestone\u003c/li>\r\n\u003cli id=\"rrbje_q8_o3\" class=\"tre-opt-item opt-wrong\">Gravel\u003c/li>\r\n\u003cli id=\"rrbje_q8_o4\" class=\"tre-opt-item opt-wrong\">Clay Only\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q9.\u003c/span> Which gas is primarily used in oxy-acetylene welding along with acetylene?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q9_o1\" class=\"tre-opt-item opt-wrong\">Nitrogen\u003c/li>\r\n\u003cli id=\"rrbje_q9_o2\" class=\"tre-opt-item opt-right\">Oxygen\u003c/li>\r\n\u003cli id=\"rrbje_q9_o3\" class=\"tre-opt-item opt-wrong\">Hydrogen\u003c/li>\r\n\u003cli id=\"rrbje_q9_o4\" class=\"tre-opt-item opt-wrong\">Argon\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q10.\u003c/span> What does 'CAD' stand for in engineering design?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q10_o1\" class=\"tre-opt-item opt-right\">Computer Aided Design\u003c/li>\r\n\u003cli id=\"rrbje_q10_o2\" class=\"tre-opt-item opt-wrong\">Central Automated Design\u003c/li>\r\n\u003cli id=\"rrbje_q10_o3\" class=\"tre-opt-item opt-wrong\">Computer Assisted Drafting Only\u003c/li>\r\n\u003cli id=\"rrbje_q10_o4\" class=\"tre-opt-item opt-wrong\">Central Aided Drawing\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q11.\u003c/span> Which material has the highest electrical conductivity among common metals?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q11_o1\" class=\"tre-opt-item opt-wrong\">Iron\u003c/li>\r\n\u003cli id=\"rrbje_q11_o2\" class=\"tre-opt-item opt-wrong\">Aluminium\u003c/li>\r\n\u003cli id=\"rrbje_q11_o3\" class=\"tre-opt-item opt-right\">Silver\u003c/li>\r\n\u003cli id=\"rrbje_q11_o4\" class=\"tre-opt-item opt-wrong\">Lead\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q12.\u003c/span> What is the term for the maximum load a structure can carry safely?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q12_o1\" class=\"tre-opt-item opt-wrong\">Dead Load\u003c/li>\r\n\u003cli id=\"rrbje_q12_o2\" class=\"tre-opt-item opt-wrong\">Live Load\u003c/li>\r\n\u003cli id=\"rrbje_q12_o3\" class=\"tre-opt-item opt-right\">Safe Load\u003c/li>\r\n\u003cli id=\"rrbje_q12_o4\" class=\"tre-opt-item opt-wrong\">Design Load\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q13.\u003c/span> Which instrument is used to measure the diameter of small objects precisely?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q13_o1\" class=\"tre-opt-item opt-wrong\">Scale\u003c/li>\r\n\u003cli id=\"rrbje_q13_o2\" class=\"tre-opt-item opt-right\">Vernier Caliper\u003c/li>\r\n\u003cli id=\"rrbje_q13_o3\" class=\"tre-opt-item opt-wrong\">Protractor\u003c/li>\r\n\u003cli id=\"rrbje_q13_o4\" class=\"tre-opt-item opt-wrong\">Compass\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q14.\u003c/span> What is the function of a transformer in electrical systems?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q14_o1\" class=\"tre-opt-item opt-wrong\">Generate electricity\u003c/li>\r\n\u003cli id=\"rrbje_q14_o2\" class=\"tre-opt-item opt-right\">Change voltage levels\u003c/li>\r\n\u003cli id=\"rrbje_q14_o3\" class=\"tre-opt-item opt-wrong\">Store electricity\u003c/li>\r\n\u003cli id=\"rrbje_q14_o4\" class=\"tre-opt-item opt-wrong\">Measure current\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q15.\u003c/span> Which type of engine is commonly used in most diesel locomotives?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q15_o1\" class=\"tre-opt-item opt-wrong\">Petrol Engine\u003c/li>\r\n\u003cli id=\"rrbje_q15_o2\" class=\"tre-opt-item opt-right\">Diesel Engine\u003c/li>\r\n\u003cli id=\"rrbje_q15_o3\" class=\"tre-opt-item opt-wrong\">Steam Engine\u003c/li>\r\n\u003cli id=\"rrbje_q15_o4\" class=\"tre-opt-item opt-wrong\">Electric Motor Only\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q16.\u003c/span> What does 'NDT' stand for in engineering quality inspection?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q16_o1\" class=\"tre-opt-item opt-right\">Non-Destructive Testing\u003c/li>\r\n\u003cli id=\"rrbje_q16_o2\" class=\"tre-opt-item opt-wrong\">New Design Technology\u003c/li>\r\n\u003cli id=\"rrbje_q16_o3\" class=\"tre-opt-item opt-wrong\">Normal Data Testing\u003c/li>\r\n\u003cli id=\"rrbje_q16_o4\" class=\"tre-opt-item opt-wrong\">National Design Test\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q17.\u003c/span> Which metal is commonly alloyed with iron to make stainless steel resistant to rust?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q17_o1\" class=\"tre-opt-item opt-wrong\">Copper\u003c/li>\r\n\u003cli id=\"rrbje_q17_o2\" class=\"tre-opt-item opt-right\">Chromium\u003c/li>\r\n\u003cli id=\"rrbje_q17_o3\" class=\"tre-opt-item opt-wrong\">Zinc\u003c/li>\r\n\u003cli id=\"rrbje_q17_o4\" class=\"tre-opt-item opt-wrong\">Tin\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q18.\u003c/span> What is the basic unit of pressure in the SI system?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q18_o1\" class=\"tre-opt-item opt-wrong\">Newton\u003c/li>\r\n\u003cli id=\"rrbje_q18_o2\" class=\"tre-opt-item opt-right\">Pascal\u003c/li>\r\n\u003cli id=\"rrbje_q18_o3\" class=\"tre-opt-item opt-wrong\">Joule\u003c/li>\r\n\u003cli id=\"rrbje_q18_o4\" class=\"tre-opt-item opt-wrong\">Watt\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q19.\u003c/span> Which type of joint is commonly used to permanently join two metal pieces by melting?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q19_o1\" class=\"tre-opt-item opt-wrong\">Bolted Joint\u003c/li>\r\n\u003cli id=\"rrbje_q19_o2\" class=\"tre-opt-item opt-right\">Welded Joint\u003c/li>\r\n\u003cli id=\"rrbje_q19_o3\" class=\"tre-opt-item opt-wrong\">Riveted Joint\u003c/li>\r\n\u003cli id=\"rrbje_q19_o4\" class=\"tre-opt-item opt-wrong\">Screwed Joint\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q20.\u003c/span> What is the term for the point where a beam is supported?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q20_o1\" class=\"tre-opt-item opt-wrong\">Load Point\u003c/li>\r\n\u003cli id=\"rrbje_q20_o2\" class=\"tre-opt-item opt-right\">Support\u003c/li>\r\n\u003cli id=\"rrbje_q20_o3\" class=\"tre-opt-item opt-wrong\">Span\u003c/li>\r\n\u003cli id=\"rrbje_q20_o4\" class=\"tre-opt-item opt-wrong\">Node\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q21.\u003c/span> Which safety equipment is essential while working near moving machinery?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q21_o1\" class=\"tre-opt-item opt-wrong\">Sunglasses\u003c/li>\r\n\u003cli id=\"rrbje_q21_o2\" class=\"tre-opt-item opt-right\">Safety Helmet and Gloves\u003c/li>\r\n\u003cli id=\"rrbje_q21_o3\" class=\"tre-opt-item opt-wrong\">Casual Wear\u003c/li>\r\n\u003cli id=\"rrbje_q21_o4\" class=\"tre-opt-item opt-wrong\">Slippers\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q22.\u003c/span> What does 'HVAC' stand for?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q22_o1\" class=\"tre-opt-item opt-right\">Heating, Ventilation and Air Conditioning\u003c/li>\r\n\u003cli id=\"rrbje_q22_o2\" class=\"tre-opt-item opt-wrong\">High Voltage Alternating Current\u003c/li>\r\n\u003cli id=\"rrbje_q22_o3\" class=\"tre-opt-item opt-wrong\">Heavy Vehicle Auto Control\u003c/li>\r\n\u003cli id=\"rrbje_q22_o4\" class=\"tre-opt-item opt-wrong\">Horizontal Vertical Alignment Control\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q23.\u003c/span> Which type of pump is commonly used to lift water from a well?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q23_o1\" class=\"tre-opt-item opt-right\">Centrifugal Pump\u003c/li>\r\n\u003cli id=\"rrbje_q23_o2\" class=\"tre-opt-item opt-wrong\">Gear Pump\u003c/li>\r\n\u003cli id=\"rrbje_q23_o3\" class=\"tre-opt-item opt-wrong\">Vane Pump\u003c/li>\r\n\u003cli id=\"rrbje_q23_o4\" class=\"tre-opt-item opt-wrong\">Piston Pump Only\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q24.\u003c/span> What is the primary purpose of a fuse in an electrical circuit?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q24_o1\" class=\"tre-opt-item opt-wrong\">Increase voltage\u003c/li>\r\n\u003cli id=\"rrbje_q24_o2\" class=\"tre-opt-item opt-right\">Protect the circuit from excess current\u003c/li>\r\n\u003cli id=\"rrbje_q24_o3\" class=\"tre-opt-item opt-wrong\">Store energy\u003c/li>\r\n\u003cli id=\"rrbje_q24_o4\" class=\"tre-opt-item opt-wrong\">Reduce resistance\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q25.\u003c/span> Which material property describes its ability to return to its original shape after deformation?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q25_o1\" class=\"tre-opt-item opt-wrong\">Plasticity\u003c/li>\r\n\u003cli id=\"rrbje_q25_o2\" class=\"tre-opt-item opt-right\">Elasticity\u003c/li>\r\n\u003cli id=\"rrbje_q25_o3\" class=\"tre-opt-item opt-wrong\">Ductility\u003c/li>\r\n\u003cli id=\"rrbje_q25_o4\" class=\"tre-opt-item opt-wrong\">Brittleness\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q26.\u003c/span> What is 18% of 250?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q26_o1\" class=\"tre-opt-item opt-wrong\">40\u003c/li>\r\n\u003cli id=\"rrbje_q26_o2\" class=\"tre-opt-item opt-wrong\">42\u003c/li>\r\n\u003cli id=\"rrbje_q26_o3\" class=\"tre-opt-item opt-right\">45\u003c/li>\r\n\u003cli id=\"rrbje_q26_o4\" class=\"tre-opt-item opt-wrong\">48\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q27.\u003c/span> A shopkeeper buys an item for Rs. 600 and sells it for Rs. 750. What is the profit percentage?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q27_o1\" class=\"tre-opt-item opt-wrong\">20%\u003c/li>\r\n\u003cli id=\"rrbje_q27_o2\" class=\"tre-opt-item opt-right\">25%\u003c/li>\r\n\u003cli id=\"rrbje_q27_o3\" class=\"tre-opt-item opt-wrong\">30%\u003c/li>\r\n\u003cli id=\"rrbje_q27_o4\" class=\"tre-opt-item opt-wrong\">35%\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q28.\u003c/span> What is the average of 15, 25, 35, 45, 55?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q28_o1\" class=\"tre-opt-item opt-wrong\">30\u003c/li>\r\n\u003cli id=\"rrbje_q28_o2\" class=\"tre-opt-item opt-wrong\">35\u003c/li>\r\n\u003cli id=\"rrbje_q28_o3\" class=\"tre-opt-item opt-right\">40\u003c/li>\r\n\u003cli id=\"rrbje_q28_o4\" class=\"tre-opt-item opt-wrong\">45\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q29.\u003c/span> A car covers 180 km in 3 hours. What is its speed?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q29_o1\" class=\"tre-opt-item opt-wrong\">50 km/h\u003c/li>\r\n\u003cli id=\"rrbje_q29_o2\" class=\"tre-opt-item opt-wrong\">55 km/h\u003c/li>\r\n\u003cli id=\"rrbje_q29_o3\" class=\"tre-opt-item opt-right\">60 km/h\u003c/li>\r\n\u003cli id=\"rrbje_q29_o4\" class=\"tre-opt-item opt-wrong\">65 km/h\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q30.\u003c/span> What is 6 x 9 + 4?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q30_o1\" class=\"tre-opt-item opt-wrong\">56\u003c/li>\r\n\u003cli id=\"rrbje_q30_o2\" class=\"tre-opt-item opt-right\">58\u003c/li>\r\n\u003cli id=\"rrbje_q30_o3\" class=\"tre-opt-item opt-wrong\">60\u003c/li>\r\n\u003cli id=\"rrbje_q30_o4\" class=\"tre-opt-item opt-wrong\">62\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q31.\u003c/span> If a number decreased by 20% becomes 80, what was the original number?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q31_o1\" class=\"tre-opt-item opt-wrong\">90\u003c/li>\r\n\u003cli id=\"rrbje_q31_o2\" class=\"tre-opt-item opt-wrong\">95\u003c/li>\r\n\u003cli id=\"rrbje_q31_o3\" class=\"tre-opt-item opt-right\">100\u003c/li>\r\n\u003cli id=\"rrbje_q31_o4\" class=\"tre-opt-item opt-wrong\">105\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q32.\u003c/span> What is the simple interest on Rs. 1500 at 8% per annum for 3 years?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q32_o1\" class=\"tre-opt-item opt-wrong\">Rs. 300\u003c/li>\r\n\u003cli id=\"rrbje_q32_o2\" class=\"tre-opt-item opt-wrong\">Rs. 320\u003c/li>\r\n\u003cli id=\"rrbje_q32_o3\" class=\"tre-opt-item opt-wrong\">Rs. 340\u003c/li>\r\n\u003cli id=\"rrbje_q32_o4\" class=\"tre-opt-item opt-right\">Rs. 360\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q33.\u003c/span> What is the square root of 169?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q33_o1\" class=\"tre-opt-item opt-wrong\">11\u003c/li>\r\n\u003cli id=\"rrbje_q33_o2\" class=\"tre-opt-item opt-wrong\">12\u003c/li>\r\n\u003cli id=\"rrbje_q33_o3\" class=\"tre-opt-item opt-right\">13\u003c/li>\r\n\u003cli id=\"rrbje_q33_o4\" class=\"tre-opt-item opt-wrong\">14\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q34.\u003c/span> If 4 workers finish a task in 15 days, how many days will 2 workers take?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q34_o1\" class=\"tre-opt-item opt-wrong\">20 days\u003c/li>\r\n\u003cli id=\"rrbje_q34_o2\" class=\"tre-opt-item opt-wrong\">25 days\u003c/li>\r\n\u003cli id=\"rrbje_q34_o3\" class=\"tre-opt-item opt-right\">30 days\u003c/li>\r\n\u003cli id=\"rrbje_q34_o4\" class=\"tre-opt-item opt-wrong\">35 days\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q35.\u003c/span> What is the ratio of 30 to 90?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q35_o1\" class=\"tre-opt-item opt-wrong\">1:2\u003c/li>\r\n\u003cli id=\"rrbje_q35_o2\" class=\"tre-opt-item opt-right\">1:3\u003c/li>\r\n\u003cli id=\"rrbje_q35_o3\" class=\"tre-opt-item opt-wrong\">1:4\u003c/li>\r\n\u003cli id=\"rrbje_q35_o4\" class=\"tre-opt-item opt-wrong\">1:5\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q36.\u003c/span> What is 35% of 400?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q36_o1\" class=\"tre-opt-item opt-wrong\">120\u003c/li>\r\n\u003cli id=\"rrbje_q36_o2\" class=\"tre-opt-item opt-wrong\">130\u003c/li>\r\n\u003cli id=\"rrbje_q36_o3\" class=\"tre-opt-item opt-right\">140\u003c/li>\r\n\u003cli id=\"rrbje_q36_o4\" class=\"tre-opt-item opt-wrong\">150\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q37.\u003c/span> A shopkeeper sells a product at a 15% loss. If the cost price is Rs. 800, what is the selling price?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q37_o1\" class=\"tre-opt-item opt-wrong\">Rs. 660\u003c/li>\r\n\u003cli id=\"rrbje_q37_o2\" class=\"tre-opt-item opt-wrong\">Rs. 670\u003c/li>\r\n\u003cli id=\"rrbje_q37_o3\" class=\"tre-opt-item opt-right\">Rs. 680\u003c/li>\r\n\u003cli id=\"rrbje_q37_o4\" class=\"tre-opt-item opt-wrong\">Rs. 690\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q38.\u003c/span> What is the LCM of 6 and 8?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q38_o1\" class=\"tre-opt-item opt-wrong\">16\u003c/li>\r\n\u003cli id=\"rrbje_q38_o2\" class=\"tre-opt-item opt-wrong\">20\u003c/li>\r\n\u003cli id=\"rrbje_q38_o3\" class=\"tre-opt-item opt-right\">24\u003c/li>\r\n\u003cli id=\"rrbje_q38_o4\" class=\"tre-opt-item opt-wrong\">32\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q39.\u003c/span> What is the HCF of 24 and 36?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q39_o1\" class=\"tre-opt-item opt-wrong\">6\u003c/li>\r\n\u003cli id=\"rrbje_q39_o2\" class=\"tre-opt-item opt-wrong\">8\u003c/li>\r\n\u003cli id=\"rrbje_q39_o3\" class=\"tre-opt-item opt-right\">12\u003c/li>\r\n\u003cli id=\"rrbje_q39_o4\" class=\"tre-opt-item opt-wrong\">18\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q40.\u003c/span> If the perimeter of a rectangle is 60 cm and its length is 20 cm, what is its width?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q40_o1\" class=\"tre-opt-item opt-wrong\">8 cm\u003c/li>\r\n\u003cli id=\"rrbje_q40_o2\" class=\"tre-opt-item opt-right\">10 cm\u003c/li>\r\n\u003cli id=\"rrbje_q40_o3\" class=\"tre-opt-item opt-wrong\">12 cm\u003c/li>\r\n\u003cli id=\"rrbje_q40_o4\" class=\"tre-opt-item opt-wrong\">15 cm\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q41.\u003c/span> What is 144 divided by 12, then multiplied by 5?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q41_o1\" class=\"tre-opt-item opt-wrong\">50\u003c/li>\r\n\u003cli id=\"rrbje_q41_o2\" class=\"tre-opt-item opt-wrong\">55\u003c/li>\r\n\u003cli id=\"rrbje_q41_o3\" class=\"tre-opt-item opt-right\">60\u003c/li>\r\n\u003cli id=\"rrbje_q41_o4\" class=\"tre-opt-item opt-wrong\">65\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q42.\u003c/span> A train travels at 72 km/h. How far will it travel in 45 minutes?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q42_o1\" class=\"tre-opt-item opt-wrong\">48 km\u003c/li>\r\n\u003cli id=\"rrbje_q42_o2\" class=\"tre-opt-item opt-right\">54 km\u003c/li>\r\n\u003cli id=\"rrbje_q42_o3\" class=\"tre-opt-item opt-wrong\">60 km\u003c/li>\r\n\u003cli id=\"rrbje_q42_o4\" class=\"tre-opt-item opt-wrong\">66 km\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q43.\u003c/span> What is the compound interest on Rs. 3000 at 10% per annum for 1 year?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q43_o1\" class=\"tre-opt-item opt-wrong\">Rs. 250\u003c/li>\r\n\u003cli id=\"rrbje_q43_o2\" class=\"tre-opt-item opt-wrong\">Rs. 280\u003c/li>\r\n\u003cli id=\"rrbje_q43_o3\" class=\"tre-opt-item opt-right\">Rs. 300\u003c/li>\r\n\u003cli id=\"rrbje_q43_o4\" class=\"tre-opt-item opt-wrong\">Rs. 320\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q44.\u003c/span> If 2x + 6 = 20, what is the value of x?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q44_o1\" class=\"tre-opt-item opt-wrong\">5\u003c/li>\r\n\u003cli id=\"rrbje_q44_o2\" class=\"tre-opt-item opt-wrong\">6\u003c/li>\r\n\u003cli id=\"rrbje_q44_o3\" class=\"tre-opt-item opt-right\">7\u003c/li>\r\n\u003cli id=\"rrbje_q44_o4\" class=\"tre-opt-item opt-wrong\">8\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q45.\u003c/span> What is 5/8 expressed as a percentage?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q45_o1\" class=\"tre-opt-item opt-wrong\">55.5%\u003c/li>\r\n\u003cli id=\"rrbje_q45_o2\" class=\"tre-opt-item opt-wrong\">60%\u003c/li>\r\n\u003cli id=\"rrbje_q45_o3\" class=\"tre-opt-item opt-right\">62.5%\u003c/li>\r\n\u003cli id=\"rrbje_q45_o4\" class=\"tre-opt-item opt-wrong\">65%\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q46.\u003c/span> A rectangular plot has a length of 15 m and width of 8 m. What is its area?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q46_o1\" class=\"tre-opt-item opt-wrong\">100 sq m\u003c/li>\r\n\u003cli id=\"rrbje_q46_o2\" class=\"tre-opt-item opt-wrong\">110 sq m\u003c/li>\r\n\u003cli id=\"rrbje_q46_o3\" class=\"tre-opt-item opt-right\">120 sq m\u003c/li>\r\n\u003cli id=\"rrbje_q46_o4\" class=\"tre-opt-item opt-wrong\">130 sq m\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q47.\u003c/span> If 6 kg of sugar costs Rs. 240, what is the cost of 10 kg?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q47_o1\" class=\"tre-opt-item opt-wrong\">Rs. 380\u003c/li>\r\n\u003cli id=\"rrbje_q47_o2\" class=\"tre-opt-item opt-right\">Rs. 400\u003c/li>\r\n\u003cli id=\"rrbje_q47_o3\" class=\"tre-opt-item opt-wrong\">Rs. 420\u003c/li>\r\n\u003cli id=\"rrbje_q47_o4\" class=\"tre-opt-item opt-wrong\">Rs. 440\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q48.\u003c/span> What comes next in the pattern: 3, 6, 12, 24, ___?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q48_o1\" class=\"tre-opt-item opt-wrong\">36\u003c/li>\r\n\u003cli id=\"rrbje_q48_o2\" class=\"tre-opt-item opt-wrong\">40\u003c/li>\r\n\u003cli id=\"rrbje_q48_o3\" class=\"tre-opt-item opt-wrong\">44\u003c/li>\r\n\u003cli id=\"rrbje_q48_o4\" class=\"tre-opt-item opt-right\">48\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q49.\u003c/span> What is 11 squared?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q49_o1\" class=\"tre-opt-item opt-wrong\">110\u003c/li>\r\n\u003cli id=\"rrbje_q49_o2\" class=\"tre-opt-item opt-wrong\">111\u003c/li>\r\n\u003cli id=\"rrbje_q49_o3\" class=\"tre-opt-item opt-right\">121\u003c/li>\r\n\u003cli id=\"rrbje_q49_o4\" class=\"tre-opt-item opt-wrong\">131\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q50.\u003c/span> If a machine produces 200 units in 4 hours, how many units in 10 hours at the same rate?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q50_o1\" class=\"tre-opt-item opt-wrong\">400\u003c/li>\r\n\u003cli id=\"rrbje_q50_o2\" class=\"tre-opt-item opt-wrong\">450\u003c/li>\r\n\u003cli id=\"rrbje_q50_o3\" class=\"tre-opt-item opt-right\">500\u003c/li>\r\n\u003cli id=\"rrbje_q50_o4\" class=\"tre-opt-item opt-wrong\">550\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q51.\u003c/span> Find the odd one out: 9, 16, 25, 30, 36\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q51_o1\" class=\"tre-opt-item opt-wrong\">9\u003c/li>\r\n\u003cli id=\"rrbje_q51_o2\" class=\"tre-opt-item opt-wrong\">16\u003c/li>\r\n\u003cli id=\"rrbje_q51_o3\" class=\"tre-opt-item opt-wrong\">30\u003c/li>\r\n\u003cli id=\"rrbje_q51_o4\" class=\"tre-opt-item opt-right\">36\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q52.\u003c/span> If BOOK is coded as CPPL, how is PAGE coded?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q52_o1\" class=\"tre-opt-item opt-right\">QBHF\u003c/li>\r\n\u003cli id=\"rrbje_q52_o2\" class=\"tre-opt-item opt-wrong\">QBIF\u003c/li>\r\n\u003cli id=\"rrbje_q52_o3\" class=\"tre-opt-item opt-wrong\">QBHE\u003c/li>\r\n\u003cli id=\"rrbje_q52_o4\" class=\"tre-opt-item opt-wrong\">PBHF\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q53.\u003c/span> Complete the series: 2, 5, 10, 17, 26, ___\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q53_o1\" class=\"tre-opt-item opt-wrong\">35\u003c/li>\r\n\u003cli id=\"rrbje_q53_o2\" class=\"tre-opt-item opt-wrong\">36\u003c/li>\r\n\u003cli id=\"rrbje_q53_o3\" class=\"tre-opt-item opt-right\">37\u003c/li>\r\n\u003cli id=\"rrbje_q53_o4\" class=\"tre-opt-item opt-wrong\">38\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q54.\u003c/span> P is Q's father. R is Q's sister. How is P related to R?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q54_o1\" class=\"tre-opt-item opt-wrong\">Brother\u003c/li>\r\n\u003cli id=\"rrbje_q54_o2\" class=\"tre-opt-item opt-right\">Father\u003c/li>\r\n\u003cli id=\"rrbje_q54_o3\" class=\"tre-opt-item opt-wrong\">Uncle\u003c/li>\r\n\u003cli id=\"rrbje_q54_o4\" class=\"tre-opt-item opt-wrong\">Grandfather\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q55.\u003c/span> Complete the analogy: Pen is to Write as Knife is to ___?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q55_o1\" class=\"tre-opt-item opt-wrong\">Cook\u003c/li>\r\n\u003cli id=\"rrbje_q55_o2\" class=\"tre-opt-item opt-right\">Cut\u003c/li>\r\n\u003cli id=\"rrbje_q55_o3\" class=\"tre-opt-item opt-wrong\">Eat\u003c/li>\r\n\u003cli id=\"rrbje_q55_o4\" class=\"tre-opt-item opt-wrong\">Draw\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q56.\u003c/span> If Wednesday falls on the 5th, what day falls on the 19th of the same month?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q56_o1\" class=\"tre-opt-item opt-wrong\">Tuesday\u003c/li>\r\n\u003cli id=\"rrbje_q56_o2\" class=\"tre-opt-item opt-right\">Wednesday\u003c/li>\r\n\u003cli id=\"rrbje_q56_o3\" class=\"tre-opt-item opt-wrong\">Thursday\u003c/li>\r\n\u003cli id=\"rrbje_q56_o4\" class=\"tre-opt-item opt-wrong\">Friday\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q57.\u003c/span> Choose the odd one: Wheat, Rice, Barley, Cotton\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q57_o1\" class=\"tre-opt-item opt-wrong\">Wheat\u003c/li>\r\n\u003cli id=\"rrbje_q57_o2\" class=\"tre-opt-item opt-wrong\">Rice\u003c/li>\r\n\u003cli id=\"rrbje_q57_o3\" class=\"tre-opt-item opt-wrong\">Barley\u003c/li>\r\n\u003cli id=\"rrbje_q57_o4\" class=\"tre-opt-item opt-right\">Cotton\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q58.\u003c/span> Find the next term: 4, 8, 16, 32, ___\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q58_o1\" class=\"tre-opt-item opt-wrong\">48\u003c/li>\r\n\u003cli id=\"rrbje_q58_o2\" class=\"tre-opt-item opt-wrong\">56\u003c/li>\r\n\u003cli id=\"rrbje_q58_o3\" class=\"tre-opt-item opt-right\">64\u003c/li>\r\n\u003cli id=\"rrbje_q58_o4\" class=\"tre-opt-item opt-wrong\">72\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q59.\u003c/span> If East becomes North after a 90-degree anticlockwise turn, what does West become?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q59_o1\" class=\"tre-opt-item opt-wrong\">North\u003c/li>\r\n\u003cli id=\"rrbje_q59_o2\" class=\"tre-opt-item opt-right\">South\u003c/li>\r\n\u003cli id=\"rrbje_q59_o3\" class=\"tre-opt-item opt-wrong\">East\u003c/li>\r\n\u003cli id=\"rrbje_q59_o4\" class=\"tre-opt-item opt-wrong\">West stays same\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q60.\u003c/span> Which number should come next: 2, 5, 11, 23, ___?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q60_o1\" class=\"tre-opt-item opt-wrong\">35\u003c/li>\r\n\u003cli id=\"rrbje_q60_o2\" class=\"tre-opt-item opt-wrong\">41\u003c/li>\r\n\u003cli id=\"rrbje_q60_o3\" class=\"tre-opt-item opt-right\">47\u003c/li>\r\n\u003cli id=\"rrbje_q60_o4\" class=\"tre-opt-item opt-wrong\">53\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q61.\u003c/span> Pointing to a man, a woman says, 'He is the son of my mother's only daughter.' How is the man related to the woman (assuming she has no other siblings)?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q61_o1\" class=\"tre-opt-item opt-wrong\">Father\u003c/li>\r\n\u003cli id=\"rrbje_q61_o2\" class=\"tre-opt-item opt-right\">Son\u003c/li>\r\n\u003cli id=\"rrbje_q61_o3\" class=\"tre-opt-item opt-wrong\">Brother\u003c/li>\r\n\u003cli id=\"rrbje_q61_o4\" class=\"tre-opt-item opt-wrong\">Nephew\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q62.\u003c/span> Find the missing letter: C, F, I, L, ___\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q62_o1\" class=\"tre-opt-item opt-wrong\">M\u003c/li>\r\n\u003cli id=\"rrbje_q62_o2\" class=\"tre-opt-item opt-wrong\">N\u003c/li>\r\n\u003cli id=\"rrbje_q62_o3\" class=\"tre-opt-item opt-right\">O\u003c/li>\r\n\u003cli id=\"rrbje_q62_o4\" class=\"tre-opt-item opt-wrong\">P\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q63.\u003c/span> If a clock shows 9:00, what is the angle between the hour and minute hands?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q63_o1\" class=\"tre-opt-item opt-wrong\">60 degrees\u003c/li>\r\n\u003cli id=\"rrbje_q63_o2\" class=\"tre-opt-item opt-wrong\">90 degrees\u003c/li>\r\n\u003cli id=\"rrbje_q63_o3\" class=\"tre-opt-item opt-right\">120 degrees\u003c/li>\r\n\u003cli id=\"rrbje_q63_o4\" class=\"tre-opt-item opt-wrong\">180 degrees\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q64.\u003c/span> Which word does not belong: Hammer, Wrench, Screwdriver, Banana\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q64_o1\" class=\"tre-opt-item opt-wrong\">Hammer\u003c/li>\r\n\u003cli id=\"rrbje_q64_o2\" class=\"tre-opt-item opt-wrong\">Wrench\u003c/li>\r\n\u003cli id=\"rrbje_q64_o3\" class=\"tre-opt-item opt-wrong\">Screwdriver\u003c/li>\r\n\u003cli id=\"rrbje_q64_o4\" class=\"tre-opt-item opt-right\">Banana\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q65.\u003c/span> Complete the analogy: Engineer is to Machine as Doctor is to ___?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q65_o1\" class=\"tre-opt-item opt-wrong\">Hospital\u003c/li>\r\n\u003cli id=\"rrbje_q65_o2\" class=\"tre-opt-item opt-right\">Patient\u003c/li>\r\n\u003cli id=\"rrbje_q65_o3\" class=\"tre-opt-item opt-wrong\">Medicine\u003c/li>\r\n\u003cli id=\"rrbje_q65_o4\" class=\"tre-opt-item opt-wrong\">Clinic\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q66.\u003c/span> Find the odd number: 27, 64, 100, 125, 216\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q66_o1\" class=\"tre-opt-item opt-wrong\">27\u003c/li>\r\n\u003cli id=\"rrbje_q66_o2\" class=\"tre-opt-item opt-wrong\">64\u003c/li>\r\n\u003cli id=\"rrbje_q66_o3\" class=\"tre-opt-item opt-right\">100\u003c/li>\r\n\u003cli id=\"rrbje_q66_o4\" class=\"tre-opt-item opt-wrong\">125\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q67.\u003c/span> If all Engineers are Graduates and all Graduates study hard, do all Engineers study hard?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q67_o1\" class=\"tre-opt-item opt-right\">Yes\u003c/li>\r\n\u003cli id=\"rrbje_q67_o2\" class=\"tre-opt-item opt-wrong\">No\u003c/li>\r\n\u003cli id=\"rrbje_q67_o3\" class=\"tre-opt-item opt-wrong\">Cannot be determined\u003c/li>\r\n\u003cli id=\"rrbje_q67_o4\" class=\"tre-opt-item opt-wrong\">Only some\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q68.\u003c/span> What comes next in the series: Mon, Wed, Fri, ___ (skip one day each time)?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q68_o1\" class=\"tre-opt-item opt-wrong\">Sat\u003c/li>\r\n\u003cli id=\"rrbje_q68_o2\" class=\"tre-opt-item opt-right\">Sun\u003c/li>\r\n\u003cli id=\"rrbje_q68_o3\" class=\"tre-opt-item opt-wrong\">Mon\u003c/li>\r\n\u003cli id=\"rrbje_q68_o4\" class=\"tre-opt-item opt-wrong\">Tue\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q69.\u003c/span> Four friends sit in a row. Aman is left of Bina. Bina is left of Chetan. Who is in the middle?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q69_o1\" class=\"tre-opt-item opt-wrong\">Aman\u003c/li>\r\n\u003cli id=\"rrbje_q69_o2\" class=\"tre-opt-item opt-right\">Bina\u003c/li>\r\n\u003cli id=\"rrbje_q69_o3\" class=\"tre-opt-item opt-wrong\">Chetan\u003c/li>\r\n\u003cli id=\"rrbje_q69_o4\" class=\"tre-opt-item opt-wrong\">Cannot be determined\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q70.\u003c/span> Find the odd shape: Cube, Cone, Cylinder, Circle\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q70_o1\" class=\"tre-opt-item opt-wrong\">Cube\u003c/li>\r\n\u003cli id=\"rrbje_q70_o2\" class=\"tre-opt-item opt-wrong\">Cone\u003c/li>\r\n\u003cli id=\"rrbje_q70_o3\" class=\"tre-opt-item opt-wrong\">Cylinder\u003c/li>\r\n\u003cli id=\"rrbje_q70_o4\" class=\"tre-opt-item opt-right\">Circle\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q71.\u003c/span> If 3 pencils cost Rs. 15, what pattern completes: 5 pencils cost Rs. ___?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q71_o1\" class=\"tre-opt-item opt-wrong\">20\u003c/li>\r\n\u003cli id=\"rrbje_q71_o2\" class=\"tre-opt-item opt-wrong\">22\u003c/li>\r\n\u003cli id=\"rrbje_q71_o3\" class=\"tre-opt-item opt-right\">25\u003c/li>\r\n\u003cli id=\"rrbje_q71_o4\" class=\"tre-opt-item opt-wrong\">28\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q72.\u003c/span> Complete the series: B2, D4, F6, H8, ___\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q72_o1\" class=\"tre-opt-item opt-wrong\">I9\u003c/li>\r\n\u003cli id=\"rrbje_q72_o2\" class=\"tre-opt-item opt-right\">J10\u003c/li>\r\n\u003cli id=\"rrbje_q72_o3\" class=\"tre-opt-item opt-wrong\">K11\u003c/li>\r\n\u003cli id=\"rrbje_q72_o4\" class=\"tre-opt-item opt-wrong\">L12\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q73.\u003c/span> Which number is the odd one: 144, 169, 196, 210\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q73_o1\" class=\"tre-opt-item opt-wrong\">144\u003c/li>\r\n\u003cli id=\"rrbje_q73_o2\" class=\"tre-opt-item opt-wrong\">169\u003c/li>\r\n\u003cli id=\"rrbje_q73_o3\" class=\"tre-opt-item opt-wrong\">196\u003c/li>\r\n\u003cli id=\"rrbje_q73_o4\" class=\"tre-opt-item opt-right\">210\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q74.\u003c/span> If today is the 2nd Friday of the month and it falls on the 12th, what date was the 1st Friday?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q74_o1\" class=\"tre-opt-item opt-wrong\">3rd\u003c/li>\r\n\u003cli id=\"rrbje_q74_o2\" class=\"tre-opt-item opt-wrong\">4th\u003c/li>\r\n\u003cli id=\"rrbje_q74_o3\" class=\"tre-opt-item opt-right\">5th\u003c/li>\r\n\u003cli id=\"rrbje_q74_o4\" class=\"tre-opt-item opt-wrong\">6th\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q75.\u003c/span> Find the next shape in the sequence: Line, Triangle, Square, Pentagon, ___?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q75_o1\" class=\"tre-opt-item opt-right\">Hexagon\u003c/li>\r\n\u003cli id=\"rrbje_q75_o2\" class=\"tre-opt-item opt-wrong\">Circle\u003c/li>\r\n\u003cli id=\"rrbje_q75_o3\" class=\"tre-opt-item opt-wrong\">Point\u003c/li>\r\n\u003cli id=\"rrbje_q75_o4\" class=\"tre-opt-item opt-wrong\">Oval\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q76.\u003c/span> Who is known as the 'Iron Man of India'?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q76_o1\" class=\"tre-opt-item opt-wrong\">Jawaharlal Nehru\u003c/li>\r\n\u003cli id=\"rrbje_q76_o2\" class=\"tre-opt-item opt-right\">Sardar Vallabhbhai Patel\u003c/li>\r\n\u003cli id=\"rrbje_q76_o3\" class=\"tre-opt-item opt-wrong\">Bhagat Singh\u003c/li>\r\n\u003cli id=\"rrbje_q76_o4\" class=\"tre-opt-item opt-wrong\">Subhas Chandra Bose\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q77.\u003c/span> Which is the national fruit of India?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q77_o1\" class=\"tre-opt-item opt-wrong\">Apple\u003c/li>\r\n\u003cli id=\"rrbje_q77_o2\" class=\"tre-opt-item opt-right\">Mango\u003c/li>\r\n\u003cli id=\"rrbje_q77_o3\" class=\"tre-opt-item opt-wrong\">Banana\u003c/li>\r\n\u003cli id=\"rrbje_q77_o4\" class=\"tre-opt-item opt-wrong\">Guava\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q78.\u003c/span> In which year was the Indian Railways nationalized/consolidated into zones?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q78_o1\" class=\"tre-opt-item opt-wrong\">1947\u003c/li>\r\n\u003cli id=\"rrbje_q78_o2\" class=\"tre-opt-item opt-right\">1951\u003c/li>\r\n\u003cli id=\"rrbje_q78_o3\" class=\"tre-opt-item opt-wrong\">1955\u003c/li>\r\n\u003cli id=\"rrbje_q78_o4\" class=\"tre-opt-item opt-wrong\">1960\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q79.\u003c/span> Which is the deepest ocean trench in the world?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q79_o1\" class=\"tre-opt-item opt-wrong\">Java Trench\u003c/li>\r\n\u003cli id=\"rrbje_q79_o2\" class=\"tre-opt-item opt-right\">Mariana Trench\u003c/li>\r\n\u003cli id=\"rrbje_q79_o3\" class=\"tre-opt-item opt-wrong\">Puerto Rico Trench\u003c/li>\r\n\u003cli id=\"rrbje_q79_o4\" class=\"tre-opt-item opt-wrong\">Tonga Trench\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q80.\u003c/span> Which Indian city is known as the 'Manchester of India'?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q80_o1\" class=\"tre-opt-item opt-wrong\">Surat\u003c/li>\r\n\u003cli id=\"rrbje_q80_o2\" class=\"tre-opt-item opt-right\">Ahmedabad\u003c/li>\r\n\u003cli id=\"rrbje_q80_o3\" class=\"tre-opt-item opt-wrong\">Mumbai\u003c/li>\r\n\u003cli id=\"rrbje_q80_o4\" class=\"tre-opt-item opt-wrong\">Kanpur\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q81.\u003c/span> What is the full form of BHEL?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q81_o1\" class=\"tre-opt-item opt-right\">Bharat Heavy Electricals Limited\u003c/li>\r\n\u003cli id=\"rrbje_q81_o2\" class=\"tre-opt-item opt-wrong\">Bharat Hydro Electric Limited\u003c/li>\r\n\u003cli id=\"rrbje_q81_o3\" class=\"tre-opt-item opt-wrong\">Bharat Heavy Engineering Limited\u003c/li>\r\n\u003cli id=\"rrbje_q81_o4\" class=\"tre-opt-item opt-wrong\">Bharat Highway Electricals Limited\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q82.\u003c/span> Which is the largest man-made lake in India?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q82_o1\" class=\"tre-opt-item opt-wrong\">Vembanad Lake\u003c/li>\r\n\u003cli id=\"rrbje_q82_o2\" class=\"tre-opt-item opt-right\">Indira Sagar Lake\u003c/li>\r\n\u003cli id=\"rrbje_q82_o3\" class=\"tre-opt-item opt-wrong\">Chilika Lake\u003c/li>\r\n\u003cli id=\"rrbje_q82_o4\" class=\"tre-opt-item opt-wrong\">Dal Lake\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q83.\u003c/span> Who is credited with building the Delhi Metro network's foundation as its first head?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q83_o1\" class=\"tre-opt-item opt-wrong\">Sam Pitroda\u003c/li>\r\n\u003cli id=\"rrbje_q83_o2\" class=\"tre-opt-item opt-right\">E. Sreedharan\u003c/li>\r\n\u003cli id=\"rrbje_q83_o3\" class=\"tre-opt-item opt-wrong\">Nandan Nilekani\u003c/li>\r\n\u003cli id=\"rrbje_q83_o4\" class=\"tre-opt-item opt-wrong\">Verghese Kurien\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q84.\u003c/span> Which is the highest railway bridge in the world, built over the Chenab river?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q84_o1\" class=\"tre-opt-item opt-wrong\">Bandra-Worli Sea Link\u003c/li>\r\n\u003cli id=\"rrbje_q84_o2\" class=\"tre-opt-item opt-right\">Chenab Bridge\u003c/li>\r\n\u003cli id=\"rrbje_q84_o3\" class=\"tre-opt-item opt-wrong\">Howrah Bridge\u003c/li>\r\n\u003cli id=\"rrbje_q84_o4\" class=\"tre-opt-item opt-wrong\">Pamban Bridge\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q85.\u003c/span> What is the currency of Germany?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q85_o1\" class=\"tre-opt-item opt-wrong\">Deutsche Mark\u003c/li>\r\n\u003cli id=\"rrbje_q85_o2\" class=\"tre-opt-item opt-right\">Euro\u003c/li>\r\n\u003cli id=\"rrbje_q85_o3\" class=\"tre-opt-item opt-wrong\">Franc\u003c/li>\r\n\u003cli id=\"rrbje_q85_o4\" class=\"tre-opt-item opt-wrong\">Pound\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q86.\u003c/span> Which Indian engineer designed the Bhakra Nangal Dam project's key role, known for his contributions to modern India's infrastructure?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q86_o1\" class=\"tre-opt-item opt-right\">M. Visvesvaraya\u003c/li>\r\n\u003cli id=\"rrbje_q86_o2\" class=\"tre-opt-item opt-wrong\">APJ Abdul Kalam\u003c/li>\r\n\u003cli id=\"rrbje_q86_o3\" class=\"tre-opt-item opt-wrong\">Homi Bhabha\u003c/li>\r\n\u003cli id=\"rrbje_q86_o4\" class=\"tre-opt-item opt-wrong\">Vikram Sarabhai\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q87.\u003c/span> Which is the second highest mountain peak in the world?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q87_o1\" class=\"tre-opt-item opt-wrong\">Mount Everest\u003c/li>\r\n\u003cli id=\"rrbje_q87_o2\" class=\"tre-opt-item opt-right\">K2\u003c/li>\r\n\u003cli id=\"rrbje_q87_o3\" class=\"tre-opt-item opt-wrong\">Kangchenjunga\u003c/li>\r\n\u003cli id=\"rrbje_q87_o4\" class=\"tre-opt-item opt-wrong\">Lhotse\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q88.\u003c/span> What is the term for the first Indian satellite launched into space?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q88_o1\" class=\"tre-opt-item opt-wrong\">Rohini\u003c/li>\r\n\u003cli id=\"rrbje_q88_o2\" class=\"tre-opt-item opt-right\">Aryabhata\u003c/li>\r\n\u003cli id=\"rrbje_q88_o3\" class=\"tre-opt-item opt-wrong\">Bhaskara\u003c/li>\r\n\u003cli id=\"rrbje_q88_o4\" class=\"tre-opt-item opt-wrong\">INSAT-1\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q89.\u003c/span> Which Indian state has the highest number of registered engineering colleges (broadly known for it)?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q89_o1\" class=\"tre-opt-item opt-right\">Tamil Nadu\u003c/li>\r\n\u003cli id=\"rrbje_q89_o2\" class=\"tre-opt-item opt-wrong\">Maharashtra\u003c/li>\r\n\u003cli id=\"rrbje_q89_o3\" class=\"tre-opt-item opt-wrong\">Karnataka\u003c/li>\r\n\u003cli id=\"rrbje_q89_o4\" class=\"tre-opt-item opt-wrong\">Andhra Pradesh\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q90.\u003c/span> What is the full form of NTPC?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q90_o1\" class=\"tre-opt-item opt-right\">National Thermal Power Corporation\u003c/li>\r\n\u003cli id=\"rrbje_q90_o2\" class=\"tre-opt-item opt-wrong\">National Technical Power Corporation\u003c/li>\r\n\u003cli id=\"rrbje_q90_o3\" class=\"tre-opt-item opt-wrong\">National Transmission Power Corporation\u003c/li>\r\n\u003cli id=\"rrbje_q90_o4\" class=\"tre-opt-item opt-wrong\">National Thermal Production Corporation\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q91.\u003c/span> Which Indian railway station is the busiest in terms of passenger footfall?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q91_o1\" class=\"tre-opt-item opt-wrong\">Chennai Central\u003c/li>\r\n\u003cli id=\"rrbje_q91_o2\" class=\"tre-opt-item opt-wrong\">Howrah Junction\u003c/li>\r\n\u003cli id=\"rrbje_q91_o3\" class=\"tre-opt-item opt-right\">New Delhi Railway Station\u003c/li>\r\n\u003cli id=\"rrbje_q91_o4\" class=\"tre-opt-item opt-wrong\">Mumbai CST\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q92.\u003c/span> Which country built the first high-speed bullet train (Shinkansen)?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q92_o1\" class=\"tre-opt-item opt-wrong\">China\u003c/li>\r\n\u003cli id=\"rrbje_q92_o2\" class=\"tre-opt-item opt-wrong\">France\u003c/li>\r\n\u003cli id=\"rrbje_q92_o3\" class=\"tre-opt-item opt-right\">Japan\u003c/li>\r\n\u003cli id=\"rrbje_q92_o4\" class=\"tre-opt-item opt-wrong\">Germany\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q93.\u003c/span> Who is regarded as the 'Father of Indian Railways'?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q93_o1\" class=\"tre-opt-item opt-right\">Lord Dalhousie\u003c/li>\r\n\u003cli id=\"rrbje_q93_o2\" class=\"tre-opt-item opt-wrong\">Lord Curzon\u003c/li>\r\n\u003cli id=\"rrbje_q93_o3\" class=\"tre-opt-item opt-wrong\">Lord Mountbatten\u003c/li>\r\n\u003cli id=\"rrbje_q93_o4\" class=\"tre-opt-item opt-wrong\">Lord Wellesley\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q94.\u003c/span> Which is the longest railway tunnel in India (Pir Panjal Tunnel)?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q94_o1\" class=\"tre-opt-item opt-right\">Located in Jammu and Kashmir\u003c/li>\r\n\u003cli id=\"rrbje_q94_o2\" class=\"tre-opt-item opt-wrong\">Located in Himachal Pradesh\u003c/li>\r\n\u003cli id=\"rrbje_q94_o3\" class=\"tre-opt-item opt-wrong\">Located in Uttarakhand\u003c/li>\r\n\u003cli id=\"rrbje_q94_o4\" class=\"tre-opt-item opt-wrong\">Located in Sikkim\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q95.\u003c/span> What is the full form of ONGC?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q95_o1\" class=\"tre-opt-item opt-right\">Oil and Natural Gas Corporation\u003c/li>\r\n\u003cli id=\"rrbje_q95_o2\" class=\"tre-opt-item opt-wrong\">Oil and National Gas Company\u003c/li>\r\n\u003cli id=\"rrbje_q95_o3\" class=\"tre-opt-item opt-wrong\">Oil Natural Gas Cooperative\u003c/li>\r\n\u003cli id=\"rrbje_q95_o4\" class=\"tre-opt-item opt-wrong\">Overseas Natural Gas Corporation\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q96.\u003c/span> Which Indian dam is known as the 'Temple of Modern India' (a phrase used by Nehru)?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q96_o1\" class=\"tre-opt-item opt-wrong\">Tehri Dam\u003c/li>\r\n\u003cli id=\"rrbje_q96_o2\" class=\"tre-opt-item opt-right\">Bhakra Nangal Dam\u003c/li>\r\n\u003cli id=\"rrbje_q96_o3\" class=\"tre-opt-item opt-wrong\">Hirakud Dam\u003c/li>\r\n\u003cli id=\"rrbje_q96_o4\" class=\"tre-opt-item opt-wrong\">Sardar Sarovar Dam\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q97.\u003c/span> What is the full form of SAIL?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q97_o1\" class=\"tre-opt-item opt-right\">Steel Authority of India Limited\u003c/li>\r\n\u003cli id=\"rrbje_q97_o2\" class=\"tre-opt-item opt-wrong\">Southern Authority of India Limited\u003c/li>\r\n\u003cli id=\"rrbje_q97_o3\" class=\"tre-opt-item opt-wrong\">Steel Association of India Limited\u003c/li>\r\n\u003cli id=\"rrbje_q97_o4\" class=\"tre-opt-item opt-wrong\">State Authority of Iron Limited\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q98.\u003c/span> Which Indian city hosts the headquarters of Indian Railways' research wing RDSO?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q98_o1\" class=\"tre-opt-item opt-wrong\">New Delhi\u003c/li>\r\n\u003cli id=\"rrbje_q98_o2\" class=\"tre-opt-item opt-right\">Lucknow\u003c/li>\r\n\u003cli id=\"rrbje_q98_o3\" class=\"tre-opt-item opt-wrong\">Mumbai\u003c/li>\r\n\u003cli id=\"rrbje_q98_o4\" class=\"tre-opt-item opt-wrong\">Kolkata\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q99.\u003c/span> What is the term used for the first phase of India's five-year plans focus area?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q99_o1\" class=\"tre-opt-item opt-wrong\">Industry\u003c/li>\r\n\u003cli id=\"rrbje_q99_o2\" class=\"tre-opt-item opt-right\">Agriculture\u003c/li>\r\n\u003cli id=\"rrbje_q99_o3\" class=\"tre-opt-item opt-wrong\">Defence\u003c/li>\r\n\u003cli id=\"rrbje_q99_o4\" class=\"tre-opt-item opt-wrong\">Education\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003carticle class=\"tre-q-card\">\r\n\u003cp class=\"tre-q-text\">\u003cspan class=\"tre-q-num\">Q100.\u003c/span> Which Indian engineer-statesman's birthday (September 15) is celebrated as Engineer's Day?\u003c/p>\r\n\u003cul class=\"tre-quiz-options\">\r\n\u003cli id=\"rrbje_q100_o1\" class=\"tre-opt-item opt-wrong\">APJ Abdul Kalam\u003c/li>\r\n\u003cli id=\"rrbje_q100_o2\" class=\"tre-opt-item opt-right\">M. Visvesvaraya\u003c/li>\r\n\u003cli id=\"rrbje_q100_o3\" class=\"tre-opt-item opt-wrong\">Homi Bhabha\u003c/li>\r\n\u003cli id=\"rrbje_q100_o4\" class=\"tre-opt-item opt-wrong\">C.V. Raman\u003c/li>\r\n\u003c/ul>\r\n\u003c/article>\r\n\u003c/section>\r\n\u003c/div>","image":"https://api.resumesathi.com/courses_image/rrb-je-junior-engineer-cen-04-2026.webp","identifier":{"@type":"PropertyValue","name":"ResumeSathi","value":"18"},"datePosted":"2026-07-21","validFrom":"2026-08-14","validThrough":"2026-09-13","employmentType":"FULL_TIME","industry":"Railways","hiringOrganization":{"@type":"Organization","name":"Railways - Government Jobs","sameAs":"https://www.resumesathi.com/jobs/"},"jobLocation":{"@type":"Place","address":{"@type":"PostalAddress","addressCountry":"IN"}},"directApply":false}b:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$17"}}],"$L18"]
+19:I[88609,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js","/_next/static/chunks/06pj_k8chkpe5.js","/_next/static/chunks/16ymsuy-x3uv9.js"],"default"]
+1a:Td85a,<div class="post-content">
+<p>Railway Recruitment Board (RRB) has released the notification for <strong>Junior Engineer (JE), Depot Material Superintendent and Chemical &amp; Metallurgical Assistant Recruitment 2026</strong> under CEN No. 04/2026. Candidates interested in this RRB JE Recruitment can apply online from 14 August 2026 to 13 September 2026.&nbsp;</p>
+<h2>Important Dates</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td>Application Begin</td>
+<td><strong>14/08/2026</strong></td>
+</tr>
+<tr>
+<td>Last Date for Apply Online</td>
+<td><strong>13/09/2026</strong></td>
+</tr>
+<tr>
+<td>Last Date Pay Exam Fee</td>
+<td><strong>13/09/2026</strong></td>
+</tr>
+<tr>
+<td>Correction Date</td>
+<td><strong>As per Schedule</strong></td>
+</tr>
+<tr>
+<td>RRB JE CEN 04/2026 Exam Date</td>
+<td><strong>As per Schedule</strong></td>
+</tr>
+<tr>
+<td>Admit Card Available</td>
+<td><strong>Before Exam</strong></td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Application Fee</h2>
+<ul>
+<li>General / OBC / EWS : 500/-</li>
+<li>SC / ST / PH : 250/-</li>
+<li>All Category Female : 250/-</li>
+<li>Refund Is Applicable After Candidates Appear for the Stage I Exam</li>
+<li>General / OBC / EWS Fee Refund : Rs. 400/-</li>
+<li>SC / ST / PH / Female Refund : Rs. 250/-</li>
+<li>Pay the Exam Fee Through E Challan, Debit Card, Credit Card or Net Banking</li>
+</ul>
+<h2>Age Limit as on 01/01/2027</h2>
+<ul>
+<li>Minimum Age : 18 Years</li>
+<li>Maximum Age : 33 Years</li>
+<li>Age Relaxation Extra as per RRB JE Junior Engineer Recruitment Rules</li>
+</ul>
+<h2>Vacancy Details Total : 4098 Post</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<thead>
+<tr>
+<th>Post Name</th>
+<th>Total Post</th>
+<th>RRB JE Eligibility</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Junior Engineer, Depot Material Superintendent and Chemical &amp; Metallurgical Assistant</td>
+<td>4098</td>
+<td>
+<ul>
+<li>Diploma / Degree in Engineering From a Recognized Institute in the Relevant Discipline (as Applicable for the Post Applied For)</li>
+<li>10+2 With Science Stream May Also Apply Where Applicable as per Post Requirement</li>
+<li>More Eligibility Details Read the Notification</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Category Wise Vacancy Details</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<thead>
+<tr>
+<th>Post Name</th>
+<th>UR</th>
+<th>OBC</th>
+<th>EWS</th>
+<th>SC</th>
+<th>ST</th>
+<th>Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Junior Engineer</td>
+<td>To Be Notified</td>
+<td>To Be Notified</td>
+<td>To Be Notified</td>
+<td>To Be Notified</td>
+<td>To Be Notified</td>
+<td>4098</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>How to Fill RRB JE Junior Engineer Online Form 2026</h2>
+<ul>
+<li>Keep Your Documents Ready like&nbsp; Educational Certificates, ID Proof, Address Proof and Basic Details.</li>
+<li>Keep ready Scan Copies of Photo, Signature and ID Proof&nbsp; in the Prescribed Format.</li>
+<li>Application Fee Payment Is Mandatory.</li>
+</ul>
+<h2>Some Useful Important Links</h2>
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="8">
+<tbody>
+<tr>
+<td><strong>Apply Online</strong></td>
+<td><a title="Link Will Be Activated on 14/08/2026" href="https://www.rrbapply.gov.in/#/auth/landing" target="_blank" rel="noopener">Link Will Be Activated on 14/08/2026</a></td>
+</tr>
+<tr>
+<td><strong>Download Notification</strong></td>
+<td>Link Will Be Activated Soon</td>
+</tr>
+<tr>
+<td><strong>Signature Resizer, PDF Compress, Age Calculator and More Tools</strong></td>
+<td><a title="https://www.resumesathi.com/tools/" href="https://www.resumesathi.com/tools/" target="_blank" rel="noopener">View Tools</a></td>
+</tr>
+<tr>
+<td><strong>Official Website</strong></td>
+<td><a title="RRB Official Website" href="https://www.rrbapply.gov.in/#/auth/landing" target="_blank" rel="noopener">Click Here</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote><strong>Note: </strong>Candidates are advised to always cross-check dates, fee details, and eligibility criteria from the official RRB website before applying, as the schedule may change based on official updates.</blockquote>
+<h2>RRB JE Junior Engineer Preparation Tips 2026</h2>
+<ul>
+<li>Cover General Awareness like Current Affairs, Static GK and Railway Related Topics.</li>
+<li>Practice Mathematics Daily on the Topics of Percentage, Ratio, Time &amp; Work, Algebra and Geometry.</li>
+<li>Revise General Intelligence &amp; Reasoning Through Puzzles, Series, Coding-Decoding and Analogy on a Regular Basis.</li>
+<li>For Stage II, Focus on Your Core Engineering Discipline Subjects.</li>
+<li>Check and try to solve previous Year RRB JE Papers to Understand the Exact Question Pattern and Difficulty Level.</li>
+</ul>
+<h2>Frequently Asked Questions</h2>
+<section class="tre-faq-list"><details class="tre-faq-item">
+<summary>What is the last date to apply for RRB JE CEN 04/2026?</summary>
+<p>The last date to apply online is 13 September 2026, and the fee payment deadline is also 13 September 2026.</p>
+</details><details class="tre-faq-item">
+<summary>How many total vacancies are there in RRB JE CEN 04/2026?</summary>
+<p>A total of 4098 posts have been announced across Junior Engineer, Depot Material Superintendent and Chemical &amp; Metallurgical Assistant categories.</p>
+</details><details class="tre-faq-item">
+<summary>What is the application fee for General category candidates?</summary>
+<p>General, OBC and EWS candidates need to pay Rs. 500/-, while SC, ST, PH and all category female candidates pay Rs. 250/-.</p>
+</details><details class="tre-faq-item">
+<summary>Is the application fee refundable in RRB JE CEN 04/2026?</summary>
+<p>Yes, a refund applies once a candidate has appeared for the Stage I exam - General/OBC/EWS get Rs. 400/- back, while SC/ST/PH/Female candidates get Rs. 250/- back.</p>
+</details><details class="tre-faq-item">
+<summary>What is the age limit for RRB JE CEN 04/2026?</summary>
+<p>Candidates must be between 18 and 33 years of age as on 01 January 2027, with standard age relaxation applicable as per RRB rules.</p>
+</details><details class="tre-faq-item">
+<summary>What is the minimum qualification required for RRB JE posts?</summary>
+<p>Candidates generally need a Diploma or Degree in Engineering in the relevant discipline, though 10+2 with Science may also apply for certain posts as per the specific post requirement.</p>
+</details><details class="tre-faq-item">
+<summary>Where can candidates check the category-wise vacancy breakup for RRB JE?</summary>
+<p>The category-wise (UR/OBC/EWS/SC/ST) vacancy numbers are yet to be notified and will be updated once released in the official notification.</p>
+</details></section>
+<section class="tre-quiz-wrap">
+<h3 class="tre-quiz-header">RRB JE CEN 04/2026 - Practice Questions (Engineering GK, Maths, Reasoning, GA)</h3>
+<p class="tre-quiz-sub">100 Objective Questions</p>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q1.</span> What does the abbreviation 'RCC' stand for in civil engineering?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q1_o1" class="tre-opt-item opt-right">Reinforced Cement Concrete</li>
+<li id="rrbje_q1_o2" class="tre-opt-item opt-wrong">Rigid Concrete Column</li>
+<li id="rrbje_q1_o3" class="tre-opt-item opt-wrong">Reinforced Concrete Column</li>
+<li id="rrbje_q1_o4" class="tre-opt-item opt-wrong">Rolled Cement Concrete</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q2.</span> Which material is commonly used for railway tracks?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q2_o1" class="tre-opt-item opt-wrong">Aluminium</li>
+<li id="rrbje_q2_o2" class="tre-opt-item opt-right">Steel</li>
+<li id="rrbje_q2_o3" class="tre-opt-item opt-wrong">Copper</li>
+<li id="rrbje_q2_o4" class="tre-opt-item opt-wrong">Cast Iron</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q3.</span> What is the standard gauge width used for broad gauge railway tracks in India?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q3_o1" class="tre-opt-item opt-wrong">1.435 metres</li>
+<li id="rrbje_q3_o2" class="tre-opt-item opt-right">1.676 metres</li>
+<li id="rrbje_q3_o3" class="tre-opt-item opt-wrong">1.000 metres</li>
+<li id="rrbje_q3_o4" class="tre-opt-item opt-wrong">0.762 metres</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q4.</span> Which type of current is generated by an AC generator?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q4_o1" class="tre-opt-item opt-wrong">Direct Current</li>
+<li id="rrbje_q4_o2" class="tre-opt-item opt-right">Alternating Current</li>
+<li id="rrbje_q4_o3" class="tre-opt-item opt-wrong">Static Current</li>
+<li id="rrbje_q4_o4" class="tre-opt-item opt-wrong">Pulsed Current</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q5.</span> What is the unit used to measure electrical power?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q5_o1" class="tre-opt-item opt-wrong">Volt</li>
+<li id="rrbje_q5_o2" class="tre-opt-item opt-wrong">Ampere</li>
+<li id="rrbje_q5_o3" class="tre-opt-item opt-right">Watt</li>
+<li id="rrbje_q5_o4" class="tre-opt-item opt-wrong">Ohm</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q6.</span> In mechanical engineering, what does 'RPM' stand for?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q6_o1" class="tre-opt-item opt-wrong">Rotations Per Minute</li>
+<li id="rrbje_q6_o2" class="tre-opt-item opt-right">Revolutions Per Minute</li>
+<li id="rrbje_q6_o3" class="tre-opt-item opt-wrong">Rate Per Minute</li>
+<li id="rrbje_q6_o4" class="tre-opt-item opt-wrong">Ratio Per Minute</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q7.</span> Which type of bridge design uses a triangular framework?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q7_o1" class="tre-opt-item opt-wrong">Suspension Bridge</li>
+<li id="rrbje_q7_o2" class="tre-opt-item opt-right">Truss Bridge</li>
+<li id="rrbje_q7_o3" class="tre-opt-item opt-wrong">Arch Bridge</li>
+<li id="rrbje_q7_o4" class="tre-opt-item opt-wrong">Beam Bridge</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q8.</span> What is the primary raw material used to produce cement?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q8_o1" class="tre-opt-item opt-wrong">Sand</li>
+<li id="rrbje_q8_o2" class="tre-opt-item opt-right">Limestone</li>
+<li id="rrbje_q8_o3" class="tre-opt-item opt-wrong">Gravel</li>
+<li id="rrbje_q8_o4" class="tre-opt-item opt-wrong">Clay Only</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q9.</span> Which gas is primarily used in oxy-acetylene welding along with acetylene?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q9_o1" class="tre-opt-item opt-wrong">Nitrogen</li>
+<li id="rrbje_q9_o2" class="tre-opt-item opt-right">Oxygen</li>
+<li id="rrbje_q9_o3" class="tre-opt-item opt-wrong">Hydrogen</li>
+<li id="rrbje_q9_o4" class="tre-opt-item opt-wrong">Argon</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q10.</span> What does 'CAD' stand for in engineering design?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q10_o1" class="tre-opt-item opt-right">Computer Aided Design</li>
+<li id="rrbje_q10_o2" class="tre-opt-item opt-wrong">Central Automated Design</li>
+<li id="rrbje_q10_o3" class="tre-opt-item opt-wrong">Computer Assisted Drafting Only</li>
+<li id="rrbje_q10_o4" class="tre-opt-item opt-wrong">Central Aided Drawing</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q11.</span> Which material has the highest electrical conductivity among common metals?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q11_o1" class="tre-opt-item opt-wrong">Iron</li>
+<li id="rrbje_q11_o2" class="tre-opt-item opt-wrong">Aluminium</li>
+<li id="rrbje_q11_o3" class="tre-opt-item opt-right">Silver</li>
+<li id="rrbje_q11_o4" class="tre-opt-item opt-wrong">Lead</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q12.</span> What is the term for the maximum load a structure can carry safely?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q12_o1" class="tre-opt-item opt-wrong">Dead Load</li>
+<li id="rrbje_q12_o2" class="tre-opt-item opt-wrong">Live Load</li>
+<li id="rrbje_q12_o3" class="tre-opt-item opt-right">Safe Load</li>
+<li id="rrbje_q12_o4" class="tre-opt-item opt-wrong">Design Load</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q13.</span> Which instrument is used to measure the diameter of small objects precisely?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q13_o1" class="tre-opt-item opt-wrong">Scale</li>
+<li id="rrbje_q13_o2" class="tre-opt-item opt-right">Vernier Caliper</li>
+<li id="rrbje_q13_o3" class="tre-opt-item opt-wrong">Protractor</li>
+<li id="rrbje_q13_o4" class="tre-opt-item opt-wrong">Compass</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q14.</span> What is the function of a transformer in electrical systems?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q14_o1" class="tre-opt-item opt-wrong">Generate electricity</li>
+<li id="rrbje_q14_o2" class="tre-opt-item opt-right">Change voltage levels</li>
+<li id="rrbje_q14_o3" class="tre-opt-item opt-wrong">Store electricity</li>
+<li id="rrbje_q14_o4" class="tre-opt-item opt-wrong">Measure current</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q15.</span> Which type of engine is commonly used in most diesel locomotives?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q15_o1" class="tre-opt-item opt-wrong">Petrol Engine</li>
+<li id="rrbje_q15_o2" class="tre-opt-item opt-right">Diesel Engine</li>
+<li id="rrbje_q15_o3" class="tre-opt-item opt-wrong">Steam Engine</li>
+<li id="rrbje_q15_o4" class="tre-opt-item opt-wrong">Electric Motor Only</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q16.</span> What does 'NDT' stand for in engineering quality inspection?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q16_o1" class="tre-opt-item opt-right">Non-Destructive Testing</li>
+<li id="rrbje_q16_o2" class="tre-opt-item opt-wrong">New Design Technology</li>
+<li id="rrbje_q16_o3" class="tre-opt-item opt-wrong">Normal Data Testing</li>
+<li id="rrbje_q16_o4" class="tre-opt-item opt-wrong">National Design Test</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q17.</span> Which metal is commonly alloyed with iron to make stainless steel resistant to rust?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q17_o1" class="tre-opt-item opt-wrong">Copper</li>
+<li id="rrbje_q17_o2" class="tre-opt-item opt-right">Chromium</li>
+<li id="rrbje_q17_o3" class="tre-opt-item opt-wrong">Zinc</li>
+<li id="rrbje_q17_o4" class="tre-opt-item opt-wrong">Tin</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q18.</span> What is the basic unit of pressure in the SI system?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q18_o1" class="tre-opt-item opt-wrong">Newton</li>
+<li id="rrbje_q18_o2" class="tre-opt-item opt-right">Pascal</li>
+<li id="rrbje_q18_o3" class="tre-opt-item opt-wrong">Joule</li>
+<li id="rrbje_q18_o4" class="tre-opt-item opt-wrong">Watt</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q19.</span> Which type of joint is commonly used to permanently join two metal pieces by melting?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q19_o1" class="tre-opt-item opt-wrong">Bolted Joint</li>
+<li id="rrbje_q19_o2" class="tre-opt-item opt-right">Welded Joint</li>
+<li id="rrbje_q19_o3" class="tre-opt-item opt-wrong">Riveted Joint</li>
+<li id="rrbje_q19_o4" class="tre-opt-item opt-wrong">Screwed Joint</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q20.</span> What is the term for the point where a beam is supported?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q20_o1" class="tre-opt-item opt-wrong">Load Point</li>
+<li id="rrbje_q20_o2" class="tre-opt-item opt-right">Support</li>
+<li id="rrbje_q20_o3" class="tre-opt-item opt-wrong">Span</li>
+<li id="rrbje_q20_o4" class="tre-opt-item opt-wrong">Node</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q21.</span> Which safety equipment is essential while working near moving machinery?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q21_o1" class="tre-opt-item opt-wrong">Sunglasses</li>
+<li id="rrbje_q21_o2" class="tre-opt-item opt-right">Safety Helmet and Gloves</li>
+<li id="rrbje_q21_o3" class="tre-opt-item opt-wrong">Casual Wear</li>
+<li id="rrbje_q21_o4" class="tre-opt-item opt-wrong">Slippers</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q22.</span> What does 'HVAC' stand for?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q22_o1" class="tre-opt-item opt-right">Heating, Ventilation and Air Conditioning</li>
+<li id="rrbje_q22_o2" class="tre-opt-item opt-wrong">High Voltage Alternating Current</li>
+<li id="rrbje_q22_o3" class="tre-opt-item opt-wrong">Heavy Vehicle Auto Control</li>
+<li id="rrbje_q22_o4" class="tre-opt-item opt-wrong">Horizontal Vertical Alignment Control</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q23.</span> Which type of pump is commonly used to lift water from a well?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q23_o1" class="tre-opt-item opt-right">Centrifugal Pump</li>
+<li id="rrbje_q23_o2" class="tre-opt-item opt-wrong">Gear Pump</li>
+<li id="rrbje_q23_o3" class="tre-opt-item opt-wrong">Vane Pump</li>
+<li id="rrbje_q23_o4" class="tre-opt-item opt-wrong">Piston Pump Only</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q24.</span> What is the primary purpose of a fuse in an electrical circuit?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q24_o1" class="tre-opt-item opt-wrong">Increase voltage</li>
+<li id="rrbje_q24_o2" class="tre-opt-item opt-right">Protect the circuit from excess current</li>
+<li id="rrbje_q24_o3" class="tre-opt-item opt-wrong">Store energy</li>
+<li id="rrbje_q24_o4" class="tre-opt-item opt-wrong">Reduce resistance</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q25.</span> Which material property describes its ability to return to its original shape after deformation?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q25_o1" class="tre-opt-item opt-wrong">Plasticity</li>
+<li id="rrbje_q25_o2" class="tre-opt-item opt-right">Elasticity</li>
+<li id="rrbje_q25_o3" class="tre-opt-item opt-wrong">Ductility</li>
+<li id="rrbje_q25_o4" class="tre-opt-item opt-wrong">Brittleness</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q26.</span> What is 18% of 250?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q26_o1" class="tre-opt-item opt-wrong">40</li>
+<li id="rrbje_q26_o2" class="tre-opt-item opt-wrong">42</li>
+<li id="rrbje_q26_o3" class="tre-opt-item opt-right">45</li>
+<li id="rrbje_q26_o4" class="tre-opt-item opt-wrong">48</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q27.</span> A shopkeeper buys an item for Rs. 600 and sells it for Rs. 750. What is the profit percentage?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q27_o1" class="tre-opt-item opt-wrong">20%</li>
+<li id="rrbje_q27_o2" class="tre-opt-item opt-right">25%</li>
+<li id="rrbje_q27_o3" class="tre-opt-item opt-wrong">30%</li>
+<li id="rrbje_q27_o4" class="tre-opt-item opt-wrong">35%</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q28.</span> What is the average of 15, 25, 35, 45, 55?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q28_o1" class="tre-opt-item opt-wrong">30</li>
+<li id="rrbje_q28_o2" class="tre-opt-item opt-wrong">35</li>
+<li id="rrbje_q28_o3" class="tre-opt-item opt-right">40</li>
+<li id="rrbje_q28_o4" class="tre-opt-item opt-wrong">45</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q29.</span> A car covers 180 km in 3 hours. What is its speed?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q29_o1" class="tre-opt-item opt-wrong">50 km/h</li>
+<li id="rrbje_q29_o2" class="tre-opt-item opt-wrong">55 km/h</li>
+<li id="rrbje_q29_o3" class="tre-opt-item opt-right">60 km/h</li>
+<li id="rrbje_q29_o4" class="tre-opt-item opt-wrong">65 km/h</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q30.</span> What is 6 x 9 + 4?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q30_o1" class="tre-opt-item opt-wrong">56</li>
+<li id="rrbje_q30_o2" class="tre-opt-item opt-right">58</li>
+<li id="rrbje_q30_o3" class="tre-opt-item opt-wrong">60</li>
+<li id="rrbje_q30_o4" class="tre-opt-item opt-wrong">62</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q31.</span> If a number decreased by 20% becomes 80, what was the original number?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q31_o1" class="tre-opt-item opt-wrong">90</li>
+<li id="rrbje_q31_o2" class="tre-opt-item opt-wrong">95</li>
+<li id="rrbje_q31_o3" class="tre-opt-item opt-right">100</li>
+<li id="rrbje_q31_o4" class="tre-opt-item opt-wrong">105</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q32.</span> What is the simple interest on Rs. 1500 at 8% per annum for 3 years?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q32_o1" class="tre-opt-item opt-wrong">Rs. 300</li>
+<li id="rrbje_q32_o2" class="tre-opt-item opt-wrong">Rs. 320</li>
+<li id="rrbje_q32_o3" class="tre-opt-item opt-wrong">Rs. 340</li>
+<li id="rrbje_q32_o4" class="tre-opt-item opt-right">Rs. 360</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q33.</span> What is the square root of 169?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q33_o1" class="tre-opt-item opt-wrong">11</li>
+<li id="rrbje_q33_o2" class="tre-opt-item opt-wrong">12</li>
+<li id="rrbje_q33_o3" class="tre-opt-item opt-right">13</li>
+<li id="rrbje_q33_o4" class="tre-opt-item opt-wrong">14</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q34.</span> If 4 workers finish a task in 15 days, how many days will 2 workers take?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q34_o1" class="tre-opt-item opt-wrong">20 days</li>
+<li id="rrbje_q34_o2" class="tre-opt-item opt-wrong">25 days</li>
+<li id="rrbje_q34_o3" class="tre-opt-item opt-right">30 days</li>
+<li id="rrbje_q34_o4" class="tre-opt-item opt-wrong">35 days</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q35.</span> What is the ratio of 30 to 90?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q35_o1" class="tre-opt-item opt-wrong">1:2</li>
+<li id="rrbje_q35_o2" class="tre-opt-item opt-right">1:3</li>
+<li id="rrbje_q35_o3" class="tre-opt-item opt-wrong">1:4</li>
+<li id="rrbje_q35_o4" class="tre-opt-item opt-wrong">1:5</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q36.</span> What is 35% of 400?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q36_o1" class="tre-opt-item opt-wrong">120</li>
+<li id="rrbje_q36_o2" class="tre-opt-item opt-wrong">130</li>
+<li id="rrbje_q36_o3" class="tre-opt-item opt-right">140</li>
+<li id="rrbje_q36_o4" class="tre-opt-item opt-wrong">150</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q37.</span> A shopkeeper sells a product at a 15% loss. If the cost price is Rs. 800, what is the selling price?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q37_o1" class="tre-opt-item opt-wrong">Rs. 660</li>
+<li id="rrbje_q37_o2" class="tre-opt-item opt-wrong">Rs. 670</li>
+<li id="rrbje_q37_o3" class="tre-opt-item opt-right">Rs. 680</li>
+<li id="rrbje_q37_o4" class="tre-opt-item opt-wrong">Rs. 690</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q38.</span> What is the LCM of 6 and 8?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q38_o1" class="tre-opt-item opt-wrong">16</li>
+<li id="rrbje_q38_o2" class="tre-opt-item opt-wrong">20</li>
+<li id="rrbje_q38_o3" class="tre-opt-item opt-right">24</li>
+<li id="rrbje_q38_o4" class="tre-opt-item opt-wrong">32</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q39.</span> What is the HCF of 24 and 36?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q39_o1" class="tre-opt-item opt-wrong">6</li>
+<li id="rrbje_q39_o2" class="tre-opt-item opt-wrong">8</li>
+<li id="rrbje_q39_o3" class="tre-opt-item opt-right">12</li>
+<li id="rrbje_q39_o4" class="tre-opt-item opt-wrong">18</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q40.</span> If the perimeter of a rectangle is 60 cm and its length is 20 cm, what is its width?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q40_o1" class="tre-opt-item opt-wrong">8 cm</li>
+<li id="rrbje_q40_o2" class="tre-opt-item opt-right">10 cm</li>
+<li id="rrbje_q40_o3" class="tre-opt-item opt-wrong">12 cm</li>
+<li id="rrbje_q40_o4" class="tre-opt-item opt-wrong">15 cm</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q41.</span> What is 144 divided by 12, then multiplied by 5?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q41_o1" class="tre-opt-item opt-wrong">50</li>
+<li id="rrbje_q41_o2" class="tre-opt-item opt-wrong">55</li>
+<li id="rrbje_q41_o3" class="tre-opt-item opt-right">60</li>
+<li id="rrbje_q41_o4" class="tre-opt-item opt-wrong">65</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q42.</span> A train travels at 72 km/h. How far will it travel in 45 minutes?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q42_o1" class="tre-opt-item opt-wrong">48 km</li>
+<li id="rrbje_q42_o2" class="tre-opt-item opt-right">54 km</li>
+<li id="rrbje_q42_o3" class="tre-opt-item opt-wrong">60 km</li>
+<li id="rrbje_q42_o4" class="tre-opt-item opt-wrong">66 km</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q43.</span> What is the compound interest on Rs. 3000 at 10% per annum for 1 year?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q43_o1" class="tre-opt-item opt-wrong">Rs. 250</li>
+<li id="rrbje_q43_o2" class="tre-opt-item opt-wrong">Rs. 280</li>
+<li id="rrbje_q43_o3" class="tre-opt-item opt-right">Rs. 300</li>
+<li id="rrbje_q43_o4" class="tre-opt-item opt-wrong">Rs. 320</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q44.</span> If 2x + 6 = 20, what is the value of x?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q44_o1" class="tre-opt-item opt-wrong">5</li>
+<li id="rrbje_q44_o2" class="tre-opt-item opt-wrong">6</li>
+<li id="rrbje_q44_o3" class="tre-opt-item opt-right">7</li>
+<li id="rrbje_q44_o4" class="tre-opt-item opt-wrong">8</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q45.</span> What is 5/8 expressed as a percentage?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q45_o1" class="tre-opt-item opt-wrong">55.5%</li>
+<li id="rrbje_q45_o2" class="tre-opt-item opt-wrong">60%</li>
+<li id="rrbje_q45_o3" class="tre-opt-item opt-right">62.5%</li>
+<li id="rrbje_q45_o4" class="tre-opt-item opt-wrong">65%</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q46.</span> A rectangular plot has a length of 15 m and width of 8 m. What is its area?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q46_o1" class="tre-opt-item opt-wrong">100 sq m</li>
+<li id="rrbje_q46_o2" class="tre-opt-item opt-wrong">110 sq m</li>
+<li id="rrbje_q46_o3" class="tre-opt-item opt-right">120 sq m</li>
+<li id="rrbje_q46_o4" class="tre-opt-item opt-wrong">130 sq m</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q47.</span> If 6 kg of sugar costs Rs. 240, what is the cost of 10 kg?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q47_o1" class="tre-opt-item opt-wrong">Rs. 380</li>
+<li id="rrbje_q47_o2" class="tre-opt-item opt-right">Rs. 400</li>
+<li id="rrbje_q47_o3" class="tre-opt-item opt-wrong">Rs. 420</li>
+<li id="rrbje_q47_o4" class="tre-opt-item opt-wrong">Rs. 440</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q48.</span> What comes next in the pattern: 3, 6, 12, 24, ___?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q48_o1" class="tre-opt-item opt-wrong">36</li>
+<li id="rrbje_q48_o2" class="tre-opt-item opt-wrong">40</li>
+<li id="rrbje_q48_o3" class="tre-opt-item opt-wrong">44</li>
+<li id="rrbje_q48_o4" class="tre-opt-item opt-right">48</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q49.</span> What is 11 squared?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q49_o1" class="tre-opt-item opt-wrong">110</li>
+<li id="rrbje_q49_o2" class="tre-opt-item opt-wrong">111</li>
+<li id="rrbje_q49_o3" class="tre-opt-item opt-right">121</li>
+<li id="rrbje_q49_o4" class="tre-opt-item opt-wrong">131</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q50.</span> If a machine produces 200 units in 4 hours, how many units in 10 hours at the same rate?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q50_o1" class="tre-opt-item opt-wrong">400</li>
+<li id="rrbje_q50_o2" class="tre-opt-item opt-wrong">450</li>
+<li id="rrbje_q50_o3" class="tre-opt-item opt-right">500</li>
+<li id="rrbje_q50_o4" class="tre-opt-item opt-wrong">550</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q51.</span> Find the odd one out: 9, 16, 25, 30, 36</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q51_o1" class="tre-opt-item opt-wrong">9</li>
+<li id="rrbje_q51_o2" class="tre-opt-item opt-wrong">16</li>
+<li id="rrbje_q51_o3" class="tre-opt-item opt-wrong">30</li>
+<li id="rrbje_q51_o4" class="tre-opt-item opt-right">36</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q52.</span> If BOOK is coded as CPPL, how is PAGE coded?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q52_o1" class="tre-opt-item opt-right">QBHF</li>
+<li id="rrbje_q52_o2" class="tre-opt-item opt-wrong">QBIF</li>
+<li id="rrbje_q52_o3" class="tre-opt-item opt-wrong">QBHE</li>
+<li id="rrbje_q52_o4" class="tre-opt-item opt-wrong">PBHF</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q53.</span> Complete the series: 2, 5, 10, 17, 26, ___</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q53_o1" class="tre-opt-item opt-wrong">35</li>
+<li id="rrbje_q53_o2" class="tre-opt-item opt-wrong">36</li>
+<li id="rrbje_q53_o3" class="tre-opt-item opt-right">37</li>
+<li id="rrbje_q53_o4" class="tre-opt-item opt-wrong">38</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q54.</span> P is Q's father. R is Q's sister. How is P related to R?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q54_o1" class="tre-opt-item opt-wrong">Brother</li>
+<li id="rrbje_q54_o2" class="tre-opt-item opt-right">Father</li>
+<li id="rrbje_q54_o3" class="tre-opt-item opt-wrong">Uncle</li>
+<li id="rrbje_q54_o4" class="tre-opt-item opt-wrong">Grandfather</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q55.</span> Complete the analogy: Pen is to Write as Knife is to ___?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q55_o1" class="tre-opt-item opt-wrong">Cook</li>
+<li id="rrbje_q55_o2" class="tre-opt-item opt-right">Cut</li>
+<li id="rrbje_q55_o3" class="tre-opt-item opt-wrong">Eat</li>
+<li id="rrbje_q55_o4" class="tre-opt-item opt-wrong">Draw</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q56.</span> If Wednesday falls on the 5th, what day falls on the 19th of the same month?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q56_o1" class="tre-opt-item opt-wrong">Tuesday</li>
+<li id="rrbje_q56_o2" class="tre-opt-item opt-right">Wednesday</li>
+<li id="rrbje_q56_o3" class="tre-opt-item opt-wrong">Thursday</li>
+<li id="rrbje_q56_o4" class="tre-opt-item opt-wrong">Friday</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q57.</span> Choose the odd one: Wheat, Rice, Barley, Cotton</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q57_o1" class="tre-opt-item opt-wrong">Wheat</li>
+<li id="rrbje_q57_o2" class="tre-opt-item opt-wrong">Rice</li>
+<li id="rrbje_q57_o3" class="tre-opt-item opt-wrong">Barley</li>
+<li id="rrbje_q57_o4" class="tre-opt-item opt-right">Cotton</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q58.</span> Find the next term: 4, 8, 16, 32, ___</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q58_o1" class="tre-opt-item opt-wrong">48</li>
+<li id="rrbje_q58_o2" class="tre-opt-item opt-wrong">56</li>
+<li id="rrbje_q58_o3" class="tre-opt-item opt-right">64</li>
+<li id="rrbje_q58_o4" class="tre-opt-item opt-wrong">72</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q59.</span> If East becomes North after a 90-degree anticlockwise turn, what does West become?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q59_o1" class="tre-opt-item opt-wrong">North</li>
+<li id="rrbje_q59_o2" class="tre-opt-item opt-right">South</li>
+<li id="rrbje_q59_o3" class="tre-opt-item opt-wrong">East</li>
+<li id="rrbje_q59_o4" class="tre-opt-item opt-wrong">West stays same</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q60.</span> Which number should come next: 2, 5, 11, 23, ___?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q60_o1" class="tre-opt-item opt-wrong">35</li>
+<li id="rrbje_q60_o2" class="tre-opt-item opt-wrong">41</li>
+<li id="rrbje_q60_o3" class="tre-opt-item opt-right">47</li>
+<li id="rrbje_q60_o4" class="tre-opt-item opt-wrong">53</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q61.</span> Pointing to a man, a woman says, 'He is the son of my mother's only daughter.' How is the man related to the woman (assuming she has no other siblings)?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q61_o1" class="tre-opt-item opt-wrong">Father</li>
+<li id="rrbje_q61_o2" class="tre-opt-item opt-right">Son</li>
+<li id="rrbje_q61_o3" class="tre-opt-item opt-wrong">Brother</li>
+<li id="rrbje_q61_o4" class="tre-opt-item opt-wrong">Nephew</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q62.</span> Find the missing letter: C, F, I, L, ___</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q62_o1" class="tre-opt-item opt-wrong">M</li>
+<li id="rrbje_q62_o2" class="tre-opt-item opt-wrong">N</li>
+<li id="rrbje_q62_o3" class="tre-opt-item opt-right">O</li>
+<li id="rrbje_q62_o4" class="tre-opt-item opt-wrong">P</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q63.</span> If a clock shows 9:00, what is the angle between the hour and minute hands?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q63_o1" class="tre-opt-item opt-wrong">60 degrees</li>
+<li id="rrbje_q63_o2" class="tre-opt-item opt-wrong">90 degrees</li>
+<li id="rrbje_q63_o3" class="tre-opt-item opt-right">120 degrees</li>
+<li id="rrbje_q63_o4" class="tre-opt-item opt-wrong">180 degrees</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q64.</span> Which word does not belong: Hammer, Wrench, Screwdriver, Banana</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q64_o1" class="tre-opt-item opt-wrong">Hammer</li>
+<li id="rrbje_q64_o2" class="tre-opt-item opt-wrong">Wrench</li>
+<li id="rrbje_q64_o3" class="tre-opt-item opt-wrong">Screwdriver</li>
+<li id="rrbje_q64_o4" class="tre-opt-item opt-right">Banana</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q65.</span> Complete the analogy: Engineer is to Machine as Doctor is to ___?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q65_o1" class="tre-opt-item opt-wrong">Hospital</li>
+<li id="rrbje_q65_o2" class="tre-opt-item opt-right">Patient</li>
+<li id="rrbje_q65_o3" class="tre-opt-item opt-wrong">Medicine</li>
+<li id="rrbje_q65_o4" class="tre-opt-item opt-wrong">Clinic</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q66.</span> Find the odd number: 27, 64, 100, 125, 216</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q66_o1" class="tre-opt-item opt-wrong">27</li>
+<li id="rrbje_q66_o2" class="tre-opt-item opt-wrong">64</li>
+<li id="rrbje_q66_o3" class="tre-opt-item opt-right">100</li>
+<li id="rrbje_q66_o4" class="tre-opt-item opt-wrong">125</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q67.</span> If all Engineers are Graduates and all Graduates study hard, do all Engineers study hard?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q67_o1" class="tre-opt-item opt-right">Yes</li>
+<li id="rrbje_q67_o2" class="tre-opt-item opt-wrong">No</li>
+<li id="rrbje_q67_o3" class="tre-opt-item opt-wrong">Cannot be determined</li>
+<li id="rrbje_q67_o4" class="tre-opt-item opt-wrong">Only some</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q68.</span> What comes next in the series: Mon, Wed, Fri, ___ (skip one day each time)?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q68_o1" class="tre-opt-item opt-wrong">Sat</li>
+<li id="rrbje_q68_o2" class="tre-opt-item opt-right">Sun</li>
+<li id="rrbje_q68_o3" class="tre-opt-item opt-wrong">Mon</li>
+<li id="rrbje_q68_o4" class="tre-opt-item opt-wrong">Tue</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q69.</span> Four friends sit in a row. Aman is left of Bina. Bina is left of Chetan. Who is in the middle?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q69_o1" class="tre-opt-item opt-wrong">Aman</li>
+<li id="rrbje_q69_o2" class="tre-opt-item opt-right">Bina</li>
+<li id="rrbje_q69_o3" class="tre-opt-item opt-wrong">Chetan</li>
+<li id="rrbje_q69_o4" class="tre-opt-item opt-wrong">Cannot be determined</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q70.</span> Find the odd shape: Cube, Cone, Cylinder, Circle</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q70_o1" class="tre-opt-item opt-wrong">Cube</li>
+<li id="rrbje_q70_o2" class="tre-opt-item opt-wrong">Cone</li>
+<li id="rrbje_q70_o3" class="tre-opt-item opt-wrong">Cylinder</li>
+<li id="rrbje_q70_o4" class="tre-opt-item opt-right">Circle</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q71.</span> If 3 pencils cost Rs. 15, what pattern completes: 5 pencils cost Rs. ___?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q71_o1" class="tre-opt-item opt-wrong">20</li>
+<li id="rrbje_q71_o2" class="tre-opt-item opt-wrong">22</li>
+<li id="rrbje_q71_o3" class="tre-opt-item opt-right">25</li>
+<li id="rrbje_q71_o4" class="tre-opt-item opt-wrong">28</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q72.</span> Complete the series: B2, D4, F6, H8, ___</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q72_o1" class="tre-opt-item opt-wrong">I9</li>
+<li id="rrbje_q72_o2" class="tre-opt-item opt-right">J10</li>
+<li id="rrbje_q72_o3" class="tre-opt-item opt-wrong">K11</li>
+<li id="rrbje_q72_o4" class="tre-opt-item opt-wrong">L12</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q73.</span> Which number is the odd one: 144, 169, 196, 210</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q73_o1" class="tre-opt-item opt-wrong">144</li>
+<li id="rrbje_q73_o2" class="tre-opt-item opt-wrong">169</li>
+<li id="rrbje_q73_o3" class="tre-opt-item opt-wrong">196</li>
+<li id="rrbje_q73_o4" class="tre-opt-item opt-right">210</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q74.</span> If today is the 2nd Friday of the month and it falls on the 12th, what date was the 1st Friday?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q74_o1" class="tre-opt-item opt-wrong">3rd</li>
+<li id="rrbje_q74_o2" class="tre-opt-item opt-wrong">4th</li>
+<li id="rrbje_q74_o3" class="tre-opt-item opt-right">5th</li>
+<li id="rrbje_q74_o4" class="tre-opt-item opt-wrong">6th</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q75.</span> Find the next shape in the sequence: Line, Triangle, Square, Pentagon, ___?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q75_o1" class="tre-opt-item opt-right">Hexagon</li>
+<li id="rrbje_q75_o2" class="tre-opt-item opt-wrong">Circle</li>
+<li id="rrbje_q75_o3" class="tre-opt-item opt-wrong">Point</li>
+<li id="rrbje_q75_o4" class="tre-opt-item opt-wrong">Oval</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q76.</span> Who is known as the 'Iron Man of India'?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q76_o1" class="tre-opt-item opt-wrong">Jawaharlal Nehru</li>
+<li id="rrbje_q76_o2" class="tre-opt-item opt-right">Sardar Vallabhbhai Patel</li>
+<li id="rrbje_q76_o3" class="tre-opt-item opt-wrong">Bhagat Singh</li>
+<li id="rrbje_q76_o4" class="tre-opt-item opt-wrong">Subhas Chandra Bose</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q77.</span> Which is the national fruit of India?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q77_o1" class="tre-opt-item opt-wrong">Apple</li>
+<li id="rrbje_q77_o2" class="tre-opt-item opt-right">Mango</li>
+<li id="rrbje_q77_o3" class="tre-opt-item opt-wrong">Banana</li>
+<li id="rrbje_q77_o4" class="tre-opt-item opt-wrong">Guava</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q78.</span> In which year was the Indian Railways nationalized/consolidated into zones?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q78_o1" class="tre-opt-item opt-wrong">1947</li>
+<li id="rrbje_q78_o2" class="tre-opt-item opt-right">1951</li>
+<li id="rrbje_q78_o3" class="tre-opt-item opt-wrong">1955</li>
+<li id="rrbje_q78_o4" class="tre-opt-item opt-wrong">1960</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q79.</span> Which is the deepest ocean trench in the world?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q79_o1" class="tre-opt-item opt-wrong">Java Trench</li>
+<li id="rrbje_q79_o2" class="tre-opt-item opt-right">Mariana Trench</li>
+<li id="rrbje_q79_o3" class="tre-opt-item opt-wrong">Puerto Rico Trench</li>
+<li id="rrbje_q79_o4" class="tre-opt-item opt-wrong">Tonga Trench</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q80.</span> Which Indian city is known as the 'Manchester of India'?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q80_o1" class="tre-opt-item opt-wrong">Surat</li>
+<li id="rrbje_q80_o2" class="tre-opt-item opt-right">Ahmedabad</li>
+<li id="rrbje_q80_o3" class="tre-opt-item opt-wrong">Mumbai</li>
+<li id="rrbje_q80_o4" class="tre-opt-item opt-wrong">Kanpur</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q81.</span> What is the full form of BHEL?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q81_o1" class="tre-opt-item opt-right">Bharat Heavy Electricals Limited</li>
+<li id="rrbje_q81_o2" class="tre-opt-item opt-wrong">Bharat Hydro Electric Limited</li>
+<li id="rrbje_q81_o3" class="tre-opt-item opt-wrong">Bharat Heavy Engineering Limited</li>
+<li id="rrbje_q81_o4" class="tre-opt-item opt-wrong">Bharat Highway Electricals Limited</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q82.</span> Which is the largest man-made lake in India?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q82_o1" class="tre-opt-item opt-wrong">Vembanad Lake</li>
+<li id="rrbje_q82_o2" class="tre-opt-item opt-right">Indira Sagar Lake</li>
+<li id="rrbje_q82_o3" class="tre-opt-item opt-wrong">Chilika Lake</li>
+<li id="rrbje_q82_o4" class="tre-opt-item opt-wrong">Dal Lake</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q83.</span> Who is credited with building the Delhi Metro network's foundation as its first head?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q83_o1" class="tre-opt-item opt-wrong">Sam Pitroda</li>
+<li id="rrbje_q83_o2" class="tre-opt-item opt-right">E. Sreedharan</li>
+<li id="rrbje_q83_o3" class="tre-opt-item opt-wrong">Nandan Nilekani</li>
+<li id="rrbje_q83_o4" class="tre-opt-item opt-wrong">Verghese Kurien</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q84.</span> Which is the highest railway bridge in the world, built over the Chenab river?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q84_o1" class="tre-opt-item opt-wrong">Bandra-Worli Sea Link</li>
+<li id="rrbje_q84_o2" class="tre-opt-item opt-right">Chenab Bridge</li>
+<li id="rrbje_q84_o3" class="tre-opt-item opt-wrong">Howrah Bridge</li>
+<li id="rrbje_q84_o4" class="tre-opt-item opt-wrong">Pamban Bridge</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q85.</span> What is the currency of Germany?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q85_o1" class="tre-opt-item opt-wrong">Deutsche Mark</li>
+<li id="rrbje_q85_o2" class="tre-opt-item opt-right">Euro</li>
+<li id="rrbje_q85_o3" class="tre-opt-item opt-wrong">Franc</li>
+<li id="rrbje_q85_o4" class="tre-opt-item opt-wrong">Pound</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q86.</span> Which Indian engineer designed the Bhakra Nangal Dam project's key role, known for his contributions to modern India's infrastructure?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q86_o1" class="tre-opt-item opt-right">M. Visvesvaraya</li>
+<li id="rrbje_q86_o2" class="tre-opt-item opt-wrong">APJ Abdul Kalam</li>
+<li id="rrbje_q86_o3" class="tre-opt-item opt-wrong">Homi Bhabha</li>
+<li id="rrbje_q86_o4" class="tre-opt-item opt-wrong">Vikram Sarabhai</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q87.</span> Which is the second highest mountain peak in the world?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q87_o1" class="tre-opt-item opt-wrong">Mount Everest</li>
+<li id="rrbje_q87_o2" class="tre-opt-item opt-right">K2</li>
+<li id="rrbje_q87_o3" class="tre-opt-item opt-wrong">Kangchenjunga</li>
+<li id="rrbje_q87_o4" class="tre-opt-item opt-wrong">Lhotse</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q88.</span> What is the term for the first Indian satellite launched into space?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q88_o1" class="tre-opt-item opt-wrong">Rohini</li>
+<li id="rrbje_q88_o2" class="tre-opt-item opt-right">Aryabhata</li>
+<li id="rrbje_q88_o3" class="tre-opt-item opt-wrong">Bhaskara</li>
+<li id="rrbje_q88_o4" class="tre-opt-item opt-wrong">INSAT-1</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q89.</span> Which Indian state has the highest number of registered engineering colleges (broadly known for it)?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q89_o1" class="tre-opt-item opt-right">Tamil Nadu</li>
+<li id="rrbje_q89_o2" class="tre-opt-item opt-wrong">Maharashtra</li>
+<li id="rrbje_q89_o3" class="tre-opt-item opt-wrong">Karnataka</li>
+<li id="rrbje_q89_o4" class="tre-opt-item opt-wrong">Andhra Pradesh</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q90.</span> What is the full form of NTPC?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q90_o1" class="tre-opt-item opt-right">National Thermal Power Corporation</li>
+<li id="rrbje_q90_o2" class="tre-opt-item opt-wrong">National Technical Power Corporation</li>
+<li id="rrbje_q90_o3" class="tre-opt-item opt-wrong">National Transmission Power Corporation</li>
+<li id="rrbje_q90_o4" class="tre-opt-item opt-wrong">National Thermal Production Corporation</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q91.</span> Which Indian railway station is the busiest in terms of passenger footfall?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q91_o1" class="tre-opt-item opt-wrong">Chennai Central</li>
+<li id="rrbje_q91_o2" class="tre-opt-item opt-wrong">Howrah Junction</li>
+<li id="rrbje_q91_o3" class="tre-opt-item opt-right">New Delhi Railway Station</li>
+<li id="rrbje_q91_o4" class="tre-opt-item opt-wrong">Mumbai CST</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q92.</span> Which country built the first high-speed bullet train (Shinkansen)?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q92_o1" class="tre-opt-item opt-wrong">China</li>
+<li id="rrbje_q92_o2" class="tre-opt-item opt-wrong">France</li>
+<li id="rrbje_q92_o3" class="tre-opt-item opt-right">Japan</li>
+<li id="rrbje_q92_o4" class="tre-opt-item opt-wrong">Germany</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q93.</span> Who is regarded as the 'Father of Indian Railways'?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q93_o1" class="tre-opt-item opt-right">Lord Dalhousie</li>
+<li id="rrbje_q93_o2" class="tre-opt-item opt-wrong">Lord Curzon</li>
+<li id="rrbje_q93_o3" class="tre-opt-item opt-wrong">Lord Mountbatten</li>
+<li id="rrbje_q93_o4" class="tre-opt-item opt-wrong">Lord Wellesley</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q94.</span> Which is the longest railway tunnel in India (Pir Panjal Tunnel)?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q94_o1" class="tre-opt-item opt-right">Located in Jammu and Kashmir</li>
+<li id="rrbje_q94_o2" class="tre-opt-item opt-wrong">Located in Himachal Pradesh</li>
+<li id="rrbje_q94_o3" class="tre-opt-item opt-wrong">Located in Uttarakhand</li>
+<li id="rrbje_q94_o4" class="tre-opt-item opt-wrong">Located in Sikkim</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q95.</span> What is the full form of ONGC?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q95_o1" class="tre-opt-item opt-right">Oil and Natural Gas Corporation</li>
+<li id="rrbje_q95_o2" class="tre-opt-item opt-wrong">Oil and National Gas Company</li>
+<li id="rrbje_q95_o3" class="tre-opt-item opt-wrong">Oil Natural Gas Cooperative</li>
+<li id="rrbje_q95_o4" class="tre-opt-item opt-wrong">Overseas Natural Gas Corporation</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q96.</span> Which Indian dam is known as the 'Temple of Modern India' (a phrase used by Nehru)?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q96_o1" class="tre-opt-item opt-wrong">Tehri Dam</li>
+<li id="rrbje_q96_o2" class="tre-opt-item opt-right">Bhakra Nangal Dam</li>
+<li id="rrbje_q96_o3" class="tre-opt-item opt-wrong">Hirakud Dam</li>
+<li id="rrbje_q96_o4" class="tre-opt-item opt-wrong">Sardar Sarovar Dam</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q97.</span> What is the full form of SAIL?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q97_o1" class="tre-opt-item opt-right">Steel Authority of India Limited</li>
+<li id="rrbje_q97_o2" class="tre-opt-item opt-wrong">Southern Authority of India Limited</li>
+<li id="rrbje_q97_o3" class="tre-opt-item opt-wrong">Steel Association of India Limited</li>
+<li id="rrbje_q97_o4" class="tre-opt-item opt-wrong">State Authority of Iron Limited</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q98.</span> Which Indian city hosts the headquarters of Indian Railways' research wing RDSO?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q98_o1" class="tre-opt-item opt-wrong">New Delhi</li>
+<li id="rrbje_q98_o2" class="tre-opt-item opt-right">Lucknow</li>
+<li id="rrbje_q98_o3" class="tre-opt-item opt-wrong">Mumbai</li>
+<li id="rrbje_q98_o4" class="tre-opt-item opt-wrong">Kolkata</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q99.</span> What is the term used for the first phase of India's five-year plans focus area?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q99_o1" class="tre-opt-item opt-wrong">Industry</li>
+<li id="rrbje_q99_o2" class="tre-opt-item opt-right">Agriculture</li>
+<li id="rrbje_q99_o3" class="tre-opt-item opt-wrong">Defence</li>
+<li id="rrbje_q99_o4" class="tre-opt-item opt-wrong">Education</li>
+</ul>
+</article>
+<article class="tre-q-card">
+<p class="tre-q-text"><span class="tre-q-num">Q100.</span> Which Indian engineer-statesman's birthday (September 15) is celebrated as Engineer's Day?</p>
+<ul class="tre-quiz-options">
+<li id="rrbje_q100_o1" class="tre-opt-item opt-wrong">APJ Abdul Kalam</li>
+<li id="rrbje_q100_o2" class="tre-opt-item opt-right">M. Visvesvaraya</li>
+<li id="rrbje_q100_o3" class="tre-opt-item opt-wrong">Homi Bhabha</li>
+<li id="rrbje_q100_o4" class="tre-opt-item opt-wrong">C.V. Raman</li>
+</ul>
+</article>
+</section>
+</div>18:["$","$L19",null,{"article":{"id":18,"title":"RRB JE Junior Engineer CEN 04/2026 Recruitment (4098 Post)","slug":"rrb-je-junior-engineer-cen-04-2026","description":"RRB JE Junior Engineer CEN 04/2026 notification out for 4098 posts. Check eligibility, age limit, fee, category wise vacancy and apply online from 14 August to 13 September 2026.","company":null,"location":null,"employment_type":null,"salary":null,"status":1,"created_at":"2026-07-21T11:06:18.000000Z","updated_at":"2026-08-02T16:38:58.000000Z","job_type_id":null,"department_id":null,"is_active":1,"featured":0,"trending":0,"urgent":0,"homepage":0,"deleted_at":null,"hero_image":"courses_image/rrb-je-junior-engineer-cen-04-2026.webp","created_by":1,"topic_name":"RRB JE Junior Engineer CEN 04/2026 Recruitment (4098 Post)","url_name":"rrb-je-junior-engineer-cen-04-2026","meta_title":"RRB JE Junior Engineer CEN 04/2026 Recruitment (4098 Post)","meta_description":"RRB JE Junior Engineer CEN 04/2026 notification out for 4098 posts. Check eligibility, age limit, fee, category wise vacancy and apply online from 14 August to 13 September 2026.","meta_keyword":"RRB JE 2026, Railway Junior Engineer Recruitment, RRB CEN 04/2026, RRB JE Online Form, Railway Recruitment Board JE Vacancy 2026","canonical_tag":"courses/railways/rrb-je-junior-engineer-cen-04-2026","course_type":9,"pageview":0,"application_begin":"2026-08-14","last_date_for_apply":"2026-09-13","user":{"id":1,"first_name":"Hariom","last_name":"Prajapati","email":"hariomprajapati9029@gmail.com","mobile":"8840860841","birth_date":"08/01/1999","age":"23","gender":"male","profile_image":"Hariom.jpg","background_image":null,"is_active":1,"created_at":"2021-09-12T13:19:51.000000Z","updated_at":"2026-07-12T10:04:13.000000Z"},"course_category":{"id":9,"course_name":"Railways","course_url":"railways","course_image":"courses/Indian-Railways.svg","description":"Latest railway job updates, recruitment notifications, exam details, and career opportunities in the railway","created_at":"2026-07-16T15:33:50.000000Z","updated_at":"2026-07-16T15:33:50.000000Z","deleted_at":null,"created_by":1},"contents":[{"id":14,"content":"$1a","course_id":18,"created_at":"2026-07-21T11:06:18.000000Z","updated_at":"2026-08-02T16:38:58.000000Z"}]},"slug":"rrb-je-junior-engineer-cen-04-2026"}]
+11:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1b:I[27201,["/_next/static/chunks/3_bezyotg8f3w.js","/_next/static/chunks/0b5j8te8ufv_z.js"],"IconMark"]
+e:null
+16:[["$","title","0",{"children":"RRB JE Junior Engineer CEN 04/2026 Recruitment (4098 Post) | ResumeSathi"}],["$","meta","1",{"name":"description","content":"RRB JE Junior Engineer CEN 04/2026 notification out for 4098 posts. Check eligibility, age limit, fee, category wise vacancy and apply online from 14 August to 13 September 2026."}],["$","meta","2",{"name":"keywords","content":"jobs, career opportunities, hiring, apply now, government jobs"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","link","4",{"rel":"canonical","href":"https://www.resumesathi.com/jobs/rrb-je-junior-engineer-cen-04-2026/"}],["$","meta","5",{"property":"og:title","content":"RRB JE Junior Engineer CEN 04/2026 Recruitment (4098 Post) | ResumeSathi"}],["$","meta","6",{"property":"og:description","content":"RRB JE Junior Engineer CEN 04/2026 notification out for 4098 posts. Check eligibility, age limit, fee, category wise vacancy and apply online from 14 August to 13 September 2026."}],["$","meta","7",{"property":"og:url","content":"https://www.resumesathi.com/jobs/rrb-je-junior-engineer-cen-04-2026/"}],["$","meta","8",{"property":"og:site_name","content":"ResumeSathi"}],["$","meta","9",{"property":"og:image","content":"https://api.resumesathi.com/courses_image/rrb-je-junior-engineer-cen-04-2026.webp"}],["$","meta","10",{"property":"og:image:alt","content":"RRB JE Junior Engineer CEN 04/2026 Recruitment (4098 Post)"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"RRB JE Junior Engineer CEN 04/2026 Recruitment (4098 Post) | ResumeSathi"}],["$","meta","14",{"name":"twitter:description","content":"RRB JE Junior Engineer CEN 04/2026 notification out for 4098 posts. Check eligibility, age limit, fee, category wise vacancy and apply online from 14 August to 13 September 2026."}],["$","meta","15",{"name":"twitter:image","content":"https://api.resumesathi.com/courses_image/rrb-je-junior-engineer-cen-04-2026.webp"}],["$","link","16",{"rel":"shortcut icon","href":"/front-assets/images/logo/favicon.png"}],["$","link","17",{"rel":"icon","href":"/front-assets/images/logo/favicon.png"}],["$","link","18",{"rel":"apple-touch-icon","href":"/front-assets/images/logo/favicon.png"}],["$","link","19",{"rel":"apple-touch-icon-precomposed","href":"/front-assets/images/logo/favicon.png"}],["$","$L1b","20",{}]]
