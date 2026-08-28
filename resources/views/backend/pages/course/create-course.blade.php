@@ -112,6 +112,9 @@ Edit your content here...
                                     value="{{ $course->last_date_for_apply ?? '' }}">
                             </div>
                         </div>
+                        </div>
+                        <div class="rs-step-panel" data-step-panel="2" style="display:none">
+                        <h4 class="card-title rs-step-title">Meta & Publish</h4>
                         <div class="form-group row">
                             <label class="col-sm-3 col-form-label">Job Updates</label>
                             <div class="col-sm-9">
