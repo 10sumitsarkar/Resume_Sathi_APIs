@@ -4,6 +4,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\PdfController;
 use App\Http\Controllers\PublicContentController;
+use App\Http\Controllers\BackgroundRemovalController;
 
 /*
 |--------------------------------------------------------------------------
@@ -23,6 +24,7 @@ Route::middleware('noindex.backend')->group(function () {
 
     Route::post('/pdf/compress', [PdfController::class, 'compress']);
     Route::get('/pdf/download/{file}', [PdfController::class, 'download']);
+    Route::post('/image/remove-background', [BackgroundRemovalController::class, 'remove']);
 
     Route::get('/articles', [PublicContentController::class, 'articles']);
     Route::get('/articles/latest', [PublicContentController::class, 'latestArticles']);
