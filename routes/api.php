@@ -32,10 +32,11 @@ Route::middleware('noindex.backend')->group(function () {
     Route::get('/article-categories', [PublicContentController::class, 'articleCategories']);
     Route::get('/article-comments', [PublicContentController::class, 'articleComments']);
     Route::post('/article-comments', [PublicContentController::class, 'storeArticleComment']);
-    Route::get('/exam-guides', [PublicContentController::class, 'courses']);
-    Route::get('/exam-guides/latest', [PublicContentController::class, 'latestCourses']);
+    Route::get('/exam-guides', [PublicContentController::class, 'examGuides']);
+    Route::get('/exam-guides/latest', [PublicContentController::class, 'latestExamGuides']);
     Route::get('/exam-guides/slug/{slug}', [PublicContentController::class, 'examGuideBySlug']);
-    Route::get('/exam-guide-categories', [PublicContentController::class, 'courseCategories']);
+    Route::get('/exam-guide-comments', [PublicContentController::class, 'examGuideComments']);
+    Route::post('/exam-guide-comments', [PublicContentController::class, 'storeExamGuideComment']);
     Route::get('/courses', [PublicContentController::class, 'courses']);
     Route::get('/courses/latest', [PublicContentController::class, 'latestCourses']);
     Route::get('/courses/slug/{slug}', [PublicContentController::class, 'courseBySlug']);

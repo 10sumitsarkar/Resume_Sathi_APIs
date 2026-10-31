@@ -7,7 +7,7 @@
         <div>
             <span class="rs-kicker">ResumeSathi Admin</span>
             <h1>Welcome, {{ Auth::user()->first_name }} {{ Auth::user()->last_name }}</h1>
-            <p>Manage articles, jobs, sitemap entries, leads, and content health from one focused workspace.</p>
+            <p>Manage articles, exam guides, jobs, sitemap entries, leads, and content health from one focused workspace.</p>
         </div>
     </section>
 
@@ -20,6 +20,10 @@
             <div class="rs-stat-icon"><i class="ti-briefcase"></i></div>
             <div><span>Live Jobs</span><strong>{{ number_format($stats['jobCount']) }}</strong><small>{{ number_format($stats['draftJobCount']) }} drafts</small></div>
         </div>
+        <div class="card rs-stat-card rs-stat-brand">
+            <div class="rs-stat-icon"><i class="ti-book"></i></div>
+            <div><span>Live Exam Guides</span><strong>{{ number_format($stats['examGuideCount']) }}</strong></div>
+        </div>
         <div class="card rs-stat-card rs-stat-red-soft">
             <div class="rs-stat-icon"><i class="ti-user"></i></div>
             <div><span>Subscribers</span><strong>{{ number_format($stats['subscriberCount']) }}</strong><small>Audience list</small></div>
@@ -27,6 +31,27 @@
         <div class="card rs-stat-card rs-stat-brand">
             <div class="rs-stat-icon"><i class="ti-email"></i></div>
             <div><span>Contacts</span><strong>{{ number_format($stats['contactCount']) }}</strong><small>Form leads</small></div>
+        </div>
+    </section>
+
+    <section class="row">
+        <div class="col-lg-6 grid-margin stretch-card">
+            <div class="card rs-panel">
+                <div class="rs-panel-head">
+                    <div><span class="rs-kicker">Content</span><h2>Latest Exam Guides</h2></div>
+                    <a href="{{ route('exam-guides.index') }}">View all</a>
+                </div>
+                <div class="rs-list">
+                    @forelse ($latestExamGuides as $guide)
+                        <a href="{{ route('exam-guides.edit', $guide) }}">
+                            <span>{{ $guide->title }}</span>
+                            <small>{{ optional($guide->updated_at)->format('d M Y') }}</small>
+                        </a>
+                    @empty
+                        <p>No exam guides added yet.</p>
+                    @endforelse
+                </div>
+            </div>
         </div>
     </section>
 

@@ -7,9 +7,12 @@ use App\Models\ArticleAttachment;
 use App\Models\ContactUs;
 use App\Models\Course;
 use App\Models\CourseAttachment;
+use App\Models\ExamGuide;
+use App\Models\ExamGuideAttachment;
 use App\Models\Subscriber;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\File;
+use Illuminate\Support\Str;
 
 class DashboardController extends Controller
 {
@@ -21,38 +24,53 @@ class DashboardController extends Controller
             'draftJobCount' => Course::where(function ($query) {
                 $query->where('is_active', 0)->orWhere('status', 0);
             })->count(),
+            'examGuideCount' => ExamGuide::where('is_active', true)->where('status', true)->count(),
             'subscriberCount' => Subscriber::count(),
             'contactCount' => ContactUs::count(),
         ];
 
         $latestArticles = Article::query()->orderByDesc('created_at')->limit(5)->get();
         $latestJobs = Course::query()->orderByDesc('created_at')->limit(5)->get();
+        $latestExamGuides = ExamGuide::query()->orderByDesc('created_at')->limit(5)->get();
 
-        return view('backend.pages.dashboard', compact('stats', 'latestArticles', 'latestJobs'));
+        return view('backend.pages.dashboard', compact('stats', 'latestArticles', 'latestJobs', 'latestExamGuides'));
     }
 
     public function upload_attachment(Request $request){
+        $validated = $request->validate([
+            'attachment_for' => ['required', 'in:article,course,exam-guide'],
+            'action_id' => ['required', 'integer'],
+            'file_type' => ['required', 'integer', 'in:1,2,3'],
+            'attachment' => ['required', 'file', 'max:20480'],
+        ]);
+        if ($validated['attachment_for'] === 'exam-guide') {
+            $request->validate(['action_id' => ['exists:exam_guides,id']]);
+        }
+
         $path = 'attachments';
-        $img_name = 'file_'.time().'.'.$request->attachment->getClientOriginalExtension();
+        $img_name = 'file_'.Str::uuid().'.'.$request->attachment->getClientOriginalExtension();
         $request->attachment->move(public_path($path), $img_name);
         $imagePath = $path.'/'.$img_name;
 
         $data = [
             'file'=>$imagePath,
-            'file_type' => $request->file_type
+            'file_type' => $validated['file_type']
         ];
 
-        if($request->attachment_for === 'article'){
-            $data['article_id'] = $request->action_id;
+        if($validated['attachment_for'] === 'article'){
+            $data['article_id'] = $validated['action_id'];
             $upload =  ArticleAttachment::create($data);
-        }else{
-            $data['course_id'] = $request->action_id;
+        } elseif ($validated['attachment_for'] === 'exam-guide') {
+            $data['exam_guide_id'] = $validated['action_id'];
+            $upload = ExamGuideAttachment::create($data);
+        } else {
+            $data['course_id'] = $validated['action_id'];
             $upload =  CourseAttachment::create($data);
         }
 
         if($upload){
             $response['success'] = true;
-            $response['data']['file'] = $upload->file_url;
+            $response['data']['file'] = asset($upload->file);
             $response['data']['file_id'] = $upload->id;
             $response['message'] = 'Success! Attachment Added Successfully.';
         }else{
@@ -64,18 +82,22 @@ class DashboardController extends Controller
 
 
     public function delete_attachment(Request $request){
+        $validated = $request->validate([
+            'attachment_for' => ['required', 'in:article,course,exam-guide'],
+            'id' => ['required', 'integer'],
+        ]);
 
-        if($request->attachment_for === 'article'){
-            $attachment = ArticleAttachment::find($request->id);
-            $this->deletePublicFile($attachment?->file);
-            $delete =  ArticleAttachment::where('id', $request->id)->delete();
-        }else{
-            $attachment = CourseAttachment::find($request->id);
-            $this->deletePublicFile($attachment?->file);
-            $delete =  CourseAttachment::where('id', $request->id)->delete();
+        if($validated['attachment_for'] === 'article'){
+            $attachment = ArticleAttachment::find($validated['id']);
+        } elseif ($validated['attachment_for'] === 'exam-guide') {
+            $attachment = ExamGuideAttachment::find($validated['id']);
+        } else {
+            $attachment = CourseAttachment::find($validated['id']);
         }
 
-        if($delete){
+        if ($attachment) {
+            $this->deletePublicFile($attachment->file);
+            $attachment->delete();
             $response['success'] = true;
             $response['message'] = 'Success! Attachment Deleted Successfully.';
         }else{

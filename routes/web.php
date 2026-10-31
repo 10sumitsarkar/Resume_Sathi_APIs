@@ -6,6 +6,7 @@ use App\Http\Controllers\AuthController;
 use App\Http\Controllers\CourseController;
 use App\Http\Controllers\DashboardController;
 use App\Http\Controllers\DynamicContentController;
+use App\Http\Controllers\ExamGuideController;
 use App\Http\Controllers\SitemapController;
 use Illuminate\Support\Facades\Route;
 
@@ -52,6 +53,17 @@ Route::middleware(['auth', 'noindex.backend'])->group(function () {
         Route::get('article-delete/{id}', [ArticleController::class, 'article_delete'])->name('article-delete');
         Route::get('article-status/{id}', [ArticleController::class, 'toggle_status'])->name('article-status');
         Route::get('comments/article/{id}', [ArticleController::class, 'postComment'])->name('article-comment');
+
+        // Exam Guide management
+        Route::get('exam-guides', [ExamGuideController::class, 'index'])->name('exam-guides.index');
+        Route::get('exam-guides/create', [ExamGuideController::class, 'create'])->name('exam-guides.create');
+        Route::post('exam-guides', [ExamGuideController::class, 'store'])->name('exam-guides.store');
+        Route::get('exam-guides/{examGuide}/edit', [ExamGuideController::class, 'edit'])->name('exam-guides.edit');
+        Route::put('exam-guides/{examGuide}', [ExamGuideController::class, 'update'])->name('exam-guides.update');
+        Route::delete('exam-guides/{examGuide}', [ExamGuideController::class, 'destroy'])->name('exam-guides.destroy');
+        Route::post('exam-guides/{examGuide}/status', [ExamGuideController::class, 'toggleStatus'])->name('exam-guides.status');
+        Route::get('exam-guides/comments', [ExamGuideController::class, 'comments'])->name('exam-guide-comments');
+        Route::delete('exam-guides/comments/{examGuideComment}', [ExamGuideController::class, 'destroyComment'])->name('exam-guide-comment-delete');
 
         // Article Comments
         Route::get('article/comments', [ArticleCommentController::class, 'index'])->name('article-comments');

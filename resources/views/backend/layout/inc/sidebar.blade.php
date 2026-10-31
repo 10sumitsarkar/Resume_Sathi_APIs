@@ -2,6 +2,7 @@
     $routeName = Route::currentRouteName();
     $articleOpen = in_array($routeName, ['articles', 'draft_articles', 'create-article', 'save-article', 'article-comments', 'article-comment'], true);
     $jobOpen = in_array($routeName, ['courses-category', 'courses', 'draft_courses', 'create-course', 'save-course', 'add-course-category', 'course-category-edit'], true);
+    $examGuideOpen = is_string($routeName) && (str_starts_with($routeName, 'exam-guides.') || $routeName === 'exam-guide-comments' || $routeName === 'exam-guide-comment-delete');
     $sitemapOpen = in_array($routeName, ['sitemap-urls', 'create-sitemap', 'edit-sitemap'], true);
 @endphp
 
@@ -17,6 +18,7 @@
                 <i class="ti-write"></i><span>Articles</span><b class="ti-angle-down"></b>
             </button>
             <div class="collapse rs-nav-sub {{ $articleOpen ? 'show' : '' }}" id="rsArticleMenu">
+                <a href="{{ route('create-article') }}">Add Article</a>
                 <a href="{{ route('articles') }}">Article List</a>
                 <a href="{{ route('article-comments') }}">Comments</a>
             </div>
@@ -27,6 +29,15 @@
             <div class="collapse rs-nav-sub {{ $jobOpen ? 'show' : '' }}" id="rsJobMenu">
                 <a href="{{ route('courses-category') }}">Categories</a>
                 <a href="{{ route('courses') }}">Job List</a>
+            </div>
+
+            <button class="rs-nav-item rs-nav-toggle collapsed {{ $examGuideOpen ? 'active' : '' }}" type="button" data-toggle="collapse" data-target="#rsExamGuideMenu" aria-expanded="{{ $examGuideOpen ? 'true' : 'false' }}">
+                <i class="ti-book"></i><span>Exam Guides</span><b class="ti-angle-down"></b>
+            </button>
+            <div class="collapse rs-nav-sub {{ $examGuideOpen ? 'show' : '' }}" id="rsExamGuideMenu">
+                <a href="{{ route('exam-guides.create') }}">Add Exam Guide</a>
+                <a href="{{ route('exam-guides.index') }}">Guide List</a>
+                <a href="{{ route('exam-guide-comments') }}">Comments</a>
             </div>
 
             <p class="rs-nav-label">System</p>

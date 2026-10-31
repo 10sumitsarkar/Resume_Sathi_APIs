@@ -8,6 +8,8 @@ use App\Models\ArticleComment;
 use App\Models\ContactUs;
 use App\Models\Course;
 use App\Models\CourseCategory;
+use App\Models\ExamGuide;
+use App\Models\ExamGuideComment;
 use App\Models\Subscriber;
 use App\Services\PublicContentCacheService;
 use Illuminate\Http\Request;
@@ -180,6 +182,118 @@ class PublicContentController extends Controller
         ]);
     }
 
+    public function examGuides(Request $request)
+    {
+        $limit = max(1, min((int) $request->query('limit', 12), 500));
+        $relations = ['user'];
+        if ($request->boolean('include_contents')) {
+            $relations[] = 'contents';
+        }
+
+        $query = ExamGuide::with($relations)
+            ->where(['status' => true, 'is_active' => true])
+            ->orderByDesc('created_at');
+
+        if ($request->filled('type')) {
+            $typeColumns = [
+                'admit-card' => 'has_admit_card',
+                'answer-key' => 'has_answer_key',
+                'result' => 'has_result',
+            ];
+            $column = $typeColumns[$request->query('type')] ?? null;
+            if ($column) {
+                $query->where($column, true);
+            }
+        }
+
+        if ($request->filled('search')) {
+            $search = $request->query('search');
+            $query->where(function ($builder) use ($search) {
+                $builder->where('title', 'like', "%{$search}%")
+                    ->orWhere('description', 'like', "%{$search}%")
+                    ->orWhere('meta_title', 'like', "%{$search}%")
+                    ->orWhere('meta_description', 'like', "%{$search}%")
+                    ->orWhere('slug', 'like', "%{$search}%");
+            });
+        }
+
+        $page = $query->paginate($limit);
+
+        return response()->json([
+            'items' => $page->items(),
+            'total' => $page->total(),
+            'page' => $page->currentPage(),
+            'per_page' => $page->perPage(),
+        ]);
+    }
+
+    public function latestExamGuides(Request $request)
+    {
+        $limit = max(1, min((int) $request->query('limit', 5), 20));
+
+        return ExamGuide::with('user')
+            ->where(['status' => true, 'is_active' => true])
+            ->orderByDesc('created_at')
+            ->limit($limit)
+            ->get();
+    }
+
+    public function examGuideBySlug($slug)
+    {
+        $decodedSlug = urldecode($slug);
+        $guide = ExamGuide::with(['user', 'contents'])
+            ->where(['status' => true, 'is_active' => true])
+            ->where(function ($query) use ($decodedSlug) {
+                $query->where('slug', $decodedSlug)
+                    ->orWhere('canonical_tag', $decodedSlug)
+                    ->orWhere('canonical_tag', 'like', "%/{$decodedSlug}");
+            })
+            ->first();
+
+        if (!$guide) {
+            return response()->json(['message' => 'Exam guide not found'], 404);
+        }
+
+        return $guide;
+    }
+
+    public function examGuideComments(Request $request)
+    {
+        $request->validate(['exam_guide_id' => 'required|integer|exists:exam_guides,id']);
+
+        return response()->json([
+            'comments' => ExamGuideComment::where('exam_guide_id', $request->query('exam_guide_id'))
+                ->where('is_public', true)
+                ->orderByDesc('created_at')
+                ->get(),
+        ]);
+    }
+
+    public function storeExamGuideComment(Request $request)
+    {
+        $validator = Validator::make($request->all(), [
+            'exam_guide_id' => 'required|integer|exists:exam_guides,id',
+            'name' => 'required|string|max:100',
+            'email' => 'required|email|max:150',
+            'text' => 'required|string|max:2048',
+        ]);
+
+        if ($validator->fails()) {
+            return response()->json(['message' => 'Invalid comment data', 'errors' => $validator->errors()], 422);
+        }
+
+        $comment = ExamGuideComment::create([
+            'exam_guide_id' => $request->exam_guide_id,
+            'name' => $request->name,
+            'email' => $request->email,
+            'text' => $request->text,
+            'user_ip' => $request->ip(),
+            'is_public' => true,
+        ]);
+
+        return response()->json(['message' => 'Comment submitted successfully', 'comment' => $comment], 201);
+    }
+
     public function latestCourses(Request $request)
     {
         $limit = max(1, min((int) $request->query('limit', 5), 20));
@@ -216,11 +330,6 @@ class PublicContentController extends Controller
         }
 
         return $course;
-    }
-
-    public function examGuideBySlug($slug)
-    {
-        return $this->courseBySlug($slug, 'Exam guide not found');
     }
 
     public function courseCategories()
