@@ -194,7 +194,7 @@ class PublicContentController extends Controller
             ->get();
     }
 
-    public function courseBySlug($slug)
+    public function courseBySlug($slug, $notFoundMessage = 'Job not found')
     {
         $decodedSlug = urldecode($slug);
 
@@ -212,10 +212,15 @@ class PublicContentController extends Controller
             ->first();
 
         if (!$course) {
-            return response()->json(['message' => 'Job not found'], 404);
+            return response()->json(['message' => $notFoundMessage], 404);
         }
 
         return $course;
+    }
+
+    public function examGuideBySlug($slug)
+    {
+        return $this->courseBySlug($slug, 'Exam guide not found');
     }
 
     public function courseCategories()
