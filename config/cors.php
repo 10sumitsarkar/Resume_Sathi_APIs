@@ -5,6 +5,8 @@ return [
     'allowed_methods' => ['*'],
     'allowed_origins' => array_values(array_filter([
         env('FRONTEND_URL'),
+        'https://www.resumesathi.com',
+        'https://resumesathi.com',
         env('FRONTEND_LOCAL_URL', 'http://localhost:3000'),
         'http://127.0.0.1:3000',
     ])),
