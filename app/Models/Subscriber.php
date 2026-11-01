@@ -11,11 +11,5 @@ class Subscriber extends Model
 
     protected $fillable = [
         'email',
-        'name',
-        'status',
-    ];
-
-    protected $casts = [
-        'status' => 'boolean',
     ];
 }

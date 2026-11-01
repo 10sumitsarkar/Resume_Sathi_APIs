@@ -11,11 +11,15 @@ use App\Models\CourseCategory;
 use App\Models\ExamGuide;
 use App\Models\ExamGuideComment;
 use App\Models\Subscriber;
+use App\Mail\subscribers;
 use App\Services\PublicContentCacheService;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\File;
+use Illuminate\Support\Facades\Log;
+use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Facades\Schema;
 use Illuminate\Support\Facades\Validator;
+use Symfony\Component\Mailer\Exception\TransportExceptionInterface;
 
 class PublicContentController extends Controller
 {
@@ -365,17 +369,35 @@ class PublicContentController extends Controller
     {
         $validated = $request->validate([
             'email' => 'required|email|max:255|unique:subscribers,email',
-            'name' => 'nullable|string|max:255',
         ]);
 
         $subscriber = Subscriber::create([
             'email' => $validated['email'],
-            'name' => $validated['name'] ?? null,
-            'status' => true,
         ]);
+
+        try {
+            Mail::to($subscriber->email)->send(new subscribers([
+                'title' => 'Thanks for subscribing',
+                'email' => $subscriber->email,
+                'body' => 'Thanks for subscribing to our newsletter',
+            ]));
+        } catch (TransportExceptionInterface $exception) {
+            Log::error('Newsletter confirmation email could not be sent.', [
+                'subscriber_id' => $subscriber->id,
+                'exception' => get_class($exception),
+                'error' => $exception->getMessage(),
+            ]);
+
+            return response()->json([
+                'message' => 'You are subscribed, but the confirmation email could not be sent.',
+                'email_sent' => false,
+                'data' => $subscriber,
+            ], 201);
+        }
 
         return response()->json([
             'message' => 'Successfully subscribed to newsletter',
+            'email_sent' => true,
             'data' => $subscriber,
         ], 201);
     }

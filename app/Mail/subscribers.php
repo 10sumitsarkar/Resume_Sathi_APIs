@@ -29,7 +29,9 @@ class subscribers extends Mailable
      */
     public function build()
     {
-        return $this->subject('Thanks for subscribe our newsletter')->view('emails.subscriber');
+        return $this
+            ->subject('Thanks for subscribing to our newsletter')
+            ->view('emails.subscriber');
 
     }
 }

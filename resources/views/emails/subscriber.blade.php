@@ -14,7 +14,7 @@
 			<tbody>
 				<tr>
 					<td style="padding: 15px; box-sizing: border-box; vertical-align: top; padding-bottom: 50px;	">
-						<table width="100%" style="width: 600px; margin: 0 auto;" cellpadding="0" cellspacing="0">
+						<table width="100%" style="width: 100%; max-width: 600px; margin: 0 auto;" cellpadding="0" cellspacing="0">
 							<tr>
 								<td style="padding: 35px 15px 55px 15px; box-sizing: border-box; vertical-align: top; background-color: #fff; border: 1px solid #D8D8D8; border-radius: 8px;">
 									<div style="text-align: center; padding-bottom: 12px; padding-top:12px; background-color:aliceblue; border-radius:10px">
@@ -29,8 +29,8 @@
 										<div style="margin-bottom: 16px;">
                                                 <img src="{{ asset('email-assets/thankyou.png') }}" style="max-width: 100%; border-radius: 8px;" alt="Post Image">
 										</div>
-										<p style="font-family: 'Open Sans', sans-serif; font-weight: 400; color: #616161; font-size: 15px; line-height: 21px;margin-bottom:15px">By subscribing to our newsletter, you will receive notifications about recent articles, tutorials, snippets, blogs, and much more.</p>
-                                            <p style="font-family: 'Open Sans', sans-serif; font-weight: 400; color: #616161; font-size: 15px; line-height: 21px;">Thank you for choosing ResumeSathi as your source for all things tech. We're excited to embark on this knowledge journey with you!</p>
+										<p style="font-family: 'Open Sans', sans-serif; font-weight: 400; color: #616161; font-size: 15px; line-height: 21px;margin-bottom:15px">By subscribing to our newsletter, you will receive career advice, exam updates, resume resources, and other useful updates.</p>
+                                            <p style="font-family: 'Open Sans', sans-serif; font-weight: 400; color: #616161; font-size: 15px; line-height: 21px;">Thank you for choosing ResumeSathi to support your career and exam preparation journey!</p>
 									</div>
 									<div style="text-align: center; margin-top: 20px;">
 										<a target="_blank" href="https://www.facebook.com/ResumeSathi/"><img src="{{ asset('email-assets/fb.png') }}" alt="fb"></a>&nbsp;&nbsp;

@@ -130,6 +130,11 @@ class DashboardController extends Controller
         return view('backend.pages.contact-us-list', compact('contacts'));
     }
 
+    public function contactUsView(ContactUs $contact)
+    {
+        return view('backend.pages.contact-us-view', compact('contact'));
+    }
+
     public function contactUsDelete($id){
         $response = ContactUs::find($id)->delete();
         if($response){

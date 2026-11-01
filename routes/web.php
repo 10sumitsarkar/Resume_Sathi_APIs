@@ -89,6 +89,7 @@ Route::middleware(['auth', 'noindex.backend'])->group(function () {
         Route::get('subscribers', [DashboardController::class, 'subscribersList'])->name('subscribers');
         Route::get('contact-us-list', [DashboardController::class, 'ContactUS'])->name('contactus');
         Route::get('subscriber-delete/{id}', [DashboardController::class, 'subscriberDelete'])->name('subscriber-delete');
+        Route::get('contact-us/{contact}', [DashboardController::class, 'contactUsView'])->name('contact-us-view');
         Route::get('contact-us-delete/{id}', [DashboardController::class, 'contactUsDelete'])->name('contact-us-delete');
 
         // sitemaps
