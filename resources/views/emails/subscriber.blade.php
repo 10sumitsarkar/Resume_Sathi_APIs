@@ -138,7 +138,7 @@
                                         <a href="https://www.instagram.com/resume_sathi/" target="_blank"><img src="{{ asset('email-assets/insta.png') }}" width="38" height="38" alt="Instagram" style="display:block;width:38px;height:38px;border:0;border-radius:50%;"></a>
                                     </td>
                                     <td style="padding:0 6px;">
-                                        <a href="https://chat.whatsapp.com/GR0WvVRAYL7CB9shgfdn3R?s=sw&amp;p=a&amp;mlu=4&amp;ilr=4&amp;iam=2" target="_blank"><img src="{{ asset('email-assets/wa.png') }}" width="38" height="38" alt="WhatsApp" style="display:block;width:38px;height:38px;border:0;border-radius:50%;"></a>
+                                        <a href="https://chat.whatsapp.com/GYvFjN782zj1QJ82w2cHIO?s=cl&amp;p=a&amp;mlu=4&amp;ilr=4&amp;iam=2" target="_blank"><img src="{{ asset('email-assets/wa.png') }}" width="38" height="38" alt="WhatsApp" style="display:block;width:38px;height:38px;border:0;border-radius:50%;"></a>
                                     </td>
                                 </tr>
                             </table>
