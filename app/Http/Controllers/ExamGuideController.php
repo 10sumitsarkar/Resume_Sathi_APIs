@@ -21,7 +21,24 @@ class ExamGuideController extends Controller
             ->latest('id')
             ->get();
 
-        return view('backend.pages.exam-guides.index', compact('guides'));
+        return view('backend.pages.exam-guides.index', [
+            'guides' => $guides,
+            'isDraftListing' => false,
+        ]);
+    }
+
+    public function drafts()
+    {
+        $guides = ExamGuide::query()
+            ->where('status', true)
+            ->where('is_active', false)
+            ->latest('updated_at')
+            ->get();
+
+        return view('backend.pages.exam-guides.index', [
+            'guides' => $guides,
+            'isDraftListing' => true,
+        ]);
     }
 
     public function comments()
@@ -41,13 +58,23 @@ class ExamGuideController extends Controller
 
     public function create()
     {
-        $guide = new ExamGuide([
-            'title' => '',
-            'slug' => '',
-            'is_active' => false,
-        ]);
+        $guide = ExamGuide::where('status', false)
+            ->where('created_by', Auth::id())
+            ->where('slug', 'like', 'new-exam-guide-%')
+            ->latest('id')
+            ->first();
 
-        return $this->form($guide);
+        if (!$guide) {
+            $guide = ExamGuide::create([
+                'title' => '',
+                'slug' => 'new-exam-guide-' . Str::uuid(),
+                'status' => false,
+                'is_active' => false,
+                'created_by' => Auth::id(),
+            ]);
+        }
+
+        return redirect()->route('exam-guides.edit', $guide);
     }
 
     public function store(Request $request)

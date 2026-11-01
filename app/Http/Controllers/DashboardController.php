@@ -19,21 +19,41 @@ class DashboardController extends Controller
     public function index(){
         $stats = [
             'articleCount' => Article::where('is_active', 1)->where('status', 1)->count(),
-            'draftArticleCount' => Article::where('is_draft', 1)->count(),
+            'draftArticleCount' => Article::where('is_draft', 1)->where('status', 1)->count(),
             'jobCount' => Course::where('is_active', 1)->where('status', 1)->count(),
             'draftJobCount' => Course::where(function ($query) {
                 $query->where('is_active', 0)->orWhere('status', 0);
             })->count(),
             'examGuideCount' => ExamGuide::where('is_active', true)->where('status', true)->count(),
+            'draftExamGuideCount' => ExamGuide::where('status', true)->where('is_active', false)->count(),
             'subscriberCount' => Subscriber::count(),
             'contactCount' => ContactUs::count(),
         ];
 
         $latestArticles = Article::query()->orderByDesc('created_at')->limit(5)->get();
+        $latestDraftArticles = Article::query()
+            ->where('is_draft', 1)
+            ->where('status', 1)
+            ->orderByDesc('updated_at')
+            ->limit(5)
+            ->get();
         $latestJobs = Course::query()->orderByDesc('created_at')->limit(5)->get();
         $latestExamGuides = ExamGuide::query()->orderByDesc('created_at')->limit(5)->get();
+        $latestDraftExamGuides = ExamGuide::query()
+            ->where('status', true)
+            ->where('is_active', false)
+            ->orderByDesc('updated_at')
+            ->limit(5)
+            ->get();
 
-        return view('backend.pages.dashboard', compact('stats', 'latestArticles', 'latestJobs', 'latestExamGuides'));
+        return view('backend.pages.dashboard', compact(
+            'stats',
+            'latestArticles',
+            'latestDraftArticles',
+            'latestJobs',
+            'latestExamGuides',
+            'latestDraftExamGuides'
+        ));
     }
 
     public function upload_attachment(Request $request){

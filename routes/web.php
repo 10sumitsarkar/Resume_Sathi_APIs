@@ -56,6 +56,7 @@ Route::middleware(['auth', 'noindex.backend'])->group(function () {
 
         // Exam Guide management
         Route::get('exam-guides', [ExamGuideController::class, 'index'])->name('exam-guides.index');
+        Route::get('exam-guides/drafts', [ExamGuideController::class, 'drafts'])->name('exam-guides.drafts');
         Route::get('exam-guides/create', [ExamGuideController::class, 'create'])->name('exam-guides.create');
         Route::post('exam-guides', [ExamGuideController::class, 'store'])->name('exam-guides.store');
         Route::get('exam-guides/{examGuide}/edit', [ExamGuideController::class, 'edit'])->name('exam-guides.edit');

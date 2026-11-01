@@ -19,6 +19,7 @@
             <div class="collapse rs-nav-sub {{ $articleOpen ? 'show' : '' }}" id="rsArticleMenu">
                 <a href="{{ route('create-article') }}">Add Article</a>
                 <a href="{{ route('articles') }}">Article List</a>
+                <a href="{{ route('draft_articles') }}">Drafts</a>
                 <a href="{{ route('article-comments') }}">Comments</a>
             </div>
 
@@ -28,6 +29,7 @@
             <div class="collapse rs-nav-sub {{ $examGuideOpen ? 'show' : '' }}" id="rsExamGuideMenu">
                 <a href="{{ route('exam-guides.create') }}">Add Exam Guide</a>
                 <a href="{{ route('exam-guides.index') }}">Guide List</a>
+                <a href="{{ route('exam-guides.drafts') }}">Drafts</a>
                 <a href="{{ route('exam-guide-comments') }}">Comments</a>
             </div>
 

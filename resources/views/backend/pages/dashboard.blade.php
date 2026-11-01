@@ -22,7 +22,7 @@
         </div>
         <div class="card rs-stat-card rs-stat-brand rs-dashboard-stat">
             <div class="rs-stat-icon"><i class="ti-book"></i></div>
-            <div><span>Live Exam Guides</span><strong>{{ number_format($stats['examGuideCount']) }}</strong></div>
+            <div><span>Live Exam Guides</span><strong>{{ number_format($stats['examGuideCount']) }}</strong><small>{{ number_format($stats['draftExamGuideCount']) }} drafts</small></div>
         </div>
         <div class="card rs-stat-card rs-stat-red-soft rs-dashboard-stat">
             <div class="rs-stat-icon"><i class="ti-user"></i></div>
@@ -48,7 +48,7 @@
                     @forelse ($latestArticles as $article)
                         <a href="{{ route('save-article', base64_encode($article->id)) }}">
                             <span>{{ $article->article_title ?: $article->meta_title ?: 'Untitled article' }}</span>
-                            <small>{{ optional($article->updated_at)->format('d M Y') }}</small>
+                            <small>{{ $article->is_draft ? 'Draft' : optional($article->updated_at)->format('d M Y') }}</small>
                         </a>
                     @empty
                         <p>No articles added yet.</p>
@@ -69,10 +69,55 @@
                     @forelse ($latestExamGuides as $guide)
                         <a href="{{ route('exam-guides.edit', $guide) }}">
                             <span>{{ $guide->title }}</span>
-                            <small>{{ optional($guide->updated_at)->format('d M Y') }}</small>
+                            <small>{{ $guide->is_active ? optional($guide->updated_at)->format('d M Y') : 'Draft' }}</small>
                         </a>
                     @empty
                         <p>No exam guides added yet.</p>
+                    @endforelse
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="row">
+        <div class="col-lg-6 grid-margin stretch-card">
+            <div class="card rs-panel rs-dashboard-panel">
+                <div class="rs-panel-head">
+                    <div class="rs-dashboard-panel-title">
+                        <span class="rs-dashboard-panel-icon"><i class="ti-write"></i></span>
+                        <div><span class="rs-kicker">{{ number_format($stats['draftArticleCount']) }} drafts</span><h2>Draft Articles</h2></div>
+                    </div>
+                    <a href="{{ route('draft_articles') }}">View all <i class="ti-arrow-right"></i></a>
+                </div>
+                <div class="rs-list rs-dashboard-list">
+                    @forelse ($latestDraftArticles as $article)
+                        <a href="{{ route('save-article', base64_encode($article->id)) }}">
+                            <span>{{ $article->article_title ?: $article->meta_title ?: 'Untitled article' }}</span>
+                            <small>{{ optional($article->updated_at)->format('d M Y') }}</small>
+                        </a>
+                    @empty
+                        <p>No draft articles.</p>
+                    @endforelse
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6 grid-margin stretch-card">
+            <div class="card rs-panel rs-dashboard-panel">
+                <div class="rs-panel-head">
+                    <div class="rs-dashboard-panel-title">
+                        <span class="rs-dashboard-panel-icon"><i class="ti-book"></i></span>
+                        <div><span class="rs-kicker">{{ number_format($stats['draftExamGuideCount']) }} drafts</span><h2>Draft Exam Guides</h2></div>
+                    </div>
+                    <a href="{{ route('exam-guides.index') }}">Manage guides <i class="ti-arrow-right"></i></a>
+                </div>
+                <div class="rs-list rs-dashboard-list">
+                    @forelse ($latestDraftExamGuides as $guide)
+                        <a href="{{ route('exam-guides.edit', $guide) }}">
+                            <span>{{ $guide->title ?: 'Untitled exam guide' }}</span>
+                            <small>{{ optional($guide->updated_at)->format('d M Y') }}</small>
+                        </a>
+                    @empty
+                        <p>No draft exam guides.</p>
                     @endforelse
                 </div>
             </div>

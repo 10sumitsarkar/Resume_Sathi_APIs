@@ -11,15 +11,19 @@ class subscribers extends Mailable
 {
     use Queueable, SerializesModels;
     public $msg;
+    public $articles;
+    public $examGuides;
 
     /**
      * Create a new message instance.
      *
      * @return void
      */
-    public function __construct($msg)
+    public function __construct($msg, $articles = [], $examGuides = [])
     {
         $this->msg = $msg;
+        $this->articles = $articles;
+        $this->examGuides = $examGuides;
     }
 
     /**

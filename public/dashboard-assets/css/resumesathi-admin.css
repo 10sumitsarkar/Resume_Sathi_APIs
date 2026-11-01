@@ -11,6 +11,8 @@
   --rs-card: #ffffff;
   --rs-sidebar: #ffffff;
   --rs-sidebar-soft: #fff0f1;
+  --rs-sidebar-width: 252px;
+  --rs-sidebar-collapsed-width: 78px;
 }
 
 *,
@@ -398,8 +400,8 @@ a:focus {
   background: #ffffff;
   border-right: 1px solid var(--rs-line);
   height: 58px;
-  flex: 0 0 252px;
-  width: 252px;
+  flex: 0 0 var(--rs-sidebar-width);
+  width: var(--rs-sidebar-width);
 }
 
 .navbar .navbar-menu-wrapper {
@@ -408,7 +410,15 @@ a:focus {
   height: 58px;
   padding-left: 16px;
   padding-right: 10px;
-  width: calc(100% - 252px);
+  width: calc(100% - var(--rs-sidebar-width));
+}
+
+.navbar .navbar-brand-wrapper .rs-admin-logo {
+  display: inline-flex;
+}
+
+.navbar .navbar-brand-wrapper .rs-admin-logo-mini {
+  display: none !important;
 }
 
 .rs-admin-logo img {
@@ -511,7 +521,7 @@ a:focus {
   position: fixed;
   top: 58px;
   transition: transform .2s ease, box-shadow .2s ease;
-  width: 252px;
+  width: var(--rs-sidebar-width);
   z-index: 9999;
 }
 
@@ -1978,6 +1988,10 @@ table.dataTable thead th,
   text-transform: uppercase;
 }
 
+.rs-subscribers-page table.dataTable thead th {
+  text-align: left !important;
+}
+
 table.dataTable tbody td,
 .table tbody td {
   border: 0 !important;
@@ -2331,20 +2345,20 @@ opacity: 0.5!important;
 }
 
 body.sidebar-icon-only .navbar .navbar-brand-wrapper {
-  flex: 0 0 78px;
+  flex: 0 0 var(--rs-sidebar-collapsed-width);
   padding: 0;
-  width: 78px;
+  width: var(--rs-sidebar-collapsed-width);
 }
 
 body.sidebar-icon-only .navbar .navbar-menu-wrapper {
-  width: calc(100% - 78px);
+  width: calc(100% - var(--rs-sidebar-collapsed-width));
 }
 
-body.sidebar-icon-only .rs-admin-logo {
-  display: none;
+body.sidebar-icon-only .navbar .navbar-brand-wrapper .rs-admin-logo {
+  display: none !important;
 }
 
-body.sidebar-icon-only .rs-admin-logo-mini {
+body.sidebar-icon-only .navbar .navbar-brand-wrapper .rs-admin-logo-mini {
   align-items: center;
   display: inline-flex !important;
   justify-content: center;
@@ -2353,7 +2367,7 @@ body.sidebar-icon-only .rs-admin-logo-mini {
 
 body.sidebar-icon-only .rs-sidebar {
   transform: none;
-  width: 78px;
+  width: var(--rs-sidebar-collapsed-width);
 }
 
 body.sidebar-icon-only .rs-sidebar-inner {
@@ -2386,8 +2400,8 @@ body.sidebar-icon-only .rs-logout i {
 }
 
 body.sidebar-icon-only .main-panel {
-  margin-left: 78px;
-  width: calc(100% - 78px);
+  margin-left: var(--rs-sidebar-collapsed-width);
+  width: calc(100% - var(--rs-sidebar-collapsed-width));
 }
 
 .rs-page-intro {
@@ -2428,15 +2442,15 @@ body.sidebar-icon-only .main-panel {
 
   .navbar .navbar-brand-wrapper {
     border-right: 0;
-    flex: 0 0 auto;
+    flex: 0 0 var(--rs-sidebar-width);
     justify-content: flex-start !important;
     padding-left: 12px;
-    width: 170px;
+    width: var(--rs-sidebar-width);
   }
 
   .navbar .navbar-menu-wrapper {
     padding-left: 8px;
-    width: calc(100% - 170px);
+    width: calc(100% - var(--rs-sidebar-width));
   }
 
   .rs-admin-logo img {
@@ -2479,7 +2493,7 @@ body.sidebar-icon-only .main-panel {
     top: 58px;
     transform: translateX(-105%) !important;
     transition: transform .2s ease, box-shadow .2s ease !important;
-    width: 252px;
+    width: var(--rs-sidebar-width);
   z-index: 9999;
   }
 
@@ -2500,19 +2514,19 @@ body.sidebar-icon-only .main-panel {
   }
 
   body.sidebar-icon-only .navbar .navbar-brand-wrapper {
-    flex: 0 0 auto;
-    width: 170px;
+    flex: 0 0 var(--rs-sidebar-width);
+    width: var(--rs-sidebar-width);
   }
 
   body.sidebar-icon-only .navbar .navbar-menu-wrapper {
-    width: calc(100% - 170px);
+    width: calc(100% - var(--rs-sidebar-width));
   }
 
-  body.sidebar-icon-only .rs-admin-logo {
-    display: inline-flex;
+  body.sidebar-icon-only .navbar .navbar-brand-wrapper .rs-admin-logo {
+    display: inline-flex !important;
   }
 
-  body.sidebar-icon-only .rs-admin-logo-mini {
+  body.sidebar-icon-only .navbar .navbar-brand-wrapper .rs-admin-logo-mini {
     display: none !important;
   }
 
@@ -2524,7 +2538,7 @@ body.sidebar-icon-only .main-panel {
     position: fixed !important;
     right: auto !important;
     transform: translateX(-105%) !important;
-    width: 252px;
+    width: var(--rs-sidebar-width);
   }
 
   body.sidebar-icon-only .rs-sidebar.active {
@@ -2741,14 +2755,6 @@ body.sidebar-icon-only .main-panel {
 }
 
 @media (max-width: 420px) {
-  .navbar .navbar-brand-wrapper {
-    width: 134px;
-  }
-
-  .navbar .navbar-menu-wrapper {
-    width: calc(100% - 134px);
-  }
-
   .rs-admin-logo img {
     max-width: 118px;
   }

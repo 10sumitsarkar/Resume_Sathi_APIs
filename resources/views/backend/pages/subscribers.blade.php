@@ -2,7 +2,7 @@
 @section('title', 'Subscribers')
 
 @section('content')
-    <div class="content-wrapper rs-table-page">
+    <div class="content-wrapper rs-table-page rs-subscribers-page">
         <div class="row grid-margin">
             <div class="col-sm-12">
                 @if(Session::get('success'))
@@ -90,7 +90,6 @@
         });
     </script>
 @endsection
-
 
 
 

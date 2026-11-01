@@ -17,7 +17,7 @@
 
 <script src="{{ asset('dashboard-assets/vendors/tinymce/tinymce.min.js') }}"></script>
   @yield('custom-css')
-  <link rel="stylesheet" href="{{ asset('dashboard-assets/css/resumesathi-admin.css') }}">
+  <link rel="stylesheet" href="{{ asset('dashboard-assets/css/resumesathi-admin.css') }}?v={{ filemtime(public_path('dashboard-assets/css/resumesathi-admin.css')) }}">
 
 </head>
 <body class="rs-loading">

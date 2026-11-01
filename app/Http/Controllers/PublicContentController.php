@@ -375,12 +375,27 @@ class PublicContentController extends Controller
             'email' => $validated['email'],
         ]);
 
+        $latestArticles = Article::where([
+            'is_draft' => 0,
+            'status' => 1,
+            'is_active' => 1,
+        ])->orderByDesc('created_at')
+            ->limit(3)
+            ->get(['id', 'article_title', 'url_name', 'hero_image']);
+
+        $latestExamGuides = ExamGuide::where([
+            'status' => true,
+            'is_active' => true,
+        ])->orderByDesc('created_at')
+            ->limit(3)
+            ->get(['id', 'title', 'slug', 'hero_image']);
+
         try {
             Mail::to($subscriber->email)->send(new subscribers([
                 'title' => 'Thanks for subscribing',
                 'email' => $subscriber->email,
                 'body' => 'Thanks for subscribing to our newsletter',
-            ]));
+            ], $latestArticles, $latestExamGuides));
         } catch (TransportExceptionInterface $exception) {
             Log::error('Newsletter confirmation email could not be sent.', [
                 'subscriber_id' => $subscriber->id,
