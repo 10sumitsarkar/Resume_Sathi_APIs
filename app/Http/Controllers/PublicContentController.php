@@ -394,6 +394,7 @@ class PublicContentController extends Controller
             Mail::to($subscriber->email)->send(new subscribers([
                 'title' => 'Thanks for subscribing',
                 'email' => $subscriber->email,
+                'subscriber_id' => $subscriber->id,
                 'body' => 'Thanks for subscribing to our newsletter',
             ], $latestArticles, $latestExamGuides));
         } catch (TransportExceptionInterface $exception) {

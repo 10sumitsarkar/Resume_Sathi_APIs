@@ -43,6 +43,12 @@ Route::middleware('noindex.backend')->group(function () {
     Route::get('/course-categories', [PublicContentController::class, 'courseCategories']);
     Route::post('/contact', [PublicContentController::class, 'storeContact']);
     Route::post('/subscribers', [PublicContentController::class, 'storeSubscriber']);
+    Route::get('/newsletter/unsubscribe/{subscriber}', [\App\Http\Controllers\NewsletterUnsubscribeController::class, 'confirm'])
+        ->middleware('signed:relative')
+        ->name('newsletter.unsubscribe.confirm');
+    Route::post('/newsletter/unsubscribe/{subscriber}', [\App\Http\Controllers\NewsletterUnsubscribeController::class, 'unsubscribe'])
+        ->middleware('signed:relative')
+        ->name('newsletter.unsubscribe.one-click');
     Route::match(['get', 'post'], '/public-cache/rebuild', [PublicContentController::class, 'rebuildCache']);
     Route::get('/public-cache/{filename}', [PublicContentController::class, 'cacheFile'])
         ->where('filename', 'articles\.json|jobs\.json|article-categories\.json|job-categories\.json|manifest\.json');

@@ -1,5 +1,11 @@
 @php
     $siteUrl = rtrim(config('app.frontend_url'), '/');
+    $emailAssetUrl = rtrim(config('app.email_asset_url'), '/');
+    $resolveEmailImage = static function ($image) use ($emailAssetUrl) {
+        return preg_match('/^https?:\/\//i', $image)
+            ? $image
+            : $emailAssetUrl . '/' . ltrim($image, '/');
+    };
 @endphp
 <!doctype html>
 <html lang="en">
@@ -29,7 +35,7 @@
                     <tr>
                         <td align="center" style="padding:30px 20px 8px;">
                             <a href="{{ $siteUrl }}/" target="_blank" style="text-decoration:none;">
-                                <img src="{{ $siteUrl }}/front-assets/images/logo/logo.svg" width="180" alt="ResumeSathi" style="display:block;width:180px;max-width:80%;height:auto;border:0;">
+                                <img src="{{ $emailAssetUrl }}/email-assets/resumesathi-email-logo.png" width="300" alt="ResumeSathi - Your Career Partner" style="display:block;width:300px;max-width:80%;height:auto;border:0;">
                             </a>
                         </td>
                     </tr>
@@ -70,7 +76,7 @@
                     @foreach ($examGuides as $guide)
                     @php
                         $guideImage = $guide->hero_image
-                            ? (preg_match('/^https?:\/\//i', $guide->hero_image) ? $guide->hero_image : asset($guide->hero_image))
+                            ? $resolveEmailImage($guide->hero_image)
                             : $siteUrl . '/front-assets/images/og/home-og.png';
                     @endphp
                     <tr>
@@ -101,7 +107,7 @@
                         $articleSlug = $article->url_name;
                         $articleTitle = $article->article_title;
                         $articleImage = $article->hero_image
-                            ? (preg_match('/^https?:\/\//i', $article->hero_image) ? $article->hero_image : asset($article->hero_image))
+                            ? $resolveEmailImage($article->hero_image)
                             : $siteUrl . '/front-assets/images/og/blog-og.png';
                     @endphp
                     <tr>
@@ -126,19 +132,19 @@
                             <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center">
                                 <tr>
                                     <td style="padding:0 6px;">
-                                        <a href="https://www.youtube.com/@Resume_Sathi" target="_blank"><img src="{{ asset('email-assets/yt.png') }}" width="38" height="38" alt="YouTube" style="display:block;width:38px;height:38px;border:0;border-radius:50%;"></a>
+                                        <a href="https://www.youtube.com/@Resume_Sathi" target="_blank"><img src="{{ $emailAssetUrl }}/email-assets/yt.png" width="38" height="38" alt="YouTube" style="display:block;width:38px;height:38px;border:0;border-radius:50%;"></a>
                                     </td>
                                     <td style="padding:0 6px;">
-                                        <a href="https://www.facebook.com/resumesathi" target="_blank"><img src="{{ asset('email-assets/fb.png') }}" width="38" height="38" alt="Facebook" style="display:block;width:38px;height:38px;border:0;border-radius:50%;"></a>
+                                        <a href="https://www.facebook.com/resumesathi" target="_blank"><img src="{{ $emailAssetUrl }}/email-assets/fb.png" width="38" height="38" alt="Facebook" style="display:block;width:38px;height:38px;border:0;border-radius:50%;"></a>
                                     </td>
                                     <td style="padding:0 6px;">
-                                        <a href="https://in.pinterest.com/resumesathi/" target="_blank"><img src="{{ asset('email-assets/pin.png') }}" width="38" height="38" alt="Pinterest" style="display:block;width:38px;height:38px;border:0;border-radius:50%;"></a>
+                                        <a href="https://in.pinterest.com/resumesathi/" target="_blank"><img src="{{ $emailAssetUrl }}/email-assets/pin.png" width="38" height="38" alt="Pinterest" style="display:block;width:38px;height:38px;border:0;border-radius:50%;"></a>
                                     </td>
                                     <td style="padding:0 6px;">
-                                        <a href="https://www.instagram.com/resume_sathi/" target="_blank"><img src="{{ asset('email-assets/insta.png') }}" width="38" height="38" alt="Instagram" style="display:block;width:38px;height:38px;border:0;border-radius:50%;"></a>
+                                        <a href="https://www.instagram.com/resume_sathi/" target="_blank"><img src="{{ $emailAssetUrl }}/email-assets/insta.png" width="38" height="38" alt="Instagram" style="display:block;width:38px;height:38px;border:0;border-radius:50%;"></a>
                                     </td>
                                     <td style="padding:0 6px;">
-                                        <a href="https://chat.whatsapp.com/GYvFjN782zj1QJ82w2cHIO?s=cl&amp;p=a&amp;mlu=4&amp;ilr=4&amp;iam=2" target="_blank"><img src="{{ asset('email-assets/wa.png') }}" width="38" height="38" alt="WhatsApp" style="display:block;width:38px;height:38px;border:0;border-radius:50%;"></a>
+                                        <a href="https://chat.whatsapp.com/GYvFjN782zj1QJ82w2cHIO?s=cl&amp;p=a&amp;mlu=4&amp;ilr=4&amp;iam=2" target="_blank"><img src="{{ $emailAssetUrl }}/email-assets/wa.png" width="38" height="38" alt="WhatsApp" style="display:block;width:38px;height:38px;border:0;border-radius:50%;"></a>
                                     </td>
                                 </tr>
                             </table>
@@ -148,6 +154,12 @@
                     {{-- Footer --}}
                     <tr>
                         <td align="center" style="padding:18px 20px 28px;background:#f8fafd;">
+                            @if ($unsubscribeUrl)
+                            <p style="margin:0 0 12px;font-size:12px;line-height:1.6;color:#68758a;">
+                                Don&rsquo;t want these emails?
+                                <a href="{{ $unsubscribeUrl }}" style="color:#cc0000;text-decoration:underline;">Unsubscribe</a>
+                            </p>
+                            @endif
                             <p style="margin:0;font-size:12px;line-height:1.6;color:#8a94a6;">&copy; {{ date('Y') }} ResumeSathi. All rights reserved.</p>
                         </td>
                     </tr>

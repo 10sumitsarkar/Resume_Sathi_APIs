@@ -56,6 +56,8 @@ return [
 
     'frontend_url' => env('FRONTEND_URL', 'https://www.resumesathi.com'),
 
+    'email_asset_url' => env('EMAIL_ASSET_URL', 'https://api.resumesathi.com'),
+
     /*
     |--------------------------------------------------------------------------
     | Application Timezone

@@ -334,12 +334,13 @@ class FrontController extends Controller
     {
 
         $request->validate(["email" => 'required|email|unique:subscribers,email'], ["email.unique" => "You are already subscribed!"]);
-        Subscriber::create(['email' => $request->email]);
+        $subscriber = Subscriber::create(['email' => $request->email]);
 
         $email_id = $request->email;
         $msg = [
             'title' => 'Thanks! for Subscribe.',
             'email' => $email_id,
+            'subscriber_id' => $subscriber->id,
             'body' => 'Thanks for subscribing to our newsletter'
         ];
 
