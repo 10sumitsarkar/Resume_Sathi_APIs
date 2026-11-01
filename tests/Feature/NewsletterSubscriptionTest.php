@@ -46,6 +46,18 @@ class NewsletterSubscriptionTest extends TestCase
         $mail = new subscribers([
             'email' => 'reader@example.com',
             'subscriber_id' => 1,
+        ], [
+            (object) [
+                'url_name' => 'sample-article',
+                'article_title' => 'Sample article',
+                'hero_image' => 'https://api.resumesathi.com/email-assets/wa.png',
+            ],
+        ], [
+            (object) [
+                'slug' => 'sample-guide',
+                'title' => 'Sample guide',
+                'hero_image' => 'https://api.resumesathi.com/email-assets/fb.png',
+            ],
         ]);
 
         $html = $mail->render();
@@ -55,6 +67,7 @@ class NewsletterSubscriptionTest extends TestCase
             $html
         );
         $this->assertStringContainsString('Unsubscribe', $html);
+        $this->assertSame(8, substr_count($html, 'src="data:image/'));
     }
 
     public function test_duplicate_subscriptions_return_validation_error_without_resending_email(): void

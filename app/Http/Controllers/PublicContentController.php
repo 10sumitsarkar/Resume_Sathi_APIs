@@ -380,14 +380,14 @@ class PublicContentController extends Controller
             'status' => 1,
             'is_active' => 1,
         ])->orderByDesc('created_at')
-            ->limit(3)
+            ->limit(4)
             ->get(['id', 'article_title', 'url_name', 'hero_image']);
 
         $latestExamGuides = ExamGuide::where([
             'status' => true,
             'is_active' => true,
         ])->orderByDesc('created_at')
-            ->limit(3)
+            ->limit(4)
             ->get(['id', 'title', 'slug', 'hero_image']);
 
         try {

@@ -6,6 +6,24 @@
             ? $image
             : $emailAssetUrl . '/' . ltrim($image, '/');
     };
+    $publicRoot = realpath(public_path());
+    $embedEmailImage = static function ($image) use ($message, $publicRoot, $resolveEmailImage) {
+        $imagePath = parse_url($image, PHP_URL_PATH) ?: $image;
+        $localPath = realpath(public_path(ltrim(rawurldecode($imagePath), '/\\')));
+        $extension = $localPath ? strtolower(pathinfo($localPath, PATHINFO_EXTENSION)) : '';
+
+        if (
+            $publicRoot
+            && $localPath
+            && is_file($localPath)
+            && strpos(strtolower($localPath), strtolower($publicRoot . DIRECTORY_SEPARATOR)) === 0
+            && in_array($extension, ['gif', 'jpeg', 'jpg', 'png'], true)
+        ) {
+            return $message->embed($localPath);
+        }
+
+        return $resolveEmailImage($image);
+    };
 @endphp
 <!doctype html>
 <html lang="en">
@@ -14,6 +32,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="x-apple-disable-message-reformatting">
     <title>Welcome to ResumeSathi</title>
+    <style>
+        @media only screen and (max-width: 480px) {
+            .email-column {
+                display: block !important;
+                width: 100% !important;
+                max-width: 100% !important;
+            }
+            .email-grid-cell {
+                padding: 8px 18px !important;
+            }
+            .email-card-image {
+                width: 100% !important;
+                max-width: 100% !important;
+                height: auto !important;
+                max-height: 180px !important;
+            }
+        }
+    </style>
 </head>
 <body style="margin:0;padding:0;background:#eef2f8;font-family:Arial,Helvetica,sans-serif;color:#172033;-webkit-text-size-adjust:100%;">
     {{-- Preheader (inbox preview text) --}}
@@ -35,7 +71,7 @@
                     <tr>
                         <td align="center" style="padding:30px 20px 8px;">
                             <a href="{{ $siteUrl }}/" target="_blank" style="text-decoration:none;">
-                                <img src="{{ $emailAssetUrl }}/email-assets/resumesathi-email-logo.png" width="300" alt="ResumeSathi - Your Career Partner" style="display:block;width:300px;max-width:80%;height:auto;border:0;">
+                                <img src="{{ $embedEmailImage('email-assets/resumesathi-email-logo.png') }}" width="175" alt="ResumeSathi - Your Career Partner" style="display:block;width:175px;max-width:80%;height:auto;border:0;">
                             </a>
                         </td>
                     </tr>
@@ -73,19 +109,30 @@
                             <p style="margin:6px 0 0;font-size:13px;line-height:1.5;color:#68758a;">Explore the newest exam updates and preparation guides.</p>
                         </td>
                     </tr>
-                    @foreach ($examGuides as $guide)
-                    @php
-                        $guideImage = $guide->hero_image
-                            ? $resolveEmailImage($guide->hero_image)
-                            : $siteUrl . '/front-assets/images/og/home-og.png';
-                    @endphp
+                    @foreach (collect($examGuides)->chunk(2) as $guideRow)
                     <tr>
-                        <td style="padding:14px 28px 4px;">
-                            <a href="{{ $siteUrl }}/exam-guides/{{ rawurlencode($guide->slug) }}/" target="_blank" style="display:block;color:#172033;text-decoration:none;background:#ffffff;border:1px solid #e1e7f0;border-radius:12px;overflow:hidden;">
-                                <img src="{{ $guideImage }}" width="542" alt="{{ $guide->title }}" style="display:block;width:100%;max-width:542px;height:auto;max-height:230px;object-fit:cover;border:0;">
-                                <span style="display:block;padding:14px 16px 4px;font-size:16px;line-height:1.5;font-weight:bold;color:#172033;">{{ $guide->title }}</span>
-                                <span style="display:block;padding:0 16px 14px;font-size:13px;font-weight:bold;color:#cc0000;">View guide &rarr;</span>
-                            </a>
+                        <td style="padding:6px 20px 4px;">
+                            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                                <tr>
+                                    @foreach ($guideRow as $guide)
+                                    @php
+                                        $guideImage = $guide->hero_image
+                                            ? $embedEmailImage($guide->hero_image)
+                                            : $siteUrl . '/front-assets/images/og/home-og.png';
+                                    @endphp
+                                    <td class="email-column email-grid-cell" width="50%" valign="top" style="width:50%;padding:8px;">
+                                        <a href="{{ $siteUrl }}/exam-guides/{{ rawurlencode($guide->slug) }}/" target="_blank" style="display:block;color:#172033;text-decoration:none;background:#ffffff;border:1px solid #e1e7f0;border-radius:10px;overflow:hidden;">
+                                            <img class="email-card-image" src="{{ $guideImage }}" width="250" alt="{{ $guide->title }}" style="display:block;width:100%;max-width:250px;height:120px;object-fit:cover;border:0;">
+                                            <span style="display:block;padding:10px 10px 4px;font-size:12px;line-height:1.4;font-weight:bold;color:#172033;">{{ $guide->title }}</span>
+                                            <span style="display:block;padding:0 10px 11px;font-size:11px;line-height:1.4;font-weight:bold;color:#cc0000;">View guide &rarr;</span>
+                                        </a>
+                                    </td>
+                                    @endforeach
+                                    @if ($guideRow->count() === 1)
+                                    <td class="email-column" width="50%" style="width:50%;padding:8px;">&nbsp;</td>
+                                    @endif
+                                </tr>
+                            </table>
                         </td>
                     </tr>
                     @endforeach
@@ -102,21 +149,32 @@
                             <p style="margin:6px 0 0;font-size:13px;line-height:1.5;color:#68758a;">Fresh ideas and practical career advice for you.</p>
                         </td>
                     </tr>
-                    @foreach ($articles as $article)
-                    @php
-                        $articleSlug = $article->url_name;
-                        $articleTitle = $article->article_title;
-                        $articleImage = $article->hero_image
-                            ? $resolveEmailImage($article->hero_image)
-                            : $siteUrl . '/front-assets/images/og/blog-og.png';
-                    @endphp
+                    @foreach (collect($articles)->chunk(2) as $articleRow)
                     <tr>
-                        <td style="padding:14px 28px 4px;background:#f8fafd;">
-                            <a href="{{ $siteUrl }}/blog/{{ rawurlencode($articleSlug) }}/" target="_blank" style="display:block;color:#172033;text-decoration:none;background:#ffffff;border:1px solid #e1e7f0;border-radius:12px;overflow:hidden;">
-                                <img src="{{ $articleImage }}" width="542" alt="{{ $articleTitle }}" style="display:block;width:100%;max-width:542px;height:auto;max-height:230px;object-fit:cover;border:0;">
-                                <span style="display:block;padding:14px 16px 4px;font-size:16px;line-height:1.5;font-weight:bold;color:#172033;">{{ $articleTitle }}</span>
-                                <span style="display:block;padding:0 16px 14px;font-size:13px;font-weight:bold;color:#cc0000;">Read article &rarr;</span>
-                            </a>
+                        <td style="padding:6px 20px 4px;background:#f8fafd;">
+                            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                                <tr>
+                                    @foreach ($articleRow as $article)
+                                    @php
+                                        $articleSlug = $article->url_name;
+                                        $articleTitle = $article->article_title;
+                                        $articleImage = $article->hero_image
+                                            ? $embedEmailImage($article->hero_image)
+                                            : $siteUrl . '/front-assets/images/og/blog-og.png';
+                                    @endphp
+                                    <td class="email-column email-grid-cell" width="50%" valign="top" style="width:50%;padding:8px;">
+                                        <a href="{{ $siteUrl }}/blog/{{ rawurlencode($articleSlug) }}/" target="_blank" style="display:block;color:#172033;text-decoration:none;background:#ffffff;border:1px solid #e1e7f0;border-radius:10px;overflow:hidden;">
+                                            <img class="email-card-image" src="{{ $articleImage }}" width="250" alt="{{ $articleTitle }}" style="display:block;width:100%;max-width:250px;height:120px;object-fit:cover;border:0;">
+                                            <span style="display:block;padding:10px 10px 4px;font-size:12px;line-height:1.4;font-weight:bold;color:#172033;">{{ $articleTitle }}</span>
+                                            <span style="display:block;padding:0 10px 11px;font-size:11px;line-height:1.4;font-weight:bold;color:#cc0000;">Read article &rarr;</span>
+                                        </a>
+                                    </td>
+                                    @endforeach
+                                    @if ($articleRow->count() === 1)
+                                    <td class="email-column" width="50%" style="width:50%;padding:8px;">&nbsp;</td>
+                                    @endif
+                                </tr>
+                            </table>
                         </td>
                     </tr>
                     @endforeach
@@ -132,19 +190,19 @@
                             <table role="presentation" cellpadding="0" cellspacing="0" border="0" align="center">
                                 <tr>
                                     <td style="padding:0 6px;">
-                                        <a href="https://www.youtube.com/@Resume_Sathi" target="_blank"><img src="{{ $emailAssetUrl }}/email-assets/yt.png" width="38" height="38" alt="YouTube" style="display:block;width:38px;height:38px;border:0;border-radius:50%;"></a>
+                                        <a href="https://www.youtube.com/@Resume_Sathi" target="_blank"><img src="{{ $embedEmailImage('email-assets/yt.png') }}" width="38" height="38" alt="YouTube" style="display:block;width:38px;height:38px;border:0;border-radius:50%;"></a>
                                     </td>
                                     <td style="padding:0 6px;">
-                                        <a href="https://www.facebook.com/resumesathi" target="_blank"><img src="{{ $emailAssetUrl }}/email-assets/fb.png" width="38" height="38" alt="Facebook" style="display:block;width:38px;height:38px;border:0;border-radius:50%;"></a>
+                                        <a href="https://www.facebook.com/resumesathi" target="_blank"><img src="{{ $embedEmailImage('email-assets/fb.png') }}" width="38" height="38" alt="Facebook" style="display:block;width:38px;height:38px;border:0;border-radius:50%;"></a>
                                     </td>
                                     <td style="padding:0 6px;">
-                                        <a href="https://in.pinterest.com/resumesathi/" target="_blank"><img src="{{ $emailAssetUrl }}/email-assets/pin.png" width="38" height="38" alt="Pinterest" style="display:block;width:38px;height:38px;border:0;border-radius:50%;"></a>
+                                        <a href="https://in.pinterest.com/resumesathi/" target="_blank"><img src="{{ $embedEmailImage('email-assets/pin.png') }}" width="38" height="38" alt="Pinterest" style="display:block;width:38px;height:38px;border:0;border-radius:50%;"></a>
                                     </td>
                                     <td style="padding:0 6px;">
-                                        <a href="https://www.instagram.com/resume_sathi/" target="_blank"><img src="{{ $emailAssetUrl }}/email-assets/insta.png" width="38" height="38" alt="Instagram" style="display:block;width:38px;height:38px;border:0;border-radius:50%;"></a>
+                                        <a href="https://www.instagram.com/resume_sathi/" target="_blank"><img src="{{ $embedEmailImage('email-assets/insta.png') }}" width="38" height="38" alt="Instagram" style="display:block;width:38px;height:38px;border:0;border-radius:50%;"></a>
                                     </td>
                                     <td style="padding:0 6px;">
-                                        <a href="https://chat.whatsapp.com/GYvFjN782zj1QJ82w2cHIO?s=cl&amp;p=a&amp;mlu=4&amp;ilr=4&amp;iam=2" target="_blank"><img src="{{ $emailAssetUrl }}/email-assets/wa.png" width="38" height="38" alt="WhatsApp" style="display:block;width:38px;height:38px;border:0;border-radius:50%;"></a>
+                                        <a href="https://chat.whatsapp.com/GYvFjN782zj1QJ82w2cHIO?s=cl&amp;p=a&amp;mlu=4&amp;ilr=4&amp;iam=2" target="_blank"><img src="{{ $embedEmailImage('email-assets/wa.png') }}" width="38" height="38" alt="WhatsApp" style="display:block;width:38px;height:38px;border:0;border-radius:50%;"></a>
                                     </td>
                                 </tr>
                             </table>
