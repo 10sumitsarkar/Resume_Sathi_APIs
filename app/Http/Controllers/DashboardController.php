@@ -57,19 +57,29 @@ class DashboardController extends Controller
     }
 
     public function upload_attachment(Request $request){
+        $allowedFileTypes = $request->input('attachment_for') === 'exam-guide'
+            ? '1,2,3,4'
+            : '1,2,3';
         $validated = $request->validate([
             'attachment_for' => ['required', 'in:article,course,exam-guide'],
             'action_id' => ['required', 'integer'],
-            'file_type' => ['required', 'integer', 'in:1,2,3'],
+            'file_type' => ['required', 'integer', 'in:' . $allowedFileTypes],
             'attachment' => ['required', 'file', 'max:20480'],
         ]);
         if ($validated['attachment_for'] === 'exam-guide') {
             $request->validate(['action_id' => ['exists:exam_guides,id']]);
         }
+        if ((int) $validated['file_type'] === 4) {
+            $request->validate([
+                'attachment' => ['required', 'file', 'max:20480', 'mimes:pdf,doc,docx,txt,rtf', 'extensions:pdf,doc,docx,txt,rtf'],
+            ]);
+        }
 
         $path = 'attachments';
-        $img_name = 'file_'.Str::uuid().'.'.$request->attachment->getClientOriginalExtension();
-        $request->attachment->move(public_path($path), $img_name);
+        File::ensureDirectoryExists(public_path($path));
+        $attachment = $request->file('attachment');
+        $img_name = 'file_' . Str::uuid() . '.' . strtolower($attachment->getClientOriginalExtension());
+        $attachment->move(public_path($path), $img_name);
         $imagePath = $path.'/'.$img_name;
 
         $data = [
@@ -81,6 +91,7 @@ class DashboardController extends Controller
             $data['article_id'] = $validated['action_id'];
             $upload =  ArticleAttachment::create($data);
         } elseif ($validated['attachment_for'] === 'exam-guide') {
+            $data['name'] = $attachment->getClientOriginalName();
             $data['exam_guide_id'] = $validated['action_id'];
             $upload = ExamGuideAttachment::create($data);
         } else {
@@ -92,6 +103,9 @@ class DashboardController extends Controller
             $response['success'] = true;
             $response['data']['file'] = asset($upload->file);
             $response['data']['file_id'] = $upload->id;
+            $response['data']['name'] = $upload instanceof ExamGuideAttachment
+                ? $upload->name
+                : basename($upload->file);
             $response['message'] = 'Success! Attachment Added Successfully.';
         }else{
             $response['success'] = false;

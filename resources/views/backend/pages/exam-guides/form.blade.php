@@ -109,20 +109,20 @@
                 <div class="card">
                     <div class="card-body">
                         <h4 class="card-title">Upload Attachment Here</h4>
-                        <p class="card-description">Get an attachment URL to include in the guide content.</p>
+                        <p class="card-description">Upload images, videos, PDFs, Word documents, or text notes. Documents can be downloaded by visitors from the guide page (maximum 20 MB).</p>
                         <form id="attachment_form" enctype="multipart/form-data">
                             <div class="form-group row">
                                 <label for="FileType" class="col-sm-3 col-form-label">File Type</label>
                                 <div class="col-sm-9">
                                     <select class="js-example-basic-single w-100" id="FileType">
-                                        <option value="1" selected>Image</option><option value="2">GIF</option><option value="3">Video</option>
+                                        <option value="1" selected>Image</option><option value="2">GIF</option><option value="3">Video</option><option value="4">Document / Notes (PDF, Word, TXT, RTF)</option>
                                     </select>
                                 </div>
                             </div>
                             <div class="form-group row">
                                 <label class="col-sm-3 col-form-label">Attachment File</label>
                                 <div class="col-sm-9">
-                                    <input type="file" name="attachment" id="uploadAttachment" class="file-upload-default" accept="image/*,video/*">
+                                    <input type="file" name="attachment" id="uploadAttachment" class="file-upload-default" accept="image/*">
                                     <div class="input-group col-xs-12">
                                         <input type="text" class="form-control file-upload-info" disabled placeholder="Upload Attachment">
                                         <span class="input-group-append"><button class="file-upload-browse btn btn-primary" type="button">Upload</button></span>
@@ -138,9 +138,13 @@
                             @foreach ($guide->attachments as $attachment)
                                 <div class="col-12" id="AttachmentFile{{ $attachment->id }}">
                                     <br>
-                                    <a class="pr-2" href="{{ $attachment->file_url }}">{{ $attachment->file_url }}</a>
+                                    <a class="pr-2" href="{{ $attachment->file_url }}" target="_blank" rel="noopener">{{ $attachment->name ?: basename($attachment->file) }}</a>
                                     <a class="px-2 text-danger bg-light" href="javascript:void(0)" onclick="removeAttachment({{ $attachment->id }})">Remove</a>
+                                    @if ((int) $attachment->file_type !== 4)
                                     <a class="px-2 text-primary bg-light" href="javascript:void(0)" data-toggle="modal" data-target="#attachmentModal" onclick="viewAttachment(@js($attachment->file_url))">View</a>
+                                    @else
+                                    <span class="px-2 text-muted">Document</span>
+                                    @endif
                                 </div>
                             @endforeach
                         </div>
@@ -210,6 +214,17 @@
             showStep(1);
 
             let attachment;
+            const attachmentAccept = {
+                1: 'image/*',
+                2: 'image/gif',
+                3: 'video/*',
+                4: '.pdf,.doc,.docx,.txt,.rtf'
+            };
+            $('#FileType').on('change', function () {
+                $('#uploadAttachment').attr('accept', attachmentAccept[$(this).val()]);
+                $('#uploadAttachment').val('');
+                attachment = null;
+            });
             $('#uploadAttachment').on('change', function (event) { attachment = event.target.files[0]; });
             $('#attachment_form').on('submit', function (event) {
                 event.preventDefault();
@@ -240,12 +255,17 @@
                     const src = response.data.file;
                     const row = $('<div>', { class: 'col-12', id: 'AttachmentFile' + id });
                     row.append($('<br>'));
-                    row.append($('<a>', { class: 'pr-2', href: src, text: src }));
+                    row.append($('<a>', { class: 'pr-2', href: src, text: response.data.name || attachment.name, target: '_blank', rel: 'noopener' }));
                     row.append($('<a>', { class: 'px-2 text-danger bg-light', href: 'javascript:void(0)', text: 'Remove' }).on('click', function () { removeAttachment(id); }));
-                    row.append($('<a>', { class: 'px-2 text-primary bg-light', href: 'javascript:void(0)', text: 'View', 'data-toggle': 'modal', 'data-target': '#attachmentModal' }).on('click', function () { viewAttachment(src); }));
+                    if ($('#FileType').val() !== '4') {
+                        row.append($('<a>', { class: 'px-2 text-primary bg-light', href: 'javascript:void(0)', text: 'View', 'data-toggle': 'modal', 'data-target': '#attachmentModal' }).on('click', function () { viewAttachment(src); }));
+                    } else {
+                        row.append($('<span>', { class: 'px-2 text-muted', text: 'Document' }));
+                    }
                     $('#attachmentList').append(row);
                     $('#totalAttachment').text(Number($('#totalAttachment').text()) + 1);
                     $('#uploadAttachment').val('');
+                    $('.file-upload-info').val('');
                     attachment = null;
                 }).fail(function (xhr) {
                     const message = xhr.responseJSON?.message || 'Attachment upload failed. Please try again.';

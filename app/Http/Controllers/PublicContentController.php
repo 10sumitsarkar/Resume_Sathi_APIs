@@ -189,7 +189,7 @@ class PublicContentController extends Controller
     public function examGuides(Request $request)
     {
         $limit = max(1, min((int) $request->query('limit', 12), 500));
-        $relations = ['user'];
+        $relations = ['user', 'attachments'];
         if ($request->boolean('include_contents')) {
             $relations[] = 'contents';
         }
@@ -235,7 +235,7 @@ class PublicContentController extends Controller
     {
         $limit = max(1, min((int) $request->query('limit', 5), 20));
 
-        return ExamGuide::with('user')
+        return ExamGuide::with(['user', 'attachments'])
             ->where(['status' => true, 'is_active' => true])
             ->orderByDesc('created_at')
             ->limit($limit)
@@ -245,7 +245,7 @@ class PublicContentController extends Controller
     public function examGuideBySlug($slug)
     {
         $decodedSlug = urldecode($slug);
-        $guide = ExamGuide::with(['user', 'contents'])
+        $guide = ExamGuide::with(['user', 'contents', 'attachments'])
             ->where(['status' => true, 'is_active' => true])
             ->where(function ($query) use ($decodedSlug) {
                 $query->where('slug', $decodedSlug)

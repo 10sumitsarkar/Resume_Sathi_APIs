@@ -9,10 +9,13 @@ class ExamGuideAttachment extends Model
 {
     use HasFactory;
 
+    protected $appends = ['file_url'];
+
     protected $fillable = [
         'exam_guide_id',
         'file',
         'file_type',
+        'name',
     ];
 
     public function examGuide()
